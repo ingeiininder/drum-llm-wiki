@@ -1,0 +1,14 @@
+Unit Seven reading | techNIque pertOrMaNce Chapter 1: Intro to Shuffle 12-Bar Blues Todays chart will focus on a standard blues rhythm: the shuffle: Structure Il: 12 Bar Blues (I-IV-V) Open Form: The 12-bar blues is considered an open form. This means that the song (or chart) is played (and subsequently repeated) in 12-bar increments without a specifically stated ending: Therefore; the 12-bar form (chart) will be performed in 12-bar increments (12-24-36-48-60-72 bars): With this fact in mind; there are two additional terms that modify, add to and accompany this form: They are: (1) the head and (2) a chorus Lets take a look at each in greater detail:
+The Head The term 'head" is most often used in jazz or blues-related contexts, and it refers to the thematic melody within a song's form. This melody is usually played at the beginning and at the end of a song's performance: Thus, if a bandleader requests one head (in a 12-bar form), that would mean that the band would play through 12 bars ofthe melody. For example: Ex.7.1
+Melody Line
+Swing J = 120 F7
+3
+Bb7
+F7
+Bb7
+F7
+C7 €
+3
+Take Coda on cue
+Jazz and blues musicians also often give a signal (or cue) for the "head" or "top" by patting their hand on top of their head, which is meant to make sure everybody "goes back to the melody" the next time the "top of the form" comes around:
+61

@@ -1,0 +1,16 @@
+Unit 8 - Chapter 1
+Whole notes are; of course, not the only notes which can be tied together In the example below; the eighth note on the"&"of 4is tied to a quarter note on beat 1, which is immediately followed by three quarter notes After playing the eighth note on the "&"of 4 in measure 1 (tied to the quarter note), you must be sure to count beat (of measure 2) and be prepared to play the following quarter notes on beats 2, 3 and 4 of measure 2. For example: Ex 8.5
+1
+2 3  & 4 & (1) 2 3 ZEJVd
+Half note: worth two beats
+Three eighth notes: worth one and a half beats
+Eighth note tied to a whole note: worth four anda half beats
+Three quarter notes: worth three beats
+16th Notes: 16th notes may also be used to extend past the bar line like this: Ex 8.6
+2
+3  & 4 e & a (1) 2
+3
+]d| FEH'|'
+Two quarter notes: worth two beats
+Two Three One 16th Three eighth 16th note quarter notes: notes: tied to a notes: worth worth quarter worth one beat 3/4 of a note: three beat worth one beats and 1/16 of a beat
+213

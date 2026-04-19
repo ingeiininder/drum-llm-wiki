@@ -1,0 +1,35 @@
+I6th Rests As presented in Units 1 and 2, rests employ the use of silence. A 16th rest is equal to one fourth of a beat (i.e: one I6th of a measure). It is indicated by a small symbol that looks similar to the eighth rest with an added arm: Sixteenth rests are counted as follows: Ex 3.9
+1
+e
+&
+a
+2
+e
+&
+a
+3
+e   &   a 4   e   &
+4
+Mixing 16th Notes and 16th Rests By mixing both 16th notes and 16th rests, we can create endless rhythmic possibilities and permutations Thus (and to keep the notation clear and concise), a double beam is used to maintain a grouping of four 16ths (notes; rests or a combination thereof) within every beat: In many cases, these beams extend over rests; and in others they do not. For your reference; we have illustrated every possible rhythmic usage and notation cliche below:
+L. Groups of Three 16th Notes and One 16th Rest: Ex 3.10
+Rests on beats 1,2,3 and 4:
+&   a
+2 e   &   a   3   e   &   a  4   e   & a =
+A good study aid is to visualize an imaginary bar line between every beat as displayed below:
+1   e &
+a
+2
+&
+a
+3
+e &   a 4
+e   &
+a
+]
+Rests on the"e"of beats 1,2,3 and 4,with beams housing the rests:
+e   & a 2 e & ~a 3 e   &   a 4   e   & a
+With imaginary bar lines between every beat:
+e
+&   a
+2 e &   a 3   e   &   a 4   e   & a
+54 Drum Reading

@@ -1,0 +1,9 @@
+Unit 10 - Chapter 1
+The next step is to try this technique with more interesting groove patterns. For instance; playing the bass drum on all downbeats (alongside a less stagnant groove) will further solidify the modulation: Also, shorter and more robust fills will help you feel these transitions Let's move the tempo up; play a shuffle (four on the floor) for the eighth-note triplet section into a 16th-note groove (four on the floor) with added accents on the upbeats as follows: Ex 10.5
+J=108
+3 >
+3
+J-81
+Dotted Eighth Note to Quarter Note Modulation Now we'll lookat a much more complex modulation in order show how far these ideas can go. This example starts at 88 BPM, with the dotted eighth note modulating into a quarter note at a faster tempo of 117 BPM: The dotted quarter note is produced by accenting every third note within a string of uninterrupted 16th notes The modulation is marked with a value indicator showing that dotted eighth notes now equal quarter notes. For example: Ex 10.6  ) 1 ^ J-88 etc_
+A-J(17) ]=]=
+101

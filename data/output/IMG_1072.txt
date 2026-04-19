@@ -1,0 +1,9 @@
+Unit 8 - Chapter 2
+Chapter 2: Simple Metric Modulations Overview The straight eighth note to swing eighth note subdivision change (or vice versa) is the most commonly used feel change in music As mentioned, within subdivision changes, the value of the downbeat does not change: However; feel changes other than straight to swing are very apparent in all musical genres These feel changes require a change in our counting system, thus creating a metric modulation: As you learned in Drum Performance 4, Unit 3, metric modulations may create changes in feel, meter or tempo derived from a note value encountered (within the chart) previous to the modulation:
+In Drum Performance 4, Unit 3, the chart modulated from quarter notes at 165 BPM to eighth notes at 165 BPM: The chart used a value indicator showing that quarter notes are now eighth notes, creating a new tempo of 82.5 BPM (one half of 165) as follows: Ex 8.9 Value indicator On Cue: D E7 A7 E7 B7
+Open vamp for Gtr: Solo
+Open vamp for Gtr: Solo 5 3 On Cue: D S al Coda 6, 1  & 2 & 3 & 4   &
+J-165
+= 82.5
+The metric modulations presented in Units 8 and 9 are commonly used modulations that allow a composer to change feels within a chart in the clearest and easiest possible manner These are practical modulations, which differ from more complex modulations, which will be explained in Unit 10 of this book
+83

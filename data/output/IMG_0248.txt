@@ -1,0 +1,11 @@
+Rhythmic Value Tree: Notes To review; a whole note is equal to two half notes, which are equal to four quarter notes; which are also equal to eight eighth notes For example: Ex 2.22
+One whole note
+Two half notes
+Four quarter notes
+Eight eighth notes
+Rhythmic Value Tree: Rests Just as in Ex 2.22,a whole rest is equal to two half rest; which are equal to four quarter rests, which are also equal to eight eighth rests For example: Ex 2.23
+One whole rest
+Two half rests
+Four quarter rests
+Eight eighth rests
+30 Drum Reading

@@ -1,0 +1,9 @@
+Unit 2 - Chapter 1
+Ex 2.8
+7F
+R R L L R R L L R R L L R R L
+R R L L R R L L R R L L R R L
+Ex 2.9
+L L R R L L R R L L R R L L R
+R R L L R R L L R R L L R R L
+15

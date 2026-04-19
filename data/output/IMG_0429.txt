@@ -1,0 +1,15 @@
+Unit eight reading | techNIQUe perfOrMance Chapter 1: Duration; Sustain and Tied Notes Ex. 8.0 Duration and Sustain As previously discussed, note value   symbolizes the relative duration of a note: This musical notation of said duration(s) actually refer to sustain, which denotes the period of time a sound remains audible before it becomes silent: Drum and percussion instruments usually have the shortest sustain; while wind instruments such as woodwinds; brass or the pipe organ have (theoretically) an unlimited amount of sustain_
+With this in mind (and up until this unit), our drum reading materials have focused solely on the rhythms contained within each note value; with little emphasis on the duration (or sustain) of these figures. As you notice within the example to the right (Ex. 8.0), each note value begins on beat 1, However; because each note has a different duration/sustain, these each sound incrementally different: Lets take a detailed look (and listen):
+Ties A tie extends the duration (i.e. sustain) of a note by connecting it to secondary note value: This is communicated (and notated) via a curved line like this: Ex 8.1
+Tie
+Therefore (following from example 8.1 above), the sustain of this whole note has been extended from four beats to eight beats Again, this is accomplished by "tying"the two whole notes together Thus, its duration is now as follows: Ex 8.2 One whole note One whole note (four beats) (four beats)
+2
+3
+2
+3
+2 3 4
+5 6
+8
+Two tied whole notes
+Four beats X 2 = eight beats
+211

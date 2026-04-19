@@ -1,0 +1,22 @@
+Unit 2 - Chapter 1
+When counting eighth notes, each numbered beat ("1, 2, 3, 4") is also divided in half verbally: This is accomplished by placing an "and" (&) syllable in between each number; like this: Ex 2.4a
+3
+4 A
+3
+Subdividing In order to subdivide a beat, the downbeats (1-4) must be split (divided) into smaller increments. Therefore, when playing (or counting) quarter notes, you must subdivide each beat into eighth notes in order order to accurately place each downbeat into its correct place: For example: Ex 2.4b
+3
+7
+&
+2
+&
+3
+&
+&
+Downbeats and Upbeats Together Now that we have split each beat in half (and expanded our counting system) , we have created a new location for notes to exist within a measure. To assist in knowing what beat (or part of a beat) you are on, tap your foot (heel down) in a quarter-note rhythm at a slow tempo For example: Ex 2.5
+2
+3
+25
+tap
+tap
+tap
+tap

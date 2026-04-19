@@ -1,0 +1,12 @@
+3
+Unit {OUN reading | technIque | pertOrMance Chapter 1: Reading 16th Notes in 6/8 In Reading 2, Unit 3,you learned how to read and count eighth, quarter and dotted quarter notes in 6/8.In this unit you will learn how to read and count I6th notes in 6/8. As you learned in Reading 1,in 4/4 each beat can be divided into fourths creating I6th notes One quarter note equals four I6th notes, and two eighth notes equal four I6th notes. For example: Ex 4.1 2 3
+3
+e & 2 & 3 e & e & 7
+In 6/8, every eighth note is a downbeat; which will change the way I6th notes are counted There are six eighth notes in one measure of 6/8. One eighth note can be divided into two 16th notes; thus, there are twelve I6th notes in one measure of 6/8 (displayed as two groups of six). For example: Ex 4.2
+By dividing every downbeat (eighth note) into I6th notes, the counting of 16th notes in 6/8 becomes 1, &, 2, &, 3,&,4,&,5, & 6, &as follows: Ex 4.3 2 3 5
+5
+j
+&
+2  & 3 &
+&  5  &  6 &
+46 Drum Reading 2

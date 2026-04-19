@@ -1,0 +1,21 @@
+Chapter 3: Sixteenth-Note Triplets Sixteenth-note triplets (or sextuplets) are the result of dividing an eighth-note triplet in two. In 4/4 time there are six 16th-note triplets for every beat (notated asa group of six with the number"6"above the double beam): Sixteenth note triplets are counted as 1-trip-let-&-trip-let-2-trip-let-&-trip-let-3-trip-let-&-trip-let-4- trip-let-&-trip-let: For example: Ex 2.15
+3
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+trip let
+trip let
+trip let
+trip let
+trip let
+trip let
+trip let
+trip let
+Tuplets and False Notation False notation refers to the small number written above or below a beamed group of notes This number is a note to the performer that this particular group of notes (commonly triplet-based notes) involves an irregular division of a beat; which is normally divided in half or in fourths. These notes are also referred to as tuplets Tuplets are used to write rhythms beyond the beat divisions usually permitted by the time signature: Ex 2.16
+3
+24 Drum Reading 2

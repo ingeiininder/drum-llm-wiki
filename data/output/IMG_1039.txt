@@ -1,0 +1,7 @@
+Chapter 2: Reading in 5/8 Now that you understand the concepts and construction of odd (or asymmetrical) time signatures, the next step is to apply counting and reading in 5/8.
+When reading in 5/8, remember that the eighth note gets the beat; therefore; every eighth note is a downbeat as follows: Ex 5.8 )
+5
+With eighth notes receiving every downbeat; 16th notes are now counted as 1-&-2-&-3-&-4-&-5-& as follows: Ex 5.9 ) 1 & 2 & 3 & 4   & 5 &
+As mentioned earlier; the time signature of 5/8 is normally broken up into smaller groups of two and three You essentially have a few choices in regards to how to count beats within these time signatures Counting is only verbalized in practice so personal choice (and comfort) can come into play when reading in asymmetrical time signatures For instance,a measure of 5/8 (or 5/4or 5/16 for that matter) can be counted as 1-2-3-4-5 or 1-2-1-2-3 (or 1-2-3-1-2).
+With all of that being said it is recommended to use all numbers (1-2-3-4-5) when first learning how to read in odd meters, in order to solidify your ability to count each beat with the actual beat number: Once you are comfortable with reading in these meters, you can begin to alter your counting if you so choose: Keep in mind that tempo, instrumentation and notation may affect how you decide to count:
+50 Drum Reading 4

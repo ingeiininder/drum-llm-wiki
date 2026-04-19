@@ -1,0 +1,22 @@
+Unit 7 Chapter 3
+F.Eighth-Note Triplets and Eighth-Note Rests (Two-Bar Phrases) 0 C_3 3F
+7E3 -
+13-
+13-
+1E3 -
+"
+C=3
+L3-
+F=3-
+7~3-
+"
+L3-
+53-
+L3-
+73- 4
+C=3 C3-
+13-
+L3-
+F
+199
+0 _8-7

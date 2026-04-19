@@ -1,0 +1,10 @@
+Unit 7 Chapter 3
+Mixed Meter Groove Exercise #2 The following exercise is groove-based. Read the bass drum and snare drum patterns while counting downbeats out loud  Set your metronome to produce eighth notes at 130 BPM: Ex 7.13
+Sixteenth Note-Based Meters Now that you understand meters that use quarter notes or eighth notes as downbeat values, the same concept can be applied to I6th-note values. Common time signatures of this sort are 5/16and 7/16.In the following example (Ex. 7.13) the 16th notes in 4/4 are counted as usual: 1-e-&-a-2-e-&-a-3-e-&-a-4-e-&-a In the measures of 5/16 the I6th notes will be counted as 1-2-3-4-5 as follows: Ex 7.14 All 16th notes travel at the same rate
+&
+2
+1  2 3 4 5
+1  2 3 4 5
+Four I6th notes to every beat
+One I6th note to every beat
+75

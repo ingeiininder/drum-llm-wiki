@@ -1,0 +1,11 @@
+In this next example; the time signatures go from 4/4 to 5/8 to 5/16. Notice how the counting is altered with each time signature change as follows: Ex 7.15 I6th notes counted as I-e-&-a-2-e-&-a-3-e-&-a-4-e-&-a
+EEEFE 2 3
+1 & 2 & 3 & 4 & 5
+1 & 2 & 3 &
+I6th notes counted as 1-&-2-&-3-&-4-&-5-&
+I6th notes counted as 1-2-3-4-5
+Here is another good example with every measure having three beats with fluctuating beat values This example is best understood with a metronome set at =160 Ex 7.16
+1 & 2 & 3 &
+1   2   3
+AR)RF} F} F! A 8 2 & 3 &
+76 Drum Reading 4

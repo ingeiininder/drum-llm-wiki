@@ -1,0 +1,18 @@
+Unit 4 - Chapter 2
+Let's take a look at each of the one eighth and two 16th note combinations that can exist within one beat: Example 1: 1-&-a This grouping is comprised of an eighth note on the downbeat; alongside two I6th notes on the upbeat: As the eighth note is worth two 16ths (halfa beat), it consumes the"1 "and "e"ofthe full four-I6th note grouping and leaves the"&" and "ah"untouched: Ex 4.12 &
+e
+&
+Ifyou were to play this grouping for a full measure in 4/4,it would sound (and look) like this: Ex 4.13
+&
+2
+& a
+3
+& a
+&
+Example 2: 1-e-& This grouping is comprised oftwo I6th notes on the downbeat alongside an eighth note on the upbeat: Because the eighth note is worth two 16ths (half a beat), it consumes the "&"and "ah" of the full four I6th note grouping and leaves the"1"and "e"untouched: Ex 4.14 e &
+&
+Ifyou were to play this grouping for a full measure in 4/4,it would sound (and look) like this: Ex 4.15
+2
+3
+&
+93

@@ -1,0 +1,13 @@
+Notes on the"ah" of beats 1,2,3 and 4:
+e
+& a 2
+e & a 3
+e   &   a
+e   &
+With imaginary bar lines between every beat:
+&
+a
+2
+e
+& a 3 ~e   &   a 4 e   &
+58 Drum Reading

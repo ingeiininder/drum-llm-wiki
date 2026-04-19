@@ -1,0 +1,15 @@
+Unit 8 - Chapter 1
+Creative Development Steps Now we will take one example from above (Ex 8.1-8.4) and apply it to the drum set: Our example will be from inversion #2,as follows: Ex 8.5
+Step 1 Starting at 70 BPM, play this pattern on the snare drum, paying extra attention to the differences of stick height between the accented and non-accented notes Note: keep the unaccented notes at a ghost note volume (1"to 3") while playing the accented notes at forte (9"to 12"),as follows: Ex 8.6
+R L L R L R   R L R L L R L R   R L
+R L L  R
+R R L R L L R L R R L
+Step 2A Play - the accented notes on the small tom while playing the unaccented notes on the snare: Ex 8.7
+R L L R L R R L R L L R L R R L
+R L L R L R R L R L L R L R R L
+Step 2B Add the floor tom into the mix, as follows: Ex 8.8
+FEEEEEEE R L L R L R R L R L L R L R R L R L L R L R R L R L L R L R R L
+Step 3 Play - the accented notes on the cymbals with bass drum support; as follows: Ex 8.9
+R L L R L R R L R L L R L R R L
+R L L R L R R L R L L R L R R L
+Once you are comfortable playing the pattern (with accents on the various surfaces) at 90 BPM, you are ready for the next steps:

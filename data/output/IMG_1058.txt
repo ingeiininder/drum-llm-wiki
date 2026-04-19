@@ -1,0 +1,9 @@
+Sne
+Unit SeveN reading | techNIQUe pertOrMaNce Chapter 1: Basic Concept of Mixed Meters Now thatyou have an understanding of common and odd time signatures, it is time to lookat mixed meters. Achart in mixed meters (also referred to as changing meters) has fluctuating time signatures There are many charts that may have a few bars that divert from the initial time signatures, but charts in mixed meters change time signatures very often-_so often that there is no dominant time signature per se. For example, you may see a chart that alternates between 4/4 and 3/4 every measure: In the example below (Ex 7.1), each measure is labeled with the appropriate time signature: Notice at the end of the first stanza a preparatory time signature (4/4) is provided. Ex 7.1 Alternating time signatures Preparatory time signature
+A BB
+13XA F
+The above example (Ex. 7.1) may also be written with both time signatures written only at the beginning of the piece of music, which indicates that a particular pattern will be followed This method allows for clearer notation within each measure; for example: Ex 7.2 Multiple time signatures
+3 FFF X MR EFAE X/A
+The following is another example that alternates between 2/4 and 3/4.This example could be written in 5/4, although the bass line; chord movement and overall feel could determine whether this is written in 5/4 or 2/4+ 3/4.Remember that a composer (or arranger) has the freedom to choose their notational methods and it is the performer's job to execute the reading: Ex 7.3 Alternating time signatures
+31 AD E
+3

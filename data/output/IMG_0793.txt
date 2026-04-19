@@ -1,0 +1,8 @@
+Unit 10 - Chapter 3
+Fills and Fill Markers This chart features a few select fills that are fully notated and must be played as written: However; there are also a few instances of fill markers, where you can compose your own patterns too. Lets take a look at each type:
+Fully Notated
+Letter A The fill on bar 8 of letter A (measure 12) is a hand-to-hand 16th-note fill This should start with the left hand: Ex 10.9
+Letter B The fill on bar 8 of letter B (measure 20) is a hand/foot I6th-note fill that should start with the right hand: You should also mentally prepare to play the cymbal crashes on beat of the following measure For example: Ex 10.10
+R L   R  L
+Letter A2 The fill on bar 8 of letter A2 (measure 32) starts with eighth-note double stops between the snare drum and floor tom, which lead into a right-hand led 16th-note filI. For example: Ex 10.11
+1 1 1 8 8 R

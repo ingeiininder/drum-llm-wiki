@@ -1,0 +1,22 @@
+Unit 4 - Chapter 2
+Chapter 2: Performance Notes and Sound Dynamic Markings Dynamic marks indicate how loudly or softly the music should be played. For instrumental parts, dynamic markings are placed under (or near) a note beneath the musical staff The following symbols are the most widely used dynamic markings: Ex 4.8
+Marking p
+Proper Name
+Meaning
+piano
+soft
+mp mff f ff
+mezzo-piano
+medium-soft
+mezzo-forte
+medium-loud
+forte
+loud
+fortissimo/double forte
+very loud
+Crescendo/Decrescendo
+A crescendo is gradual increase in volume within a musical passage It is notated with the symbol below: Ex 4.9
+A decrescendo is a gradual decrease in volume within a musical passage It is notated with the symbol below: Ex. 4.10
+In this example; the drums begin at forte (loud) and gradually increase (crescendo) to fortissimo (very loud) as follows: Ex 4.11
+Fill
+37

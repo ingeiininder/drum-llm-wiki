@@ -1,0 +1,23 @@
+Although rests cannot utilize ties, they can employ dots, which helps to economize notation Therefore, instead of using an eighth rest and a sixteenth rest occupying the 1-e-& of a beat (with a sixteenth note on the "a" of the beat), a single dotted eighth rest can be used as follows: Ex 9.11
+&
+&
+Two rests used
+One rest used
+** This is the same rhythmic structure from Ex 9.3
+Chart of Dotted Rests Ex 9.12
+Dotted Rest
+Single rest value plus /2 of its value
+Or 3 ofthe subsequent (smaller) rest value
+Whole Rest beats
+beats + 2 beats
+2 beats + 2 beats + 2 beats
+Half Rest 3 beats
+beat + 1 beat + 1 beat
+2 beats + 1 beat
+Quarter Rest 1/2 beats
+beat + 1/2 beat
+1/2 beat + 1/2 beat + 1/2 beat
+Eighth Rest 3/4 beat
+1/2 + 1/4 beat
+(1/4 beat + 1/4 beat + 1/4 beat
+228 Drum Reading

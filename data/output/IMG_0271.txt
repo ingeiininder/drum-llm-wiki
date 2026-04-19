@@ -1,0 +1,24 @@
+Unit 3 - Chapter 1
+By assigning syllables to each partial of a series of 16th notes it is very easy to reference a specific location within a measure too. For instance; in a rehearsal you may hear; "The accent occurs on the "e" of 3." This directive can now be translated into notation: For example: Ex 3.6 An accent on the"e" of beat 3
+7
+J 1   e   &   a 2   e   &   a 3 &   a   4   e   & ~a
+The chart below (Ex. 3.7) displays the proper counting and beat placements for quarter; eighth and 16th notes; Ex 3.7
+1
+2
+3
+1 & F
+2
+&
+3
+&
+&
+J
+1   e : &   a 2  e : &   a 1
+3 e : &   a
+4  e : &
+a
+While verbally counting I6th notes out loud (1-e-&-ah,etc ) and tapping your foot on every downbeat; play I6th notes as follows: Ex 3.8
+1 e & a 2 e & a 3 e & a 4 e & a
+1 e & a 2 e & a 3 e & a 4 e & a
+1 e & a 2 e & a 3 e & a 4 e & a 1 e & a 2 e & a 3 e & a 4 e & a 3
+53

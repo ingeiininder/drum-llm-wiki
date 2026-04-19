@@ -1,0 +1,28 @@
+Unit 7 Chapter 2
+To further elucidate this concept; performing eighth notes is accomplished by evenly dividing each beat into two equal parts and its resulting syllable count is"1-&-2-&"However; when playing eighth-note triplets, each beat is subdivided into three equal parts and the resulting syllable count is"1-trip-let, 2-trip-let; 3-trip-let,4- trip-let" There are many accepted ways to properly count triplets, but for developmental purposes the aforementioned method works best: When referencing a specific partial of a triplet you can say "the first partial; the second partial" or "the third partial" (of the triplet) as displayed below: Counting Ex 7.6
+trip
+let
+trip
+let
+3
+trip
+let
+trip
+let
+Reference to Beat Placement Ex 7.7
+First partial
+Second partial Third partial
+Rests Just as with our former eighth-note subdivision, rests can also be utilized within triplet subdivisions To keep the notation clear; a bracket is used (in addition to the number three) to house the various combinations of notes and rests The following list displays all combinations of eighth-note triplets and accompanying eighth-note rests
+1. An eighth rest placed on the first triplet partial: Ex 7.8
+trip
+let
+Used within a full measure of 4/4: Ex 7.9
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+185

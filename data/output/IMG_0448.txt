@@ -1,0 +1,12 @@
+Unit 9 - Chapter 2
+Chapter 2: Practical Uses of Dotted Notes (and ties) Just as with ties in Unit 8, the usage of dots is determined by our same three factors: 1) the situational circumstances (or context) in which they may be used, 2) notation (or theoretical) rules and 3) personal preference: The following is a sample listing of some very common phrases that utilize both dots and ties (in 4/4 time):
+Dotted Half Notes A dotted half note (in 4/4) breaks the 2/3 rule However; this rhythm may be accepted as a"rule breaker" and commonly used within many musical scenarios. Lets take a look: Ex 9.13
+1.A dotted half note on beat 1, followed by a quarter note:
+three beats
+Now; lets observe the same rhythm alongside a quarter rest: Ex 9.14
+For practicality sake (and to review tied notes), the preceding examples should theoretically be written like this i.e. to avoid obscuring the downbeat of beat 3: Ex 9.15
+H
+2. A dotted half note on beat 2, which is preceded by a quarter note: Ex 9.16
+three beats
+Now; lets observe the same rhythm alongside a quarter rest: Ex 9.17
+229

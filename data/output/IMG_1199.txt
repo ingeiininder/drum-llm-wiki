@@ -1,0 +1,17 @@
+Unit Chapter 1
+Lead Sheet Structure and Interpretation: Isolating Each Section This straight-I6th-note lead sheet is comprised of many short sub-sections. Let's go through each individually and discuss how to play; navigate and interpret them
+The Intro The intro is comprised of two two-bar phrases (for a total of four bars) For the first (and third) bar; the entire band plays the figures together in unison. During the second (and fourth) bar the drums play the figures alone; which is stated by the text "drums only" For example: Ex 1.2 Intro Bb7("9) Bb7(*9)
+Drums Only
+Drums Only
+#
+Drumset Performance Suggestion Since the band is playing in unison with short note durations, the drums also need to match the guitar and bass parts One possible orchestration would be to play snare and floor-tom double stops for the first bar and snare and high-tom double stops for the second bar: For example: Ex 1,.3
+{3888832
+38888 #3E
+However; other options would be appropriate as well (provided that they: are on short sound sources )
+Letter A Letter A is four bars long and features a common same bass line; which plays on the"1 e"and the"& ah" of beat 2_ Ex 1.4
+Eb7("9)
+2
+"'I
+The drums will compliment this pattern with the following drum groove: Ex 1.5
+Bass
+Drums

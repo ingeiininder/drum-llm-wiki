@@ -1,0 +1,13 @@
+In Use Ties are normally utilized within the following scenarios:
+Extending a Note Value across a Bar Line A tie enables a note to sustain past the allowable number of beats within one measure
+Quarter Notes: Thus (and in the example below), the quarter note on beat 4 is tied toa whole note; which is nota new note to be played on the downbeat of 1. It is simply extending the value of the previous quarter note on beat 4 like this: Ex 8.3 2 3 2 3 4
+Half note: worth two beats
+Quarter note: worth one beat
+Quarter note tied to whole note: worth five beats
+Eighth Note: To illustrate this further; here we see an eighth note on the"&"of 4,which is also tied to whole note as follows: Ex 8.4
+2
+3   &  4   & 1 2 3 4 7
+Half note: worth two beats
+Three eighth notes: worth one and a half beats
+Eighth note tied to a whole note: worth four and a half beats
+212 Drum Reading

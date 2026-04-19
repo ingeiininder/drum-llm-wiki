@@ -1,0 +1,9 @@
+UNIt Ne reading | techNIQUe perfOrMance Chapter 1: Dotted Notes and Rests Similar to ties, dots also allow for countless rhythmic possibilities without adding new symbols to our existing notation standards By definition, a dot increases the value ofanote by onehalfofits value l0r duration) Dots are used to efficiently display extended note values by visually "cleaning up" potentially complicated notation: In written music; dots are placed immediately after (and parallel to) a note head. Let's take a look at the following dotted note values: Ex 9.0 Dotted-Half note Dotted-Quarter note Dotted-Eighth note Dotted-Sixteenth note
+Important note: A dot does not have its own inherent value untilit is paired with a note Thus (and once dot has been attached to a note or rest) the value of that item increases by one half:
+In Use: Half Note To review, a half note is equal to two beats. Therefore; beat 3 is the next available place for a note (or rest) to be placed: Ex 9.1
+Next available beat
+However; when a dot is attached to a half note the value ofthis item is subsequently increased by one half ofits original value: Thus; a half beat is now added to the half note thereby increasing its value to three beats. Therefore; beat 4 is the next available place for a note (or rest) to be placed: Ex 9.2
+3
+Next available beat
+Thus, ifyou placed a note within the rest on beat 4,it would read as follows: Ex 9.3
+225

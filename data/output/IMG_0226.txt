@@ -1,0 +1,28 @@
+Time Signature A time signature indicates the meter of a piece of music and the corresponding note value used within its notation. Placed to the right of the clef,the time signature is displayed as a stack of two numbers The top number indicates how many beats there are in each measure. The bottom number displays the value of each beat: (Values will be explained in the next chapter) For example: Ex 1.12a
+Two beats per measure
+Three beats per measure
+Four beats per measure
+2 beats
+2
+2
+2
+1
+2
+3 beats
+2
+3
+2
+3
+2
+3
+1
+2
+3
+4 beats 1   2   3  4 1   2   3   4 1   2   3   4 1   2   3
+4
+C=Common Time Symbol The most common meter in music is 4/4. For clarity purposes, the "4/4" time signature may be replaced simply by the letter C For example: Ex 1.13
+= #
+Beats Per Minute (BPM) BPM represents the pace (or tempo) of music measured by the number of beats occurring in 60 seconds (one minute) The BPM is commonly indicated at the top of a piece of music For instance; the following piece of music should be played at 120 BPM, which can be notated two ways (i.e. as BPM or with a quarter note equaling the BPM): Ex 1.14 120 bpm
+or
+Drum Reading
+1-120

@@ -1,0 +1,40 @@
+Unit 7 Chapter 4
+Chapter 4: Seven-Stroke Roll The seven-stroke roll is very similar to the six-stroke roll. Rather than an accent followed by two sets of doubles; the seven-stroke will begin with three sets of double followed by an accent:
+I6th Notes Ex 7.18
+R L L R R
+R L L RR
+L L R R L L R
+L L R R L L R
+R  R L L R R L L L R R L L R
+This is the standard, inverted version of the I6th-note seven-stroke roll: Ex 7.19
+L L
+L L R L L R R L
+R L L R R L R R L L R R
+R R L L R R
+L L R
+16th-Note Triplets Ex 7.20
+R R L L R R L
+R R L L R R L
+L L R R L L R
+L L R R L L R
+R R L L R R L
+L L R R L L R
+This is the standard, inverted version of the I6th-note triplet seven-stroke roll: Ex 7.21
+L L R R L L R
+L L R R L L
+R R L L R R L
+R R L L R R
+R R L L R R L
+L L R R L L
+32nd Notes Ex 7.22
+R L L R R
+R L L R R
+L L R R L L R L L R
+L L R
+R  R L L R R L L L R R L L R
+This is the standard, inverted version of the 32nd-note seven-stroke roll: Ex 7.23
+L L R R L L R L L R R L L
+RR L L R R
+R R L L R R
+R R R L L R R L L L R R
+47

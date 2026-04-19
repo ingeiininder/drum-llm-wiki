@@ -1,0 +1,7 @@
+22
+FFR 7 T R L R R L L R L R L Rr L L R r L L R L R L R L R L L B R L L 24 5, R L R R L L R L R L LB L L  R L R R L L R L R L L B R L L > 773 26 2 53= R L R R L L R L R L R L B R L R R L R R L L R L R L R L B R L L 28 > > 3 36 R L R R L L R L R L R L B L L R L R R L L R L L R L B R L L 30 > > > > ZE 7F R L R R L L R L R L R L R L R L R & R R L L R L R L R L B R 1 L 32 > 3 L R R L L R L L L R L R L R R L L R L R L R L B R L L 34 > 3 BE R L R R L L R L R L R R R  R 7 > Snares On 36 >> >
+R R R R L L R L R L R L B R L L R L R R L L R L R L R R R R Snares Off 3
+39
+Snares On
+Snares Off
+R R R L L R L R L R R L L R L

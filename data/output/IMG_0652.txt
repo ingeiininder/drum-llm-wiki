@@ -1,0 +1,16 @@
+Unit 6 - Chapter 1
+32-Bar Exercise Ex 6.4
+BMP checklist: 80 90 100
+13
+73-7C3-
+C3-
+3 C3
+73-7737773-773-7 C3-773-773-773
+C3
+C3_
+C3-
+C3
+C3-7
+3 C3-7
+C3
+75

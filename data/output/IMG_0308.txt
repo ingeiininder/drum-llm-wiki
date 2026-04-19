@@ -1,0 +1,10 @@
+UnIt fOUC reading | techNIQue performance Chapter 1: Note Values As we learned Unit 3,16th notes are equal to one I6th of a measure in 4/4.By dividing a quarter note (equal to one beat) into four equal parts, the byproduct is four 16th notes There are four quarter notes in one measure; therefore there are sixteen I6th notes in one measure (4x4=16). You can also think of 16th notes asan eighth note divided into two equal parts. Thus; one quarter note (1/4) is equal to two eighth notes (2/8), which are also equal to four I6th notes (4/16)_~all of which are equal to one beat in 4/4 time (.e 1/4-2/8-4/16). This relationship can also be displayed with beamed groups as follows: Ex 4.1
+One Quarter 1/4
+Two Eighths 2/8
+Four 16ths 4/16
+The value for each group from above (one quarter note, two eighth notes or four I6th notes) equals one beat: In 4/4,each group can occupy one beat to create many variations For instance: Ex 4.2
+FEE  F FFFEZ FEEEFFF
+In-Class Exercise
+On a piece of staff paper, write your own 12-bar example (in 4/4). Each beat should contain one quarter note, two eighth notes or four 16th notes.
+90 Drum Reading
+E|`

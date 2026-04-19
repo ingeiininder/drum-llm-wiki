@@ -1,0 +1,12 @@
+Home Base Motion The concept of "home base" is to exhaust every possible drum-to-drum combination within a particular note value: One drum will be used as the"home base"to move to all other drums: Each individual drum will be used as the"home base" drum: I6th notes: home base = snare Ex 1,.20
+43/h R R R R
+I6th notes: home base = tom Ex 1.21
+SJS == R L R
+I6th notes: home base = tom two Ex 1,.22
+F_4 R
+I6th notes: home base = tom 3 Ex 1,.23
+G  76)E4 L R R R L
+Eighth notes: home base snare Ex 1,.24
+"
+Eighth notes: home base = tom Ex 1.25
+Drum Technique 2

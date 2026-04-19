@@ -1,0 +1,14 @@
+Unit
+Chapter 1
+A stem is a small line connected to a note head. If the stem is  facing upward it should be on the right side of the note head. Likewise; if the stem is facing downward it should be placed on the left side of the note head: For example: Ex 1.3 Upward/right side Downward/left side
+Drum Set Notation Key Standard drum set notation is placed on the staff with the lower pitched instruments at the bottom of the staff ascending to higher pitched instruments Drums are normally represented by a solid black dot and cymbals are notated with an x For example: Ex 1.4 P it c h A $ € e n d i ng
+Bass Drum
+Floor Tom
+Snare Drum
+Tom Tom
+Ride Cymbal
+Hi Hat Cymbal
+Crash Cymbal
+Structural Notation Elements Bar Lines The staff is divided into measures by using single bar lines Asyou will see in Ex 1.11 below, these lines also correspond with (and reset) the meter: Ex, 1.5
+Bar Lines
+Measures

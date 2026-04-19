@@ -1,0 +1,7 @@
+32nds with Eighth Notes 32nd notes share beams with eighth notes when both values are mixed The shared beam allows for clear beaming; displaying each beat as one entity as follows: Ex 1.15
+&
+&
+Four 32nd notes starting on the "&" of beat
+Four 32nd notes starting on the downbeat of beat 2.
+32nd and Eighth Notes Mixed (One-Bar Patterns) In these exercises start by playing the 32nd notes as double strokes to assist in proper note placement: Once you are comfortable with double strokes (on the 32nd notes), move to playing the 32nd notes as single strokes. Ex 1.16 Put your metronome on = 45 bpm or 90 bpm 3 M 3 4 (
+1 1 = BA ~3 3 3 10 Drum Reading 4

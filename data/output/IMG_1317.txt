@@ -1,0 +1,19 @@
+Unit 3 - Chapter 3
+Ex 3.13 The eight-stroke roll is counted "4 &" Lead hand is 4 and the alternation of 4, in this case, will be "&" Remember; each roll stroke begins and ends with the metronome:
+Metronome
+Metronome Mctronome
+Metronome
+&   2   &  3   & 7 R  L   R  L   R  L   R  L
+&   2   &   3   &   4 & =
+L   R  L   R  L   R  L   R
+Ex. 3.14 The nine-stroke roll is counted"5"
+T R L   R L   R L   R L   R L   R L   R L   R L   R  L
+Ex 3.15 The ten-stroke roll is counted "5 &"
+IES R L  R L  R L  R L  R L L   R L  R L  R L  R L  R
+Ex 3.16 The eleven-stroke roll is counted "6"
+J R LR L R L R L R L R L  R L R L R L R L R L
+Ex 3.17 The 12-stroke roll is counted "6 &"
+3 E R L R L R L R L R L R L LR L R L R L R L R L R
+Ex 3.18 The 13-stroke roll is counted "7"
+TEEFF R L R L R L R L R L R L R L R L R L R L R L R L R L
+25

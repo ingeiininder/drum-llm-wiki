@@ -1,0 +1,15 @@
+Structure Additions: D.S al Coda (Take Second Ending): Return to the Head and Play Through to the Coda This form is augmented with a modified D.S.al Coda which tells you to use only the second ending (omitting the first ending/repeat) on the D.S. After completing the eight-bar bridge and four-bar second line refrain, you must return to the top of the 12-bar head. Following the "take second ending" instruction, you would then skip the first ending repeat; take the second ending and revisit the bridge; thereafter heading to the coda. For example: Ex 9.2
+8
+Ride CymbcIVBcll
+Fill
+D. S al Coda (take Znd ending)
+25
+Swing
+4X
+35
+3X
+Solo
+39
+Solo Break
+Cue Band:
+80 Drum Performance 3

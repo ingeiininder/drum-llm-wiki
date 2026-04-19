@@ -1,0 +1,9 @@
+G.Dotted half rests and dotted quarter rests (one bar phrases).
+A
+H.Dotted quarter notes and rests (two bar phrases).
+@ AX
+^
+1/AE NXA
+Edd4
+238 Drum Reading
+=

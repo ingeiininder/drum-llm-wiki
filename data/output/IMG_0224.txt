@@ -1,0 +1,8 @@
+There are also other types of bar lines, such as: The double bar line separates sections of music within a single piece of music This is a visual aid for the performer to keep his or her place while reading the music final bar line is placed at the end of a piece of music to confirm the ending: Ex 1.6 Double Bar Line Final Bar Line
+Repeat Signs A repeat sign, notated below with the bracketed bar lines and the two vertical dots, is the symbol that indicates a section should be repeated: Ex 1,.7
+Repeat the section between these two symbols
+Clefs A clef is used to designate one particular line as a certain pitch: The remaining notes are mapped in ascending and descending order to that reference line: Treble and bass clef are the most commonly used clefs for melodic instruments such as guitars; keyboards and horns For example: Ex 1.8/1.9
+Treble Clef
+Bass Clef
+A percussion clef indicates that the music written on the staff is for non-melodic instruments such as drums and percussion. This clef is also referred to as the neutral clef: Ex 1.10
+Drum Reading

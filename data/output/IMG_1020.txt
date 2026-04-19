@@ -1,0 +1,21 @@
+Unit 3 - Chapter 1
+A more detailed description shows a comparison of dotted 16th notes and 32nd notes: One dotted 16th note equals three 32nd notes. Ex 3.3
+&
+Dotted 16th notes (and 32nd notes) are normally seen in slower pieces of music When playing dotted 16th notes you should subdivide 32nd notes to ensure proper beat placement: On a snare drum (or other non- sustainable instruments), the following rhythms sound the same: Ex 3.4
+A great way to develop a feel for dotted 16th notes is to alternate between regular I6th notes and dotted 16th/32nd note patterns In this two-bar pattern notice that the right hand maintains a steady flow of eighth notes as follows: Ex 3.5
+R L R L R L R L R L R L R L R L | R L R L R L R LR L R LR L R
+R
+R   R  R  R  R  R  R R   R  R  R  R   R  R   R
+Dotted I16th Note Rests As with all dotted note values; there is a counterpart rest: A dotted I6th rest is also worth 3/8 of a beat: For example: Ex 3.6
+L R L
+L R L
+L R L
+L R L
+L R L
+L R L
+L R L
+LR
+R
+R
+R
+31

@@ -1,0 +1,9 @@
+Chapter 3: Double Dotted Notes To continue our study of advanced rhythmic notation, we will now take a look at notes that are double dotted: Although double dotted notes are not very common, it is important that you are familiar with this concept A second dot adds half of the value of the first dot to the note: For example; in the example below (Ex 3.11),a half note is worth two beats Adding a single dot will add half of the value of the half note (one beat: half of two is one) making a dotted half note worth three beats. Adding second dot will add half of the value of the first dot to the equation The first dot was worth one beat making the second dot worth half beat: In total a double dotted half note is worth three and a half beats as follows: Ex 3.11 Dotted half note Value: three beats
+Half note = two beats
+Double dotted half note Value: three and a half beats
+Half note = two beats
+2
+1/2
+3 1/2
+First dot = half of two beats or, beat (quarter note)
+36 Drum Reading 4

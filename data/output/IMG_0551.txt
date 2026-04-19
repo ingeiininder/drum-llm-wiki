@@ -1,0 +1,27 @@
+Unit 7 Chapter 2
+Chapter 2: Five-Stroke Roll Traditionally,the five-stroke roll is comprised of two sets of doubles followed by a single-stroke accent The following will introduce you to the various note values and common stickings used by the five- stroke roll:
+I6th Notes Ex 7.6
+Z R   R L L
+3 R   R L L R
+R R L L
+L
+R
+L L  R   R L
+This is a standard variation of the five-stroke roll in the time signature of 3/4. Ex 7.7 3
+16th-Note Triplets Ex 7.8
+R L L
+R
+R L L
+L L R R L
+L  R   R
+R R  L L   R L L  R   R
+This is the standard, inverted version of the I6th-note triplet five-stroke roll: Ex 7.9
+R   R   R L L R   R   R L L
+L L L R   R L L L  R   R
+R L L  R   R L   R   R L L
+32nd Notes Ex 7.10
+R
+R L
+R
+This is the standard, inverted version of the I6th-note triplet five-stroke roll: Ex 7.11 =  R R  R  R L R R L R R
+45

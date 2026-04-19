@@ -1,0 +1,9 @@
+Unit 9 - Chapter 2
+Now try these transition fill ideas for developing creative approaches to modulations In this first example there are slight pauses between the grooves and the transition fills in bars 4 and 8. These pauses set the listener up for something new and help the transition fill to stand out: In bar 4, by using two eighth notes on beats 11 and 12 as the set up fill, a simulated "4 &"into the 4/4 section is created. Likewise; in bar 8,the three eighth notes (on the"&"of beat three; the downbeat of 4 and the"&"of beat 4) simulate a "10-11-12" count into 12/8. For example: Ex 9.15
+=180
+=90
+3
+Once you are comfortable with these fill ideas (Ex. 9.15), you can try to elaborate on your fill ideas based on the above concept as follows: Ex 9.16
+M18o 3
+J=90
+)^]

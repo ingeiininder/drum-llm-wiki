@@ -1,0 +1,14 @@
+Unit 9 - Chapter 2
+Eighth- & 16th-Note-Triplet Roll Permutations Ex 9.26
+7 RR  L   R   LL   R L RR
+1S F R LL   R L RR L   R   LL   R L RR
+R
+R
+/ L RR L   R LL L RR
+3 R LL RR
+3E F E L RR L RR RR L RR L RR
+"F=4 R   LL   R   LL   R  LL R LL   R LL   R LL RR LL R LL RR RR LL   R LL RR
+3 EE LL RR L RR LL   R LL RR RR LL RR L RR LL   R LL RR L RR   L   R
+RR LL RR LL RR LL RR LL RR
+RR
+63

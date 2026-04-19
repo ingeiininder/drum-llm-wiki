@@ -1,0 +1,12 @@
+Lets take a look at how rests may be subdivided within a measure of 2/4: Ex 10.3
+(Half rest two beats/one per measure
+Quarter rest one beat/two per measure
+Eighth rest 1/2 a beatlfour per measure
+&
+Eighth rest triplet 1/3 a beat/six per measure
+trip
+let
+trip
+let
+Sixteenth rest 1/4 of a beat/eight per measure
+246 Drum Reading

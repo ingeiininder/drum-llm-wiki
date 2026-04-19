@@ -1,0 +1,22 @@
+Unit Chapter 1
+Meter Meter can be thought of as the pulse; the heartbeat of a piece of music: All music has momentum: a forward moving pulse that is counted in beats. Meter is measured in groups of beats with the most common being groups of two, three or four beats. For example:
+Meter 2 Beats 3 Beats Beats
+Music Country, Marches; Polka Waltz Pop; Rock; R&B
+Counting Beats Once the meter of a piece of music is deciphered,a counting system is then put in place that represents the passing of each measure: For example: Ex 1.11
+2 beats
+2
+3 beats
+2
+3
+1
+2
+3
+1 2
+3
+1 2
+3
+4 beats
+1
+2 3 4
+1   2   3   4 1   2   3 4
+1   2 3

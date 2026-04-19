@@ -1,0 +1,5 @@
+J.Dotted eighth notes and rests (one bar phrases).
+#
+F%
+#AAA "/
+240 Drum Reading

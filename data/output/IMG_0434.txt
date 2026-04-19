@@ -1,0 +1,19 @@
+It is important to realize that both examples (Ex. 8.12 and 8.13) are acceptable: However; (and due to the 2/3 rule) there are circumstances where ties are not only preferred, but they are also viewed as the only correct option: For instance; a quarter note cannot be placed on the "&" of 2. This will most certainly obscure the downbeat of beat 3: Ex 8.14 2 & 3 The downbeat of 3 is obscured
+2   &   3 &
+The downbeat of 3 is clear
+3'
+Here is another example of how quarter notes can be placed on an upbeat: Ex 8.15 & 2 & 3 & 4 &
+Because this rhythm (Ex. 8.15 above) is technically a"2/3 rule breaker"the performer will have a better chance of successfully executing the rhythm if ties are used instead: For example: Ex 8.16 & 2 & 3 & 4 &
+Again; by using ties, the downbeat of 3 is clear: Ex 8.17 2 &
+3
+&
+Syncopated Rhythms: 16ths Alongside the Individual Beats When 16th notes are being used, each beat must also have a clearly displayed downbeat: In a similar fashion to the 2/3 rule that encompasses beats 2 and 3,each beat must now be clearly marked: For example; the following rhythm is mathematically correct; however; only two ofthe four downbeats are clearly displayed: Ex 8.18
+&
+2
+&
+3
+Clear downbeat
+Obscured downbeat
+Clear downbeat
+Obscured downbeat
+216 Drum Reading

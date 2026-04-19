@@ -1,0 +1,15 @@
+Unit 7 Chapter 3
+Chapter 3: Advanced Mixed Meter Concepts In the previous examples within chapters and 2,only the top number of the time signatures changed: In other words,; the only thing that changed between the meters was the number of beats each measure received: Now that you understand this concept; the next step is to change the bottom number of a time signature: When the bottom number changes, the note that receives each downbeat will change. In the example below (Ex. 7.10), we have three measures of 4/4 followed by one measure of 5/8. In the measures of 4/4 there are four beats to every measure with quarter notes receiving one beat: In the measure of 5/8 there are five eighth notes with each receiving one beat: The eighth notes in the measures of 4/4 will move by at the same rate as the eighth notes in the measure of 5/8. Thus, the counting of each beat will change as follows: Ex 7.10 AIl eighth notes travel at the same rate
+m!
+& 2 & 3 &
+2
+Eighth notes counted as 1-&-2-&-3-&-4-&
+Eighth notes counted as 1-2-3-4-5
+Here is another example where the downbeats change from a quarter note value to an eighth note value: Notice how the counting of 16th notes changes from 1-e-&-a-2-e-&-a,etc in 4/4to 1-&-2-&-3-&-4-&-5-&-6- & in 6/8,as follows: Ex 7.11 All eighth notes travel at the same rate
+IF= F
+3
+E 1 & 2 & 3 & 4 & 5 & 6 &
+Sixteenth notes counted as 1-e-&-a-2-e-&-a-3-e-&-a-4-e-&-a
+Sixteenth notes counted as 1-&-2-&-3-&-4-&-5-&-6-&
+All sixteenth notes travel at the same rate
+73

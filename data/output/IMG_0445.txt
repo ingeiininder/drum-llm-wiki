@@ -1,0 +1,12 @@
+In Use: Quarter Note To review,a quarter note is equal to one beat Therefore; beat 2 is the next available place for a note (or rest) to be placed: Ex 9.4
+3
+Next available beat
+However; when a dot is attached to a quarter note the value of this item is subsequently increased by one half of its original value. Thus; a half beat is now added to the quarter note thereby increasing its value to one and a half beats. Therefore; the "&"of beat 2 is the next available place for a note (or rest) to be placed: Ex 9.5
+2
+3
+Next available beat
+Thus, ifyou placed a note within the rest on the & of 2, it would read as follows: Ex 9.6
+In Use: Eighth Note To further illustrate,an eighth note is equal to a half beat Therefore; the"&"of beat is the next available place for a note (or rest) to be placed: Ex 9.7
+3
+Next available beat
+226 Drum Reading

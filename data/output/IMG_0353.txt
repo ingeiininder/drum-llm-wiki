@@ -1,0 +1,13 @@
+Unit 3 Chapter 3
+Unit Six reading | techNIQUE per{OrMaNce Chapter 1: Assigned Sticking Method As presented in Units 3-5, I6th notes are essential rhythmic values that are used within a multitude of musical genres. Now that you have a clear understanding of how to read (and perform) combinations of 16th notes (and rests), this unit will focus on applying practical stickings to common I6th -note patterns: Sticking patterns are written beneath notated rhythms and employ either an R or L (i.e: to be played with either a right or left stick respectively). For example:
+1
+& a 2   e  & a 3   e &  a 4  e &  a
+1  e &  a 2   e & a  3  e &  a 4  e & ~a
+R L R [ R [ R [ R [ R [ R L R [
+R [ R [ R [ R L R L R [ R L R [
+Muscle Memory Muscle memory is not a memory stored in your muscles; but rather memories stored in your brain that are similar to a hard drive of frequently-enacted tasks Through immense repetition, it's a form of procedural memory that can help you become very good at a given task For instance; baseball players develop their batting and pitching skills through hours of detailed practice and game time performance As a result; their muscles grow accustomed to certain types of movement; which that ultimately become an unconscious process and fluid routine This procedure can also be applied to musicians and their repetitive movements as well:
+As a performer visualizes musical notation; the brain files the various patterns in its storage banks for future reference Thereafter (and by applying a physical motion to these common musical patterns), muscle memories are formed. With these facts in mind, let's take a look at various sticking patterns (i.e. physical manifestations of our notation), which you can use to help develop your reading skills (and muscle memory) more quickly:
+Assigned Sticking Assigned sticking is a natural way to play (and therefore interpret) a steady flow of 16th notes. Usually; this applies to continual 16ths, but it can also be applied to both eighth and 16th note combinations as well: With this in mind, let's play a series of uninterrupted, continuous 16th notes with alternating hands (the sticking is notated below the staff) at 80 BPM: Ex 6.1 1  e & a 2   e &  a 3   e &  a 4  e &  a 1  e & a  2  e & a   3  e &  a 4  e &
+R L R L R L R L R L R L R L R L
+R [ R L R L R L R L R  R L R L
+135

@@ -1,0 +1,23 @@
+Unit 7 Chapter 2
+6.A quarter-note triplet rest on the first partial (occupying the first and second partials), alongsidean eighth- note triplet on the third partial: Ex 7.30
+trip
+let
+Used within a full measure of 4/4: Ex 7.31
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+When played on an instrument with no apparent note length, this example is identical to:
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+193

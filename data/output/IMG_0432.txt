@@ -1,0 +1,15 @@
+It is common practice in notation to make sure the downbeat of beat 3 (in 4/4 time) is not obscured: By placing an imaginary a bar line between beats 2 and 3,the measure is split into two sections of two beats each (making the notation easier to read) This is also called the"2/3"rule: For example: Ex 8.7 Imaginary bar line
+2
+3
+By following the "2/3" rule, there are inherent situations where ties will be necessary. The following are practical examples of where ties are needed for clear notation: Ex 8.8 While it is acceptable to place half notes on beats 1 and 3:
+2
+3
+Two beats
+Two beats
+A half note cannot be placed on beat 2, as it would obscure the downbeat of beat 3. Ex 8.9
+3
+Two beats
+Therefore; tied quarter notes are used to replace the half notes For example: Ex 8.10
+3
+Two beats
+214 Drum Reading

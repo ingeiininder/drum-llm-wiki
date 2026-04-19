@@ -1,0 +1,28 @@
+Unit 9 - Chapter 1
+However; when a dot is attached to an eighth note the value of this item is subsequently increased by one half of its original value. Thus, a quarter-beat is now added to the eighth note thereby increasing its value Therefore; the "ah" of beat is the next available place for a note (or rest) to be placed: Ex 9.8
+1-e-&
+&
+3
+&
+&
+Next available beat
+Thus, ifyou placed a note within the rest on the & of 2, it would read as follows: Ex 9.9
+Dotted Note Values We can use three methods to determine the value of any dotted note They are: 1) Memorize the values of dotted notes; 2) Add the value of the note with half of its value or 3) Remember that a dotted note has the same value of three of the next smallest rhythmic value (or subdivision) For example: Ex 9.10
+Dotted Note
+Single note value plus 1/2 of its value
+Or 3 of the subsequent (smaller) note value
+Whole Note
+6 beats
+beats +2 beats
+2 beats + 2 beats + 2 beats
+Half Note 3 beats
+beat + 1 beat + 1 beat
+2 beats + 1 beat
+Quarter Note
+1/2 beats
+beat + 1/2 beat
+12 beat + 1/2 beat + 1/2 beat]
+Eighth Note B/4 beat
+1/2 + 1/4 beat
+1/4 beat 1/4 beat + 1/4 beat
+227

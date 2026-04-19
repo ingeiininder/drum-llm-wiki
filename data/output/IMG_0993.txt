@@ -1,0 +1,16 @@
+Unit
+Chapter 1
+Although it is rare to actually count 32nd notes, one counting system that works well is to count 32nd notes as: 1-e-&-a-&-e-&-a, 2-e-&-a-&-e-&-a,3-e-&-a-&-e-&-a,4-e-&-a-&-e-&-a,as displayed below: Ex 1,.5
+1 e & a & e & a 2 e & a & e & a 3 e & a & e & a 4 e & a & e & a
+The following graphic displays how all note vales relate mathematically: Ex 1.6
+32nd notes
+I6th notes
+Eighth notes
+Quarter notes
+Half note
+Whole note
+32nd Rests As with all notes, there are counterpart rests for 32nd notes. This symbol is notated with three small arms as follows: Ex 1,.7 4 32nd rest
+Two 32nd rests equal one I6th rest: Ex 1.8
+4 4-9
+Four 32nd rests equal one eighth rest: Ex 1.9
+4494 = 7

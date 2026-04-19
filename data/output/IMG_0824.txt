@@ -1,0 +1,12 @@
+Ex 3.4
+Clockwise
+7 R R L L R   R L L R  R  L L  R R L L   R  R L L R R L
+Counter-Clockwise T
+Clockwise Counter-Clockwise Combination
+7  R L L   R  R L L R R L R R L L R R L L  R  R L
+Ex 3.5
+Clockwise
+Counter-Clockwise
+All of the above exercises are written with the left hand playing doubles on the snare: To further the development of the left hand, move it to tom and play the exercises as written:
+Once you become comfortable with each individual exercise, try playing all of them in sequence without stopping; at the same tempo. This will give you a better appreciation of each note value and its relation to the others:
+24 Drum Technique 2

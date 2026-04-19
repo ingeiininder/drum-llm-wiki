@@ -1,0 +1,26 @@
+Unit 4 - Chapter 2
+Chapter 2: Shared Beams Now that you understand how quarter; eighth and 16th notes can occupy one beat within a measure; let's take a closer look at how eighth and 16th notes can be used within (and combined to form) one beat: To further this study, let's take one more look at both upbeats and downbeats within beamed eighth and 16th note groupings: One Measure of Beamed Eighth Notes Ex 4.3 & 2 & 3 &
+P: down
+down
+up
+down
+up
+up
+down
+up
+One Measure of Beamed I6th Notes Ex 4.4 e & a 2 e &   a   3   e  &   a ~e   & "'
+down
+up
+down
+up
+down
+up
+down
+up
+Next; let's take a second look at the mathematical relationship between eighth notes and 16th notes. Two eighth notes equal four I6th notes, which both equal one beat in 4/4 time: Ex 4.5
+Two Eighths 2/8
+Four 16ths 4/16
+Thus, one-eighth note is also equal to two I6th notes, which are then equal to a half of beat as well: Ex 4.6
+One Eighth 1/8
+Two 16ths 2/16
+9

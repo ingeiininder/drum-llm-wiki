@@ -1,0 +1,29 @@
+35
+77272
+1 R L R L R L R L R LB
+722Z d L R L R L
+38
+41
+R L B
+14
+3 1 R L R L R R L   R
+B   R
+B L L   R
+0 >
+50
+7 >
+'>>
+> } > E R L L R R L R R L L R R L R L R L R L
+53
+R   B   B
+R L
+56
+> >> >
+R L R L RB  B
+R LB > > > >
+59
+R L B
+R [ R
+R [ R
+R [ R
+R L  R L R L R L B

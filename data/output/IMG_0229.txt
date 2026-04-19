@@ -1,0 +1,12 @@
+Unit Chapter 2
+Rests While a note head indicates when to play a rhythm (or produce a sound), rests indicate when there should be silence: Similar to note heads, rests have specific symbols for varying durations Lets take a look at these
+Whole Rest A whole rest is equal to four beats (.e:: a whole measure) and is indicated by a solid rectangle that hangs down from the fourth line of the staff It is counted as follows: Ex 1,.24
+1   2   3   4
+Half Rest half rest is equal to two beats (half of a measure) and is indicated by a solid rectangle that sits on top of the third line of the staff It is counted as follows: Ex 1.25
+2
+3
+Quarter Rest A quarter rest is equal to one beat (a quarter of a measure) and is indicated with a squiggly line that slightly resembles the number three (3). Quarter rests are counted like so: Ex 1.26
+Rhythmic Value Tree: Rests As you have seen, a whole rest is equal to two half rests, which are equal to four quarter rests For example: Ex 1,.27
+One whole rest
+Two half rests
+Four quarter rests

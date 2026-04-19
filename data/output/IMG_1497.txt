@@ -1,0 +1,7 @@
+ANYTHING
+MINUS DRUMS
+158
+Snares Off
+>>>
+3
+Hi-hat Continues L R L R L R R L L R L R L R L B R L L 35474  T R L R R L L R L R L R L B L L  R L R R L L R L R L R L B R L L > > > X8 7 R L R R L L R L R L R R R L L R L R R L L R L R L R L B R L L 10 5A   R L R R L L R L R L L B L L  R L R R L L R L R L R L B R L L 12 > > 7 > > 3F EF R L R R L L R L R L R L R L R L R L R R L L R L R L R L B R L L 7 14 L3 L R R L L R L L R L Hi-hat Continues L R L R L B R L L 16 > 33 R L R R L L R L R I> R_ R R  R Snares On 18 33 3 Snares Off R R R L L R L R L R L B R L L 20 FAF3 1 R L R R L L R L R L LB L R L R L R R L L R L R L R L B L L

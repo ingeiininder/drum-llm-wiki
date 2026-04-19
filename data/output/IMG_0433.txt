@@ -1,0 +1,18 @@
+Unit 8 - Chapter 1
+Due to lack of sustain on a practice pad (and drum kit), the examples contained within Ex. 8.11 sound the same: However; these concepts must be understood to fully realize the drum set orchestration (toms, bass drum, cymbal usage) figures that will be applied in subsequent books: Ex 8.11
+2
+3
+2
+3
+Two beats of sound
+One beat of sound, one beat of rest
+Note: While it is theoretically correct to follow the 2/3 rule; you will encounter situations where an inexperienced composer (or arranger) may break the 2/3 rule. This occurrence may be especially common with simple rhythms (quarter notes and half notes) Thus, you must still be able to read the chart while also avoiding conflict and confrontation over notation rules (and preferences):
+Syncopated Rhythms: Quarters and Eighths Alongside the Imaginary Bar Line Syncopated rhythms emphasize weaker beats (i.e: upbeats such as the "&s"and "ahs") For instance (and up until this point within both examples and exercises) , quarter notes have fallen on downbeats. By utilizing syncopation, quarter notes can now be placed on upbeats
+In the example below (Ex. 8.12),an eight note is placed on beat 1, which; as we already know; is equal to a half of a beat: Thereafter; the quarter note is placed on the "&" of 1, which sustains for one full beat-~i.e across the downbeat of beat 2. Therefore; the next available place for a note to occur is on the"&"of beat 2 For example: Ex 8.12 & 2 & 4
+Half a One beat beat
+Half a One beat beat
+One beat
+You can also utilize tied eighth notes to illustrate the rhythm contained within Ex. 8.12. Thus, the quarter note on the"&"of can also be visually split into two eighth notes tied together as follows: Ex 8.13 & 2 & 3
+Half a One beat beat
+Half a One One beat beat beat
+215

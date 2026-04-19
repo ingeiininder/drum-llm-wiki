@@ -1,0 +1,33 @@
+Chapter 2: Performance Notes and Sound Letter A Ex 6.5
+Sound: Open,"unburied" bass drum beater; snare cross-stick and a legato, open ride cymbal,
+Letter A features a one-bar phrase alongside an open; "unburied"four-on-the-floor bass drum groove, cross- stick backbeat and jazz ride cymbal pattern: The ride cymbal should propel the music forward; but because ofthe 60 BPM tempo it will be quite challenging to keep these notes from rushing; dragging or straightening out With this in mind, you must subdivide the groove in eighth-note triplets as follows: Ex 6.6
+trip
+let 2
+trip
+let
+3
+trip
+let 4
+trip
+let
+Letter As 12-Bar Form Divided into Three Subsections Within letter As 12-bar head, there are three subsections: a stop-time introduction; four bars of groove, and ensemble figures Let's take a look at each in detail: Ex 6.7 1. Stop-Time Introduction: Bars 1-4
+1
+Bars 1-4 are considered the introduction of this 12-bar phrase Bars 1, 2 and 3 feature ensemble figures that should be played as written; without any setup fill or audible cue: Therefore; in order to play these in time, you must subdivide eighth-note triplets and count "1-trip-let; 2-trip-let; 3-trip-let; 4-trip-let" For example: Ex 6.8
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+Bar 4has an eighth-note drum build into a broken 16th-note fill This bass drum, snare and tom fill transitions perfectly into the groove portion (bars 5-8) of letter A Ex 6.9
+52 Drum Performance 3

@@ -1,0 +1,8 @@
+Example 3: 1-e-a This grouping is comprised of one I6th note on the downbeat; an eighth note on the "e" and a I6th note on the "ah" ofthe beat: Because the eighth note is worth two I6ths (halfa beat), it consumes the "e" and "&" of the full four-I6th note grouping and leaves the"1"and "ah" untouched: Ex 4.16
+e
+&
+Ifyou were to play this grouping for a full measure in 4/4,it would sound (and look) like this: Ex 4.17 2 3
+Partial Beams Notice in the examples above (Ex. 4.16 and 4.17) that the two 16ths have been separated by the eighth note: To maintain clear beaming; partial beams are used to notate the I6th notes. Partial beams always face inward and never face outward. For example: Ex 4.18
+Partial beams
+Incorrect usage of partial beams
+94 Drum Reading

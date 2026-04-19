@@ -1,0 +1,11 @@
+Unit Chapter 1
+Intro The chart begins with an unaccompanied bass guitar riff for four bars Therefore, the first four bars within the drum chart contain a multi-rest: Multi-rests are commonly used to indicate two or more bars of rest (in a neat and clear manner as compared with writing out many individual measures of rest). For example: 1.2a
+Rock J = 165
+On bar 5,the drums enter with double stops between the snare drum and floor tom (this rhythm mimics the bass riff perfectly) It is important that you subdivide eighth notes during the first four bars of the tune: By subdividing you will ensure that your part does not rush and is locked with the bass part: For example: Ex 1.2b
+Bass part
+p+X JEE m35155E 5
+Drum part
+Letter A Letter A is a ten-bar phrase; which also marks the entrance of the guitar riff The drums continue to play the opening bass riff; but with added bass drum eighth notes filling in the remaining eighth notes This action occurs for six bars, as a two-bar phrase played three times The last two bars of letter A (within the box below) feature an aggressive pattern that leads into the "&"of beat 4. For example: Ex 1.3a
+HE
+1 7
+mZ

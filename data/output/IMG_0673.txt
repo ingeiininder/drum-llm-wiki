@@ -1,0 +1,9 @@
+32-Bar Exercise Ex 8.7
+BMP checklist: 70 80 90
+DA
+5D
+DDA
+2
+DEDDAD
+757NZDA
+96 Drum Reading 2

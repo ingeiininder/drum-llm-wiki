@@ -1,0 +1,33 @@
+Unit 3 - Chapter 1
+III. Groups of One 16th Note and Three 16th Rests: Ex 3.12 Note on the downbeats of beats 1,2,3 and 4
+&
+a
+2
+& a
+3 e   &   a e & 4 4
+With imaginary bar lines between every beat:
+&
+a
+2
+& a 3   e   &   a 4 e   &
+3
+3
+Note on the"e" of beats 1,2,3 and 4:
+2
+1
+e   & a 2   e   &   a   3   e   &   a 4   e   & 3 34 3
+With imaginary bar lines between every beat:
+&
+a
+2
+e & a 3 e   &   a 4 e   &
+Note on the "&"of beats 1,2, 3 and 4:
+& a
+2
+e & a 3 e &   a e & 4 3
+With imaginary bar lines between every beat:
+& a
+2
+e
+& a 3 e &   a 4 ~e & A
+57

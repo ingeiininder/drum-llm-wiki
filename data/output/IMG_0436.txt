@@ -1,0 +1,10 @@
+Chapter 2: Sequential Ties and Ties Under Beams Although we've discussed some pretty steadfast tie rules, an arranger or composer may break these previously mentioned edicts to meet their notational preferences, or for other reasons In order to thrive as sight-reader; you must be well-versed in all notational methods With these facts in mind; lets take a look at a few anomalies; which you may see in various situations:
+Sequential Ties It is not entirely uncommon to see more than two notes strung together in a chain. For example; in order to adhere to the 2/3 rule; multiple quarter notes and half notes may be tied together like this: Ex 8.22
+Three beats
+Multiple tied notes may also be used to convey the pulse (or meter) being played by another musician: For example; while the drums may need to play a long sustained note for six beats, another instrument may be playing two beat phrases Notating both phrases in two beat increments allows the drummer to see (and subsequently feel) the phrasing used within the bass guitar part: Ex 8.23 Two bar Two bar Two bar phrase phrase phrase
+Bass Guitar
+3
+Drums
+Ties Underneath Beams Multiple tied notes may also be seen within beamed eighth notes In the following example; the top staff contains multiple ties underneath each note beam, while bottom staff is utilizing a more practical method for writing the same rhythms Ex 24 The tie can encompass Or; each note can be all three notes tied to the next note
+3
+218 Drum Reading

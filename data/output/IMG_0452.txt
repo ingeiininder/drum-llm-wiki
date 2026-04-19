@@ -1,0 +1,21 @@
+Unit 9 - Chapter 2
+Once eighth notes get dotted there will be sixteenth notes (or rests) present as well In this situation there are no acceptable alternatives (or rule breakers) As presented in Reading 1, Unit 8,when sixteenth notes are being used; each beat must have a clearly displayed downbeat:
+To further elucidate you, a dot either increases a notes value by half or to put it another way increases this value by three of the subsequent (smaller) note value. Thus, dotted eighth is worth three sixteenth notes: Ex 9.32
+With this concept in mind; lets read a few dotted eighth note patterns notice how each dotted eighth note covers three sixteenth notes (three-quarters of a beat beats) below:
+1.A dotted eighth note on each downbeat: Ex 9.33
+1 e & a
+2 e & a
+3 e & a
+4 e & a
+1 e & a
+2 e & a
+3 e & a
+4 e & a
+To further illustrate this pattern, lets subdivide sixteenth notes below this rhythm: Ex 9.34
+=
+Now; lets view the same rhythm, alongside a dotted eighth rest on each beat: Ex 9.35
+2. A dotted eighth note on the "e" of each beat: Ex 9.36 e&a 2 e&a
+3
+e&a
+e&a
+233

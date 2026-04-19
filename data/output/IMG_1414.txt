@@ -1,0 +1,17 @@
+Unit 5 - Chapter 2
+Create your first set of variations by adding accents (staying on a single surface) as follows: Ex 5.9
+With the flam accented
+R   R
+L
+X} R   Rl   R   R R   RL L
+2. With two accents
+2
+Next, move the right hand melodically around the kit; keeping the left hand on the snare drum: This action will now split the actual flam between two different surfaces as follows: Ex 5.10
+J
+=
+When splitting a flam between two surfaces you can experiment with the space between the grace note and the primary note of the flam: In other words, you can vary the width of the flam from very open flams to "flat" flams (double stops with no space between the two notes) To help you develop your ability to adjust flam width, try the following exercise The first bar should have traditional, wide flams In the second measure the flams are played as double stops as follows: Ex 5.11 Wide flams Double stops
++ R RL L R R L   R R L   R R L R
+R Rl L R Rl L R Rl L  R RL L  R
+Finally, a simple fill can be added on beat 4 to complete a four-bar phrase (three bars of tie and one bar of fll) . For example: Ex 5.12
+EELEE6 R Rl L  R Rl L  R Rl L  R Rl L R L
+51

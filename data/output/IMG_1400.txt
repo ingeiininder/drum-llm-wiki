@@ -1,0 +1,12 @@
+Unit 4 - Chapter 1
+6
+6
+E 3= R L  R  R L  R  R L R R L R R [  R R L R  R L  R  R L  R
+7737739 R L  R   R L  R   R L  R   R L   R   R L  R   R L  R   R L  R   R L   R
+2 A R L   R   R L   R   R L   R   R L  R   R L  R   R L  R   R L   R   R L   R
+R L   R   R L  R   R L  R   R L  R   R L  R   R L  R   R L  R   R L   R
+]  == R   R L   R   R L   R   R L R   R L R   R L R   R L  R   R L   R
+8
+R L R   R L  R   R L   R   R L  R   R L  R   R L  R   R L  R   R L   R
+R L   R   R L   R   R L   R   R L   R   R L  R   R L   R   R L   R   R L   R
+37

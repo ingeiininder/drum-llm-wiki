@@ -1,0 +1,17 @@
+Unit 4 - Chapter 3
+As you can see in the example on the previous page (Ex. 4.10) , each group of 16th notes require a rest on the second and fifth partials. As stated earlier; to clean up the notation a simple indicator at the beginning of a chart allows for regular 16th notes to be notated yet interpreted as swung 16th notes. For example: Ex 4.11
+Swung I6th note indicator translates broken I6th-note triplets.
+into traditionally notated 16th notes
+& j:
+''
+In lieu of the swung I6th note indicator:
+:a
+chart may simply have a note: Swung 16ths at the top of the chart
+Let's take a look at a few examples of the difference between notating actual 16th-note triplets and using standard 16th notes interpreted as swung I6th notes Ex 4.12
+Notated as:
+3 `
+Played as:
+Notated as:
+3
+Played as:
+53

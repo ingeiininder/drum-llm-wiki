@@ -1,0 +1,17 @@
+Ex 9.8
+" R
+Ex 9.9
+Ex 9.10
+Ex 9.11
+1
+Ex 9.12
+4 : k [ R 6 R k 6 [ 6 : [ 6 [ & R
+Paradiddle Accent Combinations Ex 9.13
+E & [ [ * [ 6 & [ 1 [ [ k [ 0
+Ex 9.14
+= E * [ [ * 0 k 0 @ 6 [ [ | [ *
+Ex 9.15
+E * [ [ * [ * 0 @ 6 [ [ k € * R
+Ex 9.16
+E k [ [ k [ k k [ k [ [ k [ k R
+60 Drum Technique

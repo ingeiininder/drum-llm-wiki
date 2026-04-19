@@ -1,0 +1,11 @@
+3
+Unit three reading | techNIQUe pertOrMaNce Chapter 1: 6/8 Time Signature As presented in Reading 1,a time signature indicates the meter of a piece of music and the corresponding note value used within its notation. Now that you understand the primary aspects of notation (note values, rest values; flags, beams, ties and dots), we can apply these to different time signatures
+Another very common time signature is 6/8. In 6/8 time there are six beats to every measure and the eighth note gets the beat as follows: Ex 3.1 Six beats in every measure
+Eighth note is worth one beat
+The six eighth notes within a measure of 6/8 are usually grouped into two groups ofthree eighth notes The following is a list of how notes within a measure of 6/8 are divided. Ex 3.2
+Half note six beats/one per measure
+Dotted quarter note three beats/two per measure
+Quarter note two beats/three per measure
+5
+Eighth note one beat/six per measure
+32 Drum Reading 2

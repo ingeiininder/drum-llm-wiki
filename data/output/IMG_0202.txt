@@ -1,0 +1,20 @@
+Unit 9 - Chapter 1
+Multi-Rests Another way to indicate multiple measures of rests is to use multi-rest. A multi-rest is a thick; black horizontal bar with a number above it The black bar indicates a rest and the number indicates the number of measures In this chart; the four bars of rest for the drummer are notated by use of a multi-rest For example: Ex 9.3
+Although this is a simple concept; it is easy to get lost in a multi-rest (especially in very long ones). One method to counting through a multi-rest is done by adding the measure number: For example: Ex 9.4
+"Two" "Three
+"2"
+"Two" "Three"
+"3"
+"Two" "Three"
+"4"
+"Two" "Three"
+Third Ending Another chart form tool is to use a third ending: To navigate a third ending, you make sure you play the first and second endings, then proceed to the third ending after repeating back for the third pass of a particular section (or passage):
+In the A section the first and second endings are identical The first and second endings are notated by being housed under the same bracket: The third ending has a written fill. For example: Ex 9.5
+A Closed Hi-Hat
+2
+1.2
+13.
+Ist ending: Travel back to A
+3rd ending: Continue on to the next section
+Znd ending: Travel back to A
+75

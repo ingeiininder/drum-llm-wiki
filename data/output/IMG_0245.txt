@@ -1,0 +1,22 @@
+Unit 2 - Chapter 1
+Beams Beams are thick horizontal lines that are used to bundle multiple groups of eighth notes together Beams are used to replace flags in order to neatly group eighth notes in packs of two or four: For example: Ex 2.9 Beam
+full measure (in 4/4) of beamed eighth notes may be grouped in groups of two or four: For example: Ex 2.10 Freestanding Groups of Two Groups of Four
+AF F
+In summary, a full bar of eighth notes are beamed in groups of two or four and counted as follows: Ex 2.11 Groups of Two
+&
+2
+&
+3
+&
+&
+Groups of Four
+&
+2
+&
+3
+&
+&
+While verbally counting eighths notes out loud (1 & 2 & 3 &4 &) and tapping your foot on every downbeat; play the following measures: Ex 2.12
+] 1   &   2   &   3   &   4   & 1   &   2   &   3   &   4   &
+FE 1   & 2   &   3   &  4   & 1   &   2   &   3  &   4   &
+27

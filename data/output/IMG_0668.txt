@@ -1,0 +1,10 @@
+Unit 7 Chapter 2
+22
+3
+23
+24
+Drum Set Application Now apply the previous exercise (Ex. 7.10) to the full drum set: Play the written figures as double stops between the snare drum and ride cymbal. Play three bars of a time and insert each example from Ex 7.10 as a bar 4 figure at 90 BPM as follows: Ex 7.11
+#4 from Ex 7.10 inserted as bar 4
+34
+LX
+9

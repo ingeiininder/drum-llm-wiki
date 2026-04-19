@@ -1,0 +1,36 @@
+Unit 5 - Chapter 1
+The previous graph (Ex. 5.1) can also be notated as follows: Ex 5.2 Whole Note
+Whole Rest
+2
+3
+2
+3
+This note is worth four beats and one can be placed into a measure of 4/4.
+Half Note
+Half Rest
+2
+3
+4
+2
+3
+This note is worth two beats and two can be placed into a measure of 4/4.
+Quarter Note
+Quarter Rest
+2
+3
+2
+3
+This note is worth one beat and four can be placed into a measure of 4/4.
+Eighth Note
+Eighth Rest
+1   & 2 &
+3 & 4   &
+1   & 2 & 3 &  4   &
+This note is worth 1/2 of a beat and eight can be placed into a measure of 4/4.
+16th Note
+16th Rest
+1 e & a 2 e & a 3 e & a 4 e & a
+1 e & a 2 e & a 3 e & a 4 e & a
+4
+This note is worth 1/4 of a beat and 16 can be placed into a measure of 4/4.
+111

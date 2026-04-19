@@ -1,0 +1,21 @@
+Turnarounds The next step is to string these two ideas together: We will use a half beat sticking of R L R to smoothly turn the first pattern (R R L) into the second pattern (L L R). To flip  the pattern back to R R L, you simply play two right hands in a row to reset back to right hand one the downbeats:
+In this next exercise you will play one bar of R R L with the "turnaround" sticking of R L R on the "&"of beat 4 to flip into L L Rand R Rat the end ofthe phrase to reset the sticking to R R L, for example: Ex 4.10 This sticking flips the pattern
+Z L   R L L   R L
+R L L   R L L R
+= R L R
+R L L   R  L
+R
+R
+1
+These two right hands flip the pattern back
+The turnaround sticking (R L R) can be placed on any downbeat or upbeat to create endless possibilities The R L R and R R turnarounds are indicated by the brackets as follows: Ex 4 11
+6
+R L L   R  L L   R L L   R L L   R L L 7L L R L L RU
+> 6
+> 6
+J= R L L   R L L   R L R L L  R R L L  R  L   R R L L   R
+6
+3 E L L R R L L R   R L L   R
+R L L   R L R
+L L   R
+42 Drum Technique 4

@@ -1,0 +1,12 @@
+2
+2
+22
+2
+26
+1FF
+30
+B2 Ride Cymbal Bell
+32
+Fill P F Z77 3
+36
+22 Drum Performance 3

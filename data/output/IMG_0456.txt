@@ -1,0 +1,16 @@
+Unit 9 - Chapter 3
+E.Dotted quarter notes (two bar phrases).
+dX
+d+AXX
+HdFX
+444
+#| XEN
+33
+4
+F.Dotted quarter notes (two bar phrases).
+3
+4
+4
+DdX
+d
+237

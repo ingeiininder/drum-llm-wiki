@@ -1,0 +1,15 @@
+Unit 2 - Chapter 2
+Chapter 2: Single-Bar Repeat Signs Single-Bar Repeats When a composer wants to repeat a particular measure; a single-bar repeat is used. A single-bar repeat is represented by a forward slash with dots on either side: For example: Ex 2.24a
+This symbol sits directly in the middle of a measure as displayed below: Ex 2.24b
+In Use It is acceptable to notate four measures of continuous eighth notes like this: Ex 2.25
+1 & 2 & 3 & 4 &
+1 & 2 & 3 & 4 &
+1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
+However; there is usually one specific bar of notated music at the beginning of a phrase and then multiple uses of single bar repeats thereafter This helps to create a cleaner chart that is easy to read. For example: Ex 2.26 J)) 1  &   2  &   3  &   4   & repeat repeat repeat measure1 measure1 measure1
+If a repeated series of single-bar repeats carries over into another line; then the rhythm is usually notated again This reassures the reader that they are playing the correct part: For example: Ex 2.27 This figure is provided again at bar 5.
+7A
+2
+3
+J  5 6
+8
+31

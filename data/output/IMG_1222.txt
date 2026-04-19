@@ -1,0 +1,14 @@
+Idea 2
+Open Solo in 4/4: Metric Modulation Metric modulation is a change in tempo (or meter) which is derived from a note value encountered previous to the modulation. There are many variations of metric modulations, some which are very drastic and challenging: For this unit we will explore one of the more common types of modulation: the quarter note becoming the eighth note, which is written as follows: Ex 3.9a Je_
+In this chart; the tempo is 165 beats per minute in 4/4 time; which passes quite quickly. Therefore (and in order to place the backbeat on beats 2 and 4), a modulation is used. By using a symbol (Ex 3.9a) that transitions quarter notes to eighth notes, the eighth notes are now passing at a rate of 165 BPM (making the quarter note the new tempo of 82.5 BPM), which allows a drummer to effectively place his/her backbeat on 2 and 4 like this. For example: Ex 3.9b Modulation indicator
+On Cue:
+D
+E7
+A7
+E7
+B7
+E Open vamp for Gtr: Solo ~SJ 3 On Cue: D S al Coda 15  & 2 & 3 & &
+Open vamp for Gtr: Solo
+Quarter notes = 165bpm
+Eighth notes = 165bpm
+28 Drum Performance 4

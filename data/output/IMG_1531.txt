@@ -1,0 +1,12 @@
+Horn Figure Fills: Bar 8 in section A going to section B:
+2
+6
+TT
+Last bar of section C:
+7
+19
+Ensemble figures in last measure of song:
+8
+12)
+9 19
+T

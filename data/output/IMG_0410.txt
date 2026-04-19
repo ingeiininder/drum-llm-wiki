@@ -1,0 +1,33 @@
+5. An eighth-note triplet on the first partial, alongside a quarter-note triplet rest on the second partial (occupying the second and third partials): Ex 7.28
+trip
+let
+Used within a full measure of 4/4: Ex 7.29
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+When played on an instrument with no apparent note length, this example is identical to:
+trip
+let
+trip
+let
+3
+trip
+let
+trip
+let
+3
+trip
+let
+trip
+let
+3
+trip
+let
+trip
+let
+192 Drum Reading

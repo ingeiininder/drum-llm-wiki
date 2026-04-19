@@ -1,0 +1,15 @@
+Chapter 2: Eighth-Note Triplets Triplets are produced when a note is divided into three equal parts Therefore; a triplet occupies the same rhythmic space normally occupied by two notes of equal value Triplets can be applied to any rhythmic value; but the most common usage of triplets is with eighth notes The eighth-note triplet is the rhythmic basis for swing and shuffle feels.
+Triplets: In Detail Since two eighth notes are equal to (and most likely to subdivide) a quarter note,a number three (3) is now placed above the beam alongside an additional eighth note. Not only does this illustrate that triplets are in use; but it also indicates that the performer should now play three notes in the space of one beat: Ex 7.2 Quarter note divided in two: Quarter note divided in three:
+4 3
+Two eighth notes
+Three eighth-note triplets
+Thus, there are twelve eighth-note triplets in one measure of 4/4. For example: Ex 7.3
+3
+3
+Beat 1
+Beat 2
+Beat 3
+Beat 4
+Furthermore, a triplet is not simply a grouping of three notes With this in mind, lets take a look atan eighth note pattern voiced on the drum set in a pattern of three: Ex 7.4
+As the eighth notes in Ex 7.4 (above) are still moving by at the same eighth note rate (i.e: 1-&-2-&-3-&-4-&) , this is not considered a triplet: For this musical idea to be played as eighth-note triplets it would be notated (and performed) as follows: Ex 7.5 3
+184 Drum Reading

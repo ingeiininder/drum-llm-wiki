@@ -1,0 +1,12 @@
+3
+Unit OUN reading | technIque | pertOrMance Chapter 1: Cut Time As you learned in Reading 1 , Unit 1,the time signature of 4/4 can also be represented by a large "C"in place ofthe 4/4 symbol,referring to "common time" This is simply due to the fact that a large percentage of music is in 4/4 time:
+Cut Time Cut time refers to the 4/4 time signature being "cut"in half, which is represented by a time signature of 2/2 or the symbol: € Cut time (or 2/2) would mean that there are two beats to a measure and the halfnote gets the beat: In the example below (Ex. 9.1) you can see the altered counting as follows: Ex 4.1 T
+Of course the above passage could be written in 4/4. It would look and sound the same but the counting would be different: For example: Ex 4.2
+3
+47
+The need for cut time comes into play when the tempo is very fast (say, 175 bpm and higher) When needing to count"1-2-3-4"at fast tempos it is not uncommon for a musician to tense up and feel nervous. Cut time allows for counting to pass by at a slower rate (half) allowing the reader to relax: Instead of counting"1-2- 3-4"at 1 8Obpm,one can count"1-2"at 9Obpm There are many jazz and Latin tunes that are at ZOObpm and higher; which is why you will commonly see charts in this ilk written in cut time. Let's look at the examples from above (Ex. 9.1 and 9.2) with tempo markings: Ex 4.3
+=100
+Counting two beats per measure in cut time LdJdJEJ J] 4| &  2 a   2
+200
+Counting four beats per measure in 4/4 d S F3 1  & 2   &   3   & 4   & 1  & &   3
+38 Drum Reading 4

@@ -1,0 +1,12 @@
+Unit 10 - Chapter 1
+DS. al Fine After executing the fill at the end of letter C there is a D.S.al Fine instruction This means you return to letter (the sign) and play until the fine (end) The fine is notated at the "ah" of beat 4 in the eighth measure of letter A Again; play this final note short and strong: For example: Ex 10.14
+10 Bl
+Fine
+15
+19
+21
+23
+25
+27
+D. S al Fine
+9

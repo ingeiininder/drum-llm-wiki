@@ -1,0 +1,8 @@
+To further clarify; by splitting every quarter note within a measure (i.e: four beats) into 4 parts ~we receive sixteen I6th notes. In other words; it is called a I6th note because one I6th note takes up one I6th of a measure (and there can be a maximum of sixteen within a measure). Here is an example with our three note values as follows: Ex 3.3 Four Quarter Notes One quarter note takes up one quarter of a measure (and there can be a max of four within a measure).
+Eight Eighth Notes One eighth note takes up one eighth ofa measure (and there can be a max of eight within a measure).
+Sixteen Sixteenth Notes One sixteenth note takes up one sixteenth of a measure (and there can be a max: of sixteen within a measure) . A=
+When counting 16th notes, each numbered beat"1, 2, 3,4"is further divided by assigning syllables to each 16th-note partial: On each downbeat; you say the beat number followed by the syllables "e" "and", "ah" For example: Ex 3.4 2 3
+4 ^ ^f f / / / ^ dd d ^  ^ d 1   e   &   a 2 ~e   &   a 3   e   &   a 4 ~e   &   a
+Note: This is the proper shorthand used to notate I6th notes partials Beaming 16th Notes As you can see from the example above (Ex 3.4),it would be very easy to get lost amidst all of those 16th notes. To remedy this; beams (see Unit 2) are used to group 16ths together into groups of four Not only does this make them clearer to the eye; but - they are also easier to read during a performance as well Lets take a look at a group of four I6th notes housed within a double beam: Ex 3.5 Double Beam
+3 1   e   &   a 2   e   &   a   3   e   &   a  4   e   & ~a
+52 Drum Reading

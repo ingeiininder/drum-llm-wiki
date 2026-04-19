@@ -1,0 +1,10 @@
+Examples of Articulations in Context Below are a few examples of how articulations may appear in various formats of drum charts
+This example displays how articulations are used along with ensemble figures The ensemble figures provide the basic rhythm with the articulations providing more detail. While reading you would be deciding how to orchestrate the long and short rhythms Ex 3.5
+Applied to Drum Notation This example provides detailed drum orchestration along with the articulations The guess work and interpretation is minimal but the proper execution needs to match what is written: Ex 3.6
+7FW}A
+4AJ))
+Phrases If an entire passage requires the same articulation then a written indicator (paired with a phrase length indicator) can also be used With this example all of the notes would be played short due to the"Staccato" marking with the bracket: Ex 3.7
+Staccato
+This example displays a phrase where all of the notes would be played long due to the "Legato" marking: Ex 3.8
+Legato
+34 Drum Reading 3

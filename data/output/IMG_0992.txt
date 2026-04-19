@@ -1,0 +1,17 @@
+UNit ONE reading | techNIQUe pertOrMaNce Chapter 1: 32nd Note Notation In Reading and Reading 2 you learned about basic notation and the division of note (and rest) values. To quickly review: Ex 1.1 One whole note equals two half notes: 0 = JJ 4=2+2
+One half note equals two quarter notes:
+J-J1 2=1+1
+One quarter note equals two eighth notes:
+J-$ $ 1 =1/2 + 1/2
+One eighth note equals two sixteenth notes: JJj 1/2 =1/4+ 1/4
+Dividing one sixteenth note in half produces two 32nd notes There are thirty-two 32nd notes in one measure of 4/4 or, eight 32nd notes to each beat: 32nd note require a triple beam or three flags in regards to notation. For example: Ex 1,.2 Triple flag One freestanding 32nd note:
+Bundled as two groups of four Triple beam per each beat
+One full bar of 32nd notes:
+To count 32nd notes it is recommended to simply subdivide sixteenth notes knowing that each partial (1 - e-&-ah) is doubled. Remember that two 32nd notes equal one sixteenth note as follows: Ex 1,.3
+VVMVV
+Also, keep in mind that for every half beat (every eighth note in 4/4) there is space for four 32nd notes; as follows: Ex 1.4
+&
+2
+&
+3
+Drum Reading 4

@@ -1,0 +1,17 @@
+Unit 7 Chapter 2
+Finally, play this pattern over 12 bars by eliminating the bar 4 "turnaround" bass drum note: In addition, assign a larger number to every bar as you play (and count out loud) The counting is displayed above the notes: Ex 7.8
+3
+5
+3
+6
+8 9 4pNJJPDT
+10
+3
+11
+3
+12 P*YR
+3207
+You might find that once you get the pattern going; it is difficult to exit it to play a fill, etc To help add fills, play the four-bar linear pattern (Ex 7.4,with or without accents) and add a snare drum fill starting on beat 3 of measure 4. By adding a fill, a clearly defined four-bar phrase is created, as follows: Ex 7.9
+3 /
+63
+HEEA

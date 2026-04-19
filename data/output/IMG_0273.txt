@@ -1,0 +1,35 @@
+Unit 3 - Chapter 1
+Rests on the "&"of beats 1, 2, 3 and 4,with beams housing the rests:
+3
+~e   &   a 2   e &
+a
+3   e   &   a 4   e   & a 7
+With imaginary bar lines between every beat:
+e
+&
+a
+2 e   &
+a
+3   e  &   a 4   e & a
+Rests on the "ah" of beats 1,2,3 and 4:
+e   & a 2   e   & a   3   e   & a 4   e   & a )
+With imaginary bar lines between every beat:
+1
+e
+& a
+2
+e   & a 3 ~e   &   a e   & a
+II. Groups of Two 16th Notes and Two 16th Rests: Ex 3.11 Rests on the downbeat and "e" of beats 1,2,3 and 4:
+&
+a
+2
+&   a 3   e &   a  4   e   & a F
+With imaginary bar lines between every beat:
+1
+e
+&
+a
+2
+e
+&   a 3   e &   a  4   e   & E EE "
+55

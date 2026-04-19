@@ -1,0 +1,17 @@
+Again (and to review tied notes) , the preceding examples should theoretically be written like this i.e: to avoid obscuring the downbeat of beat 3: Ex 9.18
+HE
+T
+Half Note Examples Extended Phrase To review, a dot either increases a notes value by half or to put it another way it increases this value by three of the subsequent (smaller) note value. Thus, a dotted half note is worth three quarter notes: Ex 9.19
+With the aforementioned concept in mind, it is also very common to have a phrase go "over the bar" by utilizing three beat patterns, which are systematically repeated in 4/4. Consequently, this rhythm will land (and be placed) on many different beats (i.e. as it travels over the bar line) Lets take a look at the proper notation method employed within a three beat rhythm in 4/4: Ex 9.20
+With dotted half notes alongside ties:
+2
+3
+3
+Three beat phrases
+With ties exclusively: Ex 9.21
+3
+3
+4
+3
+Three beat phrases
+230 Drum Reading

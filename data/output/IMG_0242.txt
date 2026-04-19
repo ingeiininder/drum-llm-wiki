@@ -1,0 +1,11 @@
+Unit wO Unit 2 - Chapter 3 reading | techNIQUe perfOrMance Chapter 1: Eighth Note Notation and Values The eighth note is one ofthe most commonly used rhythmic durations in modern music (and the one that is the most fundamental when learning how to read rhythms) An eighth note looks like a quarter note with flag attached: Ex 2.1 Stem Flag
+Note head
+Eighth notes are equal to one half of a beat: By dividing quarter note (equal to one beat) in half; the byproduct is now two eighth notes (or two half beats): Ex 2.2
+One Quarter
+Two Eighths
+To further clarify; by splitting every quarter note within a measure (i.e: four beats) in half, we receive eight eighth notes In other words, it is called an eighth note because one eighth note takes up one eighth of a measure (and there can be a maximum of eight within a measure). For example: Ex 2.3
+Four Quarter Notes
+A A
+4
+Eight Eighth Notes
+24 Drum Reading

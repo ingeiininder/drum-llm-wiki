@@ -1,0 +1,12 @@
+Unit 5 - Chapter 3
+D. S.al Coda (No Repeats) In this example; you play everything as written prior to encountering the D. S.al Coda directive: Once you head back to letter A you will then skip the first ending and proceed to the second ending: For example: Ex 5.16
+m
+AJS
+Skip over the first ending
+2
+4
+B J+
+E
+D. S al Coda (no repeats)
+Go back to A
+119

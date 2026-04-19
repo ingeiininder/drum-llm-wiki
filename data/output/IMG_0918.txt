@@ -1,0 +1,14 @@
+Unit {OUN reading | techNIQue performance Chapter 1: Basic Concepts In this unit; swung eighth-note ensemble figures (paired with larger subdivisions: quarter notes; half notes and whole notes) will be presented in a jazz (triplet-based) setting: Ifyou are doing a trio or quartet-style gig you will most likely be given a"lead sheet" chart which provides the basic form and feel but little more: If you are doing a big band gig then you are more likely to see a specifically notated drum chart with ensemble figures, articulations and notated fills. Ex 4.1 Eighth-Note Triplet Placement Because a triplet contains three eighth notes wedged into the space normally One occupied by two eighth notes, the distance between these notes changes: Straight eighth notes divide one beat symmetrically in half putting the Ex 4.2 upbeat equidistant from the downbeat:
+When there are eighth-note triplets, the third partial of the triplet is now your upbeat. This note will be further from the preceding downbeat but closer to the following downbeat:
+One
+Trip
+let
+Two
+Trip
+let
+In eighth-note triplet-based music; when seeing a freestanding eighth note on an upbeat; be sure to place the eighth note on the third partial= of the triplet: For example: Ex 4.3 S= 3 S= 3
+One
+Two
+Three
+Four
+43

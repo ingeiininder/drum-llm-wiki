@@ -1,0 +1,11 @@
+When a modulation is used as a vehicle to actually changethe_tempo the illusion is first created before the actual modulation occurs, in order to set up the new tempo and feel. Using the example above (ex: 10.2) , let's see what a literal modulation looks like in regards to notation techniques Now, instead of the eighth- note triplets remaining constant; by use ofa value indicator they: will morph into I6th notes ata new tempo: Keep in mind that these examples contain abbreviated phrases that would normally last longer: For instance: Ex 10.3 J =88
+3
+3
+J-66
+Asyou can see above (Ex. 10.3),the eighth-note triplets, after being grouped in fours, modulate into four I6th notes per beat creating a slower tempo To reverse this (reverting groupings of four I6th notes back into eighth-note triplets), simply group 16th notes into groups of three to set up a triplet template once again. For example: Ex 10.4 J-88
+3
+3
+3
+J-66
+EA
+100 Drum Reading 4

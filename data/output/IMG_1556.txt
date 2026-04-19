@@ -1,0 +1,14 @@
+Gzooves: Aovanceo
+2 2
+A
+1
+L 2 LL ? L ? L L 7>0 +7>0 7>
+mwi
+Here is a groove variation for section A:
+A 19
+4
+B1 19
+Here is a groove variation for section B1:
+2 L ? L 2 L ? L
+B1 19
+Fmg B2 19

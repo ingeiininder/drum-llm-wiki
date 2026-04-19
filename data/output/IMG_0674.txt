@@ -1,0 +1,13 @@
+Unit 8 - Chapter 2
+Chapter 2: Right-Hand Lead Drum Set Application In order to make these exercises work with right hand lead, we need to assign certain sticking patterns for certain rhythms: Eighth notes will be R-L, triplets will be R-L-Land 16th notes will be R-L-R-L, as follows: Ex 8.8
+R
+R
+R
+R
+Any time you have an odd note grouping, the sticking will flip when using hand-to-hand sticking: By doubling the left hand in the triplet (the only odd note grouping in this unit), you can maintain right hand lead for the duration.
+Now, play example 8.6 (one-bar patterns) and 8.7 (32-bar exercise) again, this time using right hand lead:
+Once that has been completed, let's assign patterns to move these exercises around the drum set: Let's begin by playing the first right hand of each rhythm on the toms All of the other notes will remain on the snare drum: Example has the first right hand on the rack tom; example 2 is on the floor tom, and example 3 is alternating between rack and floor (beats and 3 on the rack; and 2 and 4 on the floor:) All toms are played with your right hand Ex 8.9
+)= R L R ~R R
+7 R R
+=
+97

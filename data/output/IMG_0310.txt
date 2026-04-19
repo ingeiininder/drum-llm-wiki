@@ -1,0 +1,12 @@
+Thereafter; if an empty beat were to be filled with an eighth note, half beat of space would still exist: For example: Ex 4.7
+This circle represents one empty beat:
+An eighth note is now added (equal to half a beat): Ex 4.8
+Occupied space: 1/2 a beat-
+Available (free) space: 1/2 a beat
+Displayed in notation, the downbeat is occupied by a single eighth note. The upbeat has free space: For example: Ex 4.9
+Occupied space: 1/2 a beat (one eighth note)
+Available (free) space: 1/2 a beat (one eighth rest)
+Utilizing the Space To utilize this free space, there are many options that can be employed: For instance; the space could remain empty (represented by an eighth rest), or another eighth note could be placed on the upbeat: For example: Ex 4.10 Occupied space: 1/2 a beat (one eighth note)
+Occupied space: 1/2 a beat (one eighth note)
+Finally (and since one eighth note equals two Single Beam I6th notes), the available space (from Ex. 4.10) Double beam could also be filled by two 16th notes. The single eighth note and two 16th notes will share one main beam, with the two I6th notes being separated by an additional beam: For example: Ex 4.11 Occupied space: 1/2 a beat Occupied space: 1/2 a beat (two (one eighth note) 16th notes)
+92 Drum Reading

@@ -1,0 +1,11 @@
+Unit 6 - Chapter 1
+This pattern (Ex. 6.4 above) can also be notated with an eighth note on the "e" and a I6th note on the "ah;" like this: Ex 6.5
+e & ~a 2 e & ~a 3 ~e & &  R R R R R R
+R
+Applying Assigned Sticking to 16th and Eighth Note Combinations The assigned sticking method is an excellent way to internalize common I6th and eighth note groupings While subdividing is essentially a verbal and/or mental tool, visualizing uninterrupted, alternating I6th notes above (or below) the written patterns will help to not only ensure proper beat placement; but also a smooth performance as well With this in mind (and regardless of a one; two, three or four note grouping per beat) , each I6th -note partial should be assigned to a right or left hand: Lets take a look in great detail:
+One Note per Beat Ex 6.6
+3
+R
+R
+R
+137

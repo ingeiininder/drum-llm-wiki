@@ -1,0 +1,18 @@
+Chapter 3: Sixteenth Triplets & Swung 16ths Sixteenth-note triplets are the result of dividing an eighth-note triplet in two. In 4/4 time there are six 16th- note triplets for every beat (notated as a group of six with the number "6" above the double beam [false notation]) Sixteenth-note triplets are counted as"1-trip-let-&-trip-let-2-trip-let-&-trip-let-3-trip-let-&-trip-let- 4-trip-let-&-trip-let" For example: Ex 4.9 3
+trip
+let
+trip
+let
+trip
+let
+trip
+let
+trip let & trip let
+trip let & trip let
+trip let & trip let
+trip let & trip let
+In Reading 1, Unit 6 you learned about swung eighth-note notation: In this unit you will learn about swung 16th-note notation. Swung I6th notes are widely used in modern rock; funk and hip-hop. To economize notation; the rhythms in these genres are normally written as regular I6th notes to avoid monotonous usage of rests and brackets: Swung I6th notes are based on 16th-note triplets. Similar to the "broken eighth-note triplet" needed to create a shuffle feel,a swung I6th-note feel employs a "broken I6th-note triplet" To create broken I6th-note triplets; we remove the first and fifth note. In the example below, you will notice that the proper I6th triplet counting is notated in the top staffwith the swung 16th-note counting applied directly beneath it: In addition; full 16th-note triplets are notated on the bottom staff for your reference: For example: Ex 4.10 Sixteenth-note triplets
+3 trip let trip let trip let trip let trip let trip let trip let trip let
+Counting four beatsapertmeasure in4/4
+"Broken" 16th-note triplets
+52 Drum Reading 2

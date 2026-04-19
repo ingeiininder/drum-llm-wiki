@@ -1,0 +1,10 @@
+Unit 4 - Chapter 3
+Chapter 3: D. S.al Coda DS: D. S. stands for Del_ Segno or "the Sign" represented by this symbol: S Ex 4.19
+Coda A Coda is a specific ending and is represented by this symbol: Ex 4.20
+D: S:al Coda D. S. al Coda is a specific set of directions that takes you back to an existing part of the chart: Thus, upon reading D.SalCodayou must return to the measure whereyou see the DS. symbol (Ex. 4.21).After travelling back to the sign, you will come across the coda symbol, which instructs you to leave the chart at that point and head down to the coda. For example: Ex 4.21
+Direction #1: D$ return to J! Y sign (letter A)
+AlS Direction #2: al Coda play to the coda sign then jump to the coda
+B 37F
+#2
+#1 D. S al Coda
+95

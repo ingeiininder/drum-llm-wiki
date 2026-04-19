@@ -1,0 +1,22 @@
+Unit Six reading | techNIque pertOrMaNce Chapter 1: Intro to Slow 12-Bar Blues The blues is one of America's greatest musical treasures. A roots music form that evolved out of African- American work songs, field hollers, spirituals,and country string ballads more than a century ago, the blues is the foundation of virtually every major American music form born in the ZOth century, including jazz, rhythm and blues, rock 'n'roll, and hip-hop. This unit's chart will focus on modern master of blues: Stevie Ray Vaughan:
+Structure: 12-Bar Blues (I-IV-V) The term "12-bar blues" refers to the number of measures, or musical bars, used to express the theme of a typical blues song: A 12-bar blues is divided into three four-bar segments A standard blues progression typically features three chords based on the first written as first (I), fourth (IV), and fifth notes ofan eight- note scale: In this case; the (B7) chord dominates the first four bars, the IV (E7) chord typically appears in the second four bars and the V (F#7) chord is played in the third four bars Ex 6.1
+All B7 24
+37
+7
+7
+IV 3 3
+E7 2044/
+B7
+V
+F#7
+E7
+B7
+F#7
+04
+Although the 12-bar blues is broken up into four four-bar phrases that outline the |-IV-V chord structure; it is important to realize that you are ultimately dealing with a 12-bar phrase:
+Rehearsal Letters Just like the 32-bar AABA and ABAB are performed in 32-bar increments; this new structure will also get repeated in its phrase length of 12 bars: In this chart each set of 12-bars is labeled asan A section with each new 12-bars having a numeric suffix For example: Ex 6.2
+Al
+A2
+A3
+A4
+51

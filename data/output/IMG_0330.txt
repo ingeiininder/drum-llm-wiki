@@ -1,0 +1,12 @@
+Economizing Notation In Unit 3,each combination of both 16th notes and 16th rests were displayed Lets review them as follows: Ex 5.3
+Per Beat
+Notation
+Three I6th Notes/One I6th Rest
+Two 16th Notes[Two I6th Rests
+One 16th NotelThree I6th Rests
+All of the I6th note/rest groupings above (Ex. 5.3) are mathematically correct: For clarity reasons there are some combinations that may be written in a different manner: On the following pages, these will be displayed in great detail. Lets take a look:
+A 16th note on the downbeat; I6th rest on the"e" alongside two consecutive 16th notes Since one eighth note (or rest) is equal to two I6th notes (or rests), an eighth note can also be used to replace the I6th note on the downbeat and 16th rest on the"e" For example: Ex 5.4 e &
+One eighth note = One 16th note and one I6th note rest
+On a single surface, such as a snare drum, these two rhythms sound the same:
+&
+112 Drum Reading

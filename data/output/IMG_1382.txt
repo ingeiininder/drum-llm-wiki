@@ -1,0 +1,18 @@
+Unit 2 - Chapter 2
+Layered Patterns The next step in developing over the bar patterns is to begin to layer more intricate hi-hat patterns over the snare drum pattern. This technique will give you the ability to create interesting modular groupings between varying playing surfaces with precision To begin;, let's isolate the hands and look at the combinations
+The hi-hat pattern will be an eighth note on every downbeat followed by two I6th notes on the "&"and "ah" of every beat, as follows: Ex 2.9
+The snare drum pattern will continue to be two I6th notes moving over by a I6th note every three notes, for example: Ex 2.10
+Before putting these two patterns together (Ex. 2.9 and 2.10), we will isolate each grouping of two snare drum notes and play them under the hi-hat pattern. This will help you to feel the pairings between the hands. For example: Ex 2.11
+Snare drum on the downbeat and the "e" of every beat:
+Hi-hat
+Snare
+Snare drum on the "e" and the "&" of every beat:
+Hi-hat
+Snare
+Snare drum on the "& and the "ah" of every beat:
+Hi-hat
+Snare
+Snare drum on the "ah" and the downbeat of every beat:
+Hi-hat
+Snare
+19

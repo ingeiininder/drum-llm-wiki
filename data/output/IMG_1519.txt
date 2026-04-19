@@ -1,0 +1,10 @@
+A1 1
+iidt 5 A2 1 Fill 45
+B 19
+Here is a groove variation that comps the bass line in section B:
+B
+Try this groove to comp the horn shots in section C1:
+2 L ? 2 3-
+C1 7744467 19
+Jst X OnLY
+C2 19

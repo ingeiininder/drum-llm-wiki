@@ -1,0 +1,12 @@
+Unit 3 - Chapter 1
+The following is a list of how rests within a measure of 6/8 are divided. Ex 33
+Half rest six beats/one per measure
+Dotted quarter rest three beats/two per measure
+Quarter rest two beats/three per measure
+Eighth rest one beat/six per measure
+Counting in 6/8 Ifthe tempo is slow, it is very easy to count every eighth note (and tap your foot on every beat) For example: Ex 3.4 Tap on every beat
+2
+3 4
+5
+If the tempo is fast; 6/8 is a meter that can be felt in "two" with the strong beats landing on every dotted quarter note (on beats and 4). Therefore; if the tempo was dotted quarter 120 BPM, then you will want to tap your foot on beats 1 and 4 as follows: Ex 3.5 Tap on beats and 4
+33

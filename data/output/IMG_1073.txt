@@ -1,0 +1,17 @@
+Chapter 3: The 4/4 to Cut Time Modulation 4/4 to Cut Time: Overview In this example; the chart will go from I6th-note funk feel in 4/4 to a samba in cut time: The funk section is written in 4/4 in order to display 16th-note patterns, which are idiomatic to the style The samba section is written in cut time to notate the ensemble figures as simply as possible; using larger note values. Also, the samba is known as a two-bar pattern; writing it in 4/4 would mistakenly notate the samba as a one- bar pattern:
+The Chart The chart has two sections: letter A, which is twelve bars long (in 4/4) featuring a one-bar funk groove; and letter B, which is 16 bars long (in cut time), featuring a two-bar samba pattern: Both sections have ensemble figures that need to be set up and orchestrated: Ex 8.10 =84
+Funk feel
+continue: ..
+2.
+7ZA2 fine
+To samba Fill ~ 723
+HZZ2
+B Samba
+7
+continue__.
+7
+) /
+To funk feel Fill Ctttttttttttt
+7/
+D. C al fine
+84 Drum Reading 4

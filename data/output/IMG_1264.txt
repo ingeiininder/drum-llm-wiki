@@ -1,0 +1,5 @@
+Coda The coda is an eight-bar section, and the first four bars are identical to letter C Thereafter; an orchestrated fill is utilized during the last four bars This fill should be played verbatim. Ex 7.15
+Metronome Sidebar Dotted-Quarter Click: Your click will be on beats 1 and 4. This chart's tempo is set to a 6/8 dotted-quarter-note pulse which equals 118 BPM This means that your click will be pulsing on beats 1 and 4. In order to accurately and easily set this this tempo, put your click on in 4/4 time and set it to 118 BPM However; should you need to practice with your click on each eighth (within the 6/8 pulse), you can keep the click in 4/4 time and have it subdivide eighth-note triplets
+cc
+128 KORG Dot MoNovt MeJo
+70 Drum Performance 4

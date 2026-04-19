@@ -1,0 +1,15 @@
+Unit 2 - Chapter 2
+Chapter 2: Performance Notes and Sound Letter A Letter A features a two-bar swung I6th phrase alongside a syncopated 16th-note bass drum groove; two- handed 16th-note hi-hat pattern and snare backbeat The backbeat will be played with the right hand while the hi-hat is played with alternating (RLRL) sticking: Ex 2.6
+R L R L IRI L R
+etc_
+Letter A2 At letter A2 is an eight-bar phrase (by use of first and second endings) which ends with a sharp, open-to- closed hi-hat on the "ah"of two in the second ending: Notice the additional bass drum and hi-hat activity as well: For example: Ex 2.7
+A2
+12_
+Ghosting the Hi-Hat In order to achieve the proper sound within this hi-hat pattern, we must focus on the accents alone: Ex 2.8
+#Lor R
+#Lor R
+Thereafter; you can add the unaccented notes at a pianissimo (ghosted) volume:
+A2
+7X
+~
+With the sticking above (Ex. 2.8) you could also eliminate the unaccented hi-hat notes and play the backbeat with the left hand:

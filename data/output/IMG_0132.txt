@@ -1,0 +1,9 @@
+Unit Chapter 1
+Repeat Signs Ex 1,.5 Start Repeat
+End Repeat
+Rather than writing two identical eight-bar sections, an additional usage of the same phrase is marked with both a start and end repeat sign.Therefore (upon reaching bar eight), you will immediately "repeat" (travel back) to bar one of that phrase: For example:
+Ex 1.6
+Tight Hi-Hat
+Ensemble Figures Ensemble figures are rhythms that are played by the entire ensemble (band) These figures are written in the middle of the staff and take precedence over the time slashes In this particular chart; there are ensemble figures - on beat four of the eighth measure of Letter A, just prior to entering letter B. Ex 1,.7 Tight Hi-Hat
+With this in mind, you will need to accentuate these rhythms along with the band: One solid method to orchestrate this figure is to simply play a cymbal crash in unison with the snare drum (which is already playing) on beat four: Ex 1.8 Tight Hi-Hat
+5
