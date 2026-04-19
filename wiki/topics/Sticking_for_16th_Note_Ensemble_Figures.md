@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Sticking for 16th-Note Ensemble Figures
 
-When executing [[Set-up Fill|Set-up Fills]] for 16th-note [[Ensemble Figure|Ensemble Figures]], sticking choices are dictated by two main factors: physical comfort and the "destination" sound source.
+When executing [[Set-up Fill|Set-up Fills]] for 16th-note [[Ensemble Figures|Ensemble Figures]], sticking choices are dictated by two main factors: physical comfort and the "destination" sound source.
 
 ### Primary Sticking Options
 1. **Hand-to-Hand (Alternating)**:

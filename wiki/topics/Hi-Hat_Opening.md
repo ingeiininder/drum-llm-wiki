@@ -13,6 +13,6 @@ A `[[Hi-Hat Opening]]` is a drumming technique where the drummer briefly lifts t
 *   **Accentuation**: Used to accent specific beats or off-beats, adding emphasis to a rhythm.
 *   **Texture**: Creates a brighter, more open sound compared to a closed hi-hat, enriching the `[[Rhythmic Textures]]`.
 *   **Contrast**: Often employed in a 'B' section of a song (as seen in `[[Ex 4.2]]`) to provide a contrasting feel to an 'A' section that might use a closed hi-hat exclusively.
-*   **Energy**: Can be used to build or release energy within a `[[Groove]]`, especially in `[[Two-Handed 16th-Note Grooves]]` found in `[[Rock Music Styles]]`.
+*   **Energy**: Can be used to build or release energy within a `[[Groove]]`, especially in `[[Two-Handed_16th-Note_Groove]]` found in `[[Rock Music Styles]]`.
 
 **Pro-Tip**: Practice precise timing for both opening and closing the hi-hat. The duration of the open sound can vary from a quick "chick" to a longer, sustained shimmer, depending on the desired musical effect.

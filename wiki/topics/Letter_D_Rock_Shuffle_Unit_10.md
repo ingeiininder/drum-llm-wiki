@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Letter D (Rock Shuffle - Unit 10)
-Letter D is the final section of the Unit 10 rock shuffle tune, appearing after the break at [[Letter C (Rock Shuffle - Unit 10)]].
+Letter D is the final section of the Unit 10 rock shuffle tune, appearing after the break at [[Letter_C_Rock_Shuffle_Unit_10]].
 
 **Key Characteristics:**
 *   **Similarity to B**: The D section is described as "identical to the B section." This means it will likely share the same length (18 bars, or similar structure) and the same musical content, including the [[Rock Shuffle]] groove and the guitar melody with its long half-note and whole-note phrases.

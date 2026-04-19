@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Triplet Partials
-When a beat is divided into three equal parts to form a [[Triplet]], each of these three individual subdivisions is referred to as a "partial" of the triplet. Understanding [[Triplet Partials]] is crucial for accurately counting, performing, and discussing [[Triplets]], especially when [[Rests]] or other [[Note Values]] are incorporated within the triplet grouping.
+When a beat is divided into three equal parts to form a [[Triplets]], each of these three individual subdivisions is referred to as a "partial" of the triplet. Understanding [[Triplet Partials]] is crucial for accurately counting, performing, and discussing [[Triplets]], especially when [[Rests]] or other [[Note Values]] are incorporated within the triplet grouping.
 
 **Identification:**
 *   **First Partial:** The first note or rest of the triplet, typically falling directly on the beat.

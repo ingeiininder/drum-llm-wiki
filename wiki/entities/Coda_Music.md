@@ -24,7 +24,7 @@ Codas are crucial for providing a definitive and often conclusive ending to piec
 
 ## Ensemble Figures in the Coda
 
-Codas often feature [[Ensemble Figures (Coda, Unit 7)|ensemble figures]] – rhythms played by the entire band – to create a strong, unified ending. These figures require precise coordination among all musicians.
+Codas often feature [[Ensemble_Figures_Coda_Unit_7|ensemble figures]] – rhythms played by the entire band – to create a strong, unified ending. These figures require precise coordination among all musicians.
 
 ## Pro-Tips for Drummers
 

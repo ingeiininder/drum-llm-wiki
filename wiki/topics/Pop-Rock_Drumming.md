@@ -12,7 +12,7 @@ last_updated: 2026-04-19
 Modern **Pop-Rock drumming** focuses on precise grooves, a definitive backbeat, and polished production. The genre emphasizes songwriting craft, requiring the drummer to play tightly constructed parts with no "wasted space" or extraneous notes.
 
 ### Stylistic Characteristics
-- **Backbeat**: Strong and consistent, often utilizing [[Rim Shot]] articulations for clarity.
+- **Backbeat**: Strong and consistent, often utilizing [[Rimshot]] articulations for clarity.
 - **Instrumentation**: Standard rock kit, but with a focus on clean, bright sounds that appeal to a broad commercial audience.
 - **Influential Players**: Shawn Pelton, Steve Jordan, and the grooves found in the music of Sheryl Crow or Sting.
 

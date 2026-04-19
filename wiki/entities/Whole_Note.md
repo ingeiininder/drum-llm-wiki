@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **Whole Note** is a fundamental [[Rhythmic Values|note value]] in music notation.
 
 ## Characteristics
-*   **Duration**: In a standard [[4/4 Time Signature]], a whole note is equal to **four beats**, meaning it sustains for the entire duration of one [[Measure]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a whole note is equal to **four beats**, meaning it sustains for the entire duration of one [[Measure]].
 *   **Notation**: It is indicated by a hollow oval note head without a stem.
 *   **Counting**: When counting aloud in 4/4 time, a whole note is typically counted as "1 - 2 - 3 - 4", with the sound sustained for all four beats.
 
@@ -31,6 +31,6 @@ A **Whole Note** is a fundamental [[Rhythmic Values|note value]] in music notati
 *   [[Half Note]]
 *   [[Quarter Note]]
 *   [[Whole Rest]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

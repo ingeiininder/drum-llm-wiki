@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # 16th-Note Ensemble Figure (Funk-Rock)
-An [[Ensemble Figure]] (or "hit") is a rhythmic accent played simultaneously by multiple instruments in a band. In this [[Funk-Rock]] chart, a specific [[16th-Note Ensemble Figure]] occurs in the second bar of the "Letter B" groove.
+An [[Ensemble Figures]] (or "hit") is a rhythmic accent played simultaneously by multiple instruments in a band. In this [[Funk-Rock]] chart, a specific [[16th_Note_Ensemble_Figures]] occurs in the second bar of the "Letter B" groove.
 
 **Key Characteristics:**
-*   **Placement:** Located on the "e" of beat 4 in the second bar of the [[Syncopated Funk-Rock Groove (Letter B)]]. This is a highly [[Syncopated]] placement, making it challenging to execute precisely.
+*   **Placement:** Located on the "e" of beat 4 in the second bar of the [[Syncopated_Funk-Rock_Groove_Letter_B]]. This is a highly [[Syncopated]] placement, making it challenging to execute precisely.
 *   **Instrumentation:** Performed on the [[Bass Drum]] and [[Crash Cymbal]] simultaneously. This combination creates a powerful, punctuating accent.
 *   **Purpose:** Ensemble figures add rhythmic punctuation, emphasize specific musical moments, and create dynamic interest within the chart.
 

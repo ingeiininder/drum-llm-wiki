@@ -14,7 +14,7 @@ The **Upstroke** is a fundamental motion used to conserve energy and prepare for
 ### Mechanics
 - **The Tap Stroke**: A gentle bend in the wrist yields the tap stroke. This is the "low" note that follows or precedes an accent.
 - **Fluidity**: The motion should be fluid and natural, requiring a minimal amount of squeezing or releasing within the [[Grip]].
-- **The "Two-for-One" Principle**: You are essentially creating two sounds with one motion: one note on the upstroke (the preparation) and one on the accent (the [[Downstroke]]).
+- **The "Two-for-One" Principle**: You are essentially creating two sounds with one motion: one note on the upstroke (the preparation) and one on the accent (the [[Down_Stroke]]).
 
 ### Training Guidelines
 - **Weak Hand Lead**: To balance dexterity, it is recommended to lead with the "weaker" hand (usually the left for right-handed players) approximately 70% of the time.

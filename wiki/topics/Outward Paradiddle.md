@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Outward Paradiddle
-The [[Outward Paradiddle]] is one of the four basic [[Paradiddle]] variations, presenting a distinct [[Sticking Pattern]] that contributes to a drummer's overall technical vocabulary.
+The [[Outward Paradiddle]] is one of the four basic [[Paradiddle]] variations, presenting a distinct [[Sticking Patterns]] that contributes to a drummer's overall technical vocabulary.
 
 **Sticking Pattern (Ex 8.4)**:
 R R L R L L R L

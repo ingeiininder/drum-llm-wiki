@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Heel Up Hi-Hat Method
-The Heel Up Hi-Hat Method is the most widely used hi-hat stepping technique, offering the ability to play faster and with a bigger dynamic range compared to the [[Heel/Toe Hi-Hat Method]]. Unlike [[Bass Drum Technique]] (where the ankle is primary), this is primarily an upper leg technique, accessing the weight of the leg to produce a solid, consistent [[Hi-Hat "Chick" Sound]]. The primary motion originates from the hip.
+The Heel Up Hi-Hat Method is the most widely used hi-hat stepping technique, offering the ability to play faster and with a bigger dynamic range compared to the [[Heel-Toe_Hi-Hat_Method]]. Unlike [[Bass Drum Technique]] (where the ankle is primary), this is primarily an upper leg technique, accessing the weight of the leg to produce a solid, consistent [[Hi-Hat "Chick" Sound]]. The primary motion originates from the hip.
 
 ## Execution Steps
 1.  **Starting Position**: Begin with your heel up a few inches from the [[Hi-Hat Pedal]] plate, with your toes/ball of your foot resting towards the top of the pedal (Ex. 4.18).

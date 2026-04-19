@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Charley Wilcoxon Solo No. 25
-Solo No. 25 is a technical etude that introduces the complex transition of placing a [[Drag]] after a [[Flam]] and before a [[Roll]].
+Solo No. 25 is a technical etude that introduces the complex transition of placing a [[Drag]] after a [[Flams]] and before a [[Roll]].
 
 ### Key Technical Challenge
 The "Flam-Drag-Roll" combination (specifically leading into a [[5-Stroke Roll]]) appears in bars 8, 9, and 10. This requires precise metering of the grace notes to ensure the roll starts exactly on time.

@@ -17,7 +17,7 @@ last_updated: 2026-04-19
 *   **Balance**: Maintaining a centered physical weight is crucial for the execution of the [[Double Pedal]] "Groove Builders" found in the track.
 
 ### Performance Notes
-The "Road Map" (IMG_1570) indicates a structure alternating between "Groove A" and various "Guitar Riffs." The guitar riffs are heavily based on sixteenth-note triplets, and the drummer is encouraged to orchestrate [[Drum Fills]] that complement these triplet figures.
+The "Road Map" (IMG_1570) indicates a structure alternating between "Groove A" and various "Guitar Riffs." The guitar riffs are heavily based on sixteenth-note triplets, and the drummer is encouraged to orchestrate [[Drum_Fill]] that complement these triplet figures.
 
 ### Pro-Tips
 *   **Counting**: Because the left foot occupies unusual upbeat positions, vocalizing the count is essential to prevent "rushing" the triplets.

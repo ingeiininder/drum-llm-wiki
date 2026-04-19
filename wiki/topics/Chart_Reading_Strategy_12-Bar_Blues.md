@@ -27,8 +27,8 @@ Instead, adopt this approach:
 
 ## Pro-Tips
 
-*   **Internalize the Form First**: Before attempting this strategy, ensure you have a strong internal understanding of the 12-bar blues progression and the assigned [[Form Assignment (Unit 7)|form]].
-*   **Memorize Key Transitions**: Know exactly where the [[Head (Music Term)|head]] ends, where solos begin, and where the [[Coda (Music)|coda]] is taken.
+*   **Internalize the Form First**: Before attempting this strategy, ensure you have a strong internal understanding of the 12-bar blues progression and the assigned [[Form_Assignment_Unit_7|form]].
+*   **Memorize Key Transitions**: Know exactly where the [[Head_Music_Term|head]] ends, where solos begin, and where the [[Coda_Music|coda]] is taken.
 *   **Practice Without the Chart**: Periodically practice the entire form without the chart to test your memorization and internal clock.
 *   **Listen Actively**: Use your ears to guide you. Listen to the chord changes, the melody, and the other musicians to stay oriented in the form.
 *   **Trust Your Instincts**: As you gain experience, you'll develop an intuitive sense of where you are in the form. Trust this intuition while still using the chart for occasional verification.

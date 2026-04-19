@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Ensemble Figures (Coda, Unit 7)
 
-[[Ensemble Performance|Ensemble figures]] are rhythmic patterns played by the entire band in unison, and they are particularly impactful when used in a [[Coda (Music)|coda]] to create a strong, unified ending.
+[[Ensemble Performance|Ensemble figures]] are rhythmic patterns played by the entire band in unison, and they are particularly impactful when used in a [[Coda_Music|coda]] to create a strong, unified ending.
 
 ## Location and Rhythms
 

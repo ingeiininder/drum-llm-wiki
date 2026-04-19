@@ -26,4 +26,4 @@ To enhance advanced triplet control by combining alternate stickings with one-ha
 6.  **Gradual Tempo Increase:** Only increase tempo when the exercise can be played cleanly, musically, and without tension.
 
 **Pro-Tip:**
-These exercises are designed to push your limits. One-handed stickings within triplets, in particular, require significant wrist and finger control. Apply principles like the [[Moeller Stroke]] or [[Finger Technique]] to execute these efficiently. The goal is not just to play the notes, but to develop the fluidity and control that allows for musical expression with triplets.
+These exercises are designed to push your limits. One-handed stickings within triplets, in particular, require significant wrist and finger control. Apply principles like the [[Moeller_Up_Stroke]] or [[Finger Technique]] to execute these efficiently. The goal is not just to play the notes, but to develop the fluidity and control that allows for musical expression with triplets.

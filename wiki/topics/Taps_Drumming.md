@@ -14,7 +14,7 @@ For the purpose of this study, taps are generally played with a low stick height
 
 **Relationship with Accents and Up Strokes:**
 *   **Unaccented Nature:** Taps are the counterpart to [[Accents (Drumming)]], providing the softer dynamic level against which accents can be highlighted.
-*   **Moeller Up Stroke:** The [[Moeller Up Stroke]] is a specific technique designed to efficiently play a tap when it immediately precedes an accented [[Moeller Stroke]]. This allows for seamless transitions between soft and loud dynamics.
+*   **Moeller Up Stroke:** The [[Moeller Up Stroke]] is a specific technique designed to efficiently play a tap when it immediately precedes an accented [[Moeller_Up_Stroke]]. This allows for seamless transitions between soft and loud dynamics.
 *   **Following an Accent:** If a tap follows an accent, that accented note will typically utilize a [[Down Stroke]] technique, where the stick finishes low, ready for the subsequent tap.
 
 **Pro-Tip:** Focus on consistency in your tap strokes. All unaccented notes should have a uniform volume and feel. Avoid "ghosting" taps so softly that they disappear, unless that is the specific musical intent. The goal is clarity and control at a low dynamic level.

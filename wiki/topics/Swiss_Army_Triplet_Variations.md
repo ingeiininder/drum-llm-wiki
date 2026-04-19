@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Swiss Army Triplet Variations
 
-The **Swiss Army Triplet** is a foundational [[Flam]] rudiment that is exceptionally useful for drum set application due to its "offset" sticking, which allows for seamless mobility between different drums and cymbals.
+The **Swiss Army Triplet** is a foundational [[Flams]] rudiment that is exceptionally useful for drum set application due to its "offset" sticking, which allows for seamless mobility between different drums and cymbals.
 
 ### Basic Structure and Inversions
 The standard Swiss Army Triplet (Right-Handed: `^R R L`) can be displaced to create new melodic shapes:

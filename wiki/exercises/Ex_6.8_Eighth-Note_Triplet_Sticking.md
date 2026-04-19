@@ -30,4 +30,4 @@ The garbled notation suggests a continuous alternating pattern, possibly with sp
 5.  **Build Tempo Gradually:** Only increase the tempo when the pattern can be played cleanly and consistently at the current speed.
 
 **Pro-Tip:**
-This exercise helps develop the mental and physical agility to navigate complex triplet rhythms. It's an excellent opportunity to work on your internal clock and ensure that your hands are responding precisely to your rhythmic intentions. Consistent practice will lead to greater confidence and versatility in your [[Drum Technique]].
+This exercise helps develop the mental and physical agility to navigate complex triplet rhythms. It's an excellent opportunity to work on your internal clock and ensure that your hands are responding precisely to your rhythmic intentions. Consistent practice will lead to greater confidence and versatility in your [[Drum_Technique_50]].

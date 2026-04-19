@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 16th Notes on Snare Drum with Quarter Note Bass Drum
-This specific [[Groove]] pattern is described for the [[Verse Section (Letter A)]] in a [[Country-Pop Genre]] chart. It involves:
+This specific [[Groove]] pattern is described for the [[Verse_Section_Letter_A]] in a [[Country-Pop Genre]] chart. It involves:
 *   A repeating [[16th Notes]] pattern played on the [[Snare Drum]]. This often implies a ghost note pattern or a light, driving rhythm.
 *   The [[Bass Drum]] playing on all [[Quarter Notes]] underneath the snare drum pattern, providing a solid, consistent foundation.
 

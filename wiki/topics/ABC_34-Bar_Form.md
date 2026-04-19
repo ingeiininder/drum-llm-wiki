@@ -23,7 +23,7 @@ Each letter represents a shift in three key musical attributes:
 
 ### Typical Navigation
 In a standard 34-bar arrangement (as seen in [[Hard Rock Drumming]] Unit 1):
-*   **Intro**: Often starts with a bass riff and [[Multi-rest]].
+*   **Intro**: Often starts with a bass riff and [[Multi-Rests]].
 *   **Section A**: Often a 10-bar phrase.
 *   **Section B**: Often a 12-bar phrase featuring an aggressive groove.
 *   **Section C**: A shorter section (e.g., 4 bars) often serving as a solo or transition.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 16th Notes with 16th Rests (One Bar Phrases)
-This exercise type, designated "A" within the "II" series, focuses exclusively on [[Sixteenth Notes]] and [[16th Rests]] within single-bar phrases. This is a crucial step for developing precise control over the smallest common subdivision and understanding how silence functions at a granular level.
+This exercise type, designated "A" within the "II" series, focuses exclusively on [[Sixteenth Notes]] and [[16th_Rest]] within single-bar phrases. This is a crucial step for developing precise control over the smallest common subdivision and understanding how silence functions at a granular level.
 
 **Practice Guidance:**
 1.  **Micro-Timing:** Pay extreme attention to the exact placement of each 16th note and the duration of each 16th rest. Even slight inaccuracies will be noticeable.

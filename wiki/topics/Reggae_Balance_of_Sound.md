@@ -19,4 +19,4 @@ The "player's mix" for [[Reggae]] is a variation of the standard Pop-Rock balanc
 ### Comparison to Pop-Rock
 In Pop-Rock, the hi-hat is often quite loud to drive the eighth-note feel. In Reggae, the "weight" shifts almost entirely to the interaction between the kick and the snare/cross-stick on beat 3.
 
-**Related**: [[Bossa_Nova_Balance_of_Sound.md]], [[One-Drop_Groove.md]]
+**Related**: [[Bossa_Nova_Balance_of_Sound]], [[One-Drop_Groove.md]]

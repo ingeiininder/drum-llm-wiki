@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Bar Line
-A bar line is a vertical line used in [[Music Notation]] to divide [[The Staff]] into segments called [[Measure (Music Notation)|measures]]. These lines are fundamental for organizing musical time and rhythm.
+A bar line is a vertical line used in [[Music Notation]] to divide [[The Staff]] into segments called [[Measure_Music_Notation|measures]]. These lines are fundamental for organizing musical time and rhythm.
 
 ## Function
 *   **Measure Division**: Single bar lines clearly delineate the boundaries of each measure.

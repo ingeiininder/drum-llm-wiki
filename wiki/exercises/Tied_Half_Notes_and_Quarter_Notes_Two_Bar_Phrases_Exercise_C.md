@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Half Notes and Quarter Notes (Two-Bar Phrases) - Exercise C
-This exercise provides further practice in reading and performing [[Ties]] that connect [[Half Notes]] and [[Quarter Notes]] within two-bar phrases. It aims to solidify the understanding of how ties create longer rhythmic values and affect [[Phrasing]].
+This exercise provides further practice in reading and performing [[Ties]] that connect [[Half_Note]] and [[Quarter Notes]] within two-bar phrases. It aims to solidify the understanding of how ties create longer rhythmic values and affect [[Phrasing]].
 
 **Key Learning Points:**
 *   **Consistent Pulse**: Maintain a steady internal [[Metronome]] pulse throughout the tied durations.

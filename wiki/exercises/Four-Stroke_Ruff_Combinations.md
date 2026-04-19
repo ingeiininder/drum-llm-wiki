@@ -26,4 +26,4 @@ The source material provides a series of exercises (Ex 6.16, Ex 6.17) that prese
 5.  **Identify Challenges:** If a specific transition or combination is difficult, isolate that section and practice it repeatedly.
 
 **Pro-Tip:**
-These combination exercises are excellent for developing musicality with rudiments. Think about how the [[Four-Stroke Ruff]] can be used as an embellishment or a lead-in to a beat. The goal is to make the rudiment sound natural and integrated into the overall rhythm, rather than just a technical exercise. This will significantly improve your overall [[Drum Technique]] and rhythmic vocabulary.
+These combination exercises are excellent for developing musicality with rudiments. Think about how the [[Four-Stroke Ruff]] can be used as an embellishment or a lead-in to a beat. The goal is to make the rudiment sound natural and integrated into the overall rhythm, rather than just a technical exercise. This will significantly improve your overall [[Drum_Technique_50]] and rhythmic vocabulary.

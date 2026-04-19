@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 This exercise is designed to isolate and strengthen individual wrist control while playing the [[Seven-Stroke Ruff]]. It involves playing the entire rudiment with a single hand, focusing on the wrist's ability to produce both unaccented grace notes and an accented stroke.
 
 **Objective:**
-To develop independent wrist control and strength for both hands, ensuring that each hand can execute the [[Seven-Stroke Ruff]] with precision, dynamics, and fluidity. This is a crucial step in achieving balanced and powerful [[Drum Technique]].
+To develop independent wrist control and strength for both hands, ensuring that each hand can execute the [[Seven-Stroke Ruff]] with precision, dynamics, and fluidity. This is a crucial step in achieving balanced and powerful [[Drum_Technique_50]].
 
 **Method (based on Ex 4.13 played with one hand):**
 The original [[Ex 4.13 Standard Seven-Stroke Ruff]] is adapted to be played entirely with one hand.

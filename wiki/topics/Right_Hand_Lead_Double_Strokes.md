@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Right Hand Lead (Double Strokes)
-Right Hand Lead (Double Strokes) is a specific application of the [[Double Strokes: Lead Method]] where the right hand consistently initiates the double stroke pattern.
+Right Hand Lead (Double Strokes) is a specific application of the [[Double_Strokes_Lead_Method]] where the right hand consistently initiates the double stroke pattern.
 
 *   **Pattern**: When playing continuous [[16th Note]]s, the sticking would be RR LL RR LL...
 *   **Execution**: The right hand plays two consecutive strokes (RR), followed by the left hand playing two consecutive strokes (LL), and this sequence repeats.

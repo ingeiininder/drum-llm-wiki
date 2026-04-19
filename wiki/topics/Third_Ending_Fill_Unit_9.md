@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Third Ending Fill (Unit 9)
-The fill designated for the [[B Section Endings (Unit 9)|third ending]] of the B section is designed to be played with alternating [[Single Strokes]].
+The fill designated for the [[B_Section_Endings_Unit_9|third ending]] of the B section is designed to be played with alternating [[Single Strokes]].
 
 **Execution:**
 *   The fill should be executed using a continuous stream of alternating single strokes (R L R L R L...).

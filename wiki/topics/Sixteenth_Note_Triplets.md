@@ -9,12 +9,12 @@ last_updated: 2026-04-19
 
 # Sixteenth-Note Triplets (Sextuplets)
 
-**Sixteenth-note triplets**, often referred to as **Sextuplets**, are created by dividing an [[Eighth-Note Triplet]] into two equal parts. In [[4-4 Time]], there are six sixteenth-note triplets for every beat.
+**Sixteenth-note triplets**, often referred to as **Sextuplets**, are created by dividing an [[Eighth_Note_Triplet]] into two equal parts. In [[4-4 Time]], there are six sixteenth-note triplets for every beat.
 
 ### Notation and Counting
 Sextuplets are typically notated as a group of six notes with a double beam and the number "6" written above.
 - **Counting**: 1-trip-let-&-trip-let, 2-trip-let-&-trip-let, etc.
-- **Relationship**: They are twice as fast as eighth-note triplets and four times the speed of [[Half-Note Triplets]].
+- **Relationship**: They are twice as fast as eighth-note triplets and four times the speed of [[Half_Note_Triplets]].
 
 ### Application in Grooves
 Practicing sextuplets requires integration with different underlying feels:

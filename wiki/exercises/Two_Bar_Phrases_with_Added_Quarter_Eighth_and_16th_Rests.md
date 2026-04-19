@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Two-Bar Phrases with Added Quarter, Eighth and 16th Rests
-This exercise focuses on enhancing a drummer's proficiency in accurately reading and observing various [[Rests]], specifically [[Quarter Rests]], [[Eighth Rests]], and [[Sixteenth Rests]], within the context of two-bar rhythmic phrases.
+This exercise focuses on enhancing a drummer's proficiency in accurately reading and observing various [[Rests]], specifically [[Quarter_Rest]], [[Eighth Rests]], and [[Sixteenth_Rest]], within the context of two-bar rhythmic phrases.
 
 **Key Learning Points:**
 *   **Silence as Rhythm**: Understand that rests are active rhythmic elements, not just pauses. The duration of silence must be as precise as the duration of a played note.

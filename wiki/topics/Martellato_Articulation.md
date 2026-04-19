@@ -18,4 +18,4 @@ In a drum chart, martellato eighth notes (often indicated by a heavy accent or w
 *   High velocity to match the "hammered" description.
 
 ### Context
-In [[Drum Reading 3]], martellato articulations are used to end phrases (such as the end of a 10-bar phrase) to provide a definitive, aggressive conclusion to the section.
+In [[Drum_Reading]], martellato articulations are used to end phrases (such as the end of a 10-bar phrase) to provide a definitive, aggressive conclusion to the section.

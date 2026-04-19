@@ -28,4 +28,4 @@ The text outlines several combinations:
 6.  **Quarter-Note Triplet Rest on First Partial (occupying 1st & 2nd), with Eighth-Note Triplet on Third Partial:**
     *   Counting: "rest-rest-let".
 
-**Pro-Tip:** When playing instruments with no apparent note length (like [[Drums]]), the distinction between a quarter-note triplet and two consecutive eighth-note triplets might seem subtle. However, understanding the notation is crucial for accurate interpretation. Focus on the *duration* of the silence or sound. These combinations are vital for creating complex [[Grooves]] and [[Fills]] in [[Swing]] and [[Shuffle]] contexts.
+**Pro-Tip:** When playing instruments with no apparent note length (like [[Drums]]), the distinction between a quarter-note triplet and two consecutive eighth-note triplets might seem subtle. However, understanding the notation is crucial for accurate interpretation. Focus on the *duration* of the silence or sound. These combinations are vital for creating complex [[Groove]] and [[Fill]] in [[Swing]] and [[Shuffle]] contexts.

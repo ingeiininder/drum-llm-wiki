@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Extended Phrase (Funk-Rock)
-An [[Extended Phrase]] refers to a musical phrase that is lengthened beyond its typical or expected duration. In the context of a [[Funk-Rock]] chart, particularly after a [[D.C. al Coda (No Repeats)]] instruction, sections may be extended to create additional musical tension or to facilitate a transition.
+An [[Extended Phrase]] refers to a musical phrase that is lengthened beyond its typical or expected duration. In the context of a [[Funk-Rock]] chart, particularly after a [[D.C._al_Coda_No_Repeats]] instruction, sections may be extended to create additional musical tension or to facilitate a transition.
 
 **Specific Examples from the Text:**
-1.  **Extended Letter A:** After the [[D.C. al Coda (No Repeats)]], a "Letter A" section that might have been 4 bars repeated (total 8 bars) on the first pass, will now be played as a continuous 8-bar phrase without the repeat. This effectively extends the *played* length of the section on the second pass.
+1.  **Extended Letter A:** After the [[D.C._al_Coda_No_Repeats]], a "Letter A" section that might have been 4 bars repeated (total 8 bars) on the first pass, will now be played as a continuous 8-bar phrase without the repeat. This effectively extends the *played* length of the section on the second pass.
 2.  **Extended Letter B (Transition Fill):** A "Letter B" section is explicitly extended by one extra bar. This extra bar, while technically part of the [[Coda]], functions as an extended transition fill and effectively becomes a ninth bar to Letter B. This is done to "create additional tension within the chart."
 
 **Implications for Drummers:**

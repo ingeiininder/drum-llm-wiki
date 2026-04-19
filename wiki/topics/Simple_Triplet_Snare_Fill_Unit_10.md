@@ -17,4 +17,4 @@ In the second ending of the Unit 10 rock shuffle, there is a straightforward tri
 **Performance Notes:**
 *   **Evenness**: Focus on playing all triplet notes with consistent volume and spacing. Avoid any "lumps" or unevenness in the rhythm.
 *   **Dynamic Control**: Pay particular attention to the dynamic instruction for beat 2. This might require a conscious effort to ensure that part of the fill doesn't drop in volume.
-*   **Fluidity**: Despite being "simple," the fill should sound fluid and natural, leading smoothly into the next section (likely a repeat back to [[Letter A (Rock Shuffle - Unit 10)]] as per the second ending).
+*   **Fluidity**: Despite being "simple," the fill should sound fluid and natural, leading smoothly into the next section (likely a repeat back to [[Letter_A_Rock_Shuffle_Unit_10]] as per the second ending).

@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Ghost Notes
-Ghost notes (also known as "notes in parentheses" or "grace notes") are low-volume notes played on the [[Snare Drum]] that provide rhythmic texture and "fill" the space between primary [[Backbeat|backbeats]].
+Ghost notes (also known as "notes in parentheses" or "grace notes") are low-volume notes played on the [[Snare Drum]] that provide rhythmic texture and "fill" the space between primary [[Back-Beat|backbeats]].
 
 ### Execution and Mechanics
 To properly execute ghost notes alongside loud backbeats (on beats 2 and 4), the drummer must maintain a high degree of relaxation in the left hand (for right-handed players). 

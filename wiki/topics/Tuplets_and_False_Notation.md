@@ -21,4 +21,4 @@ The term **False Notation** refers to the small number (3, 5, 6, 7, etc.) writte
 - **Septuplets (7)**: Seven notes in the space of four.
 
 ### Pro-Tip
-When encountering complex tuplets, find the "common denominator" subdivision. For example, to play a triplet accurately, you must understand the [[Eighth-Note Triplet]] grid. Tuplets allow composers to write rhythms that exist "outside" the standard grid of the time signature.
+When encountering complex tuplets, find the "common denominator" subdivision. For example, to play a triplet accurately, you must understand the [[Eighth_Note_Triplet]] grid. Tuplets allow composers to write rhythms that exist "outside" the standard grid of the time signature.

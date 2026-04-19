@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ruffs (Rudiment Family)
-The [[Ruffs (Rudiment Family)]] is one of the five [[Rudiment Families]] and consists of rudiments characterized by a short single-stroke roll (or grace notes) that is generally played either before or after an [[Accents (Drumming)|accent]]. Ruffs add a subtle "drag" or "flurry" sound to a main note, enhancing its articulation and texture.
+The [[Ruffs_Rudiment_Family]] is one of the five [[Rudiment Families]] and consists of rudiments characterized by a short single-stroke roll (or grace notes) that is generally played either before or after an [[Accents (Drumming)|accent]]. Ruffs add a subtle "drag" or "flurry" sound to a main note, enhancing its articulation and texture.
 
 **Core Concept:**
 A ruff typically involves two or more unaccented grace notes played quickly before or after a main accented note. The number of grace notes determines the specific ruff (e.g., 3-stroke, 4-stroke).

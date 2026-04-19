@@ -17,4 +17,4 @@ In ballad and R&B contexts, the bass drum provides the "round" foundation of the
 
 ### "Burying the Beater" (Pitfall)
 *   **Definition**: Keeping the beater pressed against the head after the stroke.
-*   **Result**: This "chokes" the drum, killing the resonance and producing a flat, thuddy sound. In styles like the [[Country-Rock Ballad]], this is generally avoided in favor of a "big and warm" sound.
+*   **Result**: This "chokes" the drum, killing the resonance and producing a flat, thuddy sound. In styles like the [[Country_Rock_Ballad]], this is generally avoided in favor of a "big and warm" sound.

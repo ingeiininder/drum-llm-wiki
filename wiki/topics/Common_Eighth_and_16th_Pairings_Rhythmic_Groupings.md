@@ -16,4 +16,4 @@ These pairings form the building blocks of countless grooves and fills across va
 *   [[16th Note]] - [[Eighth Note]] - [[16th Note]] (1 e a)
 *   Combinations involving rests, such as a [[16th Rest]] followed by three [[16th Note]]s (e & a), or an [[Eighth Rest]] followed by two [[16th Note]]s (& a).
 
-**Pro-Tip**: For professional musicians, these groupings should become "second nature." Practice them extensively through [[Rhythmic Exercises: Unit 5, Chapter 4]] and [[Rhythmic Exercises: Unit 6, Chapter 3]]. The ability to instantly recognize and execute these patterns without conscious thought significantly improves [[Sight Reading]] speed and overall musicality.
+**Pro-Tip**: For professional musicians, these groupings should become "second nature." Practice them extensively through [[Rhythmic_Exercises_Unit_5_Chapter_4]] and [[Rhythmic_Exercises_Unit_6_Chapter_3]]. The ability to instantly recognize and execute these patterns without conscious thought significantly improves [[Sight Reading]] speed and overall musicality.

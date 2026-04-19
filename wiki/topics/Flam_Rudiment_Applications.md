@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Flam Rudiment Applications
 
-This unit integrates three primary flam-based [[Rudiments]] into a drumset context, utilizing a standard [[Bass Drum]] and [[Hi-Hat]] ostinato.
+This unit integrates three primary flam-based [[Rudiment]] into a drumset context, utilizing a standard [[Bass Drum]] and [[Hi-Hat]] ostinato.
 
 ### Core Rudiments Covered
 - **[[Flam Accent]]**: A triplet-based rudiment where the first note of each group is flammed.

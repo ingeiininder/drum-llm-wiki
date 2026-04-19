@@ -16,4 +16,4 @@ last_updated: 2023-10-27
 *   **Dynamics**: Variations in volume and intensity.
 *   **Instrumentation**: The specific drums and cymbals used.
 
-In `[[Intro to Two-Handed 16ths]]`, the fusion of `[[Synth-Pop]]` and `[[Heavy Metal]]` elements often results in rich and aggressive `[[Rhythmic Textures]]`, characterized by driving `[[Two-Handed 16th-Note Grooves]]` and strategic `[[Fills]]`. Understanding and manipulating rhythmic texture is key to creating compelling `[[Drum Performance]]`.
+In `[[Intro to Two-Handed 16ths]]`, the fusion of `[[Synth-Pop]]` and `[[Heavy Metal]]` elements often results in rich and aggressive `[[Rhythmic Textures]]`, characterized by driving `[[Two-Handed_16th-Note_Groove]]` and strategic `[[Fill]]`. Understanding and manipulating rhythmic texture is key to creating compelling `[[Drum Performance]]`.

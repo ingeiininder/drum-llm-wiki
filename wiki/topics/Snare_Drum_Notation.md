@@ -14,4 +14,4 @@ In [[Drum Set Notation Key]], the [[Snare Drum]] is a central component, and its
 *   Its typical position is on the **third space from the bottom** of [[The Staff]]. This central placement reflects its importance in most grooves.
 
 ## Function in Notation
-Snare drum notation indicates when the snare drum should be struck, often marking the [[Backbeat]] or providing intricate rhythmic figures and fills. Additional symbols may be used to indicate [[Rimshot]]s, [[Ghost Notes]], or [[Cross-Stick]] techniques.
+Snare drum notation indicates when the snare drum should be struck, often marking the [[Back-Beat]] or providing intricate rhythmic figures and fills. Additional symbols may be used to indicate [[Rimshot]]s, [[Ghost Notes]], or [[Cross_Stick]] techniques.

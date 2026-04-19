@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 [[Counting Sixteenth Notes]] is a standardized [[Verbal Counting (Rhythm)]] method for articulating [[Sixteenth Note]] subdivisions within a beat. This technique is crucial for developing a precise [[Internal Clock (Drumming)]] and improving [[Rhythmic Accuracy]].
 
 **Standard Method:**
-Each numbered beat (1, 2, 3, 4) in [[4/4 Time Signature]] is further divided by assigning specific syllables to each [[Sixteenth Note]] partial:
+Each numbered beat (1, 2, 3, 4) in [[4-4_Time_Signature]] is further divided by assigning specific syllables to each [[Sixteenth Note]] partial:
 *   **Beat 1:** "1 - e - & - a" (pronounced "one-ee-and-uh")
 *   **Beat 2:** "2 - e - & - a"
 *   **Beat 3:** "3 - e - & - a"

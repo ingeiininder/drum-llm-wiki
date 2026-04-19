@@ -28,4 +28,4 @@ The garbled notation suggests a pattern that might involve repeated strokes with
 5.  **Identify and Address Tension:** If any part of the pattern causes tension, slow down further and analyze your grip and motion. Relaxation is key.
 
 **Pro-Tip:**
-Exercises that break from simple alternating stickings are excellent for developing hand independence and control. They force you to think about each stroke individually while still maintaining the rhythmic flow. This will significantly enhance your overall [[Drum Technique]] and ability to execute intricate triplet-based fills and grooves.
+Exercises that break from simple alternating stickings are excellent for developing hand independence and control. They force you to think about each stroke individually while still maintaining the rhythmic flow. This will significantly enhance your overall [[Drum_Technique_50]] and ability to execute intricate triplet-based fills and grooves.

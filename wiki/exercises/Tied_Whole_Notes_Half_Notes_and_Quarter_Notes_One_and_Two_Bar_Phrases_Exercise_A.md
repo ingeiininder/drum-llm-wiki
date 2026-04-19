@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Whole Notes, Half Notes and Quarter Notes (One- and Two-Bar Phrases) - Exercise A
-This exercise focuses on reading and performing rhythms that incorporate [[Ties]] with [[Whole Notes]], [[Half Notes]], and [[Quarter Notes]] within both one- and two-bar phrases. It builds foundational understanding of how ties extend [[Duration]] and [[Sustain]].
+This exercise focuses on reading and performing rhythms that incorporate [[Ties]] with [[Whole_Note]], [[Half_Note]], and [[Quarter Notes]] within both one- and two-bar phrases. It builds foundational understanding of how ties extend [[Duration]] and [[Sustain]].
 
 **Key Learning Points:**
 *   **Duration Extension**: Accurately interpret the combined duration of tied notes.

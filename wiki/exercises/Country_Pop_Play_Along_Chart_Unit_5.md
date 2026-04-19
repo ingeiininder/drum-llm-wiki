@@ -12,9 +12,9 @@ This entry refers to the full drum chart for the "Country-Pop Play-Along" exerci
 **Key Elements**:
 *   **Tempo**: 98 BPM.
 *   **Structure**: Includes sections like A, B, pre-chorus, and a [[Coda]].
-*   **Grooves**: Features various [[Grooves]] on [[Tight Hi-Hat]], [[Sloshy Hi-Hat]], and [[Ride Cymbal]].
-*   **Fills**: Incorporates specific [[Fill]]s, such as the [[One-Beat Fill (Country-Pop A Section Bar 8)]], [[Four-Beat Fill (Country-Pop Pre-Chorus Bar 4)]], and [[Two-Beat Fill (Country-Pop B Section First Ending)]].
-*   **Ensemble Figures**: Contains [[Ensemble Figure (Country-Pop A Section)]], [[Ensemble Figure (Country-Pop B Section Second Ending)]], [[Re-Intro Ensemble Figure (Country-Pop)]], [[Coda Ensemble Figure (Country-Pop)]], and [[Ending Repeated Figure (Country-Pop)]].
+*   **Grooves**: Features various [[Groove]] on [[Tight Hi-Hat]], [[Sloshy Hi-Hat]], and [[Ride Cymbal]].
+*   **Fills**: Incorporates specific [[Fill]]s, such as the [[One_Beat_Fill_Country_Pop_A_Section_Bar_8]], [[Four_Beat_Fill_Country_Pop_Pre_Chorus_Bar_4]], and [[Two_Beat_Fill_Country_Pop_B_Section_First_Ending]].
+*   **Ensemble Figures**: Contains [[Ensemble_Figure_Country_Pop_A_Section]], [[Ensemble_Figure_Country_Pop_B_Section_Second_Ending]], [[Re_Intro_Ensemble_Figure_Country_Pop]], [[Coda_Ensemble_Figure_Country_Pop]], and [[Ending_Repeated_Figure_Country_Pop]].
 *   **Notation**: Utilizes [[D.S. al Coda]] for navigation.
 
 **Practice Suggestions**:

@@ -11,7 +11,7 @@ This exercise offers further practice in reading and performing rhythms featurin
 
 **Key Learning Points:**
 *   **Pattern Recognition**: Develop quick recognition of common patterns involving dotted quarter notes and their rhythmic implications.
-*   **Off-Beat Emphasis**: Accurately place attacks that fall on [[Upbeats]] due to the dotted quarter note's duration.
+*   **Off-Beat Emphasis**: Accurately place attacks that fall on [[Upbeat]] due to the dotted quarter note's duration.
 *   **Tempo Stability**: Maintain a steady [[Tempo]] throughout the exercise, even with the inherent syncopation.
 
 **Pro-Tip:** Try to feel the "groove" of these patterns. Dotted quarter notes are often used to create a specific rhythmic feel in various musical styles. Understanding this feel will help you play them more musically.

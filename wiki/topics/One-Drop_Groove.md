@@ -12,7 +12,7 @@ last_updated: 2026-04-19
 The **One-Drop** is the most iconic rhythm in [[Reggae]] drumming, named after the song by Bob Marley and the Wailers.
 
 ### Mechanics
-The defining feature of the One-Drop is that **Beat 1 is left empty**. The bass drum and the snare [[Cross-Stick]] (or rimshot) both fall simultaneously on **Beat 3**.
+The defining feature of the One-Drop is that **Beat 1 is left empty**. The bass drum and the snare [[Cross_Stick]] (or rimshot) both fall simultaneously on **Beat 3**.
 
 ### Challenges
 *   **Tempo Stability**: It is notoriously easy to rush or drag because there is no anchor on beat 1. 
@@ -26,4 +26,4 @@ The defining feature of the One-Drop is that **Beat 1 is left empty**. The bass 
 > [!TIP]
 > **Pro-Tip**: To master the One-Drop, practice counting "1" out loud while keeping your foot still. This builds the discipline required to leave that space open for the bass player's melodic lines.
 
-**Related**: [[Reggae.md]], [[Four-on-the-Floor_Reggae.md]]
+**Related**: [[Reggae.md]], [[Four-on-the-Floor_Reggae]]

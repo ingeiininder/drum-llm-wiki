@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Moeller Up Stroke
-The Moeller Up Stroke is a crucial component of the [[Moeller Technique]], essentially functioning as a [[Tap (Drumming)]] that efficiently sets up an upcoming [[Accent (Drumming)]]. It allows a drummer to play a soft, unaccented note while simultaneously preparing the stick for a powerful subsequent accented stroke.
+The Moeller Up Stroke is a crucial component of the [[Moeller Technique]], essentially functioning as a [[Taps_(Drumming)]] that efficiently sets up an upcoming [[Accents_(Drumming)]]. It allows a drummer to play a soft, unaccented note while simultaneously preparing the stick for a powerful subsequent accented stroke.
 
 ## Purpose
 The primary purpose of the Moeller Up Stroke is to maximize efficiency and fluidity in playing dynamic patterns. By combining a tap with the preparatory motion for an accent, it conserves energy and reduces unnecessary movements.

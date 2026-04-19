@@ -14,4 +14,4 @@ This exercise type challenges drummers to read and perform rhythmic figures comp
 2.  **Dynamic Control:** While not explicitly stated, consider practicing these exercises with varying dynamics to add musicality and control.
 3.  **Vocalization:** Counting aloud ("1-e-&-a") can significantly help in internalizing the rhythms and placing notes and rests correctly.
 
-**Pro-Tip:** These patterns are fundamental to many contemporary drumming styles. Mastering them will greatly enhance your ability to play [[Grooves]] and [[Fills]] that incorporate intricate subdivisions. Try to feel the underlying pulse even when rests are present.
+**Pro-Tip:** These patterns are fundamental to many contemporary drumming styles. Mastering them will greatly enhance your ability to play [[Groove]] and [[Fill]] that incorporate intricate subdivisions. Try to feel the underlying pulse even when rests are present.

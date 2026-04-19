@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 The B section introduces a new groove that evolves throughout its structure, providing support for a descending guitar riff.
 
 **Structure and Characteristics:**
-*   **Opening (Bars 1-4)**: The section begins with four bars primarily featuring the [[Hi-Hat]]. This initial hi-hat pattern is crucial for establishing the rhythmic foundation and supporting the guitar riff. The hi-hat should be played half-open, creating a slightly more sustained and shimmering sound compared to the closed hi-hat in the [[A Section Groove (Unit 9)]].
+*   **Opening (Bars 1-4)**: The section begins with four bars primarily featuring the [[Hi-Hat]]. This initial hi-hat pattern is crucial for establishing the rhythmic foundation and supporting the guitar riff. The hi-hat should be played half-open, creating a slightly more sustained and shimmering sound compared to the closed hi-hat in the [[A Section Groove (Unit 3)]].
 *   **Main Pattern (Bars 5-8)**: Following the initial hi-hat phrase, bars 5-8 feature a two-bar pattern that becomes the core groove for this part of the section.
     *   **Snare Drum**: The [[Snare Drum]] creates a very syncopated pattern:
         *   In the first measure of the two-bar pattern, the snare hits on the "&" of beat 2.

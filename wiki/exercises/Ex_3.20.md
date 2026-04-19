@@ -15,4 +15,4 @@ last_updated: 2023-10-27
 *   **Instrumentation**: Emphasizes a `[[Medium-Thick Hi-Hat]]` sound for the continuous 16th notes.
 *   **Structure**: Includes designated `[[Fill]]` sections (Fill 1, Fill 2, Fill 3) and a `[[D.C. al Fine]]` instruction, indicating a repeat from the beginning and ending at the "fine" mark. This structure helps drummers practice transitions and form.
 
-**Pro-Tip**: Pay close attention to the dynamics and articulation of the hi-hat, especially how it interacts with the bass drum and snare. The "Medium-Thick Hi-Hat" suggests a full, sustained sound, possibly achieved by playing slightly closer to the bell or with a heavier stick attack. Ensure your `[[Fills]]` are integrated smoothly into the groove.
+**Pro-Tip**: Pay close attention to the dynamics and articulation of the hi-hat, especially how it interacts with the bass drum and snare. The "Medium-Thick Hi-Hat" suggests a full, sustained sound, possibly achieved by playing slightly closer to the bell or with a heavier stick attack. Ensure your `[[Fill]]` are integrated smoothly into the groove.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ensemble Figure (Country-Pop B Section Second Ending)
-The second ending of the B section in the [[Country-Pop Play-Along Chart (Unit 5)]] features a dramatic [[Ensemble Figure]] consisting of a [[Half Note]]. This figure is designed to create an impactful stop.
+The second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]] features a dramatic [[Ensemble Figures]] consisting of a [[Half Note]]. This figure is designed to create an impactful stop.
 
 **Execution Details**:
 1.  The [[Half Note]] should be played on a [[Crash Cymbal]] with the [[Bass Drum]] supporting it simultaneously.

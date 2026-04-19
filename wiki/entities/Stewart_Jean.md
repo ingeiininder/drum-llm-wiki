@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 Stewart Jean is a respected drummer and educator, known for his direct and impactful drumming style and his dedication to nurturing young musicians.
 
 ## Background and Influences
-Raised in Deptford, New Jersey, Jean's musical journey began with his father's love for [[Classical Music]] and his friends' [[Led Zeppelin]] LPs. His passion for music deepened through studying [[Drum Set]], [[Timpani]], and [[Mallets]] during high school, where he earned numerous awards in state competitions.
+Raised in Deptford, New Jersey, Jean's musical journey began with his father's love for [[Classical Music]] and his friends' [[Led Zeppelin]] LPs. His passion for music deepened through studying [[Drum_Seat]], [[Timpani]], and [[Mallets]] during high school, where he earned numerous awards in state competitions.
 
 ## Education
 *   **University of Miami**: Enrolled in the Studio Music and Jazz Program, honing his performance and writing skills, and graduating with a Bachelor of Music degree.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 3/4 Time Signature
-The `[[3/4 Time Signature]]` is a common `[[Meter]]` used across virtually all genres of music, including `[[Modern Rock]]` by bands like `[[Paramore]]`, `[[Muse]]`, and `[[Radiohead]]`. In 3/4, there are three `[[Quarter Notes]]` per measure, with the quarter note receiving one beat.
+The `[[3_4_Time_Signature]]` is a common `[[Meter]]` used across virtually all genres of music, including `[[Modern Rock]]` by bands like `[[Paramore]]`, `[[Muse]]`, and `[[Radiohead]]`. In 3/4, there are three `[[Quarter Notes]]` per measure, with the quarter note receiving one beat.
 
 From a drummer's perspective, the technical aspects of playing in 3/4 are similar to other time signatures. However, a significant challenge is preventing the `[[Tempo]]` from `[[Rush]]`ing. The `[[Downbeat]]` of beat 1 is often perceived as very strong, leading inexperienced players to neglect the importance of beats 2 and 3.
 

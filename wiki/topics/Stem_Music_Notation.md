@@ -15,5 +15,5 @@ The direction a stem faces is determined by the vertical position of the note he
 *   **Downward-Facing Stem**: If the stem is facing downward, it should be placed on the **left side** of the note head. This typically occurs for notes on or above the middle line of the staff.
 
 ## Function
-*   **Rhythmic Value**: Stems, often in conjunction with [[Flag (Music Notation)|flags]] or [[Beam (Music Notation)|beams]], help to visually represent the duration of a note (e.g., [[Quarter Note]], [[Eighth Note]], [[Sixteenth Note]]).
+*   **Rhythmic Value**: Stems, often in conjunction with [[Flags_(Musical_Notation)|flags]] or [[Beams_(Musical_Notation)|beams]], help to visually represent the duration of a note (e.g., [[Quarter Note]], [[Eighth Note]], [[Sixteenth Note]]).
 *   **Readability**: Consistent stem direction improves the legibility of musical scores, especially in complex passages or when multiple voices are present on a single staff.

@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Short Note Orchestration
-When an [[Ensemble Figure]] is written as a **Short Note** (lasting one beat or less), the drummer must choose sound sources that match this lack of sustain. Using long, ringing cymbals for short notes creates a "wash" that obscures the ensemble's rhythmic clarity.
+When an [[Ensemble Figures]] is written as a **Short Note** (lasting one beat or less), the drummer must choose sound sources that match this lack of sustain. Using long, ringing cymbals for short notes creates a "wash" that obscures the ensemble's rhythmic clarity.
 
 ### Orchestration Options
 *   **Snare Drum**: The most common choice for punchy, short figures.

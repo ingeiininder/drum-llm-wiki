@@ -53,7 +53,7 @@ last_updated: 2023-10-27
     *   [[Bass Drum Technique]] (continued)
 *   **Unit 6:**
     *   [[Eighth-Note Triplet Study]]
-    *   [[Rudimental Recall: Ruffs]]
+    *   [[Rudimental_Recall_Ruffs]]
     *   [[Bass Drum and Hi-Hat Coordination Part 1]]
 *   **Unit 7:**
     *   [[Double Stroke Technique]]
@@ -71,7 +71,7 @@ last_updated: 2023-10-27
     *   [[Bass Drum and Hi-Hat Coordination Part 3]]
 *   **Unit 9:**
     *   [[Progressive Paradiddle Accents]]
-    *   [[Rudimental Recall: Rolls]]
+    *   [[Rudimental_Recall_Rolls]]
     *   [[Bass Drum and Hi-Hat Coordination Part 4]]
 *   **Unit 10:**
     *   [[Hairta (Drumming Term)]] (likely a typo for a specific technique or concept)

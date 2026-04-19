@@ -16,7 +16,7 @@ An **Eighth Note** (or quaver) is a musical note played for one eighth the durat
 
 ## Characteristics
 - **Notation**: Drawn with an oval, filled-in note head and a straight note stem with one flag. Multiple consecutive eighth notes are typically connected with a single beam.
-- **Value**: Two eighth notes equal one [[Quarter Note]]. In a standard [[4/4 Time Signature]], there are eight eighth notes per [[Measure]].
+- **Value**: Two eighth notes equal one [[Quarter Note]]. In a standard [[4-4_Time_Signature]], there are eight eighth notes per [[Measure]].
 
 ## Counting
 Eighth notes are counted evenly within a beat: "1 & 2 & 3 & 4 &".

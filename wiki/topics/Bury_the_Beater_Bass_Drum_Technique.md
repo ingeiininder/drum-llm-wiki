@@ -15,6 +15,6 @@ The "bury-the-beater" technique for the [[Bass Drum]] involves allowing the beat
 *   **Application**: Common in [[Rock]], [[Funk]], and some [[Blues]] styles where a tight, controlled bass drum sound is desired.
 
 **Contrast with Off-the-Head Technique**:
-*   This technique is the opposite of the [[Off-the-Head Bass Drum Technique]], where the beater rebounds immediately after striking.
+*   This technique is the opposite of the [[Off_the_Head_Bass_Drum_Technique]], where the beater rebounds immediately after striking.
 
 **Pro-Tip**: While it provides a strong, defined sound, be mindful of tension in your foot. Ensure you can execute this technique without straining your ankle or calf. It's important to control the duration of the "bury" to avoid choking the drum too much, unless that's the desired effect.

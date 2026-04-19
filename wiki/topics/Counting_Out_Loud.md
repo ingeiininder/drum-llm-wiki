@@ -7,9 +7,9 @@ last_updated: 2023-10-27
 ---
 
 # Counting Out Loud
-[[Counting Out Loud]] is a fundamental practice technique that significantly enhances a drummer's [[Rhythmic Accuracy]] and [[Internal Clock]]. By vocalizing the [[Counting System]] for each [[Roll Variation]] or exercise, drummers can:
+[[Counting Out Loud]] is a fundamental practice technique that significantly enhances a drummer's [[Rhythmic Accuracy]] and [[Internal Clock]]. By vocalizing the [[Counting System]] for each [[Roll_Variations]] or exercise, drummers can:
 
-*   **Internalize Rhythms**: Solidify the mental understanding of [[Subdivisions]] and [[Rhythmic Phrasing]].
+*   **Internalize Rhythms**: Solidify the mental understanding of [[Subdivision]] and [[Rhythmic Phrasing]].
 *   **Improve Precision**: Synchronize physical execution with a clear, audible rhythmic framework.
 *   **Develop Time Feel**: Strengthen the connection between the brain's rhythmic processing and the body's motor skills.
 

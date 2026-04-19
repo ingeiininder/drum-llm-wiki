@@ -18,7 +18,7 @@ In high-level technical drumming, particularly within [[Jazz-Fusion]] and [[Drum
 
 ### Wrist Control (Locked Grip)
 - **Mechanism**: The wrist provides the primary fulcrum and power source, often with a more "locked" finger position.
-- **Usage**: Used for powerful, straight 8th-notes or heavy [[Backbeat]] accents.
+- **Usage**: Used for powerful, straight 8th-notes or heavy [[Back-Beat]] accents.
 - **Benefit**: Provides the necessary "weight" and volume for backbeats and unison ensemble hits.
 
 ### The "Angel" Application

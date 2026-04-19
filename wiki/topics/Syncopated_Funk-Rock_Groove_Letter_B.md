@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Syncopated Funk-Rock Groove (Letter B)
-The groove at "Letter B" in the [[Funk-Rock Play-Along (Unit 8 Ex 8.13)]] is presented as a two-bar phrase, building on the syncopated nature of the "Letter A" groove. It features a highly [[Syncopated]] [[Eighth Note]] [[Hi-Hat]] pattern combined with [[16th Note]]-based [[Bass Drum]] and [[Snare Drum]] figures.
+The groove at "Letter B" in the [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]] is presented as a two-bar phrase, building on the syncopated nature of the "Letter A" groove. It features a highly [[Syncopated]] [[Eighth Note]] [[Hi-Hat]] pattern combined with [[16th Note]]-based [[Bass Drum]] and [[Snare Drum]] figures.
 
 **Key Characteristics:**
 *   **Two-Bar Phrase:** The groove extends over two measures, requiring drummers to think in longer rhythmic cycles.

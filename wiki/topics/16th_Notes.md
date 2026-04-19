@@ -12,7 +12,7 @@ last_updated: 2023-10-27
 
 ## Definition and Relationship to Other Note Values
 
-*   **Duration**: In a [[4/4 Time Signature]], a 16th note is equal to one-sixteenth of a measure.
+*   **Duration**: In a [[4-4_Time_Signature]], a 16th note is equal to one-sixteenth of a measure.
 *   **Subdivision**: A [[Quarter Note]] (which equals one beat in 4/4) can be divided into four equal 16th notes.
 *   **Relationship to Eighth Notes**: An [[Eighth Note]] can be divided into two equal 16th notes. Conversely, two 16th notes equal one eighth note.
 
@@ -36,7 +36,7 @@ The most common way to count 16th notes in a beat is "1 e & a" (pronounced "one-
 
 ## Importance in Drumming
 
-*   **Groove Development**: 16th notes form the backbone of many contemporary [[Drum Beat]]s and [[Grooves]], especially in genres like funk, rock, R&B, and fusion.
+*   **Groove Development**: 16th notes form the backbone of many contemporary [[Drum Beat]]s and [[Groove]], especially in genres like funk, rock, R&B, and fusion.
 *   **Fill Construction**: They are essential for creating fast and complex [[Fill]]s.
 *   **Rhythmic Precision**: Practicing 16th notes helps develop a strong internal [[Metronome]] and precise rhythmic control.
 *   **Linear Phrasing**: Understanding 16th note subdivisions is critical for executing [[Linear Phrasing]] patterns.

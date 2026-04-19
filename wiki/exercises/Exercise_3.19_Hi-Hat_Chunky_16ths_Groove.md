@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Exercise 3.19 (Hi-Hat Chunky 16ths Groove)
-**Purpose**: [[Exercise 3.19 (Hi-Hat Chunky 16ths Groove)]] builds upon the foundational [[Exercise 3.18 (Hi-Hat Chunky 16ths)]] by integrating the "chunky" hi-hat sound into a full [[Groove]] context. This exercise aims to develop the ability to create a "rhythmically thick (and tempo-based) illusion" that makes the groove feel "fat," with more forward motion and [[Syncopation]].
+**Purpose**: [[Exercise_3.19_Hi-Hat_Chunky_16ths_Groove]] builds upon the foundational [[Exercise_3.18_Hi-Hat_Chunky_16ths]] by integrating the "chunky" hi-hat sound into a full [[Groove]] context. This exercise aims to develop the ability to create a "rhythmically thick (and tempo-based) illusion" that makes the groove feel "fat," with more forward motion and [[Syncopation]].
 
 **Description (based on preceding text):**
 This exercise likely involves:

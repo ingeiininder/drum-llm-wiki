@@ -13,7 +13,7 @@ In jazz and blues, eighth notes are rarely played "straight" (equal duration). I
 ### Execution
 *   The first eighth note (the downbeat) is held longer.
 *   The second eighth note (the upbeat) is shorter and falls on the third partial of a triplet.
-*   This "broken" triplet feel must be maintained even during a [[Jazz Drum Soloing]] or when [[Comping (Jazz)]].
+*   This "broken" triplet feel must be maintained even during a [[Jazz Drum Soloing]] or when [[Comping_Jazz]].
 
 ### Common Pitfall
 Avoid playing the swing feel too "dotted" (like a dotted-eighth and sixteenth). A "hard" swing can sound mechanical; a "wide" swing feels more fluid and relaxed.

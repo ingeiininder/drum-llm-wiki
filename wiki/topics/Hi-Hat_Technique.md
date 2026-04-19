@@ -25,7 +25,7 @@ last_updated: 2023-10-27
     *   **"Sizzle" Sound:** A sustained, airy sound created by pressing the pedal down and immediately releasing it slightly, allowing the cymbals to rub.
 
 **Coordination and Application:**
-*   [[Hi-Hat Technique]] is fundamental for developing [[Bass Drum and Hi-Hat Coordination]], as the foot often plays independent rhythms from the hands.
+*   [[Hi-Hat Technique]] is fundamental for developing [[Bass_Drum_and_Hi-Hat_Coordination_Part_5]], as the foot often plays independent rhythms from the hands.
 *   It's essential for creating different feels and grooves across various musical styles (e.g., tight 8th notes for funk, swinging patterns for jazz, driving 16th notes for rock).
 *   Dynamic control on the hi-hat is crucial for shaping the overall feel of a groove.
 

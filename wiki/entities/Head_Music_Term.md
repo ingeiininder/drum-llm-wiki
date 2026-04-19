@@ -22,7 +22,7 @@ The "head" is the main [[Melody]] of a song. It is typically played at the begin
 
 ## Head and Chorus Combined Usage
 
-The term "head" is frequently used in conjunction with "[[Chorus (Jazz/Blues Term)|chorus]]" to outline the structure of a performance. For example, a bandleader might say: "We're going to play one head, one chorus of guitar solo, and one head out." This translates to:
+The term "head" is frequently used in conjunction with "[[Chorus_Jazz_Blues_Term|chorus]]" to outline the structure of a performance. For example, a bandleader might say: "We're going to play one head, one chorus of guitar solo, and one head out." This translates to:
 *   12 bars of the melody (head in)
 *   12 bars (one time through the 12-bar form) of guitar solo
 *   12 bars of the melody to the end (head out)

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ruff (Rudiment)
-A Ruff is a drum rudiment defined as a short [[Single-Stroke Roll]] that is generally played either before or after an [[Accent (Drumming)]]. Ruffs add a subtle "buzz" or "drag" sound to a primary note, enhancing its texture and articulation.
+A Ruff is a drum rudiment defined as a short [[Single-Stroke Roll]] that is generally played either before or after an [[Accents_(Drumming)]]. Ruffs add a subtle "buzz" or "drag" sound to a primary note, enhancing its texture and articulation.
 
 ## Characteristics
 *   **Grace Notes**: Ruffs consist of a specific number of unaccented grace notes (usually one or more) that precede or follow a main accented note.

@@ -16,7 +16,7 @@ The following books are highly recommended for drummers looking to further their
 *   [[MI Drum Reading 3 by Donny Gruendler and Stewart Jean]]
 *   [[MI Drum Reading 4 by Donny Gruendler and Stewart Jean]]
 *   [[Syncopation by Ted Reed]]
-*   [[Modern Reading Text in 4/4 For All Instruments by Louis Bellson]]
+*   [[Modern_Reading_Text_in_4_4_For_All_Instruments_by_Louis_Bellson]]
 
 **Pro-Tip:**
 Don't just play through these books once. Revisit them regularly, increasing the [[Tempo]], experimenting with different [[Dynamics]], and applying the rhythms to various voices on the [[Drum Kit]]. The true value of a reading book comes from repeated, thoughtful engagement.

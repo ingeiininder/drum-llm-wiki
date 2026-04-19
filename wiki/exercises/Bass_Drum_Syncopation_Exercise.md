@@ -13,7 +13,7 @@ The [[Bass Drum Syncopation Exercise]] is designed to develop a drummer's abilit
 *   **Limb Independence**: Challenging the bass drum foot to play rhythms that are independent of other limbs.
 *   **Groove Development**: Adding rhythmic interest and complexity to drum patterns.
 
-The instruction specifically recommends using [[Four-Part Counting]] when practicing this exercise to ensure maximum [[Rhythmic Accuracy]] and a deep understanding of the [[Subdivisions]].
+The instruction specifically recommends using [[Four-Part Counting]] when practicing this exercise to ensure maximum [[Rhythmic Accuracy]] and a deep understanding of the [[Subdivision]].
 
 **Pro-Tip**: Start by practicing the bass drum part alone with a [[Metronome]] and [[Counting Out Loud]] using [[Four-Part Counting]]. Once the bass drum part is solid, gradually add other limbs.
 **Common Pitfall**: Anticipating or rushing the syncopated notes, which disrupts the groove. Focus on precise placement within the [[Four-Part Counting]] framework.

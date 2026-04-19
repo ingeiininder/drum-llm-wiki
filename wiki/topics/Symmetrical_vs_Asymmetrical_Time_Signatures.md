@@ -26,6 +26,6 @@ The feel of an asymmetrical meter is defined by its **[[Asymmetrical Groupings]]
 
 ---
 **See Also:**
-*   [[5/8 Time Signature]]
-*   [[7/8 Time Signature]]
+*   [[5-8_Time_Signature]]
+*   [[7-8_Time_Signature]]
 *   [[Mixed Meter]]

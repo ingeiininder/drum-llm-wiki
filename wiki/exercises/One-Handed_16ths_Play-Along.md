@@ -14,4 +14,4 @@ The "One-Handed 16ths Play-Along" is an exercise designed to develop consistent 
 *   **Endurance**: Build stamina for extended passages of continuous 16th notes.
 *   **Musicality**: Integrate the one-handed pattern with other drum voices, including `[[Bass Drum]]` and `[[Snare Drum]]` patterns, and `[[Fill]]` sections.
 
-**Pro-Tip**: Focus on a relaxed grip and a fluid wrist motion (e.g., a modified `[[Moeller Stroke]]` or `[[Push-Pull Technique]]`) to avoid tension and maximize endurance. Practice with a `[[Metronome]]` at various tempos, starting slowly, to ensure precision before increasing speed. The exercise `[[Ex 3.20]]` is a prime example of this concept.
+**Pro-Tip**: Focus on a relaxed grip and a fluid wrist motion (e.g., a modified `[[Moeller_Up_Stroke]]` or `[[Push-Pull Technique]]`) to avoid tension and maximize endurance. Practice with a `[[Metronome]]` at various tempos, starting slowly, to ensure precision before increasing speed. The exercise `[[Ex 3.20]]` is a prime example of this concept.

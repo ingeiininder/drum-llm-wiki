@@ -17,8 +17,8 @@ To play **"Over the Bar"** means to execute a repeated musical phrase—usually 
 - **Phrasing**: Helps in creating longer, more interesting musical sentences that span across 4-bar or 8-bar phrases.
 
 ### Common Groupings
-- [[Groupings of Three (Over-the-Bar)]]
-- [[Groupings of Five (Over-the-Bar)]]
+- [[Groupings_of_Three_Over_the_Bar]]
+- [[Groupings_of_Five_Over_the_Bar]]
 
 ### Pro-Tip
 When practicing over-the-bar patterns, always maintain a strong [[Foot Ostinato]] (usually quarter notes on the hi-hat or bass drum) to act as an anchor for the listener and yourself.

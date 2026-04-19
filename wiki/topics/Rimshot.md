@@ -17,6 +17,6 @@ A [[Rimshot]] is a powerful [[Snare Drum]] articulation produced by striking the
 **Applications**:
 *   Used for accents and to cut through dense musical textures.
 *   Common in [[Rock]], [[Funk]], [[Blues]], and [[Country-Pop Style]] drumming.
-*   Featured in the [[Ensemble Figure (Country-Pop B Section Second Ending)]] and the [[A1 12-Bar Blues Groove]].
+*   Featured in the [[Ensemble_Figure_Country_Pop_B_Section_Second_Ending]] and the [[A1_12_Bar_Blues_Groove]].
 
 **Pro-Tip**: Developing a consistent and powerful rimshot requires practice. Ensure both the rim and head are struck at the same time. Experiment with different stick angles and hand positions to find the "sweet spot" on your snare drum that produces the most resonant and cutting sound.

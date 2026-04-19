@@ -27,4 +27,4 @@ Modern artists like Justin Timberlake and Christina Aguilera continue to utilize
 
 ### Performance Pro-Tips
 *   **Tempo Consistency**: When starting a tune where a guitar player begins alone, provide the tempo via [[Stick Clicks]] or hi-hat taps to ensure the band enters at the correct BPM (typically around 107 BPM for mid-tempo funk).
-*   **Dynamic Balance**: Keep the hi-hat volume steady and uninfluenced by the complex snare drum activity. The [[Backbeat]] on 2 and 4 should remain dominant over the ghost notes.
+*   **Dynamic Balance**: Keep the hi-hat volume steady and uninfluenced by the complex snare drum activity. The [[Back-Beat]] on 2 and 4 should remain dominant over the ghost notes.

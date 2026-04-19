@@ -34,4 +34,4 @@ Primarily a [[Groove]] with variations and fills, either unaccompanied or over a
 
 ### Development Strategies
 *   **Research**: Study the "go-to" licks of masters like **Steve Gadd** or **Tony Williams**.
-*   **The Seed**: Start with a small rhythmic idea and develop it through [[Compression and Expansion]] or [[Over-the-Bar Phrasing]].
+*   **The Seed**: Start with a small rhythmic idea and develop it through [[Compression and Expansion]] or [[Over_the_Bar_Phrasing]].

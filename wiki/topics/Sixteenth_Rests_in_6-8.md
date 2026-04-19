@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Sixteenth Rests in 6/8
 
-[[Sixteenth Rests]] in [[6/8 Time]] carry the same rhythmic value as sixteenth notes but require specific notation standards to maintain readability.
+[[Sixteenth_Rest]] in [[6/8 Time]] carry the same rhythmic value as sixteenth notes but require specific notation standards to maintain readability.
 
 ### Notation and Beaming
 To assist the performer in "visualizing" the meter, sixteenth rests are typically housed under **double beams**. 

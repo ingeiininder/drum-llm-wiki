@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Hand-to-Hand Drum Set Application
 
-Once the [[Hand-to-Hand 16th Triplet Reading]] is mastered on a single surface, the technique is expanded to the full drum set. This adds melodic and timbral variety to the rhythmic figures.
+Once the [[Hand_to_Hand_16th_Triplet_Reading]] is mastered on a single surface, the technique is expanded to the full drum set. This adds melodic and timbral variety to the rhythmic figures.
 
 ### Method 1: Tom-Tom Orchestration
 Maintain the continuous triplet flow on the [[Snare Drum]] at a ghost-note volume. Move the accented notes to the toms:

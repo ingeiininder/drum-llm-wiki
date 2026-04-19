@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rhythmic Value Tree: Rests
-The **Rhythmic Value Tree for Rests** mirrors the structure of the [[Rhythmic Value Tree: Notes]], illustrating the hierarchical and proportional relationships between different [[Rhythmic Values|rest values]]. It visually demonstrates how longer periods of silence can be subdivided into shorter ones.
+The **Rhythmic Value Tree for Rests** mirrors the structure of the [[Rhythmic_Value_Tree_Notes]], illustrating the hierarchical and proportional relationships between different [[Rhythmic Values|rest values]]. It visually demonstrates how longer periods of silence can be subdivided into shorter ones.
 
 ## Structure
 The tree typically starts with the longest rest value and branches down to progressively shorter ones. The fundamental principle is that each rest value is twice as long as the next shorter value.

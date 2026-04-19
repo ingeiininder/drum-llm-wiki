@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Slightly Loose Hi-Hat (Letter B)
-For the 'B' section of a song, the hi-hat articulation shifts to a [[Slightly Loose Hi-Hat (Letter B)]] pattern, designed to create a more energetic and driving feel compared to the 'A' section. This involves:
+For the 'B' section of a song, the hi-hat articulation shifts to a [[Slightly_Loose_Hi-Hat_Letter_B]] pattern, designed to create a more energetic and driving feel compared to the 'A' section. This involves:
 
 *   **Pattern:** A two-handed 16th-note hi-hat pattern.
 *   **Evenness and Forcefulness:** The pattern should be played evenly and forcefully.

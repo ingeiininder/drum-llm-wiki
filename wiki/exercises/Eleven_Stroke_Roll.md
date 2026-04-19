@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Eleven-Stroke Roll
 
-The **Eleven-Stroke Roll** is a unique member of the [[Double-Stroke Roll]] family because it does **not** naturally alternate.
+The **Eleven-Stroke Roll** is a unique member of the [[Double_Stroke_Roll]] family because it does **not** naturally alternate.
 
 ### Structure and Sticking
 - **Composition**: Five sets of doubles followed by one single-stroke accent.

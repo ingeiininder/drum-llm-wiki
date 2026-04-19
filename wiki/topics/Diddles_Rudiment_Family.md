@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Diddles (Rudiment Family)
-The [[Diddles (Rudiment Family)]] is one of the five [[Rudiment Families]] and is characterized by the use of "diddles," which are two consecutive notes played with the same hand. These rudiments are crucial for developing stick control, hand-to-hand coordination, and creating intricate rhythmic patterns.
+The [[Diddles_Rudiment_Family]] is one of the five [[Rudiment Families]] and is characterized by the use of "diddles," which are two consecutive notes played with the same hand. These rudiments are crucial for developing stick control, hand-to-hand coordination, and creating intricate rhythmic patterns.
 
 **Core Concept:**
 A diddle involves a double stroke played by a single hand (e.g., RR or LL). The arrangement of these diddles with single strokes forms the various rudiments within this family.

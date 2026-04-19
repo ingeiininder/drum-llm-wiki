@@ -19,8 +19,8 @@ The **Paradiddle** (RLRR LRLL) is uniquely suited for the drumset because it com
 ### Variations Explored
 1.  [[Standard Paradiddle]] (`R L R R L R L L`)
 2.  [[Inward_Paradiddle]] (`R L L R L R R L`)
-3.  [[Reverse_Paradiddle]] (`R R L R L L R L`)
-4.  [[Outward_Paradiddle]] (`R L R L L R L R`)
+3.  [[Reverse Paradiddle]] (`R R L R L L R L`)
+4.  [[Outward Paradiddle]] (`R L R L L R L R`)
 
 ### Pro-Tip
 Use a mirror to monitor stick heights. The accents should come from a higher stroke, while the diddles on the snare should remain low. This "height differential" is the key to making paradiddles sound professional and clean.

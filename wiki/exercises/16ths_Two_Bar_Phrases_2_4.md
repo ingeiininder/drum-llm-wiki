@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 16ths (Two-Bar Phrases) - 2/4
 
-This exercise extends the practice of [[Sixteenth Note]]s into two-bar phrases within the [[2/4 Time Signature]]. This helps drummers develop endurance and continuity when performing sixteenth note-based rhythms over longer periods.
+This exercise extends the practice of [[Sixteenth Note]]s into two-bar phrases within the [[2_4_Time_Signature]]. This helps drummers develop endurance and continuity when performing sixteenth note-based rhythms over longer periods.
 
 **Purpose:**
 *   To reinforce the accurate execution of sixteenth notes in a continuous context.

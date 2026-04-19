@@ -19,9 +19,9 @@ Music reading is a fundamental skill for any professional musician, offering sig
 To effectively read music, one must understand its basic components. This includes:
 *   [[The Staff]]
 *   [[Note Head]]s
-*   [[Stem (Music Notation)]]s
+*   [[Stem_(Musical_Notation)]]s
 *   [[Bar Line]]s
-*   [[Clef (Music Notation)]]s
+*   [[Clef_Music_Notation]]s
 *   [[Rhythmic Values]]
 
 Developing strong music reading skills is the first step towards becoming a versatile and in-demand musician.

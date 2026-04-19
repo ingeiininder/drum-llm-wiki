@@ -27,4 +27,4 @@ The core concept is applied to different subdivisions of the beat:
 *   **Consistency**: Focus on consistent dynamics and articulation for the single 16th note, regardless of its placement.
 *   **Application**: Once comfortable, try applying these isolated placements to a [[Drum Beat]] or [[Fill]] to add rhythmic interest and precision.
 
-This exercise is fundamental for developing a strong internal clock and precise rhythmic control, especially crucial for playing complex [[Grooves]] and [[Fills]] involving [[16th Notes]].
+This exercise is fundamental for developing a strong internal clock and precise rhythmic control, especially crucial for playing complex [[Groove]] and [[Fill]] involving [[16th Notes]].

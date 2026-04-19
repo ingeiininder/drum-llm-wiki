@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Note Subdivisions in 2/4 Time
-Understanding how different [[Note Values]] subdivide within a [[Measure]] of [[2/4 Time Signature]] is crucial for accurate reading and performance. In 2/4, a [[Quarter Note]] receives one [[Beat]].
+Understanding how different [[Note Values]] subdivide within a [[Measure]] of [[2_4_Time_Signature]] is crucial for accurate reading and performance. In 2/4, a [[Quarter Note]] receives one [[Beat]].
 
 **Common Subdivisions in 2/4:**
 *   **[[Half Note]]**: Worth two beats. In 2/4, a half note fills an entire measure.

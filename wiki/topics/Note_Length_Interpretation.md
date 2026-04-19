@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Note Length Interpretation
-In drum set notation, **Note Length** dictates the [[Orchestration]] and technique used to execute an [[Ensemble Figure]]. While a practice pad produces a uniform, short decay, the drum set allows for a wide spectrum of sustain.
+In drum set notation, **Note Length** dictates the [[Orchestration]] and technique used to execute an [[Ensemble Figures]]. While a practice pad produces a uniform, short decay, the drum set allows for a wide spectrum of sustain.
 
 ### Long Notes vs. Short Notes
 *   **Long Notes**: Any note rhythmically lasting for more than one beat (e.g., dotted quarter notes, half notes, or tied notes). These are typically voiced on **Crash Cymbals** to utilize their natural sustain.

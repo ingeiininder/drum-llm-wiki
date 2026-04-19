@@ -15,4 +15,4 @@ This extensive series of exercises (B through M) from Unit 7, Chapter 3, expands
 3.  **Pattern Recognition:** As you practice, try to identify recurring rhythmic motifs within the two-bar phrases. This can aid in memorization and execution.
 4.  **Dynamic Control:** Experiment with dynamics to add musicality and control to the longer phrases.
 
-**Pro-Tip:** These exercises are excellent for developing your ability to play extended [[Drum Fills]] or maintain intricate [[Swing]] or [[Shuffle Grooves]] without losing your rhythmic footing. Focus on the overall flow and feel, ensuring that the triplet subdivision remains consistent and even throughout.
+**Pro-Tip:** These exercises are excellent for developing your ability to play extended [[Drum_Fill]] or maintain intricate [[Swing]] or [[Shuffle Grooves]] without losing your rhythmic footing. Focus on the overall flow and feel, ensuring that the triplet subdivision remains consistent and even throughout.

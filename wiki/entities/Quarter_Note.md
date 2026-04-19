@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic Values|note values]] in music notation.
 
 ## Characteristics
-*   **Duration**: In a standard [[4/4 Time Signature]], a quarter note is equal to **one beat**. It is one-quarter the duration of a [[Whole Note]] and half the duration of a [[Half Note]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a quarter note is equal to **one beat**. It is one-quarter the duration of a [[Whole Note]] and half the duration of a [[Half Note]].
 *   **Notation**: It is indicated by a solid, oval note head with a stem attached. The stem can point up or down depending on its position on the staff.
 *   **Counting**: When counting aloud in 4/4 time, each quarter note aligns directly with a numbered beat: "1 - 2 - 3 - 4".
 
@@ -41,6 +41,6 @@ A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic V
 *   [[Whole Note]]
 *   [[Half Note]]
 *   [[Quarter Rest]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

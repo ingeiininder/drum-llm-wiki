@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Practicing 3/4 Time
-Developing a strong `[[3/4 Time Feel]]` is crucial for drummers. The primary tool recommended for `[[Practicing 3/4 Time]]` is the `[[Metronome]]`. Two simple methods are outlined to help internalize this `[[Time Signature]]` and avoid common pitfalls like `[[Rushing Tempo]]`.
+Developing a strong `[[3/4 Time Feel]]` is crucial for drummers. The primary tool recommended for `[[Practicing_3_4_Time]]` is the `[[Metronome]]`. Two simple methods are outlined to help internalize this `[[Time Signature]]` and avoid common pitfalls like `[[Rushing Tempo]]`.
 
 These methods are:
 1.  `[[Method 1: Quarter-Note Click (3/4 Time)]]`

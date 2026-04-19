@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Set-up Fill
-A **Set-up Fill** is a rhythmic interjection played by the drummer to signal an upcoming [[Ensemble Figure]] to the rest of the band. It bridges the gap between the [[Groove]] and the figure.
+A **Set-up Fill** is a rhythmic interjection played by the drummer to signal an upcoming [[Ensemble Figures]] to the rest of the band. It bridges the gap between the [[Groove]] and the figure.
 
 ### Repertoire of Set-ups
 As drummers progress, they build a "vocabulary" of fills ranging from simple to complex:

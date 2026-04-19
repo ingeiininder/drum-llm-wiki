@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # D.S. (Rock Shuffle - Unit 10)
-The `D.S.` (Dal Segno) instruction at the end of [[Letter B (Rock Shuffle - Unit 10)]] is a critical navigation marker in the [[Rock Shuffle Form (Unit 10)]] for Unit 10.
+The `D.S.` (Dal Segno) instruction at the end of [[Letter_B_Rock_Shuffle_Unit_10]] is a critical navigation marker in the [[Rock_Shuffle_Form_Unit_10]] for Unit 10.
 
 **Instruction and Effect:**
-*   **`D.S. (take 2nd ending)`**: This specific instruction means "go back to the Segno sign (S.)" – which is typically at the beginning of [[Letter A (Rock Shuffle - Unit 10)]] – but when you play through that section again, you are to take the *second ending* instead of the first.
+*   **`D.S. (take 2nd ending)`**: This specific instruction means "go back to the Segno sign (S.)" – which is typically at the beginning of [[Letter_A_Rock_Shuffle_Unit_10]] – but when you play through that section again, you are to take the *second ending* instead of the first.
 *   **Resulting A Section**: By taking the second ending, the A section, which was originally 16 bars, is now shortened to an eight-bar section for this particular repeat. This alters the overall length and feel of the repeated A section.
 
 **Performance Notes:**

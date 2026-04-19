@@ -12,7 +12,7 @@ This exercise category focuses on integrating a full range of common rhythmic va
 
 ## Exercise Description
 
-Each exercise presents a one-bar phrase (typically in [[4/4 Time Signature]]) combining:
+Each exercise presents a one-bar phrase (typically in [[4-4_Time_Signature]]) combining:
 *   **16th Notes**: The fastest subdivision, often appearing in groups or with [[Shared Beams]].
 *   **Eighth Notes**: Half-beat duration, providing a mid-range rhythmic feel.
 *   **Quarter Notes**: Full-beat duration, providing rhythmic anchors.

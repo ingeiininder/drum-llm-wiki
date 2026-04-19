@@ -29,7 +29,7 @@ Developing a "feel" for these notes requires extreme precision in [[Subdivision]
 - [[16th-Note Triplets]]
 
 ### Technical Execution
-On the drum set, these are often played as "singles" (RLRLRL) or as part of [[Rudiments]] like the [[Six-Stroke Roll]] or [[Double Stroke Roll]] variations.
+On the drum set, these are often played as "singles" (RLRLRL) or as part of [[Rudiment]] like the [[Six-Stroke Roll]] or [[Double Stroke Roll]] variations.
 
 > [!PRO-TIP]
 > Avoid "crushing" the triplets. Because they are so fast, there is a tendency to play them as a buzz or a blurred roll. Focus on "hearing" the individual notes within the grouping to ensure rhythmic integrity.

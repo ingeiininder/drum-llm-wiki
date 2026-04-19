@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Triplet Eighths with Ties (Four-Bar Phrases) - 3/4
 
-This exercise integrates [[Ties]] with [[Triplet Eighth Note]]s in extended four-bar phrases within the [[3/4 Time Signature]]. This combination demands precise rhythmic interpretation and a strong internal feel for triplet subdivisions, especially when notes are sustained across beats or bar lines in a triple meter.
+This exercise integrates [[Ties]] with [[Triplet Eighth Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. This combination demands precise rhythmic interpretation and a strong internal feel for triplet subdivisions, especially when notes are sustained across beats or bar lines in a triple meter.
 
 **Purpose:**
 *   To master the accurate execution of tied triplet eighth notes, ensuring their combined duration is precisely observed.

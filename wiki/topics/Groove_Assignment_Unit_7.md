@@ -13,8 +13,8 @@ In Unit 7, for the performance of the [[12-Bar Blues Open Form]], specific [[Dru
 ## Assignment Structure
 
 Each student will be assigned a particular groove to play during:
-*   The [[Head (Music Term)|Head]] sections (the thematic melody).
-*   The [[Chorus (Jazz/Blues Term)|Choruses]] (typically for solos).
+*   The [[Head_Music_Term|Head]] sections (the thematic melody).
+*   The [[Chorus_Jazz_Blues_Term|Choruses]] (typically for solos).
 
 ## Example Grooves
 

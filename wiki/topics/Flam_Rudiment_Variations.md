@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Flam Rudiment Variations (Rudimental Recall)
 
-This section focuses on expanding the [[Flam]] vocabulary by introducing hybrid and advanced rudimental patterns. Mastery of these requires precise control over "grace note" placement and stick heights.
+This section focuses on expanding the [[Flams]] vocabulary by introducing hybrid and advanced rudimental patterns. Mastery of these requires precise control over "grace note" placement and stick heights.
 
 ### Key Rudiments
 *   **Pataflafla**: A four-note pattern with flams on the first and last notes (`lR L R rL`).

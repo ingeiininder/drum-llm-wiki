@@ -14,4 +14,4 @@ By utilizing the larger muscle groups of the leg, drummers can achieve:
 *   Greater dynamic range, from soft to very loud.
 *   Reduced fatigue over long playing periods.
 
-**Pro-Tip:** This technique is fundamental for developing strong bass drum dynamics and endurance. Focus on a fluid, relaxed motion from the hip down, allowing gravity and momentum to assist the stroke. It's crucial for achieving the powerful, staccato bass drum sound required in sections like the [[Bass Drum Articulation (Letter A)]].
+**Pro-Tip:** This technique is fundamental for developing strong bass drum dynamics and endurance. Focus on a fluid, relaxed motion from the hip down, allowing gravity and momentum to assist the stroke. It's crucial for achieving the powerful, staccato bass drum sound required in sections like the [[Bass_Drum_Articulation_Letter_A]].

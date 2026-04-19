@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Drumset Mobility: Double Strokes
 
-While previous mobility exercises focused on single strokes, this unit explores the application of [[Double Stroke]] (doubles) around the drumset.
+While previous mobility exercises focused on single strokes, this unit explores the application of [[Double_Strokes]] (doubles) around the drumset.
 
 ### Technical Challenges
 - **Rebound Management**: Unlike the snare drum, [[Toms]] often have less rebound. Executing clean doubles on toms requires more wrist involvement and "pulling" the sound out of the drum.

@@ -16,7 +16,7 @@ This section serves as a crucial reminder that all previously learned informatio
 *   [[Drum Fill]]
 *   [[AABA Form]]
 *   [[Multiple Bar Phrases]]
-*   [[Center Snare Hit (Butt End)]]
+*   [[Center_Snare_Hit_Butt_End]]
 *   [[Open Non-Buried Bass Drum Technique]]
 *   [[The Count-Off]]
 *   [[Ensemble Figures]]

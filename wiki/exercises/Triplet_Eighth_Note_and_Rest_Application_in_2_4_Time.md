@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Triplet Eighth Note and Rest Application in 2/4 Time
-This exercise focuses on the application of [[Eighth Note Triplets]], [[Eighth Rest Triplets]], and [[Tied Eighth Note Triplets]] within the [[2/4 Time Signature]]. It develops proficiency in handling triple subdivisions in a duple meter.
+This exercise focuses on the application of [[Eighth Note Triplets]], [[Eighth Rest Triplets]], and [[Tied Eighth Note Triplets]] within the [[2_4_Time_Signature]]. It develops proficiency in handling triple subdivisions in a duple meter.
 
 **Key Learning Points:**
 *   **Triple Subdivision**: Accurately play and rest for the duration of one-third of a beat (eighth note triplet/rest).

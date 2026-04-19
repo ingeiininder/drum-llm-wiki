@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Play-Along Track Practice
-As part of the [[Practice Suggestions (Unit 4)]], students are encouraged to engage in [[Play-Along]] track practice. The recommendation is to:
+As part of the [[Practice_Suggestions_Unit_4]], students are encouraged to engage in [[Play-Along]] track practice. The recommendation is to:
 *   Play along to the provided track twice a day.
 *   Each session should last for a total of eight minutes.
 

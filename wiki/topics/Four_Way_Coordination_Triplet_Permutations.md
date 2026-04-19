@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Four-Way Coordination: Triplet Bass Drum Permutations
 
-This study focuses on developing independence between an alternating snare drum pattern and various bass drum permutations within an [[Eighth-Note Triplet]] feel.
+This study focuses on developing independence between an alternating snare drum pattern and various bass drum permutations within an [[Eighth_Note_Triplet]] feel.
 
 ### Technical Framework
 - **Hands**: Constant alternating sticking (RLRLRL) playing eighth-note triplets.

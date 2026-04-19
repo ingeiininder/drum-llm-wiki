@@ -11,7 +11,7 @@ last_updated: 2023-10-27
 
 *   **Mastering [[Syncopation]]**: Clearly identifying and executing off-beat rhythms.
 *   **Improving [[Rhythmic Accuracy]]**: Ensuring precise placement of every stroke within a complex pattern.
-*   **Developing [[Internal Clock]]**: Strengthening the mental framework for [[Subdivisions]].
+*   **Developing [[Internal Clock]]**: Strengthening the mental framework for [[Subdivision]].
 
 It is explicitly recommended for practicing the [[Bass Drum Syncopation Exercise]] to ensure rhythmic clarity and control.
 

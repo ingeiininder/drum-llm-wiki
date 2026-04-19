@@ -14,7 +14,7 @@ In a professional environment, drummers encounter various levels of notation det
 Contains specific drum notation, including every fill, orchestration, [[Articulations]], and dynamic marking. The drummer's job is literal execution.
 
 ### 2. Skeletal Chart
-Provides the basic form and [[Groove]], along with essential [[Ensemble Figure]] notations, but leaves the specific fills and orchestration to the drummer's discretion.
+Provides the basic form and [[Groove]], along with essential [[Ensemble Figures]] notations, but leaves the specific fills and orchestration to the drummer's discretion.
 
 ### 3. Lead Sheet
 Provides the melody, chords, and form. It rarely contains drum-specific parts. The drummer must interpret the "feel" based on the melody and style (e.g., a Jazz Waltz).

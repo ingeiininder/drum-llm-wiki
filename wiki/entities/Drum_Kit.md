@@ -30,7 +30,7 @@ Proper setup of a drum kit is crucial for comfort, efficiency, and [[Injury Prev
 ## Playing Techniques:
 Drummers employ a variety of techniques to play the drum kit, including:
 *   **Grips**: [[Matched Grip]] (e.g., [[German Grip]], [[French Grip]], [[American Grip]]) and [[Traditional Grip]].
-*   **Strokes**: [[Down Stroke]], [[Tap]], [[Accent]], [[Moeller Technique]], [[Up Stroke]].
+*   **Strokes**: [[Down Stroke]], [[Tap]], [[Accents]], [[Moeller Technique]], [[Up Stroke]].
 *   **Foot Techniques**: [[Heel Up]], [[Heel Down]], [[Swivel Technique]], etc.
 *   **Rudiments**: [[Rudimental Drumming]] provides foundational patterns for stick control and coordination.
 

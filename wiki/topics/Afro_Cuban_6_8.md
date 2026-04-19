@@ -17,7 +17,7 @@ In a traditional religious gathering (a *bembe*), the rhythm is performed by an 
 *   **Shekere**: A beaded gourd providing a constant shaker texture.
 
 ### The 6/8 Clave
-The [[6/8_Clave]] is the "key" or skeletal rhythmic figure that anchors the entire ensemble. All other parts must relate to this pattern. 
+The [[6_8_Clave]] is the "key" or skeletal rhythmic figure that anchors the entire ensemble. All other parts must relate to this pattern. 
 *   *Pro-Tip*: To internalize the feel, practice playing the hi-hat foot on dotted quarter notes (the "pulse") while clapping the clave.
 
 ### Drumset Adaptation: The Nanigo

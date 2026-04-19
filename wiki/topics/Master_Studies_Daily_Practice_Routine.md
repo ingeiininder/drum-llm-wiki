@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Master Studies Daily Practice Routine
-This [[Daily Practice Routine]] is designed to systematically work through the challenging exercises presented in the [[Master Studies (Book)]] by [[Joe Morello]]. The routine specifies:
+This [[Daily Practice Routine]] is designed to systematically work through the challenging exercises presented in the [[Master_Studies_Book]] by [[Joe Morello]]. The routine specifies:
 
 *   **Daily Quota**: Play four of the twelve assigned [[Master Studies Exercises]] each day.
 *   **Timed Intervals**: Dedicate two minutes to each of the chosen four exercises.

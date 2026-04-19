@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A [[Sixteenth Rest]] is a musical symbol indicating a period of silence equal to the duration of a [[Sixteenth Note]]. Rests are as crucial as notes in creating rhythm and [[Groove (Music)]], defining the space between sounds.
 
 **Value:**
-*   In [[4/4 Time Signature]], a [[Sixteenth Rest]] is equal to one-fourth of a beat.
+*   In [[4-4_Time_Signature]], a [[Sixteenth Rest]] is equal to one-fourth of a beat.
 *   It is equal to one-sixteenth of a whole note or a full measure.
 
 **Notation:**

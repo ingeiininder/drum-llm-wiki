@@ -6,7 +6,7 @@ last_updated: 2023-10-27
 ---
 
 # Leading Hand Alternation
-[[Leading Hand Alternation]] refers to the ability to seamlessly switch which hand initiates a rhythmic pattern or phrase. This technique is crucial for developing ambidexterity and fluidity around the [[Drumset]].
+[[Leading Hand Alternation]] refers to the ability to seamlessly switch which hand initiates a rhythmic pattern or phrase. This technique is crucial for developing ambidexterity and fluidity around the [[Drum_Seat]].
 
 Certain [[Rudiment]]s, such as the [[Paradiddle]], naturally facilitate [[Leading Hand Alternation]]. For instance, a [[Single Paradiddle]] (RLRR LRLL) inherently alternates the leading hand after every two measures, allowing the drummer to maintain an even-note phrase while shifting the primary accent or placement of strokes.
 

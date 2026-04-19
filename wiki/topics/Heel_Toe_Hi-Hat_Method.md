@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Heel/Toe Hi-Hat Method
-The [[Heel/Toe Hi-Hat Method]] is a popular approach for operating the hi-hat pedal, primarily used for stepping the hi-hat on beats 2 and 4 in a [[Drum Groove]]. Its natural rocking motion allows this rhythm to be played efficiently without excessive focus.
+The [[Heel-Toe_Hi-Hat_Method]] is a popular approach for operating the hi-hat pedal, primarily used for stepping the hi-hat on beats 2 and 4 in a [[Drum Groove]]. Its natural rocking motion allows this rhythm to be played efficiently without excessive focus.
 
 **Technique Breakdown:**
 1.  **Beat 1 (Heel Down):** Begin with your foot resting flat on the pedal. This position typically corresponds to beat 1 (or an unaccented beat where the hi-hat is not played with the foot). (Refer to Ex. 4.16 in source material).
@@ -28,4 +28,4 @@ Aim for a tight, articulate "chick" sound. Weak or "fluffy" sounds indicate insu
 *   **Inconsistent "Chick":** The pressure applied might vary, leading to an inconsistent "chick" sound.
 
 **Pro-Tip:**
-Practice the [[Heel/Toe Hi-Hat Method]] slowly with a [[Metronome]], focusing on the smooth transition of weight from heel to toe. Ensure that the "chick" sound is clear and consistent on every accented beat. This method is excellent for laying down a solid backbeat foundation in many musical styles.
+Practice the [[Heel-Toe_Hi-Hat_Method]] slowly with a [[Metronome]], focusing on the smooth transition of weight from heel to toe. Ensure that the "chick" sound is clear and consistent on every accented beat. This method is excellent for laying down a solid backbeat foundation in many musical styles.

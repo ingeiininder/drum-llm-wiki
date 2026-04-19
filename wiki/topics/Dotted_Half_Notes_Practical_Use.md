@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Dotted Half Notes (Practical Use)
-[[Dotted Half Note]]s, which are worth three [[Beat]]s, are frequently used in musical notation. However, their placement in [[4/4 Time Signature]] can sometimes conflict with the strict [[2/3 Rule]].
+[[Dotted Half Note]]s, which are worth three [[Beat]]s, are frequently used in musical notation. However, their placement in [[4-4_Time_Signature]] can sometimes conflict with the strict [[2_3_Rule]].
 
 **Common Scenarios:**
 1.  **Dotted Half Note on Beat 1**: If a dotted half note starts on beat 1, it sustains through beats 1, 2, and 3. This technically "obscures" the [[Downbeat]] of beat 3, as a single note spans across it. Despite this, it is often accepted as a "rule breaker" in many musical scenarios due to its common usage and clear rhythmic intent.

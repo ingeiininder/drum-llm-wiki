@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 [[Beat Placement]] refers to the precise rhythmic position of a note or event within a beat or measure. Understanding and accurately executing [[Beat Placement]] is critical for [[Rhythmic Accuracy]] and playing in time with other musicians.
 
 **Subdivision:**
-With [[Sixteenth Note]]s, a single beat in [[4/4 Time Signature]] is divided into four distinct placements:
+With [[Sixteenth Note]]s, a single beat in [[4-4_Time_Signature]] is divided into four distinct placements:
 *   The downbeat (represented by the beat number: 1, 2, 3, 4).
 *   The "e" (the second [[Sixteenth Note]] of the beat).
 *   The "&" (the third [[Sixteenth Note]] of the beat, often the [[Eighth Note]] pulse).

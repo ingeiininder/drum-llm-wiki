@@ -19,7 +19,7 @@ In drum notation, articulations help the drummer interpret [[Ensemble Figures]] 
 ### Tenuto (Long)
 *   **Notation**: Indicated by a horizontal line over the note head.
 *   **Drumset Interpretation**: Play these rhythms as "long" as possible.
-    *   *Orchestration Tip*: Use [[Crash Cymbals]], open hi-hats, or let the [[Bass Drum]] resonate. The goal is to fill the duration of the note with sound.
+    *   *Orchestration Tip*: Use [[Crash_Cymbal]], open hi-hats, or let the [[Bass Drum]] resonate. The goal is to fill the duration of the note with sound.
 *   **Purpose**: To emphasize the weight and duration of a specific beat.
 
 ### Comparison Table

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth-Note Triplet Rests
-Just as [[Eighth Notes]] can be replaced by [[Eighth Rests]] in straight subdivisions, [[Eighth-Note Triplets]] can also incorporate rests. An [[Eighth-Note Triplet Rest]] occupies the duration of one [[Triplet Partial]]. To maintain clarity in notation, a bracket is often used (in addition to the number three) to house combinations of notes and rests within a triplet grouping.
+Just as [[Eighth Notes]] can be replaced by [[Eighth Rests]] in straight subdivisions, [[Eighth-Note Triplets]] can also incorporate rests. An [[Eighth-Note_Triplet_Rests]] occupies the duration of one [[Triplet_Partials]]. To maintain clarity in notation, a bracket is often used (in addition to the number three) to house combinations of notes and rests within a triplet grouping.
 
 **Combinations of Eighth-Note Triplets and Rests:**
 The following are common combinations, demonstrating how rests can be placed on different [[Triplet Partials]]:

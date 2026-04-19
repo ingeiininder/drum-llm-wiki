@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Whole Notes, Half Notes and Quarter Notes (Four-Bar Phrases) - Exercise D
-This exercise expands on previous concepts by incorporating [[Ties]] with [[Whole Notes]], [[Half Notes]], and [[Quarter Notes]] into longer [[Four-Bar Phrases]]. This challenges the drummer's ability to maintain rhythmic accuracy and musical continuity over extended sections.
+This exercise expands on previous concepts by incorporating [[Ties]] with [[Whole_Note]], [[Half_Note]], and [[Quarter Notes]] into longer [[Four-Bar Phrases]]. This challenges the drummer's ability to maintain rhythmic accuracy and musical continuity over extended sections.
 
 **Key Learning Points:**
 *   **Extended Phrasing**: Develop the ability to read and execute rhythms over a longer musical arc, maintaining focus and precision.

@@ -16,5 +16,5 @@ A signature element of many Motown choruses is the snare drum playing on **every
 *   **Bass Drum**: Typically employs a two-bar 16th-note pattern to provide syncopation against the steady snare.
 
 ### Sectional Contrasts
-*   **Verses (A Sections)**: Often use a more traditional [[Backbeat]] (snare on 2 and 4) or a [[Side-stick]] (cross-stick) to create space for the vocals.
+*   **Verses (A Sections)**: Often use a more traditional [[Back-Beat]] (snare on 2 and 4) or a [[Side-stick]] (cross-stick) to create space for the vocals.
 *   **Bridges (C Sections)**: Frequently involve a transition from the hi-hat to the [[Ride Cymbal]] to match new chord changes, while maintaining the quarter-note snare feel to keep the energy high.

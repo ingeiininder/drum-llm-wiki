@@ -27,4 +27,4 @@ The core pattern is `R r l r l r l` (uppercase for accented, lowercase for unacc
 4.  **Dynamic Contrast:** Maintain a significant dynamic difference between the loud accent and the soft grace notes.
 
 **Pro-Tip:**
-This exercise is a significant step in developing advanced [[Drum Technique]]. Think of the accent as a "full stroke" that then allows the stick to rebound slightly, and the subsequent grace notes are "taps" or "downstrokes" from a very low height, almost "catching" the stick. This helps in achieving the dynamic contrast and smooth transition. Pay close attention to the sound of the grace notes – they should be distinct but quiet, not muddy or rushed, and perfectly even.
+This exercise is a significant step in developing advanced [[Drum_Technique_50]]. Think of the accent as a "full stroke" that then allows the stick to rebound slightly, and the subsequent grace notes are "taps" or "downstrokes" from a very low height, almost "catching" the stick. This helps in achieving the dynamic contrast and smooth transition. Pay close attention to the sound of the grace notes – they should be distinct but quiet, not muddy or rushed, and perfectly even.

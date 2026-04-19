@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 16ths (One-Bar Phrases) - 2/4
 
-This exercise focuses on reading and executing [[Sixteenth Note]]s within one-bar phrases in the [[2/4 Time Signature]]. It introduces the subdivision of each beat into four equal parts, a crucial skill for playing intricate rhythms and faster tempos.
+This exercise focuses on reading and executing [[Sixteenth Note]]s within one-bar phrases in the [[2_4_Time_Signature]]. It introduces the subdivision of each beat into four equal parts, a crucial skill for playing intricate rhythms and faster tempos.
 
 **Purpose:**
 *   To develop a strong internal feel for sixteenth note subdivisions.
@@ -22,4 +22,4 @@ This exercise focuses on reading and executing [[Sixteenth Note]]s within one-ba
 *   **Relaxed Stroke:** Maintain a relaxed grip and stroke to ensure smooth and even sixteenth note execution.
 *   **Common Pitfall:** Uneven sixteenth notes, often with the "e" or "a" being rushed or played softer.
 
-Mastering sixteenth notes is fundamental for playing modern [[Grooves]] and [[Fills]] in many contemporary styles.
+Mastering sixteenth notes is fundamental for playing modern [[Groove]] and [[Fill]] in many contemporary styles.

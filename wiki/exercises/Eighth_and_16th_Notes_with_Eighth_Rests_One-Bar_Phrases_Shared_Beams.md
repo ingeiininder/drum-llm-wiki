@@ -12,12 +12,12 @@ This exercise category focuses on reading and performing rhythmic patterns that 
 
 ## Exercise Description
 
-Each exercise presents a one-bar phrase (typically in [[4/4 Time Signature]]) combining:
+Each exercise presents a one-bar phrase (typically in [[4-4_Time_Signature]]) combining:
 *   **Eighth Notes**: Half-beat duration.
 *   **16th Notes**: Quarter-beat duration, often grouped with eighth notes using shared beams.
 *   **Eighth Rests**: Half a beat of silence.
 
-The challenge lies in accurately interpreting the various combinations of eighth and 16th notes (such as [[1-&-a Grouping (Eighth Note + Two 16th Notes)]], [[1-e-& Grouping (Two 16th Notes + Eighth Note)]], [[1-e-a Grouping (16th Note + Eighth Note + 16th Note)]]) and precisely observing the short eighth rests. The source material provides multiple variations (C, D) of these one-bar phrases.
+The challenge lies in accurately interpreting the various combinations of eighth and 16th notes (such as [[1-&-a_Grouping_Eighth_Note_Two_16th_Notes]], [[1-e-&_Grouping_Two_16th_Notes_Eighth_Note]], [[1-e-a_Grouping_16th_Note_Eighth_Note_16th_Note]]) and precisely observing the short eighth rests. The source material provides multiple variations (C, D) of these one-bar phrases.
 
 ## Practice Tips
 

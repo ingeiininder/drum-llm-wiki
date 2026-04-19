@@ -17,7 +17,7 @@ Rudiments are standardized sticking patterns and rhythmic figures, typically pla
 *   **Multiple Bounce Roll:** [[Multiple Bounce Roll]]
 *   **Double Stroke Roll:** [[Double Stroke Roll]] (e.g., [[Five-Stroke Roll]], [[Six-Stroke Roll]], [[Seven-Stroke Roll]], [[Ten-Stroke Roll]])
 *   **Diddles:** (e.g., [[Single Paradiddle]], [[Double Paradiddle]], [[Triple Paradiddle]], [[Paradiddle-diddle]])
-*   **Flam Rudiments:** (e.g., [[Flam]], [[Flam Accent]], [[Flam Paradiddle]])
+*   **Flam Rudiments:** (e.g., [[Flams]], [[Flam Accent]], [[Flam Paradiddle]])
 *   **Drag Rudiments:** (e.g., [[Drag]], [[Three-Stroke Ruff]], [[Four-Stroke Ruff]], [[Five-Stroke Ruff]], [[Seven-Stroke Ruff]])
 
 **Benefits of Rudimental Drumming:**

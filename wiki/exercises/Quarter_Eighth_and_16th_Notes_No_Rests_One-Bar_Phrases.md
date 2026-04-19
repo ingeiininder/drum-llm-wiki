@@ -12,7 +12,7 @@ This exercise category focuses on reading and performing continuous rhythmic pat
 
 ## Exercise Description
 
-Each exercise presents a one-bar phrase (typically in [[4/4 Time Signature]]) that is entirely filled with notes, combining:
+Each exercise presents a one-bar phrase (typically in [[4-4_Time_Signature]]) that is entirely filled with notes, combining:
 *   **Quarter Notes**: Providing a steady, longer pulse.
 *   **Eighth Notes**: Offering mid-range rhythmic movement.
 *   **16th Notes**: Introducing faster, more intricate subdivisions.

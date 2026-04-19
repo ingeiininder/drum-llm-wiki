@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rest Subdivisions in 2/4 Time
-Just as with [[Note Values]], understanding how different [[Rest Values]] subdivide within a [[Measure]] of [[2/4 Time Signature]] is essential for accurate rhythmic interpretation. In 2/4, a [[Quarter Rest]] receives one [[Beat]].
+Just as with [[Note Values]], understanding how different [[Rest Values]] subdivide within a [[Measure]] of [[2_4_Time_Signature]] is essential for accurate rhythmic interpretation. In 2/4, a [[Quarter Rest]] receives one [[Beat]].
 
 **Common Rest Subdivisions in 2/4:**
 *   **[[Half Rest]]**: Worth two beats. In 2/4, a half rest fills an entire measure of silence.

@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # 2/3 Rule
-The **2/3 Rule** is a common practice in musical notation, particularly in [[4/4 Time Signature]], designed to enhance readability. It dictates that the [[Downbeat]] of beat 3 should not be obscured by a single note that spans across it.
+The **2/3 Rule** is a common practice in musical notation, particularly in [[4-4_Time_Signature]], designed to enhance readability. It dictates that the [[Downbeat]] of beat 3 should not be obscured by a single note that spans across it.
 
 **Core Principle:**
-In 4/4 time, a measure is conceptually split into two sections of two beats each (beats 1-2 and beats 3-4). An "imaginary bar line" exists between beats 2 and 3. To maintain clarity, a note should not begin before beat 3 and extend past it, or begin before beat 3 and cover it entirely, if it can be broken up with a [[Tie]].
+In 4/4 time, a measure is conceptually split into two sections of two beats each (beats 1-2 and beats 3-4). An "imaginary bar line" exists between beats 2 and 3. To maintain clarity, a note should not begin before beat 3 and extend past it, or begin before beat 3 and cover it entirely, if it can be broken up with a [[Ties]].
 
 **Practical Application:**
 *   While it's acceptable to place [[Half Note]]s on beats 1 and 3, a half note *cannot* be placed on beat 2, as it would obscure the downbeat of beat 3.

@@ -15,7 +15,7 @@ last_updated: 2023-10-27
 *   **[[Flags (Musical Notation)]]**: Two curved lines attached to the end of the [[Stem (Musical Notation)]]. The presence of two flags specifically denotes a [[Sixteenth Note]].
 
 **Beaming Sixteenth Notes:**
-When multiple [[Sixteenth Note]]s occur consecutively, individual flags are typically replaced by [[Beams (Musical Notation)]] to group them together. For [[Sixteenth Note]]s, a [[Double Beam]] is used. This practice, known as [[Beaming Sixteenth Notes]], significantly improves the readability of complex rhythmic passages, especially during [[Performance (Music)]], by visually organizing notes into clear beat-based groups (e.g., four [[Sixteenth Note]]s per beat in [[4/4 Time Signature]]).
+When multiple [[Sixteenth Note]]s occur consecutively, individual flags are typically replaced by [[Beams (Musical Notation)]] to group them together. For [[Sixteenth Note]]s, a [[Double Beam]] is used. This practice, known as [[Beaming Sixteenth Notes]], significantly improves the readability of complex rhythmic passages, especially during [[Performance (Music)]], by visually organizing notes into clear beat-based groups (e.g., four [[Sixteenth Note]]s per beat in [[4-4_Time_Signature]]).
 
 **Pro-Tip:**
 When sight-reading, train your eyes to recognize beamed groups of [[Sixteenth Note]]s as single units rather than individual notes. This allows for faster processing of rhythmic patterns and improves your overall [[Rhythmic Reading]] speed.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Half Note and Rest Application in 2/4 Time
-This exercise focuses on the application of [[Half Notes]], [[Half Rests]], and [[Tied Half Notes]] within the [[2/4 Time Signature]]. It helps drummers internalize how these longer durations function in a two-beat measure.
+This exercise focuses on the application of [[Half_Note]], [[Half_Rest]], and [[Tied Half Notes]] within the [[2_4_Time_Signature]]. It helps drummers internalize how these longer durations function in a two-beat measure.
 
 **Key Learning Points:**
 *   **Full Measure Duration**: Understand that a half note or half rest occupies an entire measure in 2/4 time.

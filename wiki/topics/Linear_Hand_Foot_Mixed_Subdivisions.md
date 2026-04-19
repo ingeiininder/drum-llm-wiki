@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Linear Hand-Foot Mixed Subdivisions
 
-Linear Hand-Foot Mixed Subdivisions involve the integration of [[16th-Note]] and [[Eighth-Note Triplet]] patterns within a single rhythmic phrase. This advanced stage of [[Linear Drumming]] focuses on the transition between binary (duple) and ternary (triple) feels, which is critical for developing a sophisticated rhythmic vocabulary.
+Linear Hand-Foot Mixed Subdivisions involve the integration of [[16th_Note]] and [[Eighth_Note_Triplet]] patterns within a single rhythmic phrase. This advanced stage of [[Linear Drumming]] focuses on the transition between binary (duple) and ternary (triple) feels, which is critical for developing a sophisticated rhythmic vocabulary.
 
 ### Core Concepts
 The primary challenge in mixed subdivision linear patterns is the mental shift required to accurately [[Subdivision|subdivide]] the beat. 

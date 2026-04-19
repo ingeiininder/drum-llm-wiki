@@ -23,7 +23,7 @@ These exercises are designed to demonstrate and develop the practical applicatio
 
 **Homework & Practice Suggestions:**
 *   Be able to play all of these exercises.
-*   Play all [[Technique Control Exercises (Moeller)]] twenty times every day.
+*   Play all [[Technique_Control_Exercises_Moeller]] twenty times every day.
 *   Focus on developing the biggest dynamic gap between the accented and unaccented notes.
 *   Use a mirror or video monitor to check the different angles of your technique for consistency.
 

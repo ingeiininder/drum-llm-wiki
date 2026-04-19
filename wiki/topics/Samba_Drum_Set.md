@@ -14,7 +14,7 @@ The **Samba** is a high-energy dance rhythm from Brazil with African roots. On t
 ### Basic Structure
 Samba is typically felt in 2/2 or 2/4 time. The drum set adaptation usually involves:
 - **Feet**: A consistent one-bar pattern. The bass drum mimics the surdo (emphasizing beat 2 in 2/4), while the hi-hat "chicks" on the "off-beats."
-- **Hands**: The ride cymbal can play straight eighths or constant sixteenths. The snare drum (often played as a [[Cross-Stick]]) plays a syncopated two-bar "Partido Alto" or similar clave-based pattern.
+- **Hands**: The ride cymbal can play straight eighths or constant sixteenths. The snare drum (often played as a [[Cross_Stick]]) plays a syncopated two-bar "Partido Alto" or similar clave-based pattern.
 
 ### Common Variations
 1. **Eighth-Note Ride**: Standard for medium tempos.

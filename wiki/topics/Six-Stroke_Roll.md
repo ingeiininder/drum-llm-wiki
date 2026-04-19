@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Six-Stroke Roll
-The [[Six-Stroke Roll]] is a versatile drum rudiment, often considered a variation of the [[Double Stroke Roll]] family, though it can also be played as a combination of double and single strokes. It consists of six notes, typically two [[Double Stroke]]s followed by two single strokes. It is mentioned as a key topic in Unit 7 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+The [[Six-Stroke Roll]] is a versatile drum rudiment, often considered a variation of the [[Double Stroke Roll]] family, though it can also be played as a combination of double and single strokes. It consists of six notes, typically two [[Double_Strokes]]s followed by two single strokes. It is mentioned as a key topic in Unit 7 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
 **Standard Sticking (Right Hand Lead):**
 RRLLRL (or LLRRLR for Left Hand Lead)

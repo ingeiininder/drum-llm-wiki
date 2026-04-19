@@ -27,4 +27,4 @@ The pattern suggests a continuous flow of alternating strokes, with specific gro
 5.  **Build Endurance:** As you gain control, gradually increase the tempo and practice playing the entire exercise without breaks to build endurance.
 
 **Pro-Tip:**
-Longer combination exercises like this are excellent for developing stamina and the ability to maintain focus over extended periods. Think of the entire phrase as a musical statement, ensuring that each [[Four-Stroke Ruff]] contributes to the overall flow and dynamic shape. This will significantly enhance your overall [[Drum Technique]] and musical phrasing.
+Longer combination exercises like this are excellent for developing stamina and the ability to maintain focus over extended periods. Think of the entire phrase as a musical statement, ensuring that each [[Four-Stroke Ruff]] contributes to the overall flow and dynamic shape. This will significantly enhance your overall [[Drum_Technique_50]] and musical phrasing.

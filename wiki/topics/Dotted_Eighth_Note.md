@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **dotted eighth note** is an [[Eighth Note]] with a dot placed immediately to its right. This dot increases the [[Duration]] of the eighth note by one-half of its original value.
 
 **Value Calculation:**
-*   An [[Eighth Note]] is typically worth 0.5 [[Beat]]s (in [[4/4 Time Signature]]).
+*   An [[Eighth Note]] is typically worth 0.5 [[Beat]]s (in [[4-4_Time_Signature]]).
 *   Half of an eighth note's value is 0.25 beats (equivalent to a [[Sixteenth Note]]).
 *   Therefore, a dotted eighth note is worth 0.5 + 0.25 = **0.75 beats** (or three sixteenth notes).
 

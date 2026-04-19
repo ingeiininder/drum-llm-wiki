@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **Half Note** is a fundamental [[Rhythmic Values|note value]] in music notation.
 
 ## Characteristics
-*   **Duration**: In a standard [[4/4 Time Signature]], a half note is equal to **two beats**, which is half the duration of a [[Whole Note]] and half the duration of a full [[Measure]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a half note is equal to **two beats**, which is half the duration of a [[Whole Note]] and half the duration of a full [[Measure]].
 *   **Notation**: It is indicated by a hollow oval note head with a stem attached. The stem can point up or down depending on its position on the staff.
 *   **Counting**: When counting aloud in 4/4 time, a half note is typically counted as "1 - 2" or "3 - 4", with the sound sustained for two beats.
 
@@ -40,6 +40,6 @@ A **Half Note** is a fundamental [[Rhythmic Values|note value]] in music notatio
 *   [[Whole Note]]
 *   [[Quarter Note]]
 *   [[Half Rest]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

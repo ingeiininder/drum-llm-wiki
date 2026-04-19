@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # I-IV-V Chord Progression
-The [[I-IV-V Chord Progression]] is a fundamental harmonic structure in Western music, particularly central to the [[Blues]] and many forms of [[Rock 'n' Roll]], [[Country-Pop Style]], and [[Jazz]]. It refers to the use of the tonic (I), subdominant (IV), and dominant (V) chords of a given key.
+The [[I_IV_V_Chord_Progression]] is a fundamental harmonic structure in Western music, particularly central to the [[Blues]] and many forms of [[Rock 'n' Roll]], [[Country-Pop Style]], and [[Jazz]]. It refers to the use of the tonic (I), subdominant (IV), and dominant (V) chords of a given key.
 
 **Concept**:
 *   **I Chord (Tonic)**: The home chord, built on the first note of the scale. Provides a sense of resolution.
@@ -15,7 +15,7 @@ The [[I-IV-V Chord Progression]] is a fundamental harmonic structure in Western 
 *   **V Chord (Dominant)**: Built on the fifth note of the scale. Creates tension that strongly resolves back to the tonic.
 
 **Application in 12-Bar Blues**:
-*   The [[12-Bar Blues Structure]] is a prime example of this progression, typically arranged as:
+*   The [[12_Bar_Blues_Structure]] is a prime example of this progression, typically arranged as:
     *   I for 4 bars
     *   IV for 2 bars, I for 2 bars
     *   V for 1 bar, IV for 1 bar, I for 2 bars (often with a V chord turnaround in the last bar)

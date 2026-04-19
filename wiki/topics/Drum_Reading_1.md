@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading 1 (MI Curriculum Series)
-"Drum Reading 1" is a foundational instructional book within the [[Musicians Institute (MI)]] Curriculum Series, specifically designed for the [[Drum Program]]. It focuses on developing essential music reading skills, technical proficiency, and performance understanding for drummers.
+"Drum Reading 1" is a foundational instructional book within the [[Musicians Institute]] Curriculum Series, specifically designed for the [[Drum Program]]. It focuses on developing essential music reading skills, technical proficiency, and performance understanding for drummers.
 
 ## Authors
 *   [[Donny Gruendler]]
@@ -32,11 +32,11 @@ The book is structured into ten units, progressively building upon fundamental c
     *   Exercises
 *   **Unit 2: Eighth Note Notation and Values**
     *   [[Eighth Note Notation and Values]]
-    *   [[Single-Bar Repeat Signs]]
+    *   [[Single-Bar Repeat Sign]]
     *   Exercises
 *   **Unit 3: Sixteenth Note Notation and Values**
     *   [[Sixteenth Note Notation and Values]]
-    *   [[D. C. al Fine]]
+    *   [[D.C. al Fine]]
     *   Exercises
 *   **Unit 4: Note Values**
     *   [[Note Values]]
@@ -65,8 +65,8 @@ The book is structured into ten units, progressively building upon fundamental c
     *   [[Practical Uses of Dotted Notes (and ties)]]
     *   Exercises
 *   **Unit 10: Time Signatures**
-    *   [[2/4 Time Signature]]
-    *   [[3/4 Time Signature]]
+    *   [[2_4_Time_Signature]]
+    *   [[3_4_Time_Signature]]
     *   Exercises
 
 This comprehensive curriculum aims to equip students with the tools needed to read music effectively and apply it to drum performance.

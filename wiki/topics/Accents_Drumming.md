@@ -19,6 +19,6 @@ While various techniques can produce accents, the [[Moeller Technique]] is parti
 
 **Relationship with Taps and Up Strokes:**
 *   **Taps:** Unaccented notes, generally played with a lower stick height (e.g., one to two inches above the drumhead).
-*   **Moeller Up Stroke:** A specific technique that allows a tap to precede an accented [[Moeller Stroke]], efficiently setting up the accent.
+*   **Moeller Up Stroke:** A specific technique that allows a tap to precede an accented [[Moeller_Up_Stroke]], efficiently setting up the accent.
 
 **Pro-Tip:** Practice exaggerating the dynamic difference between accented and unaccented notes. This "dynamic gap" is key to making your accents truly impactful and your drumming expressive. Ensure that the accent is produced with a relaxed, controlled motion, not brute force, to maintain good tone and prevent injury.

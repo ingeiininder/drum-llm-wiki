@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Exercise 3.18 (Hi-Hat Chunky 16ths)
-**Purpose**: [[Exercise 3.18 (Hi-Hat Chunky 16ths)]] is designed to develop the specific technique and articulation required for the [[Hi-Hat Chunky Shouldered 16ths]] sound. It focuses on achieving the desired "chunk-chunk-chunk" articulation and thick tone.
+**Purpose**: [[Exercise_3.18_Hi-Hat_Chunky_16ths]] is designed to develop the specific technique and articulation required for the [[Hi-Hat Chunky Shouldered 16ths]] sound. It focuses on achieving the desired "chunk-chunk-chunk" articulation and thick tone.
 
 **Description (based on preceding text):**
 This exercise likely involves repetitive practice of:

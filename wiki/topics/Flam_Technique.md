@@ -18,7 +18,7 @@ To execute a proper flam, the hands must start at different heights:
 3.  **The Stroke**: Both sticks drop simultaneously. Because the grace note hand is closer to the head, it strikes a fraction of a second before the primary hand.
 
 ### Alternating Flams and the Moeller Stroke
-Hand-to-hand (alternating) flams require high technical awareness. Each hand performs a cycle of an accented primary note followed by a low-volume grace note. This movement utilizes the [[Moeller Stroke]] (specifically the down-stroke and up-stroke).
+Hand-to-hand (alternating) flams require high technical awareness. Each hand performs a cycle of an accented primary note followed by a low-volume grace note. This movement utilizes the [[Moeller_Up_Stroke]] (specifically the down-stroke and up-stroke).
 
 *   **Down-stroke**: Plays the accented primary note and stays low for the subsequent grace note.
 *   **Up-stroke**: Plays the grace note and immediately pulls back to prepare for the next accented primary note.

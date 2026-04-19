@@ -26,7 +26,7 @@ The [[Hi-Hat Chunky Shouldered 16ths]] technique is a specific approach to playi
 *   **Stick Angle**: Experiment with the angle at which the stick shoulder strikes the hi-hat edge to find your optimal "chunk."
 
 **Related Exercises:**
-*   [[Exercise 3.18 (Hi-Hat Chunky 16ths)]]
-*   [[Exercise 3.19 (Hi-Hat Chunky 16ths Groove)]]
+*   [[Exercise_3.18_Hi-Hat_Chunky_16ths]]
+*   [[Exercise_3.19_Hi-Hat_Chunky_16ths_Groove]]
 
-This technique is a powerful tool for drummers looking to add depth and rhythmic weight to their [[Hi-Hat Techniques]] and overall [[Groove]] vocabulary.
+This technique is a powerful tool for drummers looking to add depth and rhythmic weight to their [[Hi-Hat_Technique]] and overall [[Groove]] vocabulary.

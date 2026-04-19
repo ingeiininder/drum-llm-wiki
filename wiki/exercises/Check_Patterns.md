@@ -16,7 +16,7 @@ last_updated: 2023-10-27
 *   **Metronome Independence:** Gradually reduces reliance on a constant metronome click by forcing the drummer to "feel" the time.
 
 **Typical Structure:**
-A common [[Check Pattern]] might involve playing a rhythmic phrase for a certain number of beats or measures, then resting for an equal number of beats or measures, and then re-entering precisely on time. For example:
+A common [[Check_Patterns]] might involve playing a rhythmic phrase for a certain number of beats or measures, then resting for an equal number of beats or measures, and then re-entering precisely on time. For example:
 *   Play 2 measures of [[Sixteenth Notes]]
 *   Rest 2 measures
 *   Re-enter precisely on beat 1 of the next phrase.

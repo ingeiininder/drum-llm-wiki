@@ -14,6 +14,6 @@ Common examples include switching from:
 *   Hi-hat to [[Open Hi-Hat]].
 *   Ride cymbal to [[Floor Tom]] or [[Snare Drum]] rim.
 
-This switch often coincides with changes in [[Song Structure]] (e.g., moving from a [[Verse (Song Section)]] to a [[Chorus (Song Section)]] or entering a [[Bridge (Song Section)]]), [[New Groove]]s, or shifts in [[Harmonic Structure]].
+This switch often coincides with changes in [[Song Structure]] (e.g., moving from a [[Verse (Song Section)]] to a [[Chorus (Song Section)]] or entering a [[Bridge (Song Section)]]), [[New Groove]]s, or shifts in [[New Harmonic Structure]].
 
 **Pro-Tip:** Masterful drummers use playing surface switches intentionally to serve the song. Practice smooth transitions between surfaces, ensuring that the new groove starts cleanly and with the desired feel. Consider the dynamic and timbral impact of each surface and how it contributes to the emotional arc of the music.

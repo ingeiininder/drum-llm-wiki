@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A key dynamic instruction for the Unit 10 rock shuffle is to play the [[Snare Drum]] loudly on beats 2 and 4. This creates a strong backbeat that is characteristic of rock music, even within a shuffle feel.
 
 **The Challenge:**
-*   This instruction presents a specific coordination and dynamic challenge, especially when combined with the [[Floor Tom as Ride Surface (Rock Shuffle)]] technique. You must maintain a medium, controlled volume on the floor tom for the ride pattern while simultaneously executing powerful, accented snare hits on the backbeats.
+*   This instruction presents a specific coordination and dynamic challenge, especially when combined with the [[Floor_Tom_as_Ride_Surface_Rock_Shuffle]] technique. You must maintain a medium, controlled volume on the floor tom for the ride pattern while simultaneously executing powerful, accented snare hits on the backbeats.
 
 **Performance Notes:**
 *   **Dynamic Contrast**: The goal is a clear and impactful dynamic contrast between the relatively softer, rumbling floor tom and the loud, cutting snare drum.

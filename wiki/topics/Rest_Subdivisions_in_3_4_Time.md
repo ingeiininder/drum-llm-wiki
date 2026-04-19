@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rest Subdivisions in 3/4 Time
-Just as with [[Note Values]], understanding how different [[Rest Values]] subdivide within a [[Measure]] of [[3/4 Time Signature]] is essential for accurate rhythmic interpretation. In 3/4, a [[Quarter Rest]] receives one [[Beat]].
+Just as with [[Note Values]], understanding how different [[Rest Values]] subdivide within a [[Measure]] of [[3_4_Time_Signature]] is essential for accurate rhythmic interpretation. In 3/4, a [[Quarter Rest]] receives one [[Beat]].
 
 **Common Rest Subdivisions in 3/4:**
 *   **[[Dotted Half Rest]]**: Worth three beats. In 3/4, a dotted half rest fills an entire measure of silence.

@@ -26,4 +26,4 @@ The core pattern is `R r l r l` (uppercase for accented, lowercase for unaccente
 4.  **Evenness:** Ensure the four grace notes are consistent in volume and spacing.
 
 **Pro-Tip:**
-Think of the accent as a "downstroke" that immediately sets up the subsequent grace notes as "taps" or "upstrokes" that stay close to the drum head. This exercise is excellent for developing fine motor control and dynamic sensitivity, which are crucial for advanced [[Drum Technique]]. Pay attention to the sound of the grace notes – they should be distinct but quiet, not muddy or rushed.
+Think of the accent as a "downstroke" that immediately sets up the subsequent grace notes as "taps" or "upstrokes" that stay close to the drum head. This exercise is excellent for developing fine motor control and dynamic sensitivity, which are crucial for advanced [[Drum_Technique_50]]. Pay attention to the sound of the grace notes – they should be distinct but quiet, not muddy or rushed.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Metronome Practice (Unit 4)
-A core component of [[Practice Suggestions (Unit 4)]] is dedicated [[Metronome]] practice. Students are advised to:
+A core component of [[Practice_Suggestions_Unit_4]] is dedicated [[Metronome]] practice. Students are advised to:
 *   Practice the [[Chart Grooves]] from the unit *without* the [[Play-Along Track Practice]].
 *   Use a metronome at specific tempos: 85 BPM, 100 BPM, and 110 BPM.
 *   Allocate twenty minutes daily to this exercise.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Exercise 3.17 (Snare Drum Center Stroke)
-**Purpose**: [[Exercise 3.17 (Snare Drum Center Stroke)]] is designed to develop precision, consistency, and control in executing the [[Snare Drum Center Stroke (Non-Rimshot)]]. This exercise focuses on the accurate placement of the stick and the specific grip engagement required for the desired tone.
+**Purpose**: [[Exercise_3.17_Snare_Drum_Center_Stroke]] is designed to develop precision, consistency, and control in executing the [[Snare_Drum_Center_Stroke_Non_Rimshot]]. This exercise focuses on the accurate placement of the stick and the specific grip engagement required for the desired tone.
 
 **Description (based on preceding text):**
 This exercise likely involves repeated practice of the following steps:
@@ -23,4 +23,4 @@ This exercise likely involves repeated practice of the following steps:
 *   **Metronome Use**: Practice with a [[Metronome]] to develop rhythmic accuracy alongside stroke consistency.
 *   **Dynamic Variation**: Once comfortable with the basic stroke, practice the exercise at different dynamic levels (soft to loud) while maintaining the core technique.
 
-**Goal**: The ultimate goal of this exercise is to achieve a consistent, deep, and open snare drum sound with a crisp attack, demonstrating a high level of accuracy and control over the [[Snare Drum Center Stroke (Non-Rimshot)]].
+**Goal**: The ultimate goal of this exercise is to achieve a consistent, deep, and open snare drum sound with a crisp attack, demonstrating a high level of accuracy and control over the [[Snare_Drum_Center_Stroke_Non_Rimshot]].

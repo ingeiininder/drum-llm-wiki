@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Paradiddle
-The [[Paradiddle]] is one of the most fundamental and widely recognized drum rudiments, belonging to the [[Diddles (Rudiment Family)]]. Its name is onomatopoeic, reflecting its sticking pattern: **Pa-ra-did-dle**.
+The [[Paradiddle]] is one of the most fundamental and widely recognized drum rudiments, belonging to the [[Diddles_Rudiment_Family]]. Its name is onomatopoeic, reflecting its sticking pattern: **Pa-ra-did-dle**.
 
 **Basic Sticking Pattern:**
 The core sticking for a single [[Paradiddle]] is:

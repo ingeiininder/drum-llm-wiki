@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Swung 16th Notes
-**Swung 16th notes** are a rhythmic feel widely utilized in modern Rock, Funk, and Hip-Hop. Unlike the [[Shuffle Feel]] (which is based on eighth notes), the swung 16th feel is based on the subdivision of [[Sixteenth-Note Triplets]].
+**Swung 16th notes** are a rhythmic feel widely utilized in modern Rock, Funk, and Hip-Hop. Unlike the [[Shuffle Feel]] (which is based on eighth notes), the swung 16th feel is based on the subdivision of [[Sixteenth_Note_Triplets]].
 
 ### The "Broken Triplet" Concept
 To create the swung 16th feel, drummers employ a "broken" 16th-note triplet. This is achieved by removing the second and fifth partials of the sextuplet. 

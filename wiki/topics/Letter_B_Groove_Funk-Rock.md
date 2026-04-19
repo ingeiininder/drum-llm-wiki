@@ -7,9 +7,9 @@ last_updated: 2023-10-27
 ---
 
 # Letter B Groove (Funk-Rock)
-The `[[Letter B Groove (Funk-Rock)]]` is a two-bar `[[Musical Phrase]]` within the `[[Funk-Rock]]` chart, characterized by its highly `[[Syncopated]]` nature. It features an `[[Eighth Note]]` `[[Hi-Hat]]` pattern combined with `[[Sixteenth Note]]`-based `[[Bass Drum]]` and `[[Snare Drum]]` patterns.
+The `[[Letter_B_Groove_Funk-Rock]]` is a two-bar `[[Musical Phrase]]` within the `[[Funk-Rock]]` chart, characterized by its highly `[[Syncopated]]` nature. It features an `[[Eighth Note]]` `[[Hi-Hat]]` pattern combined with `[[Sixteenth Note]]`-based `[[Bass Drum]]` and `[[Snare Drum]]` patterns.
 
-Similar to the `[[Letter A Groove (Funk-Rock)]]`, the `[[Bass Drum]]` and `[[Snare Drum]]` rhythms do not always align with the `[[Open Hi-Hat]]`, requiring significant `[[Limb Independence]]` and precise `[[Rhythmic Placement]]`. Examples `[[Ex 8.6]]` and `[[Ex 8.7]]` illustrate this groove.
+Similar to the `[[Letter_A_Groove_Funk-Rock]]`, the `[[Bass Drum]]` and `[[Snare Drum]]` rhythms do not always align with the `[[Open Hi-Hat]]`, requiring significant `[[Limb Independence]]` and precise `[[Rhythmic Placement]]`. Examples `[[Ex 8.6]]` and `[[Ex 8.7]]` illustrate this groove.
 
 **Important:** To properly execute the `[[Sixteenth Note]]` `[[Bass Drum]]` and `[[Snare Drum]]` patterns, `[[Subdividing]]` is again emphasized as crucial during both practice and performance.
 

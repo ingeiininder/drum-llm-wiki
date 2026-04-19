@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tight, Thick Hi-Hat
-[[Tight, Thick Hi-Hat]] describes an [[Articulation]] technique where the [[Hi-Hat]] cymbals are pressed firmly together with the foot pedal, resulting in a very short, crisp, and defined sound. The "thick" quality often refers to a full-bodied, articulate sound without excessive sustain or wash.
+[[Tight_Thick_Hi-Hat]] describes an [[Articulations]] technique where the [[Hi-Hat]] cymbals are pressed firmly together with the foot pedal, resulting in a very short, crisp, and defined sound. The "thick" quality often refers to a full-bodied, articulate sound without excessive sustain or wash.
 
 **Technique**:
 *   The foot pedal is fully depressed, clamping the top cymbal tightly against the bottom cymbal.

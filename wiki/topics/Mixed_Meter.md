@@ -28,5 +28,5 @@ When performing mixed meters, the drummer's job is to make the transitions feel 
 ---
 **See Also:**
 *   [[Odd Meter]]
-*   [[5/8 Time Signature]]
-*   [[7/8 Time Signature]]
+*   [[5-8_Time_Signature]]
+*   [[7-8_Time_Signature]]

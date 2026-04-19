@@ -13,7 +13,7 @@ The **Afro-Cuban 6/8 Groove** is a foundational polyrhythmic structure in Latin 
 
 ### Orchestration and Structure
 - **Ride Surface**: Typically played on a cowbell or the bell of the [[Ride Cymbal]]. The pattern maintains a constant dotted-quarter note pulse or a more syncopated Afro-Cuban bell pattern.
-- **Snare Drum**: Often utilizes [[Cross-Stick]] patterns or high-tuned rimshots to emulate traditional percussion instruments like the Clave or Timbales.
+- **Snare Drum**: Often utilizes [[Cross_Stick]] patterns or high-tuned rimshots to emulate traditional percussion instruments like the Clave or Timbales.
 - **Bass Drum**: Usually follows a "tumbao" influenced pattern, often emphasizing the "a" of beat 2 and beat 4 in a 6/8 context (the dotted quarter note pulse).
 - **Toms**: Used to add melodic color, often toggling between the rack tom and floor tom to simulate the high and low heads of Congas.
 

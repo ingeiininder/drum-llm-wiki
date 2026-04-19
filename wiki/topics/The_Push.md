@@ -16,5 +16,5 @@ The "push" creates the illusion that the upcoming downbeat or chord change has a
 
 ### Execution Tips
 - **Subdivision is Key**: Because the "ah" is so close to the following downbeat, it is easy to "crush" the note or play it too late. Constant 16th-note mental counting is required.
-- **Ghosting the Downbeat**: In some notations (e.g., IMG_0957), the downbeat following a push is written in parentheses (a [[Ghost Note]]). This indicates that the note is tied over from the "ah" and should not be re-struck on the repeat.
+- **Ghosting the Downbeat**: In some notations (e.g., IMG_0957), the downbeat following a push is written in parentheses (a [[Ghost_Notes]]). This indicates that the note is tied over from the "ah" and should not be re-struck on the repeat.
 - **Coordination**: When playing a push on the "ah" of beat 4, the drummer must ensure the [[Crash Cymbal]] and [[Bass Drum]] align perfectly to "push" the band into the next section.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: Dotted Quarters (Four-Bar Phrases)
-This exercise focuses on reading and performing rhythms that incorporate [[Dotted Quarter Notes]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Quarter_Note]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing rhythms involving dotted quarter notes, which extend for one and a half beats.

@@ -18,7 +18,7 @@ A **Groove** is the sense of rhythmic "feel" or swing created by the interaction
 - **[[Tempo]]**: The speed of the groove.
 - **[[Time Signature]]**: The underlying meter.
 - **[[Subdivision]]**: The underlying grid (e.g., [[Eighth Notes]], [[Sixteenth Notes]]).
-- **[[Backbeat]]**: The accented notes, typically on beats 2 and 4 in popular music.
+- **[[Back-Beat]]**: The accented notes, typically on beats 2 and 4 in popular music.
 
 ## Applications
 Grooves define the musical genre, such as Rock, Jazz, Latin, or Funk. The consistency and feel of a groove are the most critical responsibilities of a drummer.

@@ -21,7 +21,7 @@ last_updated: 2023-10-27
     *   For [[Eighth Notes]]: "1 & 2 & 3 & 4 &"
     *   For [[16th Notes]]: "1 e & a 2 e & a 3 e & a 4 e & a"
     *   For Triplets: "1 la li 2 la li 3 la li 4 la li"
-3.  **Focus on Specific Notes:** Pay extra attention to how syncopated notes align with these subdivisions. For example, in the [[Syncopated Funk-Rock Groove (Letter A)]], the snare drum on the "&" of beat 4, or the bass drum on the "e" and "a" of beat 3, become clear when [[16th Notes]] are subdivided.
+3.  **Focus on Specific Notes:** Pay extra attention to how syncopated notes align with these subdivisions. For example, in the [[Syncopated_Funk-Rock_Groove_Letter_A]], the snare drum on the "&" of beat 4, or the bass drum on the "e" and "a" of beat 3, become clear when [[16th Notes]] are subdivided.
 
 **Pro-Tip:**
 *   **Start Slow:** Always begin [[Subdividing]] at a slow [[Tempo]] with a [[Metronome]]. Gradually increase the speed as your accuracy improves.

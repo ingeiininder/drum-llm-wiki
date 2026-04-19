@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Blushda
-The **Blushda** is a popular hybrid rudiment that combines a [[Flam]] and a [[Drag]]. It is widely used in modern gospel, jazz, and fusion drumming for its "greasy" and fluid sound.
+The **Blushda** is a popular hybrid rudiment that combines a [[Flams]] and a [[Drag]]. It is widely used in modern gospel, jazz, and fusion drumming for its "greasy" and fluid sound.
 
 ### Sticking Pattern
 - **Basic Sticking**: rL RR L (Flam followed by a drag and a single stroke).

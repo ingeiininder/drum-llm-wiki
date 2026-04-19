@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Quarter Notes (2/3 Rule Application)
-The [[2/3 Rule]] often necessitates the use of [[Ties]] with [[Quarter Notes]] to maintain clarity in notation, particularly in [[4/4 Time Signature]]. This ensures that the [[Downbeat]] of beat 3 is never obscured.
+The [[2_3_Rule]] often necessitates the use of [[Ties]] with [[Quarter Notes]] to maintain clarity in notation, particularly in [[4-4_Time_Signature]]. This ensures that the [[Downbeat]] of beat 3 is never obscured.
 
 **Scenario:**
 If a sound needs to last for two beats, starting on beat 2 and extending through beat 3, it cannot be notated as a single [[Half Note]] on beat 2. A half note on beat 2 would visually "cover" beat 3, making the downbeat of 3 unclear.

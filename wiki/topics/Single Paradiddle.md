@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Single Paradiddle
-The [[Single Paradiddle]] is the foundational and most widely recognized variation of the [[Paradiddle]] [[Rudiment]]. Its standard [[Sticking Pattern]] is RLRR LRLL.
+The [[Single Paradiddle]] is the foundational and most widely recognized variation of the [[Paradiddle]] [[Rudiment]]. Its standard [[Sticking Patterns]] is RLRR LRLL.
 
 This [[Rudiment]] is highly valued for its natural ability to alternate the [[Leading Hand]] after every two measures (or every two full paradiddles), even when playing continuous even-note phrases. This inherent [[Leading Hand Alternation]] makes it exceptionally practical for [[Drumset Application]], allowing drummers to seamlessly move patterns around the kit and access different [[Sound Sources]] without awkward hand crossovers or breaks in the flow.
 

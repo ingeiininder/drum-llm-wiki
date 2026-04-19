@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **Whole Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence.
 
 ## Characteristics
-*   **Duration**: In a standard [[4/4 Time Signature]], a whole rest is equal to **four beats**, meaning it signifies silence for the entire duration of one [[Measure]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a whole rest is equal to **four beats**, meaning it signifies silence for the entire duration of one [[Measure]].
 *   **Notation**: It is indicated by a solid rectangular symbol that hangs down from the fourth line of the musical staff.
 *   **Counting**: When counting aloud in 4/4 time, a whole rest is typically counted as "1 - 2 - 3 - 4", with no sound produced for all four beats.
 
@@ -28,6 +28,6 @@ A **Whole Rest** is a fundamental [[Rhythmic Values|rest value]] in music notati
 *   [[Whole Note]]
 *   [[Half Rest]]
 *   [[Quarter Rest]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

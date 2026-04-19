@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Syncopated Rhythms
-**Syncopation** is a rhythmic device that involves placing accents or notes on normally weak beats or [[Upbeats]] (e.g., the "&s" and "ahs" between the main beats), rather than on the strong [[Downbeats]]. This creates rhythmic tension, interest, and a sense of "off-beat" feel.
+**Syncopation** is a rhythmic device that involves placing accents or notes on normally weak beats or [[Upbeat]] (e.g., the "&s" and "ahs" between the main beats), rather than on the strong [[Downbeat]]. This creates rhythmic tension, interest, and a sense of "off-beat" feel.
 
 **Key Characteristics:**
 *   **Emphasis on Weak Beats**: Notes or accents fall on beats that are typically unaccented.

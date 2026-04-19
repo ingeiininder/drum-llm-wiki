@@ -11,11 +11,11 @@ These suggestions provide a structured approach to practicing the material cover
 
 **Practice Routine:**
 1.  **Lesson Review:** Read the entire lesson at least twice. This helps in understanding the concepts before physical practice.
-2.  **Ruff Exercises:** Play all of the [[Ruff Rudiments]] exercises for two minutes each, every day.
+2.  **Ruff Exercises:** Play all of the [[Ruff_Rudiment]] exercises for two minutes each, every day.
     *   **Focus:** Create a big dynamic spread between the accented and unaccented notes. This is crucial for the characteristic sound of ruffs.
 3.  **Master Studies:** Every day, play four of the twelve [[Master Studies]] exercises (from the assigned range) for two minutes each. Choose a different set of four each day to ensure comprehensive coverage.
 4.  **Hi-Hat Application:**
-    *   Play along to any song with your hi-hat only, using the [[Heel/Toe Hi-Hat Method]]. Focus on consistent timekeeping and a clear "chick" sound.
+    *   Play along to any song with your hi-hat only, using the [[Heel-Toe_Hi-Hat_Method]]. Focus on consistent timekeeping and a clear "chick" sound.
     *   Then, play quarter notes or eighth notes with the [[Heel-Up Hi-Hat Method]]. Focus on dynamic control and speed potential.
 5.  **Midterm Prep Questions:** Ask questions if there is something you don't understand from the midterm prep checklist.
 

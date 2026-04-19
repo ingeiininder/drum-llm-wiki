@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Hand-to-Hand Triplets
-[[Hand-to-Hand Triplets]] refer to a specific approach to playing [[Eighth-Note Triplet Study]] where the sticking naturally alternates between hands for each triplet grouping. This method offers significant benefits for developing balanced [[Drum Technique]].
+[[Hand-to-Hand Triplets]] refer to a specific approach to playing [[Eighth-Note Triplet Study]] where the sticking naturally alternates between hands for each triplet grouping. This method offers significant benefits for developing balanced [[Drum_Technique_50]].
 
 **Structure:**
 The most common [[Hand-to-Hand Triplets]] sticking pattern is RLR LRL RLR LRL. Each triplet group (three notes) starts with an alternating hand.

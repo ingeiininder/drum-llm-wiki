@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Progressive Paradiddle Accents
-[[Progressive Paradiddle Accents]] are exercises designed to develop dynamic control and rhythmic variation within [[Paradiddle]] rudiments by systematically shifting the placement of [[Accent]]s. It is mentioned as a key topic in Unit 9 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+[[Progressive Paradiddle Accents]] are exercises designed to develop dynamic control and rhythmic variation within [[Paradiddle]] rudiments by systematically shifting the placement of [[Accents]]s. It is mentioned as a key topic in Unit 9 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
 **Purpose and Application:**
 *   **Dynamic Control:** Teaches drummers to precisely control the volume of individual notes within a continuous pattern, distinguishing between accented and unaccented (tap) strokes.

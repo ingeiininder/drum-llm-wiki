@@ -31,5 +31,5 @@ Quarter-note triplet rests follow the same logic as standard quarter rests but e
 *   Note - Note - Rest
 
 ### Related Concepts
-*   [[Half-Note Triplets]]
+*   [[Half_Note_Triplets]]
 *   [[Polyrhythms]]

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Snare Drum Center Stroke (Non-Rimshot)
-The [[Snare Drum Center Stroke (Non-Rimshot)]] is a fundamental [[Snare Drum]] technique focused on producing a deep, open, and consistent sound without the added brightness or crack of a [[Rimshot]]. This stroke is crucial for grooves requiring a full, resonant snare tone.
+The [[Snare_Drum_Center_Stroke_Non_Rimshot]] is a fundamental [[Snare Drum]] technique focused on producing a deep, open, and consistent sound without the added brightness or crack of a [[Rimshot]]. This stroke is crucial for grooves requiring a full, resonant snare tone.
 
 **Execution:**
 1.  **Target Area**: The stroke is executed by hitting the exact center of the [[Drumhead]]. Consistency in hitting this spot is paramount for a uniform sound.
@@ -27,6 +27,6 @@ The [[Snare Drum Center Stroke (Non-Rimshot)]] is a fundamental [[Snare Drum]] t
 *   **Stick Choice**: The weight and balance of your [[Drumstick]] can influence the feel and sound of this stroke. Experiment to find what works best for you.
 
 **Related Exercises:**
-*   [[Exercise 3.17 (Snare Drum Center Stroke)]]
+*   [[Exercise_3.17_Snare_Drum_Center_Stroke]]
 
 This technique is often contrasted with the [[Rimshot]] and is a cornerstone for developing a versatile [[Snare Drum Technique]].

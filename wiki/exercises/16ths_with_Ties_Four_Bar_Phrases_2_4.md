@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 16ths with Ties (Four-Bar Phrases) - 2/4
 
-This exercise combines [[Ties]] with [[Sixteenth Note]]s in extended four-bar phrases within the [[2/4 Time Signature]]. This is a challenging exercise that requires a high degree of rhythmic precision and the ability to maintain a consistent sixteenth note subdivision across tied notes and bar lines.
+This exercise combines [[Ties]] with [[Sixteenth Note]]s in extended four-bar phrases within the [[2_4_Time_Signature]]. This is a challenging exercise that requires a high degree of rhythmic precision and the ability to maintain a consistent sixteenth note subdivision across tied notes and bar lines.
 
 **Purpose:**
 *   To master the accurate execution of tied sixteenth notes, ensuring their combined duration is precisely observed.

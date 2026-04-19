@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Second Ending Fill (Unit 9)
-A specific fill is provided for the [[B Section Endings (Unit 9)|second ending]] of the B section, with suggested stickings to ensure smooth execution.
+A specific fill is provided for the [[B_Section_Endings_Unit_9|second ending]] of the B section, with suggested stickings to ensure smooth execution.
 
 **Suggested Sticking:**
 *   The fill is notated with the sticking: R L R L R L.
@@ -16,4 +16,4 @@ A specific fill is provided for the [[B Section Endings (Unit 9)|second ending]]
 **Performance Notes:**
 *   **Evenness**: Maintain consistent volume and spacing between each stroke.
 *   **Tempo**: Practice this fill at various tempos, especially the target tempo, to ensure it feels comfortable and accurate.
-*   **Context**: This fill leads back to the [[A Section Groove (Unit 9)]] as per the second ending instruction. Ensure the transition is clean and sets up the return to the A section effectively.
+*   **Context**: This fill leads back to the [[A Section Groove (Unit 3)]] as per the second ending instruction. Ensure the transition is clean and sets up the return to the A section effectively.

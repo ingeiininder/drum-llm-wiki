@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth Note Triplet
-An [[Eighth Note Triplet]] is a rhythmic subdivision where three eighth notes are played in the time normally occupied by two standard eighth notes. It is a fundamental building block for creating a "swing" or "shuffle" feel, and is central to the [[12/8 Feel in 4/4 Time Signature]].
+An [[Eighth Note Triplet]] is a rhythmic subdivision where three eighth notes are played in the time normally occupied by two standard eighth notes. It is a fundamental building block for creating a "swing" or "shuffle" feel, and is central to the [[12_8_Feel_in_4_4_Time_Signature]].
 
 **Definition**:
 *   Three notes of the same value (eighth notes) occupying the same space as two notes of the same value (two standard eighth notes).
@@ -18,6 +18,6 @@ An [[Eighth Note Triplet]] is a rhythmic subdivision where three eighth notes ar
 
 **Musical Context**:
 *   Essential for [[Blues]], [[Jazz]], and many forms of [[Rock 'n' Roll]] and [[Country-Pop Style]] where a swung or triplet-based feel is desired.
-*   Forms the continuous ride cymbal pattern in the [[A1 12-Bar Blues Groove]].
+*   Forms the continuous ride cymbal pattern in the [[A1_12_Bar_Blues_Groove]].
 
 **Pro-Tip**: The key to playing triplets well is evenness. Each of the three notes should have equal duration and emphasis (unless accents are specifically notated). Practice with a [[Metronome]], initially setting it to click on each beat, then on each triplet subdivision, to ensure your internal clock is accurate.

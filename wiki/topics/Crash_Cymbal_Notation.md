@@ -14,4 +14,4 @@ In [[Drum Set Notation Key]], the [[Crash Cymbal]] is used for accents and punct
 *   Its typical position is on a **ledger line above the staff**, often significantly higher than other cymbal notations to emphasize its role as an accent.
 
 ## Function in Notation
-Crash cymbal notation indicates when a crash cymbal strike should occur, usually at the beginning of a phrase, section, or to mark a strong accent. It's often played simultaneously with a [[Bass Drum (Notation)]] and/or [[Snare Drum (Notation)]] hit for maximum impact.
+Crash cymbal notation indicates when a crash cymbal strike should occur, usually at the beginning of a phrase, section, or to mark a strong accent. It's often played simultaneously with a [[Bass_Drum_Notation]] and/or [[Snare_Drum_Notation]] hit for maximum impact.

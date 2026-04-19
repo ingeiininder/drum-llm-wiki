@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # 32nd-Note Ensemble Figures
 
-In advanced [[Drum Reading]], [[32nd Notes]] are frequently utilized to "fill in" the gaps between [[16th-Note]] ensemble figures. This technique creates a dense, driving rhythmic texture often found in modern big band or fusion settings.
+In advanced [[Drum Reading]], [[32nd Notes]] are frequently utilized to "fill in" the gaps between [[16th_Note]] ensemble figures. This technique creates a dense, driving rhythmic texture often found in modern big band or fusion settings.
 
 ### Application in Four-Bar Phrases
 A standard practice method involves playing three bars of "time" (a consistent [[Groove]]) followed by a fourth bar containing a specific ensemble figure. 

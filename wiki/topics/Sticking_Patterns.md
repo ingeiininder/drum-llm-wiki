@@ -11,7 +11,7 @@ Sticking Patterns refer to the specific sequence of right (R) and left (L) hand 
 
 The application of effective [[Sticking Patterns]] directly impacts:
 *   **[[Drum Reading]]**: Provides a physical interpretation for written rhythms, making them easier to internalize and perform.
-*   **[[Muscle Memory (Drumming)]]**: Through repetition, specific sticking patterns become ingrained, leading to fluid and unconscious execution.
+*   **[[Muscle_Memory_Drumming]]**: Through repetition, specific sticking patterns become ingrained, leading to fluid and unconscious execution.
 *   **Speed and Control**: Optimized stickings allow for faster tempos and greater dynamic control.
 *   **Orchestration**: Different stickings can facilitate moving between drums and cymbals on the drum set.
 
@@ -23,4 +23,4 @@ Common types of sticking patterns include:
 *   **Straight Sticking**: Often refers to a consistent pattern (e.g., R L R L) applied to a phrase.
 *   **Hybrid Stickings**: Combinations of various sticking approaches to navigate complex rhythms.
 
-**Pro-Tip**: While many sticking techniques exist, the most effective sticking is often the one that allows you to play the rhythm cleanly, consistently, and musically at the desired tempo. Experiment with different [[Sticking Techniques (General)]] and understand their strengths and weaknesses.
+**Pro-Tip**: While many sticking techniques exist, the most effective sticking is often the one that allows you to play the rhythm cleanly, consistently, and musically at the desired tempo. Experiment with different [[Sticking_Techniques_General]] and understand their strengths and weaknesses.

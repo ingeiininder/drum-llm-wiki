@@ -27,4 +27,4 @@ A typical [[Three-Stroke Ruff]] is `r l R` or `l r L`. This exercise would combi
 5.  **Dynamic Contrast:** Maintain the clear dynamic contrast of the ruff (soft grace notes, loud accent).
 
 **Pro-Tip:**
-This exercise helps bridge the gap between practicing a rudiment in isolation and applying it musically. Think of the [[Three-Stroke Ruff]] as a quick embellishment that leads into a main beat. The goal is to make it sound natural and effortless, enhancing your overall [[Drum Technique]] and rhythmic vocabulary.
+This exercise helps bridge the gap between practicing a rudiment in isolation and applying it musically. Think of the [[Three-Stroke Ruff]] as a quick embellishment that leads into a main beat. The goal is to make it sound natural and effortless, enhancing your overall [[Drum_Technique_50]] and rhythmic vocabulary.

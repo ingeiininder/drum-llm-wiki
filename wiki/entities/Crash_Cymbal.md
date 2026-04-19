@@ -21,7 +21,7 @@ A [[Crash Cymbal]] is a type of cymbal on a drum kit designed to produce a loud,
 
 **Common Applications:**
 *   **Accents:** Used to emphasize downbeats, particularly the "one" of a new section or phrase.
-*   **Ensemble Figures:** Essential for playing [[Ensemble Figure]]s, where the crash cymbal combines with other instruments (e.g., [[Bass Drum]]) for a powerful hit, as seen in the [[16th-Note Ensemble Figure (Funk-Rock)]].
+*   **Ensemble Figures:** Essential for playing [[Ensemble Figures]]s, where the crash cymbal combines with other instruments (e.g., [[Bass Drum]]) for a powerful hit, as seen in the [[16th-Note_Ensemble_Figure_Funk-Rock]].
 *   **Transitions:** Marks the beginning or end of musical sections.
 
 **Pro-Tip:**

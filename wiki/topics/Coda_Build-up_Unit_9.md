@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Coda Build-up (Unit 9)
-The final part of the [[Coda Section (Unit 9)]] functions as a significant build-up, leading to the very last bar of the piece. This section is designed to create excitement and a sense of climax.
+The final part of the [[Coda_Section_Unit_9]] functions as a significant build-up, leading to the very last bar of the piece. This section is designed to create excitement and a sense of climax.
 
 **Key Characteristics:**
 *   **Pattern**: It's a one-bar pattern that repeats for three measures.

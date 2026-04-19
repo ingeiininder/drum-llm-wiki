@@ -18,7 +18,7 @@ When executing continuous 16th-note patterns, the drummer must analyze their **b
 
 ### Technical Focus
 - **Sonic Matching**: The goal is to make the "weak" foot (usually the left for right-handed players) indistinguishable from the "strong" foot in terms of volume, timbre, and timing.
-- **The Rim Shot Anchor**: Maintaining a heavy [[Rim Shot]] on the snare (beats 2 and 4) while the feet are active helps "lock" the lower body into the grid.
+- **The Rim Shot Anchor**: Maintaining a heavy [[Rimshot]] on the snare (beats 2 and 4) while the feet are active helps "lock" the lower body into the grid.
 
 > [!caution] Common Pitfall
 > Many students "flam" their double bass notes when increasing speed. Practice at slow tempos (BPM 80-90) to ensure the 16th-note grid is perfectly even before pushing the tempo.

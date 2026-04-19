@@ -13,7 +13,7 @@ The **Bossa Nova** is a Brazilian rhythm characterized by its sophisticated, und
 
 ### Core Components
 1. **Ride Cymbal**: A light, even straight-eighth note pattern.
-2. **Snare Drum**: Typically played as a [[Cross-Stick]] (side-stick) pattern. The pattern is often a two-bar phrase.
+2. **Snare Drum**: Typically played as a [[Cross_Stick]] (side-stick) pattern. The pattern is often a two-bar phrase.
 3. **Bass Drum**: Played with an "unburied" beater to produce a round, resonant "open" sound. The pattern usually emphasizes the "1" and the "(+) of 2."
 4. **Hi-Hat**: Operated by the foot on beats 2 and 4.
 

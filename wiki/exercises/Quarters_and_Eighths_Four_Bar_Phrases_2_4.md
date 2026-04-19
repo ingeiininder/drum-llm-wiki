@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarters and Eighths (Four-Bar Phrases) - 2/4
 
-This exercise expands on basic [[Rhythm Reading]] by presenting combinations of [[Quarter Note]]s and [[Eighth Note]]s in longer, four-bar phrases within the [[2/4 Time Signature]]. This format helps develop rhythmic continuity and endurance.
+This exercise expands on basic [[Rhythm Reading]] by presenting combinations of [[Quarter Note]]s and [[Eighth Note]]s in longer, four-bar phrases within the [[2_4_Time_Signature]]. This format helps develop rhythmic continuity and endurance.
 
 **Purpose:**
 *   To improve the ability to maintain a consistent [[Tempo]] and rhythmic flow over extended musical phrases.

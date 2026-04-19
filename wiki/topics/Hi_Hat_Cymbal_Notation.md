@@ -11,7 +11,7 @@ In [[Drum Set Notation Key]], the [[Hi Hat Cymbal]] is a crucial element for rhy
 
 ## Standard Placement
 *   The hi-hat cymbal is notated with an **'X' [[Note Head]]**.
-*   Its typical position is on the **top space** of [[The Staff]] or sometimes on the top line, often just below the [[Ride Cymbal (Notation)]] if both are present.
+*   Its typical position is on the **top space** of [[The Staff]] or sometimes on the top line, often just below the [[Ride_Cymbal_Notation]] if both are present.
 
 ## Function in Notation
 Hi-hat notation indicates when the hi-hats should be played. Additional symbols are frequently used to denote specific techniques:

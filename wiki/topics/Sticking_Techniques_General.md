@@ -16,7 +16,7 @@ Commonly endorsed sticking techniques include:
 *   **Hybrid Stickings**: Combinations of various techniques to navigate complex or unusual rhythmic figures. These often involve mixing single strokes, double strokes, and accents in creative ways.
 
 **Factors Influencing Sticking Choices**:
-*   **Tempo**: Faster tempos might necessitate more [[Double Strokes]] or efficient [[Alternating Hands (Sticking)]].
+*   **Tempo**: Faster tempos might necessitate more [[Double Strokes]] or efficient [[Alternating_Hands_Sticking]].
 *   **Meter**: Different time signatures can influence natural groupings and preferred stickings.
 *   **Instrumentation/Orchestration**: Moving between different drums and cymbals on the drum set will often dictate specific hand placements.
 *   **Musical Style**: Certain genres or feels might favor particular sticking approaches.

@@ -14,7 +14,7 @@ Coordinated independence is the ability to maintain a steady [[Ostinato]] in one
 ### The Foundation Pattern
 - **Ride Cymbal**: Quarter notes on beats 1 and 3; two eighth notes on beats 2 and 4.
 - **Hi-Hat (Foot)**: Played on beats 2 and 4.
-- **Stylistic Versatility**: When played with [[Straight Eighth Notes]], this applies to Rock, Funk, and Latin. When played with [[Swung Eighth Notes]], it serves as a foundation for Jazz and Hip-Hop.
+- **Stylistic Versatility**: When played with [[Straight Eighth Notes]], this applies to Rock, Funk, and Latin. When played with [[Swing_Eighth_Notes]], it serves as a foundation for Jazz and Hip-Hop.
 
 ### The Four Rules of Pairing
 To master basic independence, follow these alignment rules for the [[Snare Drum]] and [[Bass Drum]]:

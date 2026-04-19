@@ -17,7 +17,7 @@ This collection of exercises (Ex 2.14 - Ex 2.27) is designed to develop fundamen
 The exercises are presented as musical notation (Ex 2.14 through Ex 2.27). While the specific notation is not fully transcribed here, they typically involve:
 *   Various rhythmic patterns (e.g., eighth notes, 16th notes, triplets).
 *   Alternating stickings (R L R L).
-*   Potentially incorporating [[Accent]]s and [[Tap]]s, or specific stroke types like [[Down Stroke]]s.
+*   Potentially incorporating [[Accents]]s and [[Tap]]s, or specific stroke types like [[Down Stroke]]s.
 
 ## Purpose:
 *   **Grip Versatility**: To build proficiency and comfort with different grip styles.

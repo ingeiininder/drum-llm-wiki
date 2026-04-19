@@ -16,7 +16,7 @@ The bass drum (also known as the kick drum) is the largest drum in a [[Drum Kit]
 
 ## Playing Techniques:
 *   **[[Bass Drum Technique]]**: The primary methods are [[Heel Up]] and [[Heel Down]], each offering distinct advantages for dynamics, speed, and endurance.
-*   **[[Burying the Beater]] / [[Not Burying the Beater]]**: A choice that affects the drum's resonance and sustain. Burying the beater mutes the drum for a quicker, punchier sound, while not burying allows for more resonance.
+*   **[[Burying the Beater]] / [[Burying_the_Beater]]**: A choice that affects the drum's resonance and sustain. Burying the beater mutes the drum for a quicker, punchier sound, while not burying allows for more resonance.
 *   **Ankle Technique**: Crucial for both heel-up and heel-down, emphasizing the ankle as the pivot point for efficient strokes.
 *   **Full-Leg Technique**: Can be used for very loud accents, but should not be the primary technique to avoid fatigue.
 

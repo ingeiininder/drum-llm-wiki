@@ -8,12 +8,12 @@ last_updated: 2026-04-19
 ---
 
 # Snare Drum Articulation
-The placement of the stick on the snare drum head drastically alters the frequency response and "feel" of a groove, especially in [[Country-Rock Ballad]] and R&B styles.
+The placement of the stick on the snare drum head drastically alters the frequency response and "feel" of a groove, especially in [[Country_Rock_Ballad]] and R&B styles.
 
 ### Center Snare
 *   **Technique**: Striking the exact center of the drum head.
 *   **Sound**: Produces a warm, dry, and focused tone.
-*   **Application**: Used for gentle verses and subtle [[Backbeat|backbeats]] at a *piano* (p) dynamic.
+*   **Application**: Used for gentle verses and subtle [[Back-Beat|backbeats]] at a *piano* (p) dynamic.
 
 ### Rim Shot
 *   **Technique**: Striking the head and the rim of the drum simultaneously.

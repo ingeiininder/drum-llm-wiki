@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # One-Beat Fill (Country-Pop A Section Bar 8)
-A crucial one-beat [[Fill]] is placed on the eighth bar of the A section in the [[Country-Pop Play-Along Chart (Unit 5)]]. This fill serves as a lead-in to the pre-chorus.
+A crucial one-beat [[Fill]] is placed on the eighth bar of the A section in the [[Country_Pop_Play_Along_Chart_Unit_5]]. This fill serves as a lead-in to the pre-chorus.
 
 **Execution Focus**:
 *   **Clarity**: The fill must be played clearly and distinctly.

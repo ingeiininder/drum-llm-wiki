@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Triplet-Based Fill (Unit 10)
-Another repeated fill occurs at the end of [[Letter B (Rock Shuffle - Unit 10)]] and [[Letter D (Rock Shuffle - Unit 10)]] in the Unit 10 rock shuffle. This fill is characterized by its triplet rhythm and a specific ending.
+Another repeated fill occurs at the end of [[Letter_B_Rock_Shuffle_Unit_10]] and [[Letter_D_Rock_Shuffle_Unit_10]] in the Unit 10 rock shuffle. This fill is characterized by its triplet rhythm and a specific ending.
 
 **Structure of the Fill:**
 *   **Rhythm**: The core of this fill is based on [[Triplets]], providing a different rhythmic texture compared to the straight eighths or sixteenths often found in rock fills.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Note Subdivisions in 3/4 Time
-Understanding how different [[Note Values]] subdivide within a [[Measure]] of [[3/4 Time Signature]] is crucial for accurate reading and performance. In 3/4, a [[Quarter Note]] receives one [[Beat]].
+Understanding how different [[Note Values]] subdivide within a [[Measure]] of [[3_4_Time_Signature]] is crucial for accurate reading and performance. In 3/4, a [[Quarter Note]] receives one [[Beat]].
 
 **Common Subdivisions in 3/4:**
 *   **[[Dotted Half Note]]**: Worth three beats. In 3/4, a dotted half note fills an entire measure.

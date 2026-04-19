@@ -23,4 +23,4 @@ last_updated: 2026-04-19
 - **Ending**: The track features an unpredictable ending with specific shots that must be memorized or tracked closely on the [[Drum_Chart]].
 
 > [!TIP]
-> **Pro-Tip**: Use the last bar of A2 and C2 as "setup" moments. Your [[Drum_Fills]] should not just be rhythmic decoration but should "lead" the listener and the band into the next dynamic level or ensemble figure.
+> **Pro-Tip**: Use the last bar of A2 and C2 as "setup" moments. Your [[Drum_Fill]] should not just be rhythmic decoration but should "lead" the listener and the band into the next dynamic level or ensemble figure.

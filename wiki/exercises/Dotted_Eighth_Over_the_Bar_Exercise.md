@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Dotted Eighth Over-the-Bar Exercise
-This exercise applies the [[Over-the-Bar Groove Technique]] using a three-16th-note grouping (dotted eighth value) distributed between the [[Bass Drum]] and [[Snare Drum]].
+This exercise applies the [[Over_the_Bar_Groove_Technique]] using a three-16th-note grouping (dotted eighth value) distributed between the [[Bass Drum]] and [[Snare Drum]].
 
 ### The Pattern
 - **Bass Drum**: Plays on the start of every three-16th-note grouping.

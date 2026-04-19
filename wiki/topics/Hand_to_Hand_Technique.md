@@ -26,7 +26,7 @@ If the rhythm is a 16th note on "1", the "&" of 2, and the "e" of 3:
 
 ### Benefits
 *   **Sight-Reading**: By knowing which hand is responsible for which part of the beat, the drummer can "feel" the rhythm physically before playing it.
-*   **Orchestration**: This serves as the foundation for [[Drum Set Application: Hand-to-Hand]], allowing figures to be moved around the kit seamlessly.
+*   **Orchestration**: This serves as the foundation for [[Drum_Set_Application_Hand_to_Hand]], allowing figures to be moved around the kit seamlessly.
 
 > [!TIP]
 > **Pro-Tip**: Practice these figures with exaggerated dynamics. Keep the non-accented "filler" notes as quiet as possible (ghost notes) to make the ensemble figure pop.

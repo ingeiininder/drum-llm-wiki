@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Master Studies Exercises 13-24
-This specific set of exercises, found on pages 14 and 15 of the [[Master Studies (Book)]] by [[Joe Morello]], focuses on developing advanced [[Rhythmic Coordination]] and [[Limb Independence]]. These exercises typically involve intricate patterns between the snare drum, bass drum, and hi-hat, challenging the drummer to maintain precise [[Time Feel]] and [[Dynamic Control]].
+This specific set of exercises, found on pages 14 and 15 of the [[Master_Studies_Book]] by [[Joe Morello]], focuses on developing advanced [[Rhythmic Coordination]] and [[Limb Independence]]. These exercises typically involve intricate patterns between the snare drum, bass drum, and hi-hat, challenging the drummer to maintain precise [[Time Feel]] and [[Dynamic Control]].
 
 **Key Focus Areas**:
 *   Developing [[Four-Way Coordination]].

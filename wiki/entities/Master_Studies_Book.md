@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Master Studies (Book)
-"Master Studies" is a seminal percussion textbook authored by legendary drummer and educator [[Joe Morello]]. Published in 1983, it is widely regarded as a cornerstone for developing advanced [[Drum Technique]], [[Hand Technique]], and [[Foot Technique]]. The book focuses on:
+"Master Studies" is a seminal percussion textbook authored by legendary drummer and educator [[Joe Morello]]. Published in 1983, it is widely regarded as a cornerstone for developing advanced [[Drum_Technique_50]], [[Hand Technique]], and [[Foot Technique]]. The book focuses on:
 
 *   **Rhythmic Development**: Exercises designed to improve [[Rhythmic Accuracy]] and [[Time Feel]].
 *   **Coordination and Independence**: Challenging patterns for developing limb independence.

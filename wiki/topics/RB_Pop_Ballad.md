@@ -13,10 +13,10 @@ The **R&B-Pop Ballad** is a foundational style in contemporary drumming, charact
 ### Performance Characteristics
 *   **Feel**: The groove often utilizes a "swung" 16th-note feel, providing a loping, relaxed quality compared to straight 16ths.
 *   **Instrumentation Transitions**:
-    *   **Verses**: Typically utilize a [[Tight Hi-Hat]] paired with either a [[Center Snare]] hit or a [[Cross-stick]] for a more intimate, percussive sound.
+    *   **Verses**: Typically utilize a [[Tight Hi-Hat]] paired with either a [[Center Snare]] hit or a [[Cross_Stick]] for a more intimate, percussive sound.
     *   **Choruses**: Often transition to the [[Ride Cymbal]] and a full [[Center Snare]] backbeat to increase the energy and "open up" the sound.
 *   **Dynamics**: Often involves a slight *ritardando* (slight rit.) at the conclusion of the arrangement to provide a professional finish.
 
 ### Pro-Tips
-*   **Recording**: To develop a stylistically correct sound, record your practice sessions. Listen for the consistency of the "swing" in your 16th notes and the clarity of your [[Cross-stick]] technique.
+*   **Recording**: To develop a stylistically correct sound, record your practice sessions. Listen for the consistency of the "swing" in your 16th notes and the clarity of your [[Cross_Stick]] technique.
 *   **Metronome Training**: Practice these grooves at 85, 100, and 115 BPM to ensure the pocket remains stable across different subdivisions of the ballad tempo.

@@ -17,6 +17,6 @@ The [[Shuffle]] is a versatile rhythmic feel that can be applied across many mus
 **Performance Notes:**
 *   **Consistency**: The key to a great rock shuffle is consistency in the triplet feel. Each "long-short" pattern must be even and grooving.
 *   **Dynamics**: The shuffle can range from subtle and laid-back to powerful and driving. Pay attention to the dynamic requirements of the specific song.
-*   **Instrumentation**: While often played on the [[Hi-Hat]] or [[Ride Cymbal]], the rock shuffle can also be adapted to other surfaces, such as the [[Floor Tom]], to create different textures and moods, as seen in the [[Intro (Rock Shuffle - Unit 10)]].
+*   **Instrumentation**: While often played on the [[Hi-Hat]] or [[Ride Cymbal]], the rock shuffle can also be adapted to other surfaces, such as the [[Floor Tom]], to create different textures and moods, as seen in the [[Intro_Rock_Shuffle_Unit_10]].
 
 Mastering the rock shuffle provides a drummer with a powerful and expressive tool for a wide range of musical contexts.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Letter B 16th-Note Ensemble Figure
-Within the `[[Letter B Groove (Funk-Rock)]]`, this chart includes specific `[[Ensemble Figures]]` (often referred to as "hits") in the second bar of the groove. This particular figure is located on the "e" of beat 4 and is to be performed on both the `[[Bass Drum]]` and `[[Crash Cymbal]]`. Examples `[[Ex 8.8]]` and `[[Ex 8.9]]` illustrate this figure.
+Within the `[[Letter_B_Groove_Funk-Rock]]`, this chart includes specific `[[Ensemble Figures]]` (often referred to as "hits") in the second bar of the groove. This particular figure is located on the "e" of beat 4 and is to be performed on both the `[[Bass Drum]]` and `[[Crash Cymbal]]`. Examples `[[Ex 8.8]]` and `[[Ex 8.9]]` illustrate this figure.
 
 **Important:** As with other syncopated elements, `[[Subdividing]]` is crucial for accurately placing this figure. This prevents rushing the hit itself or the subsequent `[[Entrance]]` back into beat 1 of the next measure.
 

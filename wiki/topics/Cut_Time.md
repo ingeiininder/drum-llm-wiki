@@ -26,4 +26,4 @@ A rhythm played in Cut Time at half-note = 100 BPM sounds identical to the same 
 > [!PRO-TIP]
 > When you see a "C" with a vertical line through it, immediately shift your internal pulse to the half-note. This is particularly common in [[Jazz]], [[Samba]], and [[Mambo]] charts.
 
-**See also:** [[Time Signatures]], [[Common Time]]
+**See also:** [[Time_Signature]], [[Common Time]]

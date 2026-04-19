@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Right-Hand Lead Orchestration (Toms)
 
-This exercise applies [[Right-Hand Lead Application]] to the drum set by moving specific notes of a rhythmic pattern to the toms while keeping the remaining notes on the snare drum.
+This exercise applies [[Right_Hand_Lead_Application]] to the drum set by moving specific notes of a rhythmic pattern to the toms while keeping the remaining notes on the snare drum.
 
 ### Orchestration Rules
 The primary rule is to play the **first right hand** of each rhythmic grouping on a tom-tom. All other notes (left hands and subsequent right hands in a 16th-note flow) remain on the snare.

@@ -13,7 +13,7 @@ The [[Seven-Stroke Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" f
 rrLLrrL (or LLrrLLr for Left Hand Lead)
 
 **Breakdown:**
-*   **rrLLrr:** Six quiet, quick grace notes (drags) played as three [[Double Stroke]]s (rr, LL, rr).
+*   **rrLLrr:** Six quiet, quick grace notes (drags) played as three [[Double_Strokes]]s (rr, LL, rr).
 *   **L:** A louder, primary stroke played with the left hand.
 
 **Purpose and Application:**

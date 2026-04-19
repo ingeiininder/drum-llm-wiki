@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Two-Beat Fill (Country-Pop B Section First Ending)
-Within the first ending of the B section in the [[Country-Pop Play-Along Chart (Unit 5)]], there is a direction to play a two-beat [[Fill]].
+Within the first ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]], there is a direction to play a two-beat [[Fill]].
 
 **Musical Context**:
 *   This fill's primary purpose is to lead the song back to a repeat of the B section.

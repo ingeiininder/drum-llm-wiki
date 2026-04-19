@@ -8,11 +8,11 @@ last_updated: 2023-10-27
 
 # Quarter, Eighth, and 16th Notes with Quarter Rests (One-Bar Phrases)
 
-This exercise category integrates [[Quarter Notes]], [[Eighth Notes]], and [[16th Notes]] with [[Quarter Rests]] within single-measure phrases. This challenges drummers to navigate a wide range of rhythmic values and manage significant periods of silence, all while interpreting [[Shared Beams]] notation.
+This exercise category integrates [[Quarter Notes]], [[Eighth Notes]], and [[16th Notes]] with [[Quarter_Rest]] within single-measure phrases. This challenges drummers to navigate a wide range of rhythmic values and manage significant periods of silence, all while interpreting [[Shared Beams]] notation.
 
 ## Exercise Description
 
-Each exercise presents a one-bar phrase (typically in [[4/4 Time Signature]]) combining:
+Each exercise presents a one-bar phrase (typically in [[4-4_Time_Signature]]) combining:
 *   **Quarter Notes**: Providing a steady pulse.
 *   **Eighth Notes**: Offering mid-range rhythmic movement.
 *   **16th Notes**: Introducing faster, more intricate subdivisions.

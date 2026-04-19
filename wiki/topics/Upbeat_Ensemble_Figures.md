@@ -18,7 +18,7 @@ When upbeats are played, musical momentum naturally increases. Musicians have a 
 For an upbeat figure (e.g., the "&" of Beat 1):
 1. **Target**: The downbeat of the same beat (Beat 1).
 2. **The "Kick-and-Hit"**: A common professional approach is to play a strong [[Bass Drum]] on the downbeat and the [[Crash Cymbal]]/[[Snare Drum]] on the "&".
-3. **Follow-through**: If a figure occurs on the "&" of 1, the drummer must ensure the snare drum [[Backbeat]] on Beat 2 is played accurately to restore the groove.
+3. **Follow-through**: If a figure occurs on the "&" of 1, the drummer must ensure the snare drum [[Back-Beat]] on Beat 2 is played accurately to restore the groove.
 
 ### Notation Examples
 - **The "&" of Beat 1**: Often notated as an eighth note tied to a quarter note.

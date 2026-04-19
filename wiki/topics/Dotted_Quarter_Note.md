@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **dotted quarter note** is a [[Quarter Note]] with a dot placed immediately to its right. This dot increases the [[Duration]] of the quarter note by one-half of its original value.
 
 **Value Calculation:**
-*   A [[Quarter Note]] is typically worth 1 [[Beat]] (in [[4/4 Time Signature]]).
+*   A [[Quarter Note]] is typically worth 1 [[Beat]] (in [[4-4_Time_Signature]]).
 *   Half of a quarter note's value is 0.5 beats (equivalent to an [[Eighth Note]]).
 *   Therefore, a dotted quarter note is worth 1 + 0.5 = **1.5 beats**.
 

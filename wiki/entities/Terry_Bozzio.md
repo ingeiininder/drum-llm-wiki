@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Terry Bozzio
 
-**Terry Bozzio** is a highly influential American drummer known for his work with Frank Zappa, Missing Persons, and UK. He is widely regarded as the pioneer of modern [[Ostinato-Based Drum Soloing]].
+**Terry Bozzio** is a highly influential American drummer known for his work with Frank Zappa, Missing Persons, and UK. He is widely regarded as the pioneer of modern [[Ostinato_Based_Drum_Soloing]].
 
 ### Contributions to Drumming
 Bozzio transformed the drum set into a solo instrument capable of orchestral-level complexity. His approach involves:

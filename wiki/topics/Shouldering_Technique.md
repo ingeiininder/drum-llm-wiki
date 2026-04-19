@@ -21,4 +21,4 @@ In a Brazilian context, shouldering is used to accentuate "long notes" in a melo
 > [!TIP]
 > **Pro-Tip**: When shouldering, do not hit harder to get more volume. The goal is a change in *texture* and *duration*, not necessarily intensity.
 
-**Related**: [[Bossa_Nova_Balance_of_Sound.md]], [[Comping_Duration.md]]
+**Related**: [[Bossa_Nova_Balance_of_Sound]], [[Comping_Duration.md]]

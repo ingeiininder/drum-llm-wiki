@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Letter A (Rock Shuffle - Unit 10)
-Letter A marks the first main section of the Unit 10 rock shuffle tune, following the [[Intro (Rock Shuffle - Unit 10)]].
+Letter A marks the first main section of the Unit 10 rock shuffle tune, following the [[Intro_Rock_Shuffle_Unit_10]].
 
 **Key Characteristics:**
 *   **Length**: This section is 16 bars long, achieved through the use of first and second endings. This implies a repeat of an initial phrase before moving on.

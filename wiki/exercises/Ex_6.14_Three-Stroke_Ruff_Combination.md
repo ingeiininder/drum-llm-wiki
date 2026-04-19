@@ -27,4 +27,4 @@ The pattern suggests a continuous flow of alternating strokes, with specific gro
 5.  **Troubleshooting:** If any section feels awkward or inconsistent, isolate it and practice it repeatedly until it becomes smooth.
 
 **Pro-Tip:**
-Exercises like this are excellent for developing advanced hand independence and the ability to "think ahead" in complex rhythmic patterns. The goal is to make the [[Three-Stroke Ruff]] an integral part of your vocabulary, allowing you to deploy it effortlessly and musically. This will significantly enhance your overall [[Drum Technique]] and rhythmic versatility.
+Exercises like this are excellent for developing advanced hand independence and the ability to "think ahead" in complex rhythmic patterns. The goal is to make the [[Three-Stroke Ruff]] an integral part of your vocabulary, allowing you to deploy it effortlessly and musically. This will significantly enhance your overall [[Drum_Technique_50]] and rhythmic versatility.

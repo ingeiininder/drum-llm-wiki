@@ -24,6 +24,6 @@ Effective practice is crucial for developing as a drummer. The following suggest
     *   *Pro-Tip*: Don't just skim. Read actively, highlighting key points and making notes.
 5.  **Develop Stylistically Correct Drum Sound**: Critically evaluate and refine your [[Drum Sound]].
     *   **Method**: Record yourself during practice sessions and in class.
-    *   *Pro-Tip*: Listen back objectively. Are your [[Ghost Notes]] clear? Is your [[Backbeat]] strong? Is your [[Cymbal]] work articulate? Recording helps identify areas for improvement in [[Technique]] and [[Musicality]]. Seek feedback from instructors or peers.
+    *   *Pro-Tip*: Listen back objectively. Are your [[Ghost Notes]] clear? Is your [[Back-Beat]] strong? Is your [[Cymbal]] work articulate? Recording helps identify areas for improvement in [[Technique]] and [[Musicality]]. Seek feedback from instructors or peers.
 
 These suggestions emphasize a holistic approach to drumming, combining technical precision, musicality, and self-assessment.

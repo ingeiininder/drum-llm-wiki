@@ -31,6 +31,6 @@ last_updated: 2026-04-19
 
 ---
 **See Also:**
-*   [[5/8 Time Signature]]
-*   [[7/8 Time Signature]]
+*   [[5-8_Time_Signature]]
+*   [[7-8_Time_Signature]]
 *   [[Counting Odd Meters]]

@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 16ths (Four-Bar Phrases) - 2/4
 
-This exercise challenges drummers to perform [[Sixteenth Note]]s in extended four-bar phrases within the [[2/4 Time Signature]]. This format significantly enhances rhythmic endurance, focus, and the ability to maintain a consistent sixteenth note feel over longer musical sections.
+This exercise challenges drummers to perform [[Sixteenth Note]]s in extended four-bar phrases within the [[2_4_Time_Signature]]. This format significantly enhances rhythmic endurance, focus, and the ability to maintain a consistent sixteenth note feel over longer musical sections.
 
 **Purpose:**
 *   To develop advanced rhythmic endurance for sixteenth note-based patterns.

@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Hand-Foot Paradiddle Combinations
 
-This advanced technical concept involves the integration of [[Paradiddle Inversions]] with specific **hand-foot patterns** to create complex, linear-sounding textures. By combining rudimental stickings with bass drum substitutions, the drummer can develop a modern vocabulary for both [[Groove]] playing and high-velocity [[Drum Fills]].
+This advanced technical concept involves the integration of [[Paradiddle Inversions]] with specific **hand-foot patterns** to create complex, linear-sounding textures. By combining rudimental stickings with bass drum substitutions, the drummer can develop a modern vocabulary for both [[Groove]] playing and high-velocity [[Drum_Fill]].
 
 ### Technical Application
 The system is built in two primary stages:

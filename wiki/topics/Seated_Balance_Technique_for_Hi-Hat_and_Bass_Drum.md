@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Seated Balance Technique for Hi-Hat and Bass Drum
-Proper [[Seated Balance]] is a foundational aspect of effective [[Drum Technique]], particularly for optimizing [[Foot Technique]] on the [[Bass Drum Pedal]] and [[Hi-Hat Pedal]]. The instruction emphasizes "resting on your seat," which implies:
+Proper [[Seated Balance]] is a foundational aspect of effective [[Drum_Technique_50]], particularly for optimizing [[Foot Technique]] on the [[Bass Drum Pedal]] and [[Hi-Hat Pedal]]. The instruction emphasizes "resting on your seat," which implies:
 
 *   **Core Engagement**: Maintaining a stable core without leaning or shifting weight excessively.
 *   **Even Weight Distribution**: Distributing body weight evenly on the drum throne, allowing the legs and feet to move freely and independently.

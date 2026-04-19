@@ -11,7 +11,7 @@ This exercise type (A) from Unit 7, Chapter 3, focuses on reading and performing
 
 **Practice Guidance:**
 1.  **Consistent Triplet Feel:** Maintain a steady "1-trip-let" internal count throughout the entire measure.
-2.  **Precise Rest Placement:** Ensure that each [[Eighth-Note Triplet Rest]] is observed for its exact duration, creating clear rhythmic gaps.
+2.  **Precise Rest Placement:** Ensure that each [[Eighth-Note_Triplet_Rests]] is observed for its exact duration, creating clear rhythmic gaps.
 3.  **Vocalization:** Count the rhythms aloud, replacing the syllable with "rest" when an eighth-note triplet rest occurs (e.g., "1-trip-rest," "rest-trip-let").
 
 **Pro-Tip:** These exercises are crucial for developing a strong [[Swing Feel]] and [[Shuffle Feel]]. The ability to accurately place notes and rests within a triplet subdivision is a hallmark of advanced rhythmic control. Practice these slowly with a [[Metronome]] to build solid muscle memory and rhythmic intuition.

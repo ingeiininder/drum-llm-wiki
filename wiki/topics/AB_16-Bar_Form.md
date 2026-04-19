@@ -21,4 +21,4 @@ In this form, a change in rehearsal letter (from A to B) typically signals a cha
 The drummer must signal these transitions through:
 - **Sonic Changes**: Changing the texture of the hi-hat (tight vs. loose).
 - **Dynamic Shifts**: Moving from *piano* to *forte*.
-- **Fills**: Using a [[Fill Marker]] or notated fill in the 8th bar to "lead" the band into the next section.
+- **Fills**: Using a [[Fill Markers]] or notated fill in the 8th bar to "lead" the band into the next section.

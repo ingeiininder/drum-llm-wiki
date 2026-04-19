@@ -12,10 +12,10 @@ Effective practice is key to mastering the concepts in Unit 7, particularly the 
 **Key Suggestions:**
 1.  **Memorize Terminology:** Ensure a solid understanding of all terms introduced in Chapter 1. This foundational knowledge is critical for comprehending instructions and musical concepts.
 2.  **Listen to Performance Notes:** Actively listen to the provided performance note examples (e.g., for Ex. 1.12 and Ex. 1.13). This helps internalize the intended feel, dynamics, and stylistic nuances.
-3.  **Chart Grooves (Without Play-Along):** Practice the specific grooves from the charts (like [[Groove #1 Four on the Floor (Shuffle)]] and [[Groove #2 Syncopated Shuffle]]) independently.
+3.  **Chart Grooves (Without Play-Along):** Practice the specific grooves from the charts (like [[Groove_#1_Four_on_the_Floor_Shuffle]] and [[Groove #2 Syncopated Shuffle]]) independently.
     *   Use a [[Metronome]] set to 100 BPM and 120 BPM.
     *   Dedicate twenty minutes daily to this focused practice. This builds muscle memory and rhythmic accuracy.
-4.  **Play to the Play-Along Track:** Integrate the practiced grooves with the full [[Shuffle 12-Bar Blues Play-Along (Unit 7 Ex 7.11)]].
+4.  **Play to the Play-Along Track:** Integrate the practiced grooves with the full [[Shuffle_12-Bar_Blues_Play-Along_Unit_7_Ex_7.11]].
     *   Play along twice a day.
     *   Aim for a total of eight minutes with the track. This develops performance skills and musicality.
 5.  **Read the Lesson Thoroughly:** Read the entire lesson at least twice. Reinforce your understanding of concepts and terms.

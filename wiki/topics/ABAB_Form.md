@@ -16,4 +16,4 @@ Key characteristics of this specific ABAB structure:
 *   **Navigation:** The form also incorporates a `[[D.S. al Coda]]` instruction.
 *   **Coda Function:** The `[[Coda]]` functions as the "seam" or `[[Transition]]` point between the final `[[B Section]]` and a 12-bar ending that leads to the final measure.
 
-**Pro-Tip:** Understanding the `[[Musical Arrangement]]` and form is crucial for drummers. Before playing, mentally map out the `[[Chart]]` to anticipate section changes, repetitions, and navigation cues like `[[D.S. al Coda]]`. This allows you to plan your `[[Dynamics]]`, `[[Groove]]` variations, and `[[Fills]]` to enhance the musical structure.
+**Pro-Tip:** Understanding the `[[Musical Arrangement]]` and form is crucial for drummers. Before playing, mentally map out the `[[Chart]]` to anticipate section changes, repetitions, and navigation cues like `[[D.S. al Coda]]`. This allows you to plan your `[[Dynamics]]`, `[[Groove]]` variations, and `[[Fill]]` to enhance the musical structure.

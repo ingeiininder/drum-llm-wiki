@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drags (Rudiment Family)
-The [[Drags (Rudiment Family)]] is one of the five [[Rudiment Families]] and is characterized by rudiments that typically involve two grace notes preceding a main note, often played as a double bounce (or "diddle") with one hand. Drags are closely related to [[Ruffs (Rudiment Family)]] but generally imply a specific double-stroke grace note.
+The [[Drags_Rudiment_Family]] is one of the five [[Rudiment Families]] and is characterized by rudiments that typically involve two grace notes preceding a main note, often played as a double bounce (or "diddle") with one hand. Drags are closely related to [[Ruffs_Rudiment_Family]] but generally imply a specific double-stroke grace note.
 
 **Core Concept:**
 A drag consists of two soft, quick grace notes (often a double bounce from one hand) immediately preceding a louder main stroke. This creates a distinct "drag" or "ruffle" sound.

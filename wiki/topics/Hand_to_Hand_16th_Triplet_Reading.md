@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Hand-to-Hand 16th Triplet Reading
 
-This technique involves playing a continuous stream of [[16th-Note Triplets]] (sextuplets) while accenting specific notes to match a written [[Ensemble Figure]]. This approach is essential for developing "stagnant" figures into musical phrases with motion.
+This technique involves playing a continuous stream of [[16th-Note Triplets]] (sextuplets) while accenting specific notes to match a written [[Ensemble Figures]]. This approach is essential for developing "stagnant" figures into musical phrases with motion.
 
 ### Technical Execution
 *   **Sticking**: Use a strict hand-to-hand (R L R L...) pattern.

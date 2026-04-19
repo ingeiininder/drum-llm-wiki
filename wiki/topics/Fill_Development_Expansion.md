@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Fill Development: Expansion
 
-**Expansion** (or "stretching") is the rhythmic inverse of [[Fill_Development_Compression.md]]. It involves taking a rhythmic idea and slowing it down by placing it into a larger subdivision. This creates a powerful musical illusion, making it seem as though the performer has slowed down the tempo while the underlying pulse remains constant.
+**Expansion** (or "stretching") is the rhythmic inverse of [[Fill_Development_Compression]]. It involves taking a rhythmic idea and slowing it down by placing it into a larger subdivision. This creates a powerful musical illusion, making it seem as though the performer has slowed down the tempo while the underlying pulse remains constant.
 
 ### Execution Strategies
 *   **16th to 8th Note Expansion**: Taking a 16th-note hand/foot pattern and playing it as 8th notes. While technically simpler, the challenge lies in maintaining the [[Momentum]] and space.

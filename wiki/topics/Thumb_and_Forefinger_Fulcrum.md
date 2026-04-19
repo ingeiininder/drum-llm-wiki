@@ -22,7 +22,7 @@ The Thumb and Forefinger Fulcrum is a common and foundational [[Fulcrum]] in dru
 
 ## Applications:
 *   **General Playing**: Suitable for most drumming situations, from basic beats to complex fills.
-*   **Dynamic Range**: Effective for playing across a wide dynamic spectrum, from soft [[Tap]]s to loud [[Accent]]s.
+*   **Dynamic Range**: Effective for playing across a wide dynamic spectrum, from soft [[Tap]]s to loud [[Accents]]s.
 *   **Rudimental Drumming**: A staple for many rudimental exercises and patterns.
 
 ## Pro-Tips:

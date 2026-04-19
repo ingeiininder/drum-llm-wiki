@@ -20,9 +20,9 @@ Modern hard rock vocabulary is heavily influenced by the work of:
 ### Technical Requirements
 1.  **Velocity and Volume**: Players must be comfortable with high-velocity strokes.
 2.  **Tension Management**: It is critical to monitor the body for tension, specifically in the hands, feet, mouth, and toes. Tension restricts the natural resonance of the drums and limits speed.
-3.  **[[Subdivision]]**: Maintaining a strong internal clock through eighth-note subdivision is essential for locking with the bass guitar, especially during sections with [[Multi-rest|multi-rests]] or sparse instrumentation.
+3.  **[[Subdivision]]**: Maintaining a strong internal clock through eighth-note subdivision is essential for locking with the bass guitar, especially during sections with [[Multi-Rests|multi-rests]] or sparse instrumentation.
 
 ### Performance Concepts
 *   **[[ABC 34-Bar Form]]**: A common structural framework used in hard rock compositions.
-*   **[[Double Stops (Percussion)]]**: Frequently used to mimic heavy guitar or bass riffs.
+*   **[[Double_Stops_Percussion]]**: Frequently used to mimic heavy guitar or bass riffs.
 *   **[[Riding on a Crash Cymbal]]**: A technique used to create a "washy" wall of sound during high-energy sections like choruses.

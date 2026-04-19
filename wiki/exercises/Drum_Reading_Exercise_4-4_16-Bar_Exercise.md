@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: 4/4 16-Bar Exercise
-This exercise is a longer-form drum reading piece, spanning 16 bars in [[4/4 Time Signature]]. It is designed to challenge a drummer's endurance, focus, and ability to interpret and perform rhythmic patterns over an extended musical phrase.
+This exercise is a longer-form drum reading piece, spanning 16 bars in [[4-4_Time_Signature]]. It is designed to challenge a drummer's endurance, focus, and ability to interpret and perform rhythmic patterns over an extended musical phrase.
 
 **Exercise Focus:**
 *   **Rhythmic Endurance:** Maintaining accuracy and consistency over a longer musical passage.

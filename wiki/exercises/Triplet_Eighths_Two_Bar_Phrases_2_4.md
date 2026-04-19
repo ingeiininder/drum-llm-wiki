@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Triplet Eighths (Two-Bar Phrases) - 2/4
 
-This exercise extends the practice of [[Triplet Eighth Note]]s into two-bar phrases within the [[2/4 Time Signature]]. This helps drummers develop endurance and continuity when performing triplet-based rhythms over longer periods.
+This exercise extends the practice of [[Triplet Eighth Note]]s into two-bar phrases within the [[2_4_Time_Signature]]. This helps drummers develop endurance and continuity when performing triplet-based rhythms over longer periods.
 
 **Purpose:**
 *   To reinforce the accurate execution of triplet eighth notes in a continuous context.

@@ -23,8 +23,8 @@ An "open form" in the context of a 12-bar blues means that the song or chart is 
 ## Related Terms
 
 To manage and navigate this open form, two additional terms are commonly used:
-1.  **[[Head (Music Term)|The Head]]**: Refers to the thematic melody of the song, typically played at the beginning and end.
-2.  **[[Chorus (Jazz/Blues Term)|A Chorus]]**: Slang for "one time through the form," often used to designate sections for solos.
+1.  **[[Head_Music_Term|The Head]]**: Refers to the thematic melody of the song, typically played at the beginning and end.
+2.  **[[Chorus_Jazz_Blues_Term|A Chorus]]**: Slang for "one time through the form," often used to designate sections for solos.
 
 ## Pro-Tips
 

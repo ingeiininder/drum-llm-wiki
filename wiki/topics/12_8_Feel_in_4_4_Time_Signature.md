@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 12/8 Feel in 4/4 Time Signature
-The "12/8 Feel" is a common rhythmic characteristic, especially in [[Blues]], [[Jazz]], and [[Gospel]] music, where each beat is subdivided into three [[Eighth Note Triplet]]s. While it sounds like a compound meter (like 12/8 time signature), it is often notated within a standard [[4/4 Time Signature]].
+The "12/8 Feel" is a common rhythmic characteristic, especially in [[Blues]], [[Jazz]], and [[Gospel]] music, where each beat is subdivided into three [[Eighth Note Triplet]]s. While it sounds like a compound meter (like 12/8 time signature), it is often notated within a standard [[4-4_Time_Signature]].
 
 **Concept**:
 *   **Triplet Definition**: A triplet consists of three notes of the same value occupying the same space as two notes of the same value.
@@ -19,4 +19,4 @@ The "12/8 Feel" is a common rhythmic characteristic, especially in [[Blues]], [[
 *   Allows the [[Downbeat]]s to remain clearly on 1, 2, 3, and 4, which is intuitive for many musicians.
 *   Maintains a strong sense of the four-beat pulse while imparting a swung or triplet feel.
 
-**Pro-Tip**: To achieve a good 12/8 feel, focus on the evenness and consistency of your triplets. Avoid "straightening out" the time into groups of two or four. Practice [[Counting Eighth-Note Triplets]] to internalize the subdivision. The feel should be relaxed and flowing, not rigid.
+**Pro-Tip**: To achieve a good 12/8 feel, focus on the evenness and consistency of your triplets. Avoid "straightening out" the time into groups of two or four. Practice [[Counting_Eighth_Note_Triplets]] to internalize the subdivision. The feel should be relaxed and flowing, not rigid.

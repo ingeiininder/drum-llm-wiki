@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Form Orchestration (12-Bar Blues)
 
-In the context of a [[12-Bar Blues Open Form]], a common and effective way to mark the different sections (the [[Head (Music Term)|head]] and the [[Chorus (Jazz/Blues Term)|choruses]] of solo) is through a change in [[Orchestration]], specifically by switching between the [[Hi-Hat]] and the [[Ride Cymbal]].
+In the context of a [[12-Bar Blues Open Form]], a common and effective way to mark the different sections (the [[Head_Music_Term|head]] and the [[Chorus_Jazz_Blues_Term|choruses]] of solo) is through a change in [[Orchestration]], specifically by switching between the [[Hi-Hat]] and the [[Ride Cymbal]].
 
 ## Orchestration Approach
 

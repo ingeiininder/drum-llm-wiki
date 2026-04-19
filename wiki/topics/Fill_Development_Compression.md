@@ -17,7 +17,7 @@ last_updated: 2026-04-19
 3.  **Voice Isolation**: To ensure accuracy during compression, isolate the [[Bass Drum]] and [[Snare Drum]] voices. This reveals the underlying "skeleton" of the rhythm (e.g., alternating 8th notes in a triplet context).
 
 ### Pro-Tip: Maintaining Momentum
-When transitioning between a 16th-note feel and a compressed triplet feel, focus on the placement of the snare drum on the downbeats. If the transition feels "sloppy," isolate the right-hand movement to verify it is maintaining a consistent [[Quarter-Note Triplet]] or 8th-note triplet pulse.
+When transitioning between a 16th-note feel and a compressed triplet feel, focus on the placement of the snare drum on the downbeats. If the transition feels "sloppy," isolate the right-hand movement to verify it is maintaining a consistent [[Quarter-Note_Triplets]] or 8th-note triplet pulse.
 
 ### Benefits
 *   Enhances [[Soloing]] vocabulary without requiring "new" licks.

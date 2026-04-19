@@ -19,4 +19,4 @@ When converting a melodic line (like a guitar or horn line) into drum figures:
 *   Catch the accents on the crashes or snare.
 *   You do not necessarily need to play every written note; focus on the "target" accented notes to support the ensemble's phrasing.
 
-**See Also**: [[Swung Eighth-Note Triplet Placement]]
+**See Also**: [[Swung_Eighth_Note_Triplet_Placement]]

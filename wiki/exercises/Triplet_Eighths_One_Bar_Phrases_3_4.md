@@ -8,10 +8,10 @@ last_updated: 2023-10-27
 
 # Triplet Eighths (One-Bar Phrases) - 3/4
 
-This exercise focuses on reading and executing [[Triplet Eighth Note]]s within one-bar phrases in the [[3/4 Time Signature]]. It reinforces the concept of dividing each beat into three equal parts, a fundamental skill for [[Compound Meter]] and rhythmic versatility, now applied in a triple meter context.
+This exercise focuses on reading and executing [[Triplet Eighth Note]]s within one-bar phrases in the [[3_4_Time_Signature]]. It reinforces the concept of dividing each beat into three equal parts, a fundamental skill for [[Compound Meter]] and rhythmic versatility, now applied in a triple meter context.
 
 **Purpose:**
-*   To develop a strong internal feel for [[Triplet]] subdivisions in 3/4 time.
+*   To develop a strong internal feel for [[Triplets]] subdivisions in 3/4 time.
 *   To accurately place triplet eighth notes within the three beats of a 3/4 measure.
 *   To improve [[Sight Reading]] of triplet-based rhythms in 3/4.
 

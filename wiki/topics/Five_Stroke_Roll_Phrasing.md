@@ -18,7 +18,7 @@ In the context of [[New Orleans Second Line Drumming]] and jazz, the **Five-Stro
 ### 2. Closed (Buzz) Roll
 - **Execution**: The initial four notes are pressed into the head to create a continuous "buzz" or "press" sound, resolving on the single stroke of beat 1.
 - **Sound**: A smooth, sustained texture that bridges the gap between the previous measure and the new downbeat.
-- **Context**: Often used in conjunction with a [[Flam-Buzz]] on the preceding beat to create a seamless flow of texture.
+- **Context**: Often used in conjunction with a [[Flam_Buzz]] on the preceding beat to create a seamless flow of texture.
 
 ### Pro-Tip
-When playing in a [[Swung Eighth-Note]] feel, ensure the roll doesn't "straighten out" the feel. The resolution of the roll must land exactly on the downbeat to anchor the ensemble.
+When playing in a [[Swing_Eighth_Notes]] feel, ensure the roll doesn't "straighten out" the feel. The resolution of the roll must land exactly on the downbeat to anchor the ensemble.

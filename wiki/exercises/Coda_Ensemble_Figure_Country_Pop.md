@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Coda Ensemble Figure (Country-Pop)
-The [[Coda]] section of the [[Country-Pop Play-Along Chart (Unit 5)]] includes an [[Ensemble Figure]] within bars 4 and 5. This figure can be approached with different levels of rhythmic complexity.
+The [[Coda]] section of the [[Country_Pop_Play_Along_Chart_Unit_5]] includes an [[Ensemble Figures]] within bars 4 and 5. This figure can be approached with different levels of rhythmic complexity.
 
 **Execution Approaches**:
 1.  **Crashes Only**: A simple approach focusing solely on [[Crash Cymbal]] hits to mark the ensemble figure.

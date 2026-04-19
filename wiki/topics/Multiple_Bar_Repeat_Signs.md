@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Multiple-Bar Repeat Signs
-[[Multiple-Bar Repeat Signs]] are a common notation shorthand used in musical charts to indicate that a specific number of previous bars should be repeated. This saves space and simplifies [[Drum Chart Reading]].
+[[Multiple_Bar_Repeat_Signs]] are a common notation shorthand used in musical charts to indicate that a specific number of previous bars should be repeated. This saves space and simplifies [[Drum Chart Reading]].
 
 **Function**:
 *   Similar to a single-bar repeat sign, but it instructs you to repeat a *certain amount* of previous bars, not just one.

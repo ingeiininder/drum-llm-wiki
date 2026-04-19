@@ -14,7 +14,7 @@ Progressive Metal drumming requires a fusion of high-intensity execution and com
 ### Key Technical Elements
 - **16th-Note Groupings of Three**: A common motif in the genre involves phrasing 16th notes in groups of three (Ex 10.3), which creates a natural hemiola effect against a standard 4/4 meter.
 - **Double Bass Consistency**: The standard 16th-note double bass pattern (Ex 10.5) serves as a diagnostic tool for the drummer's [[Throne Balance]]. 
-- **Backbeat Execution**: In this context, the snare drum typically delivers a heavy [[Rim Shot]] on beats 2 and 4 to provide a stable anchor for the complex bass drum figures.
+- **Backbeat Execution**: In this context, the snare drum typically delivers a heavy [[Rimshot]] on beats 2 and 4 to provide a stable anchor for the complex bass drum figures.
 - **Cymbal Articulation**: The ride surface often shifts to a crash cymbal playing quarter notes. These must be powerful and consistent to match the high energy of the genre.
 
 ### Performance Notes

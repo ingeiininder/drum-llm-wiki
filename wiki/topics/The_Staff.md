@@ -16,6 +16,6 @@ The staff is the fundamental visual framework in [[Music Notation]] upon which m
 ## Function
 Both the lines and the spaces on the staff can represent:
 *   **Musical Notes (Pitches)**: For melodic instruments, the position of a [[Note Head]] on a line or in a space indicates a specific pitch.
-*   **Specific Components of the Drum Set**: In [[Drum Set Notation Key]], the lines and spaces are assigned to represent different drums and cymbals (e.g., [[Bass Drum (Notation)]], [[Snare Drum (Notation)]], [[Hi Hat Cymbal (Notation)]]).
+*   **Specific Components of the Drum Set**: In [[Drum Set Notation Key]], the lines and spaces are assigned to represent different drums and cymbals (e.g., [[Bass_Drum_Notation]], [[Snare_Drum_Notation]], [[Hi_Hat_Cymbal_Notation]]).
 
-The staff, in conjunction with a [[Clef (Music Notation)]], provides the context necessary to interpret the written music.
+The staff, in conjunction with a [[Clef_Music_Notation]], provides the context necessary to interpret the written music.

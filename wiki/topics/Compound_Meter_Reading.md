@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Compound Meter Reading
 
-Compound meter refers to time signatures where the basic pulse is divisible by three. In the context of [[Drum Reading 2]], this primarily focuses on [[6/8 Time]], [[3/8 Time]], and [[12/8 Time]].
+Compound meter refers to time signatures where the basic pulse is divisible by three. In the context of [[Drum_Reading]], this primarily focuses on [[6/8 Time]], [[3/8 Time]], and [[12/8 Time]].
 
 ### Core Concepts
 In these meters, the [[Eighth Note]] typically serves as the underlying pulse, while the [[Dotted Quarter Note]] represents the primary beat (the "macro-beat").

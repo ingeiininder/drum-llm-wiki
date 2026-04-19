@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Drumset Mobility: Flams
-[[Flam]] rudiments are highly effective for enhancing specific notes within a groove or fill. On the drumset, flams can be "split" between different sound sources.
+[[Flams]] rudiments are highly effective for enhancing specific notes within a groove or fill. On the drumset, flams can be "split" between different sound sources.
 
 ### Orchestration Rules
 - **Split Flams**: When splitting a flam between a tom and the snare, the standard MI approach is to play the **Tom first**, then the **Snare**. This articulates the relationship of the flam most clearly.

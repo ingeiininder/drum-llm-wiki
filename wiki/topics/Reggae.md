@@ -24,4 +24,4 @@ Reggae can be performed with either a **straight** or a **shuffle** feel. The sh
 *   **Cross-Stick**: A sharp, syncopated rim sound that often replaces the standard snare backbeat.
 *   **Hi-Hat Embellishments**: Frequent use of triplet openings and syncopated accents.
 
-**See also**: [[One-Drop_Groove.md]], [[Four-on-the-Floor_Reggae.md]], [[Reggae_Balance_of_Sound.md]]
+**See also**: [[One-Drop_Groove.md]], [[Four-on-the-Floor_Reggae]], [[Reggae_Balance_of_Sound]]

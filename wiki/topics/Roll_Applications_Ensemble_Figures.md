@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Roll Applications in Ensemble Figures
-Rolls are a vital resource for creating [[Set-up Fills]] and sustaining the sound of an ensemble figure. They allow the drummer to "elongate" the snare drum sound.
+Rolls are a vital resource for creating [[Set-up_Fill]] and sustaining the sound of an ensemble figure. They allow the drummer to "elongate" the snare drum sound.
 
 ### Types of Rolls for Interpretation
 *   **Single Stroke Roll**: Used for high-energy, melodic movement.

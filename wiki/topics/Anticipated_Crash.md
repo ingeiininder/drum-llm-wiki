@@ -21,4 +21,4 @@ In a **shuffled reggae** style, the anticipated crash typically falls on the **l
 ### Execution
 The drummer plays a fill or a lead-in that culminates in a crash on the "ah" (the third triplet) of beat 4, leaving beat 1 of the next measure open or landing on a kick drum.
 
-**Related**: [[Reggae.md]], [[Shouldering_Technique.md]]
+**Related**: [[Reggae.md]], [[Shouldering_Technique]]

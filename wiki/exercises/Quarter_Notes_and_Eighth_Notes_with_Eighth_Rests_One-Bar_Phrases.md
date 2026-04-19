@@ -12,7 +12,7 @@ This exercise category focuses on developing fundamental [[Rhythm]] reading and 
 
 ## Exercise Description
 
-Each exercise presents a one-bar phrase (typically in [[4/4 Time Signature]]) combining:
+Each exercise presents a one-bar phrase (typically in [[4-4_Time_Signature]]) combining:
 *   **Quarter Notes**: Representing one full beat.
 *   **Eighth Notes**: Representing half a beat, often beamed in pairs or with an eighth rest.
 *   **Eighth Rests**: Representing half a beat of silence.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Fill Markers
-[[Fill Markers]] are a common notation convention used in drum charts to indicate the presence and duration of a [[Drum Fills]]. Just as [[Time Slashes]] are used to denote [[Drum Set Grooves]], they can also be used to represent beats within a fill.
+[[Fill Markers]] are a common notation convention used in drum charts to indicate the presence and duration of a [[Drum_Fill]]. Just as [[Time Slashes]] are used to denote [[Drum Set Grooves]], they can also be used to represent beats within a fill.
 
 Each individual time slash typically represents one beat of the fill. This provides a clear visual cue for the drummer to execute a fill of a specific length.
 

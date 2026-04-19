@@ -6,9 +6,9 @@ last_updated: 2023-10-27
 ---
 
 # Accent Patterns
-[[Accent Patterns]] refer to the deliberate emphasis placed on specific notes within a rhythmic phrase or [[Sticking Pattern]]. Accents are crucial for adding musicality, shaping phrases, and creating dynamic contrast in drumming.
+[[Accent Patterns]] refer to the deliberate emphasis placed on specific notes within a rhythmic phrase or [[Sticking Patterns]]. Accents are crucial for adding musicality, shaping phrases, and creating dynamic contrast in drumming.
 
-In the context of [[Rudiment]]s like the [[Paradiddle]], varying the [[Accent Patterns]] can dramatically change the feel and sound of the same [[Sticking Pattern]]. For example, while a [[Single Paradiddle]] (RLRR LRLL) typically accents the first stroke of each four-note grouping, shifting the accent to other notes can create entirely new rhythmic figures.
+In the context of [[Rudiment]]s like the [[Paradiddle]], varying the [[Accent Patterns]] can dramatically change the feel and sound of the same [[Sticking Patterns]]. For example, while a [[Single Paradiddle]] (RLRR LRLL) typically accents the first stroke of each four-note grouping, shifting the accent to other notes can create entirely new rhythmic figures.
 
 **Role of [[Accent Patterns]]**:
 *   **Phrasing**: Defines the beginning and end of musical phrases.

@@ -17,7 +17,7 @@ The Punk-Pop style is characterized by high-energy, authoritative playing and cl
 *   **Section C**: Often used for guitar solos, this section maintains the double-time feel but shifts the time-keeping surface to the [[Ride Cymbal Bell]].
 
 ### Performance Dynamics
-The style demands a consistent **Forte** (loud) dynamic. Precision in [[Articulation]] is required to ensure the "punchy" nature of the genre is maintained, specifically through the use of [[Rim Shot|Rim Shots]] and heavy bass drum strokes.
+The style demands a consistent **Forte** (loud) dynamic. Precision in [[Articulations]] is required to ensure the "punchy" nature of the genre is maintained, specifically through the use of [[Rimshot|Rim Shots]] and heavy bass drum strokes.
 
 ---PRO-TIP---
 To propel the music forward in Section A, ensure the hi-hat openings on the "&" of each beat are "choked" quickly by closing the hats precisely on the following downbeat. This creates a "karate-chop" rhythmic effect.

@@ -19,7 +19,7 @@ last_updated: 2026-04-19
 ### Practice Routine
 1. **Precision Phase**: Play the written one-bar patterns (Ex 8.6) with a metronome at 70, 80, and 90 BPM.
 2. **Phrasing Phase**: Once individual bars are mastered, link them together to create 2-bar, 4-bar, and 8-bar phrases.
-3. **Application**: Apply these mixed rhythms as [[Fills]] or solo ideas over a standard 4/4 groove.
+3. **Application**: Apply these mixed rhythms as [[Fill]] or solo ideas over a standard 4/4 groove.
 
 ### Common Pitfalls
 - **Rushing Triplets**: Students often play triplets too fast, making them sound like sixteenth notes.

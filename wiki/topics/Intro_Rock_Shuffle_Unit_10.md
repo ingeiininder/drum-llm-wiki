@@ -16,6 +16,6 @@ The introduction to the Unit 10 rock shuffle tune sets the mood and establishes 
 *   **Instrumentation - Guitar**: The [[Guitar]] plays a quarter-note-based melody that is described as "easily recognizable," providing a clear melodic anchor for the drums.
 
 **Performance Notes:**
-*   **Floor Tom Technique**: When using the floor tom as a ride surface, it's important to find the "sweet spot" to achieve a consistent, rumbling sound without overplaying. Refer to [[Floor Tom as Ride Surface (Rock Shuffle)]] for detailed technique.
+*   **Floor Tom Technique**: When using the floor tom as a ride surface, it's important to find the "sweet spot" to achieve a consistent, rumbling sound without overplaying. Refer to [[Floor_Tom_as_Ride_Surface_Rock_Shuffle]] for detailed technique.
 *   **Vibe**: Focus on conveying the "darker and ominous" mood. This might involve playing with a slightly heavier touch on the floor tom, but still maintaining control and clarity.
 *   **Locking In**: Pay close attention to the guitar melody. Your shuffle groove should lock in tightly with the quarter-note pulse of the guitar, creating a cohesive and powerful opening statement.

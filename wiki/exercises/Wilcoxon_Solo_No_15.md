@@ -28,4 +28,4 @@ Solo No. 15 by [[Charley Wilcoxon]] introduces the challenge of performing compl
 - **Subdivision Awareness**: Pay close attention to Bar 15; the shift from 32nd-note rolls to 16th-note rolls is a common point of failure in performance.
 - **Counting**: Use "1 2 3 4 5 6" or "1 & a 2 & a" counting to maintain the compound feel.
 
----See also: [[Wilcoxon Solo No. 29]], [[Compound Meter]]---
+---See also: [[Wilcoxon_Solo_No_29]], [[Compound Meter]]---

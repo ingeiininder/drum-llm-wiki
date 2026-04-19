@@ -21,4 +21,4 @@ A common method for interpreting figures is to maintain a steady stream of alter
 *   **Alternating Lead**: If playing 32nd notes as single strokes, the lead hand will change depending on the number of notes in the grouping.
 
 ### Pro-Tip
-Using 32nd notes for [[Phrasing]] allows for a higher density of "filler" notes, which is essential for modern [[Funk Drumming]] and fusion styles.
+Using 32nd notes for [[Phrasing]] allows for a higher density of "filler" notes, which is essential for modern [[RB_Funk_Drumming]] and fusion styles.

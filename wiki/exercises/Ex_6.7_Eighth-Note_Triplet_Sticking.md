@@ -18,7 +18,7 @@ The exercise is presented with explicit sticking patterns.
 `7/` (A continuation or variation.)
 
 **Sticking Pattern (Inferred from context):**
-The garbled notation suggests a pattern that might involve more advanced concepts like [[Flam]]s within triplets, or more complex groupings of repeated strokes.
+The garbled notation suggests a pattern that might involve more advanced concepts like [[Flams]]s within triplets, or more complex groupings of repeated strokes.
 
 **Practice Instructions:**
 1.  **Detailed Analysis:** Thoroughly analyze the sticking pattern, identifying any specific challenges such as repeated strokes, hand-to-hand shifts, or accent placements.
@@ -28,4 +28,4 @@ The garbled notation suggests a pattern that might involve more advanced concept
 5.  **Break Down and Build Up:** If the pattern is complex, break it down into smaller, manageable segments. Master each segment before combining them.
 
 **Pro-Tip:**
-Exercises like this are crucial for developing the fine motor control and mental discipline required for advanced drumming. They help bridge the gap between purely technical exercises and musical application. The ability to execute such patterns cleanly and musically will significantly enhance your overall [[Drum Technique]] and rhythmic vocabulary.
+Exercises like this are crucial for developing the fine motor control and mental discipline required for advanced drumming. They help bridge the gap between purely technical exercises and musical application. The ability to execute such patterns cleanly and musically will significantly enhance your overall [[Drum_Technique_50]] and rhythmic vocabulary.

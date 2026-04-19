@@ -18,6 +18,6 @@ Most introductory jazz studies focus on the 12-bar blues (I-IV-V progression).
 
 ### Key Concepts
 *   **[[The Head (Jazz)]]**: The main melody of the tune.
-*   **[[Comping (Jazz)]]**: The art of accompanying a soloist.
+*   **[[Comping_Jazz]]**: The art of accompanying a soloist.
 *   **[[Swing Eighth Notes]]**: The rhythmic "feel" that defines the genre.
 *   **Open Form**: A structure where the 12-bar cycle is repeated indefinitely for solos until a "cue" is given to return to the head.

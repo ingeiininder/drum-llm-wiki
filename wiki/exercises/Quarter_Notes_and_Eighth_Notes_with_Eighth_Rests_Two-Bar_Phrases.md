@@ -12,7 +12,7 @@ This exercise category builds upon one-bar rhythmic studies by extending pattern
 
 ## Exercise Description
 
-Each exercise presents a two-bar phrase (typically in [[4/4 Time Signature]]) combining:
+Each exercise presents a two-bar phrase (typically in [[4-4_Time_Signature]]) combining:
 *   **Quarter Notes**: One beat duration.
 *   **Eighth Notes**: Half-beat duration, often beamed in pairs or with an eighth rest.
 *   **Eighth Rests**: Half a beat of silence.
@@ -27,4 +27,4 @@ The challenge here is not just individual note placement but also maintaining th
 *   **Phrase Awareness**: Think of the two bars as a single musical phrase rather than two separate measures. This encourages a more musical approach.
 *   **Looping**: Practice looping each two-bar phrase repeatedly to develop consistency and endurance.
 
-Mastering these two-bar exercises is a crucial step in developing advanced [[Drum Reading]] skills and the ability to play longer, more complex [[Grooves]] and [[Fills]].
+Mastering these two-bar exercises is a crucial step in developing advanced [[Drum Reading]] skills and the ability to play longer, more complex [[Groove]] and [[Fill]].

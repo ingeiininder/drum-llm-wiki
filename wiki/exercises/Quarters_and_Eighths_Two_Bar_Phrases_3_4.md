@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarters and Eighths (Two-Bar Phrases) - 3/4
 
-This exercise expands on basic [[Rhythm Reading]] by presenting combinations of [[Quarter Note]]s and [[Eighth Note]]s in longer, two-bar phrases within the [[3/4 Time Signature]]. This format helps develop rhythmic continuity and endurance in a triple meter context.
+This exercise expands on basic [[Rhythm Reading]] by presenting combinations of [[Quarter Note]]s and [[Eighth Note]]s in longer, two-bar phrases within the [[3_4_Time_Signature]]. This format helps develop rhythmic continuity and endurance in a triple meter context.
 
 **Purpose:**
 *   To improve the ability to maintain a consistent [[Tempo]] and rhythmic flow over extended musical phrases in 3/4.

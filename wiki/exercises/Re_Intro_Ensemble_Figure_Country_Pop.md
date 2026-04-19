@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Re-Intro Ensemble Figure (Country-Pop)
-Following the second ending of the B section in the [[Country-Pop Play-Along Chart (Unit 5)]], there are two bars that function as a re-introduction. These bars contain an [[Ensemble Figure]].
+Following the second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]], there are two bars that function as a re-introduction. These bars contain an [[Ensemble Figures]].
 
 **Characteristics**:
 *   Both rhythms within this ensemble figure are [[Long Notes]].

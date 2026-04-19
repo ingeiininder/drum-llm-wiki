@@ -21,7 +21,7 @@ Common double-stop combinations include:
 ### Execution
 When reading the rhythms for these fills (Ex 8.15), every written note should be played as a double stop. 
 - **Example**: If the rhythm is a quarter note on beat 4, strike both the snare and the rack tom at the exact same time.
-- **Flam Avoidance**: Ensure both sticks land simultaneously. If one hits slightly before the other, it becomes a [[Flam]], which changes the character of the reggae fill.
+- **Flam Avoidance**: Ensure both sticks land simultaneously. If one hits slightly before the other, it becomes a [[Flams]], which changes the character of the reggae fill.
 
 ### Pro-Tip
 Use these double stops to highlight the "one-drop" feel by occasionally leaving beat 1 empty and placing a heavy double-stop on beat 2 or 3.

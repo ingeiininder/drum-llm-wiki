@@ -13,14 +13,14 @@ These performance notes provide a review of key sound elements and introduce how
 ## Sound Review
 
 1.  **Bass Drum Articulation**: Focus on achieving a consistent and strong [[Bass Drum Articulation]]. This can be either a "[[Bury-the-Beater]]" sound (for more sustain and punch) or an "[[Off the Head Bass Drum]]" sound (for a quicker, more articulate sound).
-2.  **Rimshot Snare Sound**: Develop a strong and consistent [[Rim Shot]] on the [[Snare Drum]]. This provides a cutting accent often desired in blues and rock contexts.
+2.  **Rimshot Snare Sound**: Develop a strong and consistent [[Rimshot]] on the [[Snare Drum]]. This provides a cutting accent often desired in blues and rock contexts.
 3.  **Medium-Even Hi-Hat Sound**: Aim for a medium-even [[Hi-Hat Sound]]. This implies a balanced, consistent sound that is neither too tight nor too open, providing a solid rhythmic foundation.
 
 ## Groove and Form Assignment
 
 For the 12-bar form performance, the grooves and form will be assigned to each student individually.
 
-*   **Assigning Grooves**: Each student will be assigned a particular [[Drum Grooves|groove]] for the [[Head (Music Term)|head]] and the [[Chorus (Jazz/Blues Term)|choruses]]. Examples include:
+*   **Assigning Grooves**: Each student will be assigned a particular [[Drum Grooves|groove]] for the [[Head_Music_Term|head]] and the [[Chorus_Jazz_Blues_Term|choruses]]. Examples include:
     *   [[Groove #1: Four on the Floor]]
     *   [[Groove #2: Syncopated]]
 *   **Assigning Form**: Each student will also be assigned a particular number of heads and choruses of guitar solo for their performances.

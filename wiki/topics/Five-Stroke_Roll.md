@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Five-Stroke Roll
-The [[Five-Stroke Roll]] is a fundamental drum rudiment and one of the most common [[Double Stroke Roll]]s. It consists of two [[Double Stroke]]s followed by a single accented stroke, totaling five notes. It is mentioned as a key topic in Unit 7 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+The [[Five-Stroke Roll]] is a fundamental drum rudiment and one of the most common [[Double Stroke Roll]]s. It consists of two [[Double_Strokes]]s followed by a single accented stroke, totaling five notes. It is mentioned as a key topic in Unit 7 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
 **Standard Sticking (Right Hand Lead):**
 RRLLR (or LLRRL for Left Hand Lead)

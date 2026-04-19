@@ -13,7 +13,7 @@ The [[Five-Stroke Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" fa
 rrLLR (or LLrrL for Left Hand Lead)
 
 **Breakdown:**
-*   **rrLL:** Four quiet, quick grace notes (drags) played as two [[Double Stroke]]s (rr then LL).
+*   **rrLL:** Four quiet, quick grace notes (drags) played as two [[Double_Strokes]]s (rr then LL).
 *   **R:** A louder, primary stroke played with the right hand.
 
 **Purpose and Application:**

@@ -16,7 +16,7 @@ To further develop precise control over bass drum dynamics, applying the princip
 The specific notation for Ex 5.4 is not provided, but it is part of a series aimed at achieving "the biggest dynamic spread possible: loud accents and very soft unaccented notes." It likely introduces a new rhythmic pattern or a variation of previous patterns, requiring continued focus on dynamic contrast.
 
 **Practice Instructions:**
-1.  **Maintain Proper Technique:** Continuously apply the refinements discussed in [[Bass Drum Technique (Heel-Up Refinement)]], ensuring correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
+1.  **Maintain Proper Technique:** Continuously apply the refinements discussed in [[Bass_Drum_Technique_Heel-Up_Refinement]], ensuring correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
 2.  **Gradual Tempo Increase:** Start at a slow tempo with a [[Metronome]] and gradually increase speed only when dynamic control is consistent.
 3.  **Isolate Challenges:** If a particular rhythmic or dynamic transition is difficult, isolate that section and practice it repeatedly before integrating it back into the full exercise.
 4.  **Body Awareness:** Pay attention to any tension in your leg or foot. Relaxed muscles are crucial for dynamic control and endurance.

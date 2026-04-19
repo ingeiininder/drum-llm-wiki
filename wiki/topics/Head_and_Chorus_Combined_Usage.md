@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Head and Chorus Combined Usage
 
-In [[Jazz Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the terms "[[Head (Music Term)|head]]" and "[[Chorus (Jazz/Blues Term)|chorus]]" are frequently used together by a [[Bandleader]] to communicate the structure of a song's performance, especially in [[12-Bar Blues Open Form|open forms]].
+In [[Jazz Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the terms "[[Head_Music_Term|head]]" and "[[Chorus_Jazz_Blues_Term|chorus]]" are frequently used together by a [[Bandleader]] to communicate the structure of a song's performance, especially in [[12-Bar Blues Open Form|open forms]].
 
 ## Common Scenario
 

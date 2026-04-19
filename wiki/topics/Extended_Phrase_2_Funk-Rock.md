@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Extended Phrase 2 (Funk-Rock)
-In the context of the `[[Funk-Rock]]` chart, `[[Extended Phrase 2]]` refers to an alteration in the `[[Musical Arrangement]]` where `[[Letter B]]` is extended by one extra bar after the `[[D.C. al Coda (No Repeats)]]`. This extension serves to create additional `[[Tension]]` within the chart.
+In the context of the `[[Funk-Rock]]` chart, `[[Extended Phrase 2]]` refers to an alteration in the `[[Musical Arrangement]]` where `[[Letter B]]` is extended by one extra bar after the `[[D.C._al_Coda_No_Repeats]]`. This extension serves to create additional `[[Tension]]` within the chart.
 
 The text clarifies that bar 1 of the `[[Coda]]` is thematically connected to `[[Letter B]]`. Therefore, this extra bar functions as an `[[Extended Transition Fill]]` and effectively becomes the ninth bar of `[[Letter B]]`, even though it's technically part of the coda. This is illustrated in the provided example.
 

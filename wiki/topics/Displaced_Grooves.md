@@ -12,7 +12,7 @@ last_updated: 2026-04-19
 **Displaced Grooves** involve taking a specific rhythmic sequence or [[Groove]] and shifting its starting point by a set note value—typically one eighth note or one 16th note—either before or after the primary downbeat.
 
 ### Conceptual Overview
-The challenge of displacement is more mental than physical. It requires the drummer to maintain the internal "pulse" while the external pattern suggests a different downbeat. This creates the illusion of an [[Odd-Meter]] shift, even though the underlying time signature remains constant.
+The challenge of displacement is more mental than physical. It requires the drummer to maintain the internal "pulse" while the external pattern suggests a different downbeat. This creates the illusion of an [[Odd_Meter]] shift, even though the underlying time signature remains constant.
 
 ### Types of Displacement
 *   **Displacement "After"**: Shifting the pattern forward in time (e.g., starting a beat on the "and" of 1).

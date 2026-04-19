@@ -11,7 +11,7 @@ This exercise offers additional practice in reading and performing [[Ties]] that
 
 **Key Learning Points:**
 *   **Pattern Recognition**: Develop the ability to quickly recognize common tied patterns involving quarter and eighth notes.
-*   **Off-Beat Placement**: Accurately place attacks that fall on [[Upbeats]] and sustain across [[Downbeats]].
+*   **Off-Beat Placement**: Accurately place attacks that fall on [[Upbeat]] and sustain across [[Downbeat]].
 *   **Rhythmic Accuracy**: Maintain a high level of precision in both attack timing and sustained duration.
 
 **Pro-Tip:** Focus on the rhythmic "feel" of each pattern. Are the tied notes creating a push, a pull, or a sustained emphasis? Understanding the musical effect helps in executing the rhythm with appropriate groove and dynamics.

@@ -19,7 +19,7 @@ Solo No. 2 is a foundational rudimental etude by [[Charley Wilcoxon]], focusing 
     - **Bar 7**: [[Flam Accent]].
     - **Bar 8**: [[7-Stroke Roll]] (starting on the "&" of beat 2).
     - **Bar 11**: [[Single Flam Paradiddle]].
-    - **Bars 13-14**: [[Drag Paradiddle #2]].
+    - **Bars 13-14**: [[Drag_Paradiddle_2]].
     - **Bars 16-17**: [[9-Stroke Roll]].
 
 ### Practice Strategy

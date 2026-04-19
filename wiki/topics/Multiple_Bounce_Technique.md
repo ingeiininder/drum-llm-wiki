@@ -13,7 +13,7 @@ The **Multiple Bounce Technique** is the foundational mechanic for developing a 
 
 ### Technical Execution
 1.  **Subdivision Base**: Start by applying the technique to a 16th-note skeleton at approximately 60 BPM.
-2.  **Rebound Density**: The objective is to produce as many rebounds as possible per stroke. A helpful developmental step is to aim for [[32nd-Note Triplets]] within each hand motion.
+2.  **Rebound Density**: The objective is to produce as many rebounds as possible per stroke. A helpful developmental step is to aim for [[32nd_Note_Triplets]] within each hand motion.
 3.  **Pressure Modulation**: 
     *   **Wider Rebound**: Opening the hand slightly and reducing downward pressure allows the stick to produce a longer, more open series of bounces.
     *   **Tighter Rebound**: Increasing pressure and "crushing" the stick into the head results in a denser, more compressed buzz.

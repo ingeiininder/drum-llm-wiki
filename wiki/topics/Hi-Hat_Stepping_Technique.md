@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Hi-Hat Stepping Technique
-Hi-hat stepping technique refers to the methods used to operate the [[Hi-Hat Pedal]] with the foot, primarily to create the "chick" sound or to open/close the cymbals. There are two popular approaches: the [[Heel/Toe Hi-Hat Method]] and the [[Heel Up Hi-Hat Method]]. Both serve valuable purposes and are worthy of investigation for any drummer.
+Hi-hat stepping technique refers to the methods used to operate the [[Hi-Hat Pedal]] with the foot, primarily to create the "chick" sound or to open/close the cymbals. There are two popular approaches: the [[Heel-Toe_Hi-Hat_Method]] and the [[Heel Up Hi-Hat Method]]. Both serve valuable purposes and are worthy of investigation for any drummer.
 
 ## Purpose of Hi-Hat Stepping
 *   **Rhythmic Foundation**: The hi-hat foot often provides a steady rhythmic pulse, commonly on beats 2 and 4 in many styles.

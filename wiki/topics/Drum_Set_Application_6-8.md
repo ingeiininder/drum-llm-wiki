@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Drum Set Application in 6/8
 
-Transitioning from snare-only reading to the full [[Drum Set]] in [[6/8 Time]] involves distributing rhythmic phrases across different voices (Bass Drum, Snare, and Cymbals).
+Transitioning from snare-only reading to the full [[Drum_Seat]] in [[6/8 Time]] involves distributing rhythmic phrases across different voices (Bass Drum, Snare, and Cymbals).
 
 ### Phrasing and Orchestration
 Exercises **3.16, 3.17, and 3.18** demonstrate how four-bar phrases are constructed in a drum set context. 

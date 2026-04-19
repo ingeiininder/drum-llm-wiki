@@ -18,7 +18,7 @@ last_updated: 2026-04-19
 
 ### Stylistic Application
 1.  **Jazz**: Most commonly used in jazz charts to indicate horn lines or piano comps. The drummer might lightly "feather" these rhythms on the [[Ride Cymbal]] or [[Snare Drum]] while maintaining the [[Swing Feel]].
-2.  **Rock/Pop**: Often used to show bass line rhythms. A common technique is for the [[Bass Drum]] to "catch" the timekeeping figure while the [[Snare Drum]] maintains a consistent [[Backbeat]] on 2 and 4.
+2.  **Rock/Pop**: Often used to show bass line rhythms. A common technique is for the [[Bass Drum]] to "catch" the timekeeping figure while the [[Snare Drum]] maintains a consistent [[Back-Beat]] on 2 and 4.
 
 ### Pro-Tips
 - **Do Not Overplay**: The primary goal is to maintain the groove. If a timekeeping figure is too complex, prioritize the [[Timekeeping]] over the figure.

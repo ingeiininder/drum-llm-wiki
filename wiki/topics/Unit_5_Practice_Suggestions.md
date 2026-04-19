@@ -15,7 +15,7 @@ These suggestions provide a structured approach to practicing the material cover
     *   **Focus:** Focus on the [[Bass Drum Pedal Foot Placement]] (ball of your foot) transferring the weight and energy to the pedal.
 2.  **Master Studies:** Every day, play all of the exercises from [[Master Studies]] (referring to exercises 25-48 from the homework) for two minutes each.
     *   **Focus:** Concentrate on creating a big dynamic spread between the accented and unaccented notes.
-3.  **Ruff Rudiments Review:** Integrate a quick review of [[Ruff Rudiments]] from [[Unit 4 Five-Stroke Ruff]] and [[Unit 4 Seven-Stroke Ruff]] into your daily routine.
+3.  **Ruff Rudiments Review:** Integrate a quick review of [[Ruff_Rudiment]] from [[Unit 4 Five-Stroke Ruff]] and [[Unit 4 Seven-Stroke Ruff]] into your daily routine.
 
 **Pro-Tip:**
-The quality of your practice is paramount. For bass drum, visualize the energy flow from your hip through your leg to the pedal. For all exercises, use a [[Metronome]] and strive for consistency in both rhythm and dynamics. Regular, focused practice on these fundamentals will build a strong and versatile [[Drum Technique]].
+The quality of your practice is paramount. For bass drum, visualize the energy flow from your hip through your leg to the pedal. For all exercises, use a [[Metronome]] and strive for consistency in both rhythm and dynamics. Regular, focused practice on these fundamentals will build a strong and versatile [[Drum_Technique_50]].

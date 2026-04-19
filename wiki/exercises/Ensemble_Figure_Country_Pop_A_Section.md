@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ensemble Figure (Country-Pop A Section)
-This [[Ensemble Figure]] appears on bars 4 and 8 of the A section in the [[Country-Pop Play-Along Chart (Unit 5)]]. It is pre-orchestrated to create a specific impact.
+This [[Ensemble Figures]] appears on bars 4 and 8 of the A section in the [[Country_Pop_Play_Along_Chart_Unit_5]]. It is pre-orchestrated to create a specific impact.
 
 **Execution**:
 *   The [[Bass Drum]] maintains a steady [[Quarter Note]] pulse.

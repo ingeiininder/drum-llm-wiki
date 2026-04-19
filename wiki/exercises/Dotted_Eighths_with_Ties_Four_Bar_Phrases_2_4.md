@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Dotted Eighths with Ties (Four-Bar Phrases) - 2/4
 
-This exercise combines [[Dotted Eighth Note]]s with [[Ties]] in extended four-bar phrases within the [[2/4 Time Signature]]. This presents a significant challenge in rhythmic precision, requiring careful attention to note durations and connections.
+This exercise combines [[Dotted Eighth Note]]s with [[Ties]] in extended four-bar phrases within the [[2_4_Time_Signature]]. This presents a significant challenge in rhythmic precision, requiring careful attention to note durations and connections.
 
 **Purpose:**
 *   To master the accurate execution of dotted eighth notes and their interaction with ties.

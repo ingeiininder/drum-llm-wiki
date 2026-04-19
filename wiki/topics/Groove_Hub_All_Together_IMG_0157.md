@@ -11,7 +11,7 @@ The "All Together" concept, as described in the source material, synthesizes spe
 
 **Key Components and Their Contributions:**
 *   **[[Bass Drum Sound]]**: The goal is a strong, round, and open bass drum sound. This typically implies a full, resonant tone without excessive dampening, providing a solid low-end anchor for the groove.
-*   **[[Snare Drum Center Stroke (Non-Rimshot)]]**: An open, yet dark-toned snare drum is achieved through the [[Snare Drum Center Stroke (Non-Rimshot)]]. This technique emphasizes the drum's natural resonance and depth, providing a contrasting texture to the brighter [[Rimshot]]. The "dark" quality suggests a focus on the fundamental tone rather than overtring or brightness.
+*   **[[Snare_Drum_Center_Stroke_Non_Rimshot]]**: An open, yet dark-toned snare drum is achieved through the [[Snare_Drum_Center_Stroke_Non_Rimshot]]. This technique emphasizes the drum's natural resonance and depth, providing a contrasting texture to the brighter [[Rimshot]]. The "dark" quality suggests a focus on the fundamental tone rather than overtring or brightness.
 *   **[[Hi-Hat Chunky Shouldered 16ths]]**: A thick and "chunky" hi-hat sound, produced by the [[Hi-Hat Chunky Shouldered 16ths]] technique, adds rhythmic density and forward motion. This articulation creates a "fat" feel, contributing significantly to the overall drive and [[Syncopation]] of the groove.
 
 **Overall Resulting Groove Feel:**

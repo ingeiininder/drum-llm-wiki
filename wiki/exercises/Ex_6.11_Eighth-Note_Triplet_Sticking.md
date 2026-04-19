@@ -28,4 +28,4 @@ The garbled notation for the "following stickings" suggests various combinations
 5.  **Self-Assessment:** Regularly record and critically evaluate your playing. Can you hear the clear dynamic separation? Is the rhythm consistent? Is the triplet feel maintained?
 
 **Pro-Tip:**
-Consider this exercise a performance piece for your triplet technique. It should showcase your ability to control every nuance of the rhythm. The mastery of these triplet exercises is fundamental for playing a wide range of musical styles and for developing a truly expressive and versatile [[Drum Technique]].
+Consider this exercise a performance piece for your triplet technique. It should showcase your ability to control every nuance of the rhythm. The mastery of these triplet exercises is fundamental for playing a wide range of musical styles and for developing a truly expressive and versatile [[Drum_Technique_50]].

@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Flammed Mill (Windmill)
 
-The **Flammed Mill**, also known as the **Windmill**, is a rudiment that combines a [[Flam]] with a specific sticking pattern, often utilized for its fluid, rolling sound on the drumset.
+The **Flammed Mill**, also known as the **Windmill**, is a rudiment that combines a [[Flams]] with a specific sticking pattern, often utilized for its fluid, rolling sound on the drumset.
 
 ### Technical Structure
 The Flammed Mill is a "bounced" rudiment. It incorporates a portion of the [[Swiss_Army_Triplet]] (two consecutive strokes followed by a single stroke) played as rebounds.

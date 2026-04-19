@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Seven-Stroke Roll
-The [[Seven-Stroke Roll]] is a drum rudiment belonging to the [[Double Stroke Roll]] family. It consists of three [[Double Stroke]]s followed by a single accented stroke, totaling seven notes. It is mentioned as a key topic in Unit 7 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+The [[Seven-Stroke Roll]] is a drum rudiment belonging to the [[Double Stroke Roll]] family. It consists of three [[Double_Strokes]]s followed by a single accented stroke, totaling seven notes. It is mentioned as a key topic in Unit 7 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
 **Standard Sticking (Right Hand Lead):**
 RRLLRR L (or LLRRLL R for Left Hand Lead)

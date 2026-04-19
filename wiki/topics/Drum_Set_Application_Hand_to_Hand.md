@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Drum Set Application: Hand-to-Hand
-Once the [[Hand-to-Hand Technique]] is mastered on a single surface, it is transferred to the full drum set to enhance mobility and creative [[Interpretation]].
+Once the [[Hand_to_Hand_Technique]] is mastered on a single surface, it is transferred to the full drum set to enhance mobility and creative [[Interpretation]].
 
 ### Orchestration Methods
 1.  **Tom-Tom Distribution**: Play the continuous 16th-note flow on the snare drum (quietly). Move the accented [[Ensemble Figures]] to the toms.

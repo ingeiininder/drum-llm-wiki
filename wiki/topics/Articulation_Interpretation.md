@@ -16,6 +16,6 @@ In drum set performance, written [[Ensemble Figures]] often include articulation
 3.  **[[Martellato Interpretation|Martellato]]**: Indicated by a wedge or "rooftop" accent. These are "short and fat" notes, played with significant weight and immediate decay.
 
 ### Mixed Articulations
-Most professional charts utilize a mixture of these markings. The drummer's role is to create a cohesive "interpretation" that balances the [[Set-up Fills]] with the specific length of the notated figure.
+Most professional charts utilize a mixture of these markings. The drummer's role is to create a cohesive "interpretation" that balances the [[Set-up_Fill]] with the specific length of the notated figure.
 
 **Pro-Tip**: When you see mixed articulations, use the orchestration to differentiate them. Play short notes on the snare or hi-hat and long notes on crash cymbals with bass drum reinforcement.

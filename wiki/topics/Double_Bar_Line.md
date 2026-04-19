@@ -17,4 +17,4 @@ A double bar line is a type of [[Bar Line]] used in [[Music Notation]] to visual
     *   The end of a major section (e.g., verse, chorus, bridge).
 *   **Visual Aid**: It serves as a clear visual cue for the performer, helping them to keep their place and anticipate upcoming changes or new musical ideas while reading the score.
 
-Unlike a single bar line which simply divides [[Measure (Music Notation)|measures]], the double bar line implies a more significant structural division.
+Unlike a single bar line which simply divides [[Measure_Music_Notation|measures]], the double bar line implies a more significant structural division.

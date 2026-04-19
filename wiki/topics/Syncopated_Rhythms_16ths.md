@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Syncopated Rhythms: 16ths
-When [[Sixteenth Notes]] are used to create [[Syncopated Rhythms]], the complexity increases, and the need for clear notation becomes paramount. In these situations, it's not just the [[Downbeat]] of beat 3 that needs to be clear (as in the [[2/3 Rule]]), but *each individual downbeat* within the measure.
+When [[Sixteenth Notes]] are used to create [[Syncopated Rhythms]], the complexity increases, and the need for clear notation becomes paramount. In these situations, it's not just the [[Downbeat]] of beat 3 that needs to be clear (as in the [[2_3_Rule]]), but *each individual downbeat* within the measure.
 
 **Key Principles for 16th Note Syncopation:**
 *   **Clear Downbeats**: Every downbeat (1, 2, 3, 4 in 4/4 time) must be clearly displayed. Notation that obscures any downbeat, even if mathematically correct, is considered poor practice and makes [[Sight-Reading]] extremely difficult.

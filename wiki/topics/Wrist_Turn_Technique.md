@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Wrist Turn Technique
 
-The **Wrist Turn** is a fundamental mechanical approach in percussion where the stick's motion is generated entirely by the rotation of the wrist, intentionally excluding the use of [[Rebound_Control]] or finger manipulation. This technique is essential for developing forearm strength, stroke consistency, and rhythmic precision across various [[Subdivisions]].
+The **Wrist Turn** is a fundamental mechanical approach in percussion where the stick's motion is generated entirely by the rotation of the wrist, intentionally excluding the use of [[Rebound_Control]] or finger manipulation. This technique is essential for developing forearm strength, stroke consistency, and rhythmic precision across various [[Subdivision]].
 
 ### Core Principles
 - **No Rebounds**: Every note is a deliberate "turn" of the wrist. The stick is lifted and dropped manually rather than letting it bounce.

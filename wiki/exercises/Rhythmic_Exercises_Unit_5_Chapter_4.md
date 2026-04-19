@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rhythmic Exercises: Unit 5, Chapter 4
-This chapter presents a series of one-bar rhythmic exercises designed to reinforce the understanding and performance of [[Musical Note Values]] and [[Musical Rest Values]] introduced in Unit 5, Chapter 1. These exercises are crucial for developing [[Drum Reading]] fluency and recognizing [[Common Eighth and 16th Pairings (Rhythmic Groupings)]].
+This chapter presents a series of one-bar rhythmic exercises designed to reinforce the understanding and performance of [[Musical Note Values]] and [[Musical Rest Values]] introduced in Unit 5, Chapter 1. These exercises are crucial for developing [[Drum Reading]] fluency and recognizing [[Common_Eighth_and_16th_Pairings_Rhythmic_Groupings]].
 
 The exercises cover various combinations, including:
 *   **[[16th Note]]s and [[Eighth Note]]s (One-Bar Phrases)**: Focus on the interplay between these two common subdivisions.

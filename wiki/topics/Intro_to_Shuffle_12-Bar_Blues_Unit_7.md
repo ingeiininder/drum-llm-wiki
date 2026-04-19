@@ -15,8 +15,8 @@ Unit 7 introduces the [[Shuffle Feel]] within the context of a standard [[12-Bar
 *   **Standard Blues Rhythm**: The shuffle is a cornerstone of blues music, providing a characteristic swung feel.
 *   **Structure**: The primary structure explored is the [[12-Bar Blues Open Form]], which is a cyclical, repeating form.
 *   **Accompanying Terms**: To fully understand the performance of a 12-bar blues in an open form, two additional terms are introduced:
-    1.  **[[Head (Music Term)|The Head]]**: Refers to the thematic melody of the song.
-    2.  **[[Chorus (Jazz/Blues Term)|A Chorus]]**: Slang for "one time through the form."
+    1.  **[[Head_Music_Term|The Head]]**: Refers to the thematic melody of the song.
+    2.  **[[Chorus_Jazz_Blues_Term|A Chorus]]**: Slang for "one time through the form."
 
 ## Importance
 

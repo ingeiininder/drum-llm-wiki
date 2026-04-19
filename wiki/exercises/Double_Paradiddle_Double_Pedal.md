@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Double Paradiddle (Double Pedal)
 
-Applying the **Double Paradiddle** [[Rudiments]] to the feet is a specialized coordination exercise used to build dexterity and rhythmic interest in [[Double Pedal]] playing.
+Applying the **Double Paradiddle** [[Rudiment]] to the feet is a specialized coordination exercise used to build dexterity and rhythmic interest in [[Double Pedal]] playing.
 
 ### Pattern Breakdown
 The standard Double Paradiddle is a 6-note pattern: **R L R L R R** (or **L R L R L L**).

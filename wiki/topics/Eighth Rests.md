@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth Rests
-An [[Eighth Rest]] is a fundamental symbol in musical notation that represents a period of silence equal to the duration of an [[Eighth Note]]. In common time signatures like [[4/4 Time Signature]], an eighth rest is equivalent to half of a beat.
+An [[Eighth Rest]] is a fundamental symbol in musical notation that represents a period of silence equal to the duration of an [[Eighth Note]]. In common time signatures like [[4-4_Time_Signature]], an eighth rest is equivalent to half of a beat.
 
 **Symbol and Placement:**
 The symbol for an eighth rest resembles a small number seven (7) and is typically placed in the middle of the musical staff.

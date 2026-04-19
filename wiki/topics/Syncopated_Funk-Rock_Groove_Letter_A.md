@@ -7,11 +7,11 @@ last_updated: 2023-10-27
 ---
 
 # Syncopated Funk-Rock Groove (Letter A)
-This groove, found at "Letter A" in the [[Funk-Rock Play-Along (Unit 8 Ex 8.13)]], is characterized by its highly [[Syncopated]] nature, utilizing both [[Eighth Notes]] and [[16th Notes]]. It deviates from standard [[Rock]] patterns, demanding precise rhythmic execution.
+This groove, found at "Letter A" in the [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]], is characterized by its highly [[Syncopated]] nature, utilizing both [[Eighth Notes]] and [[16th Notes]]. It deviates from standard [[Rock]] patterns, demanding precise rhythmic execution.
 
 **Key Characteristics:**
 *   **Bass Drum:** Features numerous [[16th Notes]] that often do not align directly with the [[Hi-Hat]] pattern, creating rhythmic independence.
-*   **Snare Drum:** Breaks from the traditional [[Backbeat]] on beats 2 and 4. Instead, it's placed on beats 2, 3, and the "and" of 4, adding to the syncopated feel.
+*   **Snare Drum:** Breaks from the traditional [[Back-Beat]] on beats 2 and 4. Instead, it's placed on beats 2, 3, and the "and" of 4, adding to the syncopated feel.
 *   **Hi-Hat:** Likely maintains a more consistent pattern (e.g., [[Open Hi-Hat]] on specific off-beats) against which the [[Bass Drum]] and [[Snare Drum]] create tension.
 
 **Importance of Subdividing:**

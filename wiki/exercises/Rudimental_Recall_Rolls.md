@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rudimental Recall: Rolls
-[[Rudimental Recall: Rolls]] refers to a practice segment or exercise dedicated to reviewing and reinforcing proficiency in various [[Drum Roll]] rudiments. It is mentioned as a key topic in Unit 9 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+[[Rudimental_Recall_Rolls]] refers to a practice segment or exercise dedicated to reviewing and reinforcing proficiency in various [[Drum Roll]] rudiments. It is mentioned as a key topic in Unit 9 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
 **Purpose:**
 *   **Retention:** Ensures that previously learned [[Rudimental Drumming]] concepts, specifically rolls, are not forgotten.

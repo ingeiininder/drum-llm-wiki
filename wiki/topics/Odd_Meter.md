@@ -17,8 +17,8 @@ The term **Odd Meter** technically refers to any time signature where the top nu
 3.  **Versatility of the Bottom Number**: The concept of odd meter remains consistent regardless of whether the beat unit is the quarter note (5/4), eighth note (5/8), or sixteenth note (5/16).
 
 ### Common Odd Meters
-*   **[[5/8 Time Signature]]**: Five beats per measure, usually grouped as 2+3 or 3+2.
-*   **[[7/8 Time Signature]]**: Seven beats per measure, usually grouped as 2+2+3, 2+3+2, or 3+2+2.
+*   **[[5-8_Time_Signature]]**: Five beats per measure, usually grouped as 2+3 or 3+2.
+*   **[[7-8_Time_Signature]]**: Seven beats per measure, usually grouped as 2+2+3, 2+3+2, or 3+2+2.
 
 ### Common Pitfall
 Many drummers struggle with odd meters because they try to feel them as "broken" versions of 4/4. Instead, one should internalize the specific **[[Asymmetrical Groupings]]** and treat the entire measure as a single, cohesive cycle.

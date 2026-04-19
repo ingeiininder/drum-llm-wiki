@@ -12,6 +12,6 @@ This exercise introduces [[Ties]] that connect [[Eighth Notes]] and [[Sixteenth 
 **Key Learning Points:**
 *   **Fine Subdivision**: Accurately interpret and execute tied notes at the sixteenth-note level, including "e" and "a" subdivisions.
 *   **Complex Syncopation**: Understand how these ties create more intricate off-beat patterns and rhythmic tension.
-*   **Downbeat Clarity**: Ensure that even with complex ties, the main [[Downbeats]] of the measure remain clear in your internal pulse.
+*   **Downbeat Clarity**: Ensure that even with complex ties, the main [[Downbeat]] of the measure remain clear in your internal pulse.
 
 **Pro-Tip:** When practicing, slow the [[Tempo]] down significantly. Count the sixteenth-note subdivisions ("1 e & a 2 e & a...") out loud and tap the rhythm precisely. This meticulous approach is essential for mastering the accuracy required for tied sixteenth-note figures.

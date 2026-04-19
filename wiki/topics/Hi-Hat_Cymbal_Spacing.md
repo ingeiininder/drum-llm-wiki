@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Hi-Hat Cymbal Spacing
-[[Hi-Hat Cymbal Spacing]] refers to the distance between the top and bottom hi-hat cymbals when the pedal is in its open position. This spacing is a critical factor in achieving a tight, articulate "chick" sound, regardless of whether you are using the [[Heel/Toe Hi-Hat Method]] or the [[Heel-Up Hi-Hat Method]].
+[[Hi-Hat Cymbal Spacing]] refers to the distance between the top and bottom hi-hat cymbals when the pedal is in its open position. This spacing is a critical factor in achieving a tight, articulate "chick" sound, regardless of whether you are using the [[Heel-Toe_Hi-Hat_Method]] or the [[Heel-Up Hi-Hat Method]].
 
 **Optimal Spacing:**
 To generate a clear and resonant "chick" sound, the two hi-hat cymbals must have enough space to resonate and then close sharply. A minimum of **one inch** between the cymbals is necessary to produce this desired sound. (Refer to Ex. 4.19 in source material for an illustration of optimal spacing).

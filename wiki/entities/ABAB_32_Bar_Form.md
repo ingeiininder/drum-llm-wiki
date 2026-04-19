@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # ABAB 32 Bar Form
 The ABAB 32 Bar Form is a traditional and widely used [[Song Form]] in popular music, often found in jazz standards, pop songs, and show tunes. It typically consists of four 8-bar sections:
-*   **A**: The first musical phrase or [[Verse Section (Letter A)]].
+*   **A**: The first musical phrase or [[Verse_Section_Letter_A]].
 *   **B**: A contrasting musical phrase, often the chorus or bridge.
 *   **A**: A return to the first phrase.
 *   **B**: A return to the contrasting phrase, sometimes with variations.

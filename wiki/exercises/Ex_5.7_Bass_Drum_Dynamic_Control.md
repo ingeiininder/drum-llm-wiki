@@ -16,7 +16,7 @@ To demonstrate mastery of bass drum dynamic control, executing complex rhythmic 
 The specific notation for Ex 5.7 is not provided, but it is the final exercise in a series aimed at achieving "the biggest dynamic spread possible: loud accents and very soft unaccented notes." It likely combines various rhythmic and dynamic challenges from the preceding exercises into a comprehensive pattern.
 
 **Practice Instructions:**
-1.  **Holistic Approach:** Apply all learned refinements in [[Bass Drum Technique (Heel-Up Refinement)]], including correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
+1.  **Holistic Approach:** Apply all learned refinements in [[Bass_Drum_Technique_Heel-Up_Refinement]], including correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
 2.  **Full Dynamic Range:** Ensure every stroke is played with its intended dynamic, from the loudest accent to the softest ghost note.
 3.  **Rhythmic Accuracy:** Maintain precise rhythmic placement of all notes, regardless of their dynamic.
 4.  **Fluidity and Relaxation:** Strive for a relaxed and fluid motion throughout the exercise, even at higher tempos.

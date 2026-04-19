@@ -15,6 +15,6 @@ One of the primary uses of [[Ties]] in musical notation is to allow a [[Note Val
 *   **Adherence to Meter**: Allows notes to occupy their full duration without violating the [[Time Signature]] of individual measures.
 
 **Example:**
-In [[4/4 Time Signature]], a [[Whole Note]] cannot be held for more than four beats within a single measure. If a composer desires a note to last for five beats, it would be notated as a [[Quarter Note]] tied to a [[Whole Note]] across a bar line, where the quarter note is in the first measure and the whole note is in the second.
+In [[4-4_Time_Signature]], a [[Whole Note]] cannot be held for more than four beats within a single measure. If a composer desires a note to last for five beats, it would be notated as a [[Quarter Note]] tied to a [[Whole Note]] across a bar line, where the quarter note is in the first measure and the whole note is in the second.
 
 **Pro-Tip:** When reading tied notes across a bar line, mentally "connect" the notes as one continuous sound. For drummers, this means maintaining the internal pulse and feeling the duration of the combined note, even though the attack only occurs on the first note. This is vital for accurate [[Sight-Reading]] and musical interpretation.

@@ -23,4 +23,4 @@ While [[Jazz_Drumming]] also features a soft bass drum ("feathering"), the Bossa
 *   **Cymbal Articulation**: Use the "shouldering" technique to create a full, washy sound that controls overtones.
 *   **Cross-Stick**: Ensure the click is woody and consistent, cutting through the cymbal wash without being abrasive.
 
-**See also**: [[Shouldering_Technique.md]], [[Reggae_Balance_of_Sound.md]]
+**See also**: [[Shouldering_Technique]], [[Reggae_Balance_of_Sound]]

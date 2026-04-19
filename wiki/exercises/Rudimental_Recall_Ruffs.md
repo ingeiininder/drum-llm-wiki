@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rudimental Recall: Ruffs
-[[Rudimental Recall: Ruffs]] refers to a practice segment or exercise dedicated to reviewing and reinforcing proficiency in various [[Ruff]] rudiments. It is mentioned as a key topic in Unit 6 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+[[Rudimental_Recall_Ruffs]] refers to a practice segment or exercise dedicated to reviewing and reinforcing proficiency in various [[Ruff]] rudiments. It is mentioned as a key topic in Unit 6 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
 **Purpose:**
 *   **Retention:** Ensures that previously learned [[Rudimental Drumming]] concepts, specifically ruffs, are not forgotten.

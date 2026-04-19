@@ -13,7 +13,7 @@ The [[Three-Stroke Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" f
 rrL (or LLr for Left Hand Lead)
 
 **Breakdown:**
-*   **rr:** Two quiet, quick grace notes (drags) played with the right hand. These are typically [[Double Stroke]]s or very quick bounces.
+*   **rr:** Two quiet, quick grace notes (drags) played with the right hand. These are typically [[Double_Strokes]]s or very quick bounces.
 *   **L:** A louder, primary stroke played with the left hand.
 
 **Purpose and Application:**

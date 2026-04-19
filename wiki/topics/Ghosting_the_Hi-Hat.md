@@ -18,4 +18,4 @@ last_updated: 2026-04-19
 
 ### Related Techniques
 - [[Two-Handed 16th-Note Groove]]
-- [[Ghost Notes (Snare Drum)]]
+- [[Ghost_Notes_Snare_Drum]]

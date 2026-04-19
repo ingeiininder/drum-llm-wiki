@@ -15,7 +15,7 @@ Recording your practice sessions is a powerful tool for self-assessment and acce
 **Benefits**:
 *   **Objective Feedback**: You can hear your playing without the distraction of performing, identifying timing issues, inconsistencies, or unwanted noises.
 *   **Tracking Progress**: Listen back to older recordings to see how much you've improved over time.
-*   **Identifying Weaknesses**: Pinpoint specific areas that need more attention, such as [[Dynamics]], [[Timing]], or [[Articulation]].
+*   **Identifying Weaknesses**: Pinpoint specific areas that need more attention, such as [[Dynamics]], [[Timing]], or [[Articulations]].
 *   **Musicality**: Evaluate how your drumming fits into the overall musical context, especially when playing with [[Play-Along Tracks]].
 
 **Pro-Tip**: Don't just record; *listen back critically*. Take notes on what you hear. What sounds good? What needs work? Be honest with yourself. It can be uncomfortable at first, but it's essential for growth. Use a simple audio recorder or your phone; the goal is to hear yourself, not produce a studio-quality track.

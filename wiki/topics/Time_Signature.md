@@ -19,6 +19,6 @@ A **Time Signature** (or meter signature) is a notational convention used in Wes
 - **Bottom Number**: Indicates the note value that receives one beat (e.g., 4 represents a quarter note, 8 represents an eighth note).
 
 ## Common Signatures
-- **[[4/4 Time Signature]]**: Four quarter notes per measure. Also known as Common Time.
-- **[[3/4 Time Signature]]**: Three quarter notes per measure (Waltz time).
-- **[[6/8 Time Signature]]**: Six eighth notes per measure, typically felt in two beats of dotted quarter notes.
+- **[[4-4_Time_Signature]]**: Four quarter notes per measure. Also known as Common Time.
+- **[[3_4_Time_Signature]]**: Three quarter notes per measure (Waltz time).
+- **[[6-8_Time_Signature]]**: Six eighth notes per measure, typically felt in two beats of dotted quarter notes.

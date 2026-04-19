@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Target Beats
 
-In the context of [[Ensemble_Figure_Interpretation|Ensemble Reading]], a **Target Beat** is the exact rhythmic location where a drummer begins or focuses their [[Set-up Fills|Set-up Fill]]. 
+In the context of [[Ensemble_Figure_Interpretation|Ensemble Reading]], a **Target Beat** is the exact rhythmic location where a drummer begins or focuses their [[Set-up_Fill|Set-up Fill]]. 
 
 ### Identifying the Target
 The target beat is determined by the placement of the ensemble figure. To provide a clear signal to the band, the drummer usually targets the beat (or beats) immediately preceding the figure.

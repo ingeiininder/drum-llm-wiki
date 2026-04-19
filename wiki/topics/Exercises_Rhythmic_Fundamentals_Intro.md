@@ -16,7 +16,7 @@ This section introduces a series of exercises designed to progressively develop 
 
 ## Exercise Categories
 The exercises are categorized by the rhythmic elements they focus on:
-1.  [[Whole Notes, Half Notes and Quarter Notes with Accompanying Rests (Exercises)]]
+1.  [[Whole_Notes_Half_Notes_and_Quarter_Notes_with_Accompanying_Rests_(Exercises)]]
 2.  [[Half Notes and Quarter Notes with Accompanying Rests (Advanced Exercises)]]
 
 ## Pro-Tip for Drummers

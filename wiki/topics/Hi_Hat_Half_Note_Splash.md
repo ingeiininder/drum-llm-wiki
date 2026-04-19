@@ -17,10 +17,10 @@ The objective is to create a consistent, ringing splash that sustains into the n
 - **The "Sizzle"**: It is stylistically acceptable to allow the cymbals to "rattle" or "sizzle" against each other briefly.
 
 ### Phrasing in Odd Meters
-In a [[7/4 Time Signature]], a common two-bar resolution pattern involves:
+In a [[7-8_Time_Signature]], a common two-bar resolution pattern involves:
 - **Bar 1**: Splashes on beats 2, 4, and 6.
 - **Bar 2**: Splashes on beats 1, 3, 5, and 7.
 
 ### Common Pitfalls
 - **Choking the Sound**: Keeping the foot on the plate too long will "choke" the cymbals, preventing the desired "metallic sheen."
-- **Inconsistent Dynamics**: Ensure the splashes are loud enough to simulate a second percussionist without disrupting the [[Ghost Note]] patterns on the snare.
+- **Inconsistent Dynamics**: Ensure the splashes are loud enough to simulate a second percussionist without disrupting the [[Ghost_Notes]] patterns on the snare.

@@ -14,4 +14,4 @@ This exercise type focuses on reading and performing continuous rhythmic pattern
 2.  **Hand-to-Hand Coordination:** If practicing with alternating hands, focus on smooth transitions and equal power from both hands.
 3.  **Tempo Progression:** Start slowly to establish accuracy, then gradually increase the tempo. The goal is to maintain precision at faster speeds.
 
-**Pro-Tip:** These patterns are the building blocks for many [[Drum Fills]] and [[Grooves]]. Practice them with a [[Metronome]] and try to feel the strong beats (1, 2, 3, 4) while accurately subdividing. This will improve your internal clock and rhythmic stability.
+**Pro-Tip:** These patterns are the building blocks for many [[Drum_Fill]] and [[Groove]]. Practice them with a [[Metronome]] and try to feel the strong beats (1, 2, 3, 4) while accurately subdividing. This will improve your internal clock and rhythmic stability.

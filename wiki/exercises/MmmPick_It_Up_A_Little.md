@@ -22,7 +22,7 @@ last_updated: 2026-04-19
 ### Technical Requirements
 - **Tempo**: Medium Swing.
 - **Key Figures**: Classic ending (must be memorized).
-- **Instrumentation**: Standard [[Drum Set]].
+- **Instrumentation**: Standard [[Drum_Seat]].
 
 ### Source Context
 Excerpted from *Baby Steps to Giant Steps* (Hudson Music).

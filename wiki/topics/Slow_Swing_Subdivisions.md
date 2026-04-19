@@ -15,7 +15,7 @@ Playing [[Slow Swing]] (e.g., 60 BPM) is one of the most difficult tasks for a d
 ### The Rule of Subdividing
 To maintain a consistent [[Legato]] feel on the [[Ride Cymbal]], drummers must internally subdivide the pulse into **Eighth-Note Triplets**. 
 *   **Counting**: Instead of counting "1, 2, 3, 4," count "1-trip-let, 2-trip-let, 3-trip-let, 4-trip-let."
-*   **Application**: This subdivision should be applied to everything: the [[Four-on-the-Floor]] bass drum, the [[Cross-stick]] backbeat, and especially during [[Stop-Time]] figures.
+*   **Application**: This subdivision should be applied to everything: the [[Four-on-the-Floor]] bass drum, the [[Cross_Stick]] backbeat, and especially during [[Stop_Time]] figures.
 
 ### Practice Strategy
 1.  Set the [[Metronome]] to eighth-note triplets at 60 BPM.

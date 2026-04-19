@@ -17,7 +17,7 @@ The following are the foundational flam-based patterns used in the Musicians Ins
 1.  **Flam Accent**: A triplet-based pattern where the flam occurs on the first note of each group of three.
 2.  **Flam Tap**: Alternating flams followed by a single tap in the same hand (lR R, rL L).
 3.  **Flamacue**: A five-note grouping characterized by an accent on the second note (the first note after the flam).
-4.  **Single Flam Paradiddle**: A standard [[Paradiddles|Paradiddle]] with a flam on the first note.
+4.  **Single Flam Paradiddle**: A standard [[Paradiddle|Paradiddle]] with a flam on the first note.
 5.  **Single Flammed Mill**: An inverted paradiddle (R R L R) with a flam on the first note.
 6.  **Flam Paradiddle-Diddle**: A six-note pattern (lR L R R L L).
 7.  **Swiss Army Triplet**: A unique rudiment where the flam and the following note are played by the same hand (lR R L).

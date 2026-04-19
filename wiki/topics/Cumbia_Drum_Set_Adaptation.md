@@ -15,7 +15,7 @@ Cumbia originated as a courtship dance among African populations and evolved sig
 Cumbia charts often utilize an **AAB Form**:
 - **Section A**: Typically an eight-bar phrase featuring a one-bar groove and a fill on the eighth measure.
 - **Section A2**: A variation of Section A, often incorporating melodic movement to the [[Rack Tom]] to emulate conga or timbale patterns.
-- **Section B**: Features a [[One-Handed 16th-Note Groove]] with a two-bar phrase structure, often involving [[Hi-Hat]] openings on the "&" of 4.
+- **Section B**: Features a [[Two-Handed_16th-Note_Groove]] with a two-bar phrase structure, often involving [[Hi-Hat]] openings on the "&" of 4.
 
 ### Performance Mechanics
 1. **The Groove**: The core involves a [[Cross-Stick Articulation]] on every downbeat, which must align perfectly with the [[Bass Drum]].

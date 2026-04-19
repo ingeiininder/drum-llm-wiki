@@ -13,8 +13,8 @@ last_updated: 2026-04-19
 
 ### Structural Evolution
 The track follows a "full circle" arrangement:
-1. **Intro**: Features a [[Non-Descript Groove]]. The focus is on an open, evolving "vibe" rather than a repetitive cycle.
-2. **Main Section**: Transitions into a "human version" of a [[Drum and Bass]] groove. This section utilizes [[Rim-shots]], tight [[Hi-Hat]] work, and dense [[Ghost Notes]].
+1. **Intro**: Features a [[Non_Descript_Groove]]. The focus is on an open, evolving "vibe" rather than a repetitive cycle.
+2. **Main Section**: Transitions into a "human version" of a [[Drum and Bass]] groove. This section utilizes [[Rimshot]], tight [[Hi-Hat]] work, and dense [[Ghost Notes]].
 3. **Bridge**: The climax of the tune, involving [[Ride Cymbal]] patterns and unison accents with the guitar and vocals.
 4. **Outro**: Returns to the open, improvised feel of the intro, concluding with a [[Groove Solo]].
 

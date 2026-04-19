@@ -16,7 +16,7 @@ A cue is a notice or signal made from one band member to the rest of the band. I
 
 ## Usage in Charts
 
-In a drum chart, you might see the text "on cue." This instruction tells the drummer to get the band's attention by playing a short [[Drum Fills|fill]] or counting them into a specific section, often a [[Coda (Music)|coda]] ending.
+In a drum chart, you might see the text "on cue." This instruction tells the drummer to get the band's attention by playing a short [[Drum_Fill|fill]] or counting them into a specific section, often a [[Coda_Music|coda]] ending.
 
 ## Importance
 
@@ -26,8 +26,8 @@ Since open forms do not have a specific, pre-determined ending written into the 
 
 Cues can be:
 *   **Verbal**: A count-off, a spoken instruction ("last time," "to the bridge").
-*   **Visual**: A nod, a hand signal (e.g., patting the head for the [[Head (Music Term)|head]]), eye contact.
-*   **Musical**: A specific [[Drum Fills|fill]], a rhythmic figure, a melodic phrase played by a lead instrument.
+*   **Visual**: A nod, a hand signal (e.g., patting the head for the [[Head_Music_Term|head]]), eye contact.
+*   **Musical**: A specific [[Drum_Fill|fill]], a rhythmic figure, a melodic phrase played by a lead instrument.
 
 ## Pro-Tips for Drummers
 

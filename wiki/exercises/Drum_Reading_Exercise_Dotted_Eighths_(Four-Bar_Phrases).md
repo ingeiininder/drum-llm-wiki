@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: Dotted Eighths (Four-Bar_Phrases)
-This exercise focuses on reading and performing rhythms that incorporate [[Dotted Eighth Notes]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Eighth_Note]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing rhythms involving dotted eighth notes, which extend for three [[Sixteenth Notes]].

@@ -23,7 +23,7 @@ last_updated: 2023-10-27
 
 ## Example (16th Note + Eighth Note + 16th Note)
 
-A classic example where partial beams are essential is the [[1-e-a Grouping (16th Note + Eighth Note + 16th Note)]] (16th note, eighth note, 16th note within one beat).
+A classic example where partial beams are essential is the [[1-e-a_Grouping_16th_Note_Eighth_Note_16th_Note]] (16th note, eighth note, 16th note within one beat).
 *   The first 16th note will have a partial beam extending to the right, connecting to the main beam shared with the eighth note.
 *   The final 16th note will have a partial beam extending to the left, connecting to the main beam shared with the eighth note.
 

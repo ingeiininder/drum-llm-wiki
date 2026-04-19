@@ -30,4 +30,4 @@ Given the explicit sticking, it's likely a continuous alternating pattern, possi
 5.  **Build Tempo Gradually:** Only increase the tempo when the pattern can be played cleanly and consistently at the current speed.
 
 **Pro-Tip:**
-Exercises like this are excellent for developing hand independence and coordination within triplet rhythms. If you encounter difficulty, break the pattern down into smaller, manageable chunks (e.g., individual triplet groupings) and practice them in isolation before reassembling the full exercise. This systematic approach will lead to greater control and confidence in your [[Drum Technique]].
+Exercises like this are excellent for developing hand independence and coordination within triplet rhythms. If you encounter difficulty, break the pattern down into smaller, manageable chunks (e.g., individual triplet groupings) and practice them in isolation before reassembling the full exercise. This systematic approach will lead to greater control and confidence in your [[Drum_Technique_50]].

@@ -17,7 +17,7 @@ The **Off-the-Head** stroke (also known as "unburying the beater") is a techniqu
 3.  **Mechanics**: The foot must "rest and release" between strokes. Unlike the [[Burying the Beater]] technique, the leg cannot stay in a raised "attack" position.
 
 ### Sonic Result
-This technique allows the drum to resonate fully, resulting in a lower perceived pitch and a warmer, more "acoustic" sound suitable for [[R&B-Pop Ballad Style|R&B Ballads]].
+This technique allows the drum to resonate fully, resulting in a lower perceived pitch and a warmer, more "acoustic" sound suitable for [[RB_Pop_Ballad_Style|R&B Ballads]].
 
 ---PITFALL---
 Avoid "felt-flutter" (multiple unintended mini-bounces). This usually happens when the foot is not fully released, causing the beater to dance against the vibrating head.

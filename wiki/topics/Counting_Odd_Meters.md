@@ -31,5 +31,5 @@ Always practice counting out loud while playing. This bridges the gap between th
 
 ---
 **See Also:**
-*   [[5/8 Time Signature]]
-*   [[7/8 Time Signature]]
+*   [[5-8_Time_Signature]]
+*   [[7-8_Time_Signature]]

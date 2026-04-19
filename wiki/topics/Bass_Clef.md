@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Bass Clef
-The Bass Clef, also known as the F Clef, is one of the most commonly used [[Clef (Music Notation)|clefs]] in [[Music Notation]]. It is characterized by its stylized 'F' shape, which includes two dots.
+The Bass Clef, also known as the F Clef, is one of the most commonly used [[Clef_Music_Notation|clefs]] in [[Music Notation]]. It is characterized by its stylized 'F' shape, which includes two dots.
 
 ## Function
 *   **Pitch Designation**: The two dots of the bass clef surround the fourth line from the bottom of [[The Staff]], thereby designating that line as **F below middle C**. All other notes on the staff are then interpreted relative to this F.

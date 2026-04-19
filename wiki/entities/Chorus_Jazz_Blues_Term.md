@@ -22,7 +22,7 @@ Unlike a pop music chorus, which refers to "the hook" or main repeating section 
 
 ## Head and Chorus Combined Usage
 
-The term "chorus" is frequently used in conjunction with "[[Head (Music Term)|head]]" to outline the structure of a performance. For example, a bandleader might say: "We're going to play one head, one chorus of guitar solo, and one head out." This translates to:
+The term "chorus" is frequently used in conjunction with "[[Head_Music_Term|head]]" to outline the structure of a performance. For example, a bandleader might say: "We're going to play one head, one chorus of guitar solo, and one head out." This translates to:
 *   12 bars of the melody (head in)
 *   12 bars (one time through the 12-bar form) of guitar solo
 *   12 bars of the melody to the end (head out)

@@ -18,7 +18,7 @@ RLRRLL LRLRRL
 
 **Key Characteristics:**
 *   **Six-Note Pattern:** Like the [[Double Paradiddle]], it is a six-note grouping, often played in sextuplet or [[Eighth Note Triplet]] contexts.
-*   **Double Strokes at the End:** The distinctive feature is the two consecutive [[Double Stroke]]s (RRLL or LLRR) at the end of the pattern, which gives it a unique feel and sound.
+*   **Double Strokes at the End:** The distinctive feature is the two consecutive [[Double_Strokes]]s (RRLL or LLRR) at the end of the pattern, which gives it a unique feel and sound.
 *   **Alternating Lead:** The pattern naturally alternates the leading hand every six notes.
 
 **Purpose and Application:**

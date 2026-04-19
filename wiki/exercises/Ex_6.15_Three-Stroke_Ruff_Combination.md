@@ -29,4 +29,4 @@ The pattern suggests a combination of alternating strokes and [[Three-Stroke Ruf
 5.  **Self-Assessment:** Regularly record and critically evaluate your playing. Can you hear the clear dynamic separation? Is the rhythm consistent? Is the ruff sound clear?
 
 **Pro-Tip:**
-Consider this exercise a performance piece for your [[Three-Stroke Ruff]] technique. It should showcase your ability to control every nuance of the rudiment within a musical context. The mastery of these combination exercises is fundamental for playing a wide range of musical styles and for developing a truly expressive and versatile [[Drum Technique]].
+Consider this exercise a performance piece for your [[Three-Stroke Ruff]] technique. It should showcase your ability to control every nuance of the rudiment within a musical context. The mastery of these combination exercises is fundamental for playing a wide range of musical styles and for developing a truly expressive and versatile [[Drum_Technique_50]].

@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **Quarter Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence.
 
 ## Characteristics
-*   **Duration**: In a standard [[4/4 Time Signature]], a quarter rest is equal to **one beat**. It is one-quarter the duration of a [[Whole Rest]] and half the duration of a [[Half Rest]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a quarter rest is equal to **one beat**. It is one-quarter the duration of a [[Whole Rest]] and half the duration of a [[Half Rest]].
 *   **Notation**: It is indicated with a squiggly line symbol that slightly resembles the number three (3) or a stylized 'Z'.
 *   **Counting**: When counting aloud in 4/4 time, each quarter rest aligns directly with a numbered beat: "1 - (silence) - 3 - (silence)".
 
@@ -30,7 +30,7 @@ A **Quarter Rest** is a fundamental [[Rhythmic Values|rest value]] in music nota
 *   [[Quarter Note]]
 *   [[Whole Rest]]
 *   [[Half Rest]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]
 *   [[Syncopation]]

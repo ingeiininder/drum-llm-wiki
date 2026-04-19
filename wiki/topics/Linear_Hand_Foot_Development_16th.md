@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Linear Hand/Foot Development (16th Note)
 
-Linear Hand/Foot Development is a method of drumming where no two limbs play simultaneously. This approach is essential for building a modern [[Drumset Vocabulary]], particularly for [[Fills]] and [[Linear Grooves]].
+Linear Hand/Foot Development is a method of drumming where no two limbs play simultaneously. This approach is essential for building a modern [[Drumset Vocabulary]], particularly for [[Fill]] and [[Linear Grooves]].
 
 ### Core Philosophy
 In [[Linear Drumming]], each limb is solely responsible for the time. Because there is no "guide" limb (like a constant hi-hat or ride pattern), the player must develop an internal sense of [[Subdivision]] to keep the notes perfectly even.

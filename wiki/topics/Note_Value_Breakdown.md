@@ -7,9 +7,9 @@ last_updated: 2023-10-27
 ---
 
 # Note Value Breakdown
-[[Note Value Breakdown]] is a fundamental concept in music theory that systematically explains how different [[Rhythmic Value]]s relate to each other through subdivision. It clarifies that longer note values can be divided into shorter, equal parts, and vice-versa.
+[[Note Value Breakdown]] is a fundamental concept in music theory that systematically explains how different [[Rhythmic_Values]]s relate to each other through subdivision. It clarifies that longer note values can be divided into shorter, equal parts, and vice-versa.
 
-**Key Equivalencies (in [[4/4 Time Signature]]):**
+**Key Equivalencies (in [[4-4_Time_Signature]]):**
 *   One [[Quarter Note]] (1 beat) = Two [[Eighth Note]]s (1/2 beat each) = Four [[Sixteenth Note]]s (1/4 beat each).
 *   One [[Eighth Note]] (1/2 beat) = Two [[Sixteenth Note]]s (1/4 beat each).
 

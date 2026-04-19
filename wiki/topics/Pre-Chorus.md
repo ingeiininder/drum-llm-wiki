@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Pre-Chorus
-The "Pre-Chorus" is a distinct section in a song's structure that serves as a transitional bridge, specifically designed to build anticipation and lead into the main [[Chorus (Song Section)]] (or "hook"). It often features a change in [[Harmonic Structure]] or rhythmic intensity compared to the preceding [[Verse (Song Section)]], preparing the listener for the main theme.
+The "Pre-Chorus" is a distinct section in a song's structure that serves as a transitional bridge, specifically designed to build anticipation and lead into the main [[Chorus (Song Section)]] (or "hook"). It often features a change in [[New Harmonic Structure]] or rhythmic intensity compared to the preceding [[Verse (Song Section)]], preparing the listener for the main theme.
 
 In the context of this curriculum, a Pre-Chorus might be designated by a specific [[Rehearsal Mark]] like [[A9 (Rehearsal Mark)]], indicating its position within the song's form.
 

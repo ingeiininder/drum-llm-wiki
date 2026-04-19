@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Double-Stroke Roll (Open Roll)
 
-The **Double-Stroke Roll**, specifically performed as an **Open Roll**, is one of the most critical [[Rudiments]] for any percussionist. Unlike the [[Closed Roll]] (or press roll), every stroke in an open roll must be clearly audible and distinct.
+The **Double-Stroke Roll**, specifically performed as an **Open Roll**, is one of the most critical [[Rudiment]] for any percussionist. Unlike the [[Closed Roll]] (or press roll), every stroke in an open roll must be clearly audible and distinct.
 
 ### Technical Execution
 - **Rebound Mechanics**: The second note of each double should be a [[Rebound]]—one wrist motion followed by a controlled bounce.
@@ -17,7 +17,7 @@ The **Double-Stroke Roll**, specifically performed as an **Open Roll**, is one o
 - **Relaxation**: Tension is the enemy of the roll. Drummers must rely on the natural energy created by the stick's interaction with the playing surface.
 
 ### Practice Method
-- **Transitioning**: Practice alternating between one measure of various [[Sticking]] patterns (like [[Single Strokes]] or [[Paradiddles]]) and one measure of double strokes.
+- **Transitioning**: Practice alternating between one measure of various [[Sticking]] patterns (like [[Single Strokes]] or [[Paradiddle]]) and one measure of double strokes.
 - **Tempo**: A target tempo of **120 BPM** is suggested for developing the "rebound" feel in [[Sixteenth Notes]].
 
 ### Pro-Tips

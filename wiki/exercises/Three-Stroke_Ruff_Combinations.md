@@ -26,4 +26,4 @@ The source material provides a series of exercises (Ex 6.12, Ex 6.13, Ex 6.14, E
 5.  **Identify Challenges:** If a specific transition or combination is difficult, isolate that section and practice it repeatedly.
 
 **Pro-Tip:**
-These combination exercises are excellent for developing musicality with rudiments. Think about how the [[Three-Stroke Ruff]] can be used as an embellishment or a lead-in to a beat. The goal is to make the rudiment sound natural and integrated into the overall rhythm, rather than just a technical exercise. This will significantly improve your overall [[Drum Technique]] and rhythmic vocabulary.
+These combination exercises are excellent for developing musicality with rudiments. Think about how the [[Three-Stroke Ruff]] can be used as an embellishment or a lead-in to a beat. The goal is to make the rudiment sound natural and integrated into the overall rhythm, rather than just a technical exercise. This will significantly improve your overall [[Drum_Technique_50]] and rhythmic vocabulary.

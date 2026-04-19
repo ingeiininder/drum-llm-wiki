@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rhythmic Values
-Rhythmic values define the duration of musical sounds (notes) and silences (rests). They are fundamental to understanding and performing music, dictating *when* to play and *for how long*. Within a standard [[4/4 Time Signature]] (four beats per [[Measure]]), there are several main note and rest values.
+Rhythmic values define the duration of musical sounds (notes) and silences (rests). They are fundamental to understanding and performing music, dictating *when* to play and *for how long*. Within a standard [[4-4_Time_Signature]] (four beats per [[Measure]]), there are several main note and rest values.
 
 ## Main Note Values (in 4/4 Time)
 *   **[[Whole Note]]**: Equal to four beats (a whole measure).

@@ -27,4 +27,4 @@ The garbled notation suggests a pattern that might involve repeated strokes, spe
 5.  **Troubleshooting:** If a section is difficult, isolate it, practice it slowly, and gradually integrate it back into the full exercise.
 
 **Pro-Tip:**
-As you progress through these triplet exercises, you'll notice how different stickings create different textures and feels, even within the same rhythmic subdivision. This exercise helps develop the versatility to choose the most appropriate sticking for a desired musical effect, significantly improving your overall [[Drum Technique]].
+As you progress through these triplet exercises, you'll notice how different stickings create different textures and feels, even within the same rhythmic subdivision. This exercise helps develop the versatility to choose the most appropriate sticking for a desired musical effect, significantly improving your overall [[Drum_Technique_50]].

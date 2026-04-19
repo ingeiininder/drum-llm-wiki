@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth Note
-An [[Eighth Note]] is a fundamental [[Rhythmic Value]] in music. In [[4/4 Time Signature]], an [[Eighth Note]] receives half a beat.
+An [[Eighth Note]] is a fundamental [[Rhythmic_Values]] in music. In [[4-4_Time_Signature]], an [[Eighth Note]] receives half a beat.
 
 **Notation:**
 A single [[Eighth Note]] consists of a filled-in [[Note Head]], a [[Stem (Musical Notation)]], and one [[Flags (Musical Notation)]]. When grouped with other eighth notes or shorter values, two or more [[Eighth Note]]s are connected by a single [[Beams (Musical Notation)]].

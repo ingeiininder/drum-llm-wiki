@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 A **Half Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence.
 
 ## Characteristics
-*   **Duration**: In a standard [[4/4 Time Signature]], a half rest is equal to **two beats**, which is half the duration of a [[Whole Rest]] and half the duration of a full [[Measure]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a half rest is equal to **two beats**, which is half the duration of a [[Whole Rest]] and half the duration of a full [[Measure]].
 *   **Notation**: It is indicated by a solid rectangular symbol that sits on top of the third line of the musical staff. (Often remembered as a "hat" sitting on the line, whereas a whole rest is a "hole" hanging from the line).
 *   **Counting**: When counting aloud in 4/4 time, a half rest is typically counted as "1 - 2" or "3 - 4", with no sound produced for two beats.
 
@@ -28,6 +28,6 @@ A **Half Rest** is a fundamental [[Rhythmic Values|rest value]] in music notatio
 *   [[Half Note]]
 *   [[Whole Rest]]
 *   [[Quarter Rest]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

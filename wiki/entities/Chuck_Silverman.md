@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Chuck Silverman (1952 - 2014)
-Chuck Silverman was an internationally renowned percussionist, author, and educator who served as a mentor and "Percussion Ambassador" at the [[Musicians Institute]]. He was a specialist in the application of [[Afro-Caribbean Rhythms]] to the [[Drum Set]].
+Chuck Silverman was an internationally renowned percussionist, author, and educator who served as a mentor and "Percussion Ambassador" at the [[Musicians Institute]]. He was a specialist in the application of [[Afro-Caribbean Rhythms]] to the [[Drum_Seat]].
 
 ### Contributions and Philosophy
 - **Curriculum Development**: His instructional books are highly regarded, with several appearing on *Modern Drummer's* "Best Drum Books of All Time" list.

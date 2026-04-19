@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Half-Time Shuffle
-The Half-Time Shuffle is a sophisticated groove based on a [[Triplets|triplet]] subdivision where the [[Backbeat]] occurs only on beat 3 (in 4/4 time), rather than the traditional beats 2 and 4.
+The Half-Time Shuffle is a sophisticated groove based on a [[Triplets|triplet]] subdivision where the [[Back-Beat]] occurs only on beat 3 (in 4/4 time), rather than the traditional beats 2 and 4.
 
 ### Stylistic Application: Indie Rock
 While famously associated with Bernard Purdie and Jeff Porcaro, a "relaxed" version of this feel is prevalent in [[Indie_Rock_Drumming|Indie Rock]].

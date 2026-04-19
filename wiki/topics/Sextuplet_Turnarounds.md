@@ -20,4 +20,4 @@ To switch the lead hand or the accent placement within a continuous stream of no
 By placing these turnarounds on different downbeats or upbeats, a drummer can create endless variations of a single fill. This allows for **Melodic Playing**, as the accents (toms/cymbals) can be shifted to different parts of the measure, creating a more unpredictable and musical phrase.
 
 ### Pro-Tip
-When practicing [[Ex 4.11]], use brackets in your notation to identify exactly where the turnaround occurs. This mental mapping helps in maintaining rhythmic integrity during high-speed execution.
+When practicing [[Ex_4.1]], use brackets in your notation to identify exactly where the turnaround occurs. This mental mapping helps in maintaining rhythmic integrity during high-speed execution.

@@ -11,7 +11,7 @@ last_updated: 2023-10-27
 
 **Purpose:**
 *   **Clarity**: Without beaming, a series of [[Sixteenth Note]]s with individual [[Flags (Musical Notation)]] can appear cluttered and difficult to read quickly, especially in fast passages.
-*   **Organization**: Beaming organizes notes into clear, digestible groups, typically groups of four [[Sixteenth Note]]s within a single beat in [[4/4 Time Signature]]. This visual grouping helps the performer instantly recognize the subdivision and [[Beat Placement]].
+*   **Organization**: Beaming organizes notes into clear, digestible groups, typically groups of four [[Sixteenth Note]]s within a single beat in [[4-4_Time_Signature]]. This visual grouping helps the performer instantly recognize the subdivision and [[Beat Placement]].
 *   **Performance Aid**: During [[Performance (Music)]] or [[Sight-Reading]], beamed groups allow drummers to process rhythmic patterns more efficiently, contributing to greater [[Rhythmic Accuracy]].
 
 **Visual Aid:**

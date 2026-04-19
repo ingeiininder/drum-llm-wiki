@@ -21,7 +21,7 @@ The source material provides a series of exercises (Ex 5.3, Ex 5.4, Ex 5.5, Ex 5
 
 **Practice Instructions:**
 1.  **Focus on Dynamic Spread:** Consciously aim for a significant difference in volume between accented and unaccented notes.
-2.  **Utilize Proper Technique:** Apply the refinements discussed in [[Bass Drum Technique (Heel-Up Refinement)]], including correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
+2.  **Utilize Proper Technique:** Apply the refinements discussed in [[Bass_Drum_Technique_Heel-Up_Refinement]], including correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
 3.  **Start Slow:** Begin at a slow tempo with a [[Metronome]] to ensure precision and control over each stroke's dynamic.
 4.  **Listen Critically:** Record yourself and listen back to evaluate the consistency of your dynamics. Are the accents truly loud? Are the unaccented notes truly soft and consistent?
 

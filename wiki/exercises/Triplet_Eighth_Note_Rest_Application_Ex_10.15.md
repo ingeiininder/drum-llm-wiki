@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Triplet Eighth Note/Rest Application (Ex 10.15)
 
-This exercise focuses on developing proficiency in reading and executing various combinations of [[Triplet Eighth Note]]s and [[Triplet Eighth Rest]]s within a [[3/4 Time Signature]]. The goal is to internalize the feel of triplets and maintain rhythmic accuracy.
+This exercise focuses on developing proficiency in reading and executing various combinations of [[Triplet Eighth Note]]s and [[Triplet Eighth Rest]]s within a [[3_4_Time_Signature]]. The goal is to internalize the feel of triplets and maintain rhythmic accuracy.
 
 **Instructions:**
 *   Play each combination at a comfortable [[Tempo]] between 90-120 [[BPM]].
@@ -22,4 +22,4 @@ This exercise focuses on developing proficiency in reading and executing various
 *   **Vocalization:** Vocalize the rhythms ("trip-uh-let") before playing them to solidify your understanding.
 *   **Common Pitfall:** Rushing the triplets or playing them unevenly. Focus on a relaxed, consistent stroke.
 
-This exercise is crucial for building a strong foundation in reading and performing rhythms that involve [[Compound Meter]] or [[Triplet]] subdivisions in [[Simple Meter]].
+This exercise is crucial for building a strong foundation in reading and performing rhythms that involve [[Compound Meter]] or [[Triplets]] subdivisions in [[Simple Meter]].

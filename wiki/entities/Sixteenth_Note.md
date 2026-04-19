@@ -7,13 +7,13 @@ last_updated: 2023-10-27
 ---
 
 # Sixteenth Note
-A fundamental [[Rhythmic Value]] in music, the [[Sixteenth Note]] is equal to one-sixteenth of a whole note or one-sixteenth of a measure in [[4/4 Time Signature]]. It is derived by dividing a [[Quarter Note]] into four equal parts, or an [[Eighth Note]] into two equal parts.
+A fundamental [[Rhythmic_Values]] in music, the [[Sixteenth Note]] is equal to one-sixteenth of a whole note or one-sixteenth of a measure in [[4-4_Time_Signature]]. It is derived by dividing a [[Quarter Note]] into four equal parts, or an [[Eighth Note]] into two equal parts.
 
 **Notation:**
 A single [[Sixteenth Note]] visually resembles a [[Quarter Note]] but features two [[Flags (Musical Notation)]] attached to its [[Stem (Musical Notation)]]. When multiple [[Sixteenth Note]]s occur consecutively, these flags are replaced by [[Double Beam]]s for improved readability.
 
 **Value Breakdown:**
-*   In [[4/4 Time Signature]], one [[Sixteenth Note]] equals one-fourth of a beat.
+*   In [[4-4_Time_Signature]], one [[Sixteenth Note]] equals one-fourth of a beat.
 *   One [[Quarter Note]] = Four [[Sixteenth Note]]s.
 *   One [[Eighth Note]] = Two [[Sixteenth Note]]s.
 

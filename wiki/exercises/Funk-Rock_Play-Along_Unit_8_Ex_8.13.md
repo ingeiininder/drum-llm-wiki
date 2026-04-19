@@ -10,11 +10,11 @@ last_updated: 2023-10-27
 This exercise, "Ex 8.13," is a full [[Funk-Rock]] play-along designed to integrate all the concepts and grooves learned in Unit 8. It features a comprehensive chart that includes various sections, dynamic markings, and form navigation instructions.
 
 **Key Elements to Apply:**
-*   **Grooves:** Incorporate the [[Syncopated Funk-Rock Groove (Letter A)]] and [[Syncopated Funk-Rock Groove (Letter B)]].
-*   **Introductions:** Navigate the [[Guitar Introduction (Funk-Rock)]], understanding when the drums enter.
-*   **Fills:** Execute the [[Snare Drum Pick-Up Fill (Funk-Rock)]] and any other designated fills with precision.
-*   **Ensemble Figures:** Perform the [[16th-Note Ensemble Figure (Funk-Rock)]] accurately with the band.
-*   **Form Navigation:** Master the [[D.C. al Coda (No Repeats)]] instruction, understanding how it affects repeats and leads to [[Extended Phrase (Funk-Rock)]] sections like the [[Extended Letter B Phrase (Funk-Rock)]].
+*   **Grooves:** Incorporate the [[Syncopated_Funk-Rock_Groove_Letter_A]] and [[Syncopated_Funk-Rock_Groove_Letter_B]].
+*   **Introductions:** Navigate the [[Guitar_Introduction_Funk-Rock]], understanding when the drums enter.
+*   **Fills:** Execute the [[Snare_Drum_Pick-Up_Fill_Funk-Rock]] and any other designated fills with precision.
+*   **Ensemble Figures:** Perform the [[16th-Note_Ensemble_Figure_Funk-Rock]] accurately with the band.
+*   **Form Navigation:** Master the [[D.C._al_Coda_No_Repeats]] instruction, understanding how it affects repeats and leads to [[Extended_Phrase_Funk-Rock]] sections like the [[Extended_Letter_B_Phrase_Funk-Rock]].
 *   **Dynamics and Sound:** Pay attention to dynamic markings (e.g., "FF" for fortissimo) and specific sound instructions (e.g., "Medium, Thick Hi-Hat," [[Open Hi-Hat]], [[Rimshot]]).
 
 **Practice Strategy:**

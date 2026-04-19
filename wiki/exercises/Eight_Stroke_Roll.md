@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Eight-Stroke Roll
 
-The **Eight-Stroke Roll** is a truncated [[Double-Stroke Roll]] variation that traditionally terminates with two single-stroke accents.
+The **Eight-Stroke Roll** is a truncated [[Double_Stroke_Roll]] variation that traditionally terminates with two single-stroke accents.
 
 ### Structure and Sticking
 - **Composition**: Three sets of doubles followed by two single-stroke accents.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Practicing Grooves with Metronome
-Practicing [[Grooves]] with a [[Metronome]] is an essential discipline for developing solid [[Timing]], consistency, and internalizing different [[Tempo]]s.
+Practicing [[Groove]] with a [[Metronome]] is an essential discipline for developing solid [[Timing]], consistency, and internalizing different [[Tempo]]s.
 
 **Practice Suggestion**:
 *   Practice chart grooves (without the [[Play-Along Tracks|play-along]]) to a metronome.

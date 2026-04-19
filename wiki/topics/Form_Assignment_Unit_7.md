@@ -8,20 +8,20 @@ last_updated: 2023-10-27
 
 # Form Assignment (Unit 7)
 
-In Unit 7, alongside [[Groove Assignment (Unit 7)|groove assignments]], each student will also be assigned a specific musical form for their performances of the [[12-Bar Blues Open Form]]. This dictates the overall structure and length of their performance.
+In Unit 7, alongside [[Groove_Assignment_Unit_7|groove assignments]], each student will also be assigned a specific musical form for their performances of the [[12-Bar Blues Open Form]]. This dictates the overall structure and length of their performance.
 
 ## Assignment Structure
 
 Each student will be assigned a particular number of:
-*   **[[Head (Music Term)|Heads]]**: The thematic melody sections.
-*   **[[Chorus (Jazz/Blues Term)|Choruses]] of guitar solo**: The sections designated for improvisation over the form.
+*   **[[Head_Music_Term|Heads]]**: The thematic melody sections.
+*   **[[Chorus_Jazz_Blues_Term|Choruses]] of guitar solo**: The sections designated for improvisation over the form.
 
 ## Example Form Assignment
 
 A common assignment might be: "one head, two choruses of solo, and one head out." This would translate to:
 *   12 bars of the head (melody in)
 *   24 bars of solo (two 12-bar choruses)
-*   12 bars of the head (melody out), potentially leading to a [[Coda (Music)|coda]].
+*   12 bars of the head (melody out), potentially leading to a [[Coda_Music|coda]].
 
 ## Importance
 

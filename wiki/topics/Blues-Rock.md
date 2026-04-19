@@ -17,9 +17,9 @@ last_updated: 2023-10-27
 
 **Drumming in Blues-Rock:**
 Drummers in [[Blues-Rock]] often combine the shuffle and swing feels of [[Blues]] with the driving backbeats and power of [[Rock]]. This can involve:
-*   Strong [[Backbeat]]s on beats 2 and 4.
+*   Strong [[Back-Beat]]s on beats 2 and 4.
 *   Use of [[Shuffle]] and [[Swing]] rhythms, especially in slower tempos.
 *   Dynamic playing, supporting both raw, powerful sections and more nuanced, bluesy passages.
 *   Emphasis on groove and supporting the guitar [[Riff]]s.
 
-**Pro-Tip:** Listen to the drumming of John Bonham (Led Zeppelin) or Ginger Baker (Cream) to understand the blend of [[Blues]] sensitivity and [[Rock]] power. Focus on developing a strong [[Backbeat]] and the ability to switch between straight and [[Swing]] feels seamlessly.
+**Pro-Tip:** Listen to the drumming of John Bonham (Led Zeppelin) or Ginger Baker (Cream) to understand the blend of [[Blues]] sensitivity and [[Rock]] power. Focus on developing a strong [[Back-Beat]] and the ability to switch between straight and [[Swing]] feels seamlessly.

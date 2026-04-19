@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Right-Hand Lead Rules and Anomalies
 
-While the basic [[Right-Hand Lead Technique (16th Notes)]] follows a strict grid, musical phrasing often requires adjustments to maintain flow and avoid physical awkwardness.
+While the basic [[Right_Hand_Lead_Technique_16th_Notes]] follows a strict grid, musical phrasing often requires adjustments to maintain flow and avoid physical awkwardness.
 
 ### The "Three Notes in a Row" Rule
 A primary rule in Right-Hand Lead is to **avoid playing three consecutive notes with the same hand**. 
@@ -18,7 +18,7 @@ A primary rule in Right-Hand Lead is to **avoid playing three consecutive notes 
 
 ### Rudimental Substitutions
 For longer note values, drummers often incorporate rudiments to maintain the 16th-note flow:
-- **Half Notes / Dotted Quarters**: Instead of a long string of alternating singles, use [[Paradiddles]], [[Double Stroke Roll|Double Strokes]], or a [[Six-Stroke Roll]] (specifically the inverted version) to fill the space.
+- **Half Notes / Dotted Quarters**: Instead of a long string of alternating singles, use [[Paradiddle]], [[Double Stroke Roll|Double Strokes]], or a [[Six-Stroke Roll]] (specifically the inverted version) to fill the space.
 - **Double Lefts (LL)**: Use a double left immediately before a right-hand accent to "set up" the lead hand, allowing it to stay on the cymbal without breaking the 16th-note subdivision.
 
 ### Developing the "Sixth Sense"

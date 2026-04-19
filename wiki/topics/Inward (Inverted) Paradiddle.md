@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Inward (Inverted) Paradiddle
-The [[Inward (Inverted) Paradiddle]] is one of the four basic [[Paradiddle]] variations, offering a distinct [[Sticking Pattern]] that challenges hand coordination and control. It is often referred to as the "Inverted Paradiddle" due to the placement of its double strokes.
+The [[Inward (Inverted) Paradiddle]] is one of the four basic [[Paradiddle]] variations, offering a distinct [[Sticking Patterns]] that challenges hand coordination and control. It is often referred to as the "Inverted Paradiddle" due to the placement of its double strokes.
 
 **Sticking Pattern (Ex 8.2)**:
 R L L R L R R L

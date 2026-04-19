@@ -13,7 +13,7 @@ The relationship between [[Eighth Notes]] and [[16th Notes]] is fundamental to u
 ## Core Relationship
 
 *   **One Eighth Note = Two 16th Notes**: This is the most direct relationship. If you divide an eighth note into two equal parts, you get two 16th notes.
-*   **Two Eighth Notes = Four 16th Notes**: Since two eighth notes equal one [[Quarter Note]] (one beat in [[4/4 Time Signature]]), it follows that four 16th notes also equal one quarter note. Therefore, two eighth notes and four 16th notes both occupy one full beat.
+*   **Two Eighth Notes = Four 16th Notes**: Since two eighth notes equal one [[Quarter Note]] (one beat in [[4-4_Time_Signature]]), it follows that four 16th notes also equal one quarter note. Therefore, two eighth notes and four 16th notes both occupy one full beat.
 
 ## Mathematical Representation (in 4/4 time)
 

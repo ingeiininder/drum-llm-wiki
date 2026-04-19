@@ -15,6 +15,6 @@ The "off-the-head" technique for the [[Bass Drum]] involves allowing the beater 
 *   **Application**: Common in [[Jazz]], [[Blues]], and many other styles where a more open and ringing bass drum sound is preferred.
 
 **Contrast with Bury-the-Beater Technique**:
-*   This technique is the opposite of the [[Bury-the-Beater Bass Drum Technique]], where the beater remains pressed against the head.
+*   This technique is the opposite of the [[Bury_the_Beater_Bass_Drum_Technique]], where the beater remains pressed against the head.
 
 **Pro-Tip**: Developing a consistent rebound is key. Practice allowing the beater to spring back naturally after each stroke, using the pedal's spring tension to your advantage. This promotes fluidity and speed, and allows the drum to "breathe" musically.

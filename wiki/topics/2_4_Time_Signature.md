@@ -12,7 +12,7 @@ The **2/4 Time Signature** is a fundamental [[Time Signature]] in music, indicat
 **Key Characteristics:**
 *   **Top Number (2)**: Indicates two beats per measure.
 *   **Bottom Number (4)**: Indicates that the quarter note is the beat unit (receives one beat).
-*   **Strong Beat Emphasis**: Similar to [[4/4 Time Signature]], beat 1 is considered the strong beat. However, in 2/4, this strong beat occurs twice as often (1, 2, 1, 2, 1, 2...).
+*   **Strong Beat Emphasis**: Similar to [[4-4_Time_Signature]], beat 1 is considered the strong beat. However, in 2/4, this strong beat occurs twice as often (1, 2, 1, 2, 1, 2...).
 
 **Common Uses:**
 2/4 time is frequently used for music with a duple [[Meter]], often found in:

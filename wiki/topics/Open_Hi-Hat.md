@@ -27,4 +27,4 @@ The [[Open Hi-Hat]] technique involves striking the [[Hi-Hat]] cymbals while the
 **Pro-Tip:**
 *   **Foot-Hand Coordination:** Mastering the [[Open Hi-Hat]] requires excellent coordination between your foot (for opening/closing) and your stick hand (for striking). Practice isolating these movements.
 *   **Control the Sustain:** Learn to control the duration of the open sound. A quick "bark" is often achieved by opening and closing the [[Hi-Hat]] almost simultaneously with the stick strike, while a longer sustain requires holding the pedal open for a moment.
-*   **Musicality:** Use [[Open Hi-Hat]]s judiciously. Too many can make a groove sound cluttered; strategically placed, they can elevate a groove significantly, as seen in the [[Syncopated Funk-Rock Groove (Letter A)]] and [[Syncopated Funk-Rock Groove (Letter B)]].
+*   **Musicality:** Use [[Open Hi-Hat]]s judiciously. Too many can make a groove sound cluttered; strategically placed, they can elevate a groove significantly, as seen in the [[Syncopated_Funk-Rock_Groove_Letter_A]] and [[Syncopated_Funk-Rock_Groove_Letter_B]].

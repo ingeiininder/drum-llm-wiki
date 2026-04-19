@@ -15,4 +15,4 @@ last_updated: 2023-10-27
 *   **Fills**: The exercise includes designated `[[Fill]]` sections, demonstrating how to transition smoothly between the 'A' and 'B' sections and within the phrases.
 *   **Musical Context**: This example provides a practical application of understanding song form and how drum parts are constructed to support the `[[Particular Guitar Riff and Chord Structure]]` of each section.
 
-**Pro-Tip**: When practicing `Ex 4.3`, focus not just on playing the individual grooves correctly, but also on the seamless transitions between sections and the musicality of your `[[Fills]]`. Pay attention to the overall flow and how the contrasting 'A' and 'B' sections contribute to the complete musical statement.
+**Pro-Tip**: When practicing `Ex 4.3`, focus not just on playing the individual grooves correctly, but also on the seamless transitions between sections and the musicality of your `[[Fill]]`. Pay attention to the overall flow and how the contrasting 'A' and 'B' sections contribute to the complete musical statement.

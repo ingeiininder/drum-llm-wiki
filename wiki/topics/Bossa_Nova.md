@@ -20,9 +20,9 @@ In a drumset context, Bossa Nova is defined by its understated elegance and spec
 3.  **Bass Drum**: A consistent dotted-quarter/eighth note rhythm (1 and the "&" of 3) played with a soft, "feathered" touch.
 
 ### Performance Context
-Bossa Nova charts often utilize an [[AAB Form]], which is frequently "open" to allow for solo choruses. Drummers must be adept at transitioning between the "Head" (melody) and solo sections by changing textures, such as moving from the hi-hat to the ride cymbal.
+Bossa Nova charts often utilize an [[ABAB_Form]], which is frequently "open" to allow for solo choruses. Drummers must be adept at transitioning between the "Head" (melody) and solo sections by changing textures, such as moving from the hi-hat to the ride cymbal.
 
 > [!TIP]
-> **Pro-Tip**: Authenticity in Bossa Nova comes from the "blend." The bass drum should be felt more than heard, sitting just below the [[Cross-Stick]] in the mix. Avoid the common pitfall of accenting the second note of the bass drum pattern.
+> **Pro-Tip**: Authenticity in Bossa Nova comes from the "blend." The bass drum should be felt more than heard, sitting just below the [[Cross_Stick]] in the mix. Avoid the common pitfall of accenting the second note of the bass drum pattern.
 
-**See also**: [[Bossa_Nova_Balance_of_Sound.md]], [[Shouldering_Technique.md]], [[Vamp_Until_Cue.md]]
+**See also**: [[Bossa_Nova_Balance_of_Sound]], [[Shouldering_Technique]], [[Vamp_Until_Cue.md]]

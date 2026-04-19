@@ -23,4 +23,4 @@ In a standard 4/4 or 2/4 context, this rudiment is often felt with a syncopated 
 ### Related Rudiments
 - [[Drag]]
 - [[Double Ratamacue]]
-- [[Paradiddle-Diddle]]
+- [[Paradiddle-diddle]]

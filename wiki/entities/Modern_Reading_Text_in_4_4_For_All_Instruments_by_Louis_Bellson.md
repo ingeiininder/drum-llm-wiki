@@ -11,7 +11,7 @@ last_updated: 2023-10-27
 "Modern Reading Text in 4/4 For All Instruments" by the legendary drummer [[Louis Bellson]] is a highly respected [[Method Book]] for developing comprehensive [[Rhythm Reading]] skills. While designed for all instrumentalists, its clear and progressive approach makes it particularly valuable for drummers.
 
 **Purpose:**
-*   To systematically develop [[Rhythm Reading]] proficiency within the [[4/4 Time Signature]].
+*   To systematically develop [[Rhythm Reading]] proficiency within the [[4-4_Time_Signature]].
 *   To expose students to a wide range of rhythmic figures, including [[Syncopation]], [[Ties]], and various [[Note Values]] and [[Rests]].
 *   To build a solid foundation for [[Sight Reading]] and rhythmic interpretation applicable to diverse musical styles.
 

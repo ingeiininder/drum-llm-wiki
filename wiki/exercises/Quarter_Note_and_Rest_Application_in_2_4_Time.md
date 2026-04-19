@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Quarter Note and Rest Application in 2/4 Time
-This exercise focuses on the application of [[Quarter Notes]], [[Quarter Rests]], [[Tied Quarter Notes]], and [[Dotted Quarter Note]]s within the [[2/4 Time Signature]]. It builds proficiency in handling the primary beat unit and its extensions in this meter.
+This exercise focuses on the application of [[Quarter Notes]], [[Quarter_Rest]], [[Tied Quarter Notes]], and [[Dotted Quarter Note]]s within the [[2_4_Time_Signature]]. It builds proficiency in handling the primary beat unit and its extensions in this meter.
 
 **Key Learning Points:**
 *   **Beat Unit Mastery**: Accurately play and rest for the duration of a single beat (quarter note/rest).

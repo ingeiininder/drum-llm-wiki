@@ -22,7 +22,7 @@ The bass drum pedal is a mechanical device that allows a drummer to play the [[B
 The bass drum pedal is central to [[Bass Drum Technique]], enabling both [[Heel Up]] and [[Heel Down]] methods.
 *   **[[Heel Up]]**: The heel is raised off the footboard, allowing the entire leg to contribute to power, often used for louder playing and faster patterns.
 *   **[[Heel Down]]**: The heel remains on the footboard, with the ankle acting as the primary pivot, ideal for softer dynamics and control.
-*   **[[Burying the Beater]] / [[Not Burying the Beater]]**: The choice of whether to leave the beater pressed against the head or allow it to rebound naturally, affecting the drum's sustain and attack.
+*   **[[Burying the Beater]] / [[Burying_the_Beater]]**: The choice of whether to leave the beater pressed against the head or allow it to rebound naturally, affecting the drum's sustain and attack.
 
 ## Importance:
 *   **Rhythmic Foundation**: Enables the drummer to lay down the bass drum patterns that form the rhythmic backbone of a song.

@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 Chapter 1 of Unit 7 provides a systematic review of fundamental [[Note Values]] and their symmetrical subdivisions, reinforcing concepts typically covered in Units 1-6. This review is crucial for establishing a strong rhythmic foundation before delving into more complex topics like [[Triplets]].
 
 **Key Relationships Reviewed:**
-*   **[[Whole Note]]:** Equals two [[Half Notes]], four [[Quarter Notes]], eight [[Eighth Notes]], or sixteen [[Sixteenth Notes]].
+*   **[[Whole Note]]:** Equals two [[Half_Note]], four [[Quarter Notes]], eight [[Eighth Notes]], or sixteen [[Sixteenth Notes]].
 *   **[[Half Note]]:** Equals two [[Quarter Notes]], four [[Eighth Notes]], or eight [[Sixteenth Notes]].
 *   **[[Quarter Note]]:** Equals two [[Eighth Notes]] or four [[Sixteenth Notes]].
 *   **[[Eighth Note]]:** Equals two [[Sixteenth Notes]].

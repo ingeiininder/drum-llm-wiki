@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Hybrid Rudiments
-Hybrid rudiments (also known as **Compound Rudiments**) are modern percussion figures created by combining two or more standard [[Rudiments]] into a new, more complex pattern.
+Hybrid rudiments (also known as **Compound Rudiments**) are modern percussion figures created by combining two or more standard [[Rudiment]] into a new, more complex pattern.
 
 ### Origins and Influence
 Originally developed within the competitive [[Drum Corps]] scene, these patterns have been integrated into drum set playing by innovators such as [[Vinnie Colaiuta]], [[Tommy Igoe]], and [[Jason Sutter]].

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Quarter-Note Click (3/4 Time)
-This is `[[Method 1]]` for `[[Practicing 3/4 Time]]` using a `[[Metronome]]`.
+This is `[[Method 1]]` for `[[Practicing_3_4_Time]]` using a `[[Metronome]]`.
 
 **Method:**
 1.  Set your `[[Metronome]]` to 100 `[[BPM]]`.
@@ -17,4 +17,4 @@ This is `[[Method 1]]` for `[[Practicing 3/4 Time]]` using a `[[Metronome]]`.
 
 Once comfortable and the `[[Tempo]]` is "internalized," try playing the same groove at faster and slower tempos.
 
-**Pro-Tip:** This method helps reinforce the individual `[[Beat]]`s within the `[[3/4 Time Signature]]`. Focus on making each quarter note feel solid and evenly spaced. As you vary the tempo, pay attention to how your body adapts to maintain the `[[Internal Pulse]]`. This builds a strong foundation for more complex rhythms in 3/4.
+**Pro-Tip:** This method helps reinforce the individual `[[Beat]]`s within the `[[3_4_Time_Signature]]`. Focus on making each quarter note feel solid and evenly spaced. As you vary the tempo, pay attention to how your body adapts to maintain the `[[Internal Pulse]]`. This builds a strong foundation for more complex rhythms in 3/4.

@@ -20,6 +20,6 @@ The structure of the rock shuffle tune in Unit 10 is relatively consistent harmo
 8.  **D (16 bars plus final fermata)**: The final section, 16 bars, concluding with a [[Fermata]].
 
 **Detailed Navigation:**
-*   The `[[D.S. (Rock Shuffle - Unit 10)]]` instruction at the end of the first B section is critical. It directs the player back to the beginning of the A section, but with a specific instruction to "take 2nd ending," which alters the length of that A section to 8 bars.
+*   The `[[D.S._Rock_Shuffle_Unit_10]]` instruction at the end of the first B section is critical. It directs the player back to the beginning of the A section, but with a specific instruction to "take 2nd ending," which alters the length of that A section to 8 bars.
 
 **Pro-Tip**: Before playing, always "read through" the entire chart to understand the form. Mentally trace the path through repeats, endings, and D.S. instructions. This prevents getting lost during performance and ensures a smooth, confident delivery of the song's structure.

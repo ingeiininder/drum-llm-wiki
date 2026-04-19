@@ -16,7 +16,7 @@ These ballads frequently utilize the [[AABA Form]]. A key characteristic of the 
 *   **The "Seam"**: In professional charting, the "seam" refers to the transition point between sections, such as the last bar of a Chorus (Letter B) and the first bar of a [[Coda]]. These are often marked with multi-beat [[Drum Fill|fills]] to signal the transition.
 
 ### Sectional Development
-1.  **Intro/Verse (A)**: Gentle playing, often using [[Ghost Notes]] and subtle [[Backbeat|backbeats]].
+1.  **Intro/Verse (A)**: Gentle playing, often using [[Ghost Notes]] and subtle [[Back-Beat|backbeats]].
 2.  **Chorus (B)**: A "big" two-bar rock groove, often moving to the [[Ride Cymbal]].
 3.  **Development (A2/A3)**: Increased activity in the [[Bass Drum]] and a transition from snare-only patterns to full-kit patterns.
 

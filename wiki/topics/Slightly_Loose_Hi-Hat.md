@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Slightly Loose Hi-Hat
-[[Slightly Loose Hi-Hat]] is an [[Articulation]] technique where the [[Hi-Hat]] cymbals are played with the foot pedal partially open, allowing them to resonate with a characteristic "sizzle" or "wash" sound. This creates a fuller, more open sound compared to a [[Tight, Thick Hi-Hat]].
+[[Slightly Loose Hi-Hat]] is an [[Articulations]] technique where the [[Hi-Hat]] cymbals are played with the foot pedal partially open, allowing them to resonate with a characteristic "sizzle" or "wash" sound. This creates a fuller, more open sound compared to a [[Tight_Thick_Hi-Hat]].
 
 **Technique**:
 *   The foot pedal is pressed down just enough to allow the top cymbal to lightly touch the bottom cymbal, creating a controlled amount of air between them.

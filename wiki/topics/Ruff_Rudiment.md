@@ -16,7 +16,7 @@ A **Ruff** (often referred to as a single-stroke roll variation) consists of a s
 - **[[7-Stroke Ruff]]**: Six grace notes leading into an accented downbeat.
 
 ### Drumset Mobility
-When moving ruffs around the [[Drumset]], the inherent "break" in rhythmic flow must be addressed. 
+When moving ruffs around the [[Drum_Seat]], the inherent "break" in rhythmic flow must be addressed. 
 - **Orchestration**: Practice moving the primary stroke to the toms while keeping the grace notes on the snare.
 - **Rhythmic Integrity**: Use a [[Metronome]] and count the basic stickings out loud to internalize the subdivisions.
 

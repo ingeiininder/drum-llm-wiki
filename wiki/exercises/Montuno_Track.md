@@ -18,8 +18,8 @@ last_updated: 2026-04-19
 
 ### Studio Workflow
 - **First Listen**: Focus on the "big picture"—feel, overall form, and the Clave.
-- **Second Listen**: Double-check notes and identify specific details like [[Set-up Fills]] and articulation.
+- **Second Listen**: Double-check notes and identify specific details like [[Set-up_Fill]] and articulation.
 
-**Pro-Tip**: In Afro-Cuban styles, the "feel" is often more important than the literal notes. Ensure your [[Cross-stick]] (Clave) is consistent and cuts through the mix.
+**Pro-Tip**: In Afro-Cuban styles, the "feel" is often more important than the literal notes. Ensure your [[Cross_Stick]] (Clave) is consistent and cuts through the mix.
 
 **Source**: Excerpted from *The New Method for Afro-Cuban Drumming* by [[Jimmy Branly]].

@@ -12,7 +12,7 @@ last_updated: 2026-04-19
 This is the second phase of [[Linear Drumming]] development, shifting the focus from 16th notes to [[Eighth-Note Triplets]]. 
 
 ### Objective
-The goal is to build a linear vocabulary based on groups of three, which is fundamental for jazz, blues, and shuffle-based [[Fills]]. The objective remains the equal subdivision of all limbs.
+The goal is to build a linear vocabulary based on groups of three, which is fundamental for jazz, blues, and shuffle-based [[Fill]]. The objective remains the equal subdivision of all limbs.
 
 ### Exercise Progression (Unit 9)
 - **Basic Idea (Ex 9.6 - 9.15)**: Patterns are established using R, L, and K (Kick) in triplet groupings.

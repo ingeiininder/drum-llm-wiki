@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Counting Eighth-Note Triplets
-Accurately [[Counting Eighth-Note Triplet]] subdivisions is crucial for internalizing and performing rhythms with a [[12/8 Feel in 4/4 Time Signature]] or any triplet-based groove.
+Accurately [[Counting_Eighth_Note_Triplets]] subdivisions is crucial for internalizing and performing rhythms with a [[12_8_Feel_in_4_4_Time_Signature]] or any triplet-based groove.
 
 **Method**:
 *   One effective method is to use the word "triplet" preceded by the beat number.

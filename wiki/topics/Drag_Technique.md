@@ -13,8 +13,8 @@ A **Drag** consists of two grace notes tied to a primary note. While traditional
 
 ### Technical Execution
 - **Catch and Release**: Utilize the "catch and release" method to execute the low diddle. This involves a controlled bounce where the fingers "catch" the second note of the diddle to stop the stick's upward motion.
-- **Stroke Mechanics**: The motion is similar to the [[Flam]] technique, utilizing a sequence of [[Up-Stroke]] and [[Down-Stroke]] positions.
-- **Moeller Integration**: Hand-to-hand drags utilize the [[Moeller Stroke]] to facilitate the transition between the accent and the subsequent low diddle.
+- **Stroke Mechanics**: The motion is similar to the [[Flams]] technique, utilizing a sequence of [[Up-Stroke]] and [[Down_Stroke]] positions.
+- **Moeller Integration**: Hand-to-hand drags utilize the [[Moeller_Up_Stroke]] to facilitate the transition between the accent and the subsequent low diddle.
 
 ### Rhythmic Interpretation
 In a metered context, drags are often treated as the final two 32nd notes of the preceding 16th-note beat, leading into the primary note (the accent).

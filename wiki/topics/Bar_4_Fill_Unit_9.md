@@ -16,4 +16,4 @@ A specific fill is indicated for bar 4 of the B section. This fill has suggested
 **Performance Notes:**
 *   **Fluidity**: Focus on making the transitions between strokes smooth and even.
 *   **Dynamics**: Consider the dynamic context of the surrounding groove. This fill should likely maintain or slightly increase the energy.
-*   **Placement**: Ensure the fill lands precisely on the beat and resolves cleanly into the subsequent musical phrase. Practice it in context with the [[B Section Groove (Unit 9)]].
+*   **Placement**: Ensure the fill lands precisely on the beat and resolves cleanly into the subsequent musical phrase. Practice it in context with the [[B Section Groove (Unit 3)]].

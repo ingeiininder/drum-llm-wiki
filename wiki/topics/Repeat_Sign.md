@@ -19,4 +19,4 @@ A repeat sign is a common symbol in [[Music Notation]] that indicates a section 
 
 ## Related Concepts
 *   [[First and Second Endings]]: Often used in conjunction with repeat signs to provide different endings for repeated sections.
-*   [[D. C. al Fine]] and [[D. S. al Coda]]: Other navigational symbols that involve repetition or jumping to different sections.
+*   [[D.C. al Fine]] and [[D. S. al Coda]]: Other navigational symbols that involve repetition or jumping to different sections.

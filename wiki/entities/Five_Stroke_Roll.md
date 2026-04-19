@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Five Stroke Roll
-The Five Stroke Roll is one of the 40 International Drum Rudiments and is a prime example of the [[Double Strokes: Alternating Method]]. It consists of two [[Double Strokes]] followed by a single stroke, totaling five strokes.
+The Five Stroke Roll is one of the 40 International Drum Rudiments and is a prime example of the [[Double_Strokes_Alternating_Method]]. It consists of two [[Double Strokes]] followed by a single stroke, totaling five strokes.
 
 *   **Sticking**:
     *   Right Hand Lead: RRLLR
@@ -19,4 +19,4 @@ The Five Stroke Roll is one of the 40 International Drum Rudiments and is a prim
 1.  **Evenness**: Ensure all five strokes are equally spaced and have consistent volume.
 2.  **Rebound Control**: The double strokes (RR and LL) should utilize the natural rebound of the stick, not forced muscle.
 3.  **Smooth Transition**: The single stroke at the end should blend seamlessly with the preceding double strokes.
-4.  **Alternating Leads**: Practice both RRLLR and LLRRL to develop ambidexterity and apply the [[Double Strokes: Alternating Method]] effectively.
+4.  **Alternating Leads**: Practice both RRLLR and LLRRL to develop ambidexterity and apply the [[Double_Strokes_Alternating_Method]] effectively.

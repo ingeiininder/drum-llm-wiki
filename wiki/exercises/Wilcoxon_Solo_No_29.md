@@ -26,7 +26,7 @@ The solo is primarily constructed using:
 
 ### Practice Progression
 1. Master the [[Roll Check Patterns]] (Ex 8.1 - 8.5) to internalize the transition from single strokes to double strokes.
-2. Apply the 32nd-note feel used in [[Wilcoxon Solo No. 25]] to the 7-stroke rolls in this solo.
+2. Apply the 32nd-note feel used in [[Wilcoxon_Solo_No_29]] to the 7-stroke rolls in this solo.
 3. Practice at a slow tempo to ensure the "inner" notes of the double strokes are rhythmic and even.
 
 > **Pro-Tip**: Use a metronome set to an 8th-note click to help stabilize the 2/4 pulse while navigating the dense 32nd-note roll textures.

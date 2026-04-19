@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Red Sixteen
 
-**"Red Sixteen"** is a technical drum set chart found in [[Drum Reading 3]], focusing on [[Funk Drumming]] concepts.
+**"Red Sixteen"** is a technical drum set chart found in [[Drum_Reading]], focusing on [[RB_Funk_Drumming]] concepts.
 
 ### Chart Characteristics
 *   **Style**: 16th Note-Based Funk.

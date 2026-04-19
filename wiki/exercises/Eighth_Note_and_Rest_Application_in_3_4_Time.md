@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth Note and Rest Application in 3/4 Time
-This exercise focuses on the application of [[Eighth Notes]], [[Eighth Rests]], [[Tied Eighth Notes]], and [[Dotted Eighth Note]]s within the [[3/4 Time Signature]]. It develops precision in subdividing the beat and handling syncopated figures at the eighth-note level in this meter.
+This exercise focuses on the application of [[Eighth Notes]], [[Eighth Rests]], [[Tied Eighth Notes]], and [[Dotted Eighth Note]]s within the [[3_4_Time_Signature]]. It develops precision in subdividing the beat and handling syncopated figures at the eighth-note level in this meter.
 
 **Key Learning Points:**
 *   **Subdivision Accuracy**: Accurately play and rest for the duration of half a beat (eighth note/rest).

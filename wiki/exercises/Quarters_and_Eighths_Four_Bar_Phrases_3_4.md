@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarters and Eighths (Four-Bar Phrases) - 3/4
 
-This exercise further extends the practice of [[Quarter Note]]s and [[Eighth Note]]s into four-bar phrases within the [[3/4 Time Signature]]. This format significantly enhances rhythmic endurance, focus, and the ability to maintain a consistent [[Pulse]] over longer musical sections in a triple meter.
+This exercise further extends the practice of [[Quarter Note]]s and [[Eighth Note]]s into four-bar phrases within the [[3_4_Time_Signature]]. This format significantly enhances rhythmic endurance, focus, and the ability to maintain a consistent [[Pulse]] over longer musical sections in a triple meter.
 
 **Purpose:**
 *   To develop advanced rhythmic endurance for basic note values in 3/4 time.

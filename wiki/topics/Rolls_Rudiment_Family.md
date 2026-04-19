@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rolls (Rudiment Family)
-The [[Rolls (Rudiment Family)]] is one of the five [[Rudiment Families]] and encompasses rudiments designed to create a sustained sound on a drum, rather than distinct individual notes. This sustained sound is achieved through multiple bounces or presses of the drumstick.
+The [[Rolls_Rudiment_Family]] is one of the five [[Rudiment Families]] and encompasses rudiments designed to create a sustained sound on a drum, rather than distinct individual notes. This sustained sound is achieved through multiple bounces or presses of the drumstick.
 
 **Core Concept:**
 Rolls are characterized by the rapid succession of strokes (either single or double bounces) to create a continuous sound. The number of strokes or bounces within a given rhythmic value defines the specific roll (e.g., 5-stroke roll, 7-stroke roll).

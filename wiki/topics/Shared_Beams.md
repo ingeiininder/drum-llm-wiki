@@ -18,7 +18,7 @@ last_updated: 2023-10-27
 
 ## Beaming Eighth Notes and 16th Notes
 
-In [[4/4 Time Signature]], a beat can be subdivided into four [[16th Notes]] (1 e & a). When combining eighth notes and 16th notes within a single beat, shared beams are used to show their relationship:
+In [[4-4_Time_Signature]], a beat can be subdivided into four [[16th Notes]] (1 e & a). When combining eighth notes and 16th notes within a single beat, shared beams are used to show their relationship:
 
 *   **Eighth Notes**: Have a single beam.
 *   **16th Notes**: Have two beams.

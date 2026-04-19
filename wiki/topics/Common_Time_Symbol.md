@@ -28,5 +28,5 @@ A related symbol is the 'C' with a vertical line through it (¢), which denotes 
 ## Related Concepts
 *   [[Time Signature]]
 *   [[Meter]]
-*   [[4/4 Time Signature]]
+*   [[4-4_Time_Signature]]
 *   [[Cut Time]]

@@ -18,6 +18,6 @@ In the context of a [[Funk-Rock]] chart, a [[Guitar Introduction]] is a common s
 **Important Considerations for Drummers:**
 *   **Counting In:** Even though you're not playing, it's crucial to count the [[Guitar Introduction]] accurately to ensure a precise and confident entry.
 *   **Listening:** Pay close attention to the guitar's phrasing, dynamics, and rhythmic feel to inform your subsequent drum part.
-*   **D.C. al Coda Implications:** As noted, if a [[D.C. al Coda (Funk-Rock Intro)]] is present, the drums and bass will perform through the intro section a second time, requiring careful chart navigation.
+*   **D.C. al Coda Implications:** As noted, if a [[D.C._al_Coda_Funk-Rock_Intro]] is present, the drums and bass will perform through the intro section a second time, requiring careful chart navigation.
 
 **Pro-Tip:** Treat the [[Guitar Introduction]] as an integral part of the performance. Use this time to mentally prepare for your entrance, visualize your groove, and lock into the guitarist's feel. A strong, confident entry after an intro can significantly impact the overall performance.

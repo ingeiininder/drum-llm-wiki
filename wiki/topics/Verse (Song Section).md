@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Verse (Song Section)
-The "Verse" is a primary section of a song's [[Song Structure]] that typically carries the narrative or develops the lyrical story. Unlike the [[Chorus (Song Section)]], which usually remains consistent, the lyrics of the verse change with each repetition, while the melody and [[Harmonic Structure]] generally stay the same.
+The "Verse" is a primary section of a song's [[Song Structure]] that typically carries the narrative or develops the lyrical story. Unlike the [[Chorus (Song Section)]], which usually remains consistent, the lyrics of the verse change with each repetition, while the melody and [[New Harmonic Structure]] generally stay the same.
 
 Verses often precede a [[Pre-Chorus]] or [[Chorus (Song Section)]] and usually feature a more subdued or foundational [[Groove]] compared to the more energetic chorus. In this curriculum, the [[Short Re-Intro]] is used to transition back to the verse (referred to as [[Letter A]]).
 

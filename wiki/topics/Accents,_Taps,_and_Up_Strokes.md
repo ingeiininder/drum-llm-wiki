@@ -9,7 +9,7 @@ last_updated: 2023-10-27
 # Accents, Taps, and Up Strokes
 [[Accents, Taps, and Up Strokes]] are fundamental components of [[Stick Control]] and dynamic articulation in drumming, often taught in conjunction with techniques like the [[Moeller Technique]]. They are mentioned as a key topic in Unit 3 of "[[Drum Technique 1 (MI Curriculum Series)]]".
 
-1.  **[[Accent]]**:
+1.  **[[Accents]]**:
     *   **Definition:** A note played with greater emphasis or volume than the surrounding notes.
     *   **Execution:** Typically achieved by starting the [[Drumstick]] from a higher [[Stick Height]] and/or applying more force. A [[Down Stroke]] or [[Full Stroke]] is often used for accents.
     *   **Purpose:** To create rhythmic interest, highlight specific notes, or shape musical phrases.
@@ -21,7 +21,7 @@ last_updated: 2023-10-27
 
 3.  **[[Up Stroke]]**:
     *   **Definition:** A stroke that starts from a low [[Stick Height]] (like a [[Tap Stroke]]) and ends in a high position, *without* striking the drum with significant force on the upward motion.
-    *   **Execution:** The upward motion of the wrist and/or arm prepares the stick for a subsequent [[Accent]] or [[Down Stroke]]. The stick may lightly brush the drumhead, but the primary goal is to get the stick into a high position efficiently.
+    *   **Execution:** The upward motion of the wrist and/or arm prepares the stick for a subsequent [[Accents]] or [[Down Stroke]]. The stick may lightly brush the drumhead, but the primary goal is to get the stick into a high position efficiently.
     *   **Purpose:** To prepare for an accent or a louder stroke, allowing for continuous motion and dynamic contrast without unnecessary pauses. It's a crucial part of the Moeller whip motion.
 
 **Interrelationship:**

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Master Studies
-[[Master Studies]] refers to a highly regarded drum instruction book, likely "Master Studies" by Joe Morello. This book is a classic resource for developing advanced [[Drum Technique]], focusing on hand and foot control, dynamics, and rhythmic precision.
+[[Master Studies]] refers to a highly regarded drum instruction book, likely "Master Studies" by Joe Morello. This book is a classic resource for developing advanced [[Drum_Technique_50]], focusing on hand and foot control, dynamics, and rhythmic precision.
 
 **Content Focus:**
 The book typically covers a wide range of exercises, including:

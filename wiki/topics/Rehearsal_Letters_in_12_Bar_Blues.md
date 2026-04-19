@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Rehearsal Letters in 12-Bar Blues
-In musical charts, [[Rehearsal Letters]] (or numbers) are used to mark specific sections, aiding in navigation and communication during practice and performance. In the context of the [[12-Bar Blues Structure]], a specific convention is often used.
+In musical charts, [[Rehearsal Letters]] (or numbers) are used to mark specific sections, aiding in navigation and communication during practice and performance. In the context of the [[12_Bar_Blues_Structure]], a specific convention is often used.
 
 **Convention**:
 *   Similar to 32-bar forms (like AABA or ABAB), the 12-bar blues structure is often repeated in its phrase length of 12 bars.

@@ -12,6 +12,6 @@ In musical forms like the `[[ABAB 32-Bar Form]]`, sections are not only defined 
 **Significance for Drummers:**
 *   **Groove Adaptation**: The `[[Chord Structure]]` and `[[Guitar Riff]]` often dictate the feel and intensity of the drum `[[Groove]]`. A heavy, distorted riff might call for a powerful `[[Two-Handed 16th-Note Groove]]`, while a more open chord progression might suggest a lighter touch or more space.
 *   **Dynamic Shaping**: Understanding the harmonic movement helps drummers shape their dynamics, accentuating certain parts of the `[[Riff]]` or `[[Chord Progression]]`.
-*   **Fill Placement**: `[[Fills]]` are often placed to complement the end of a `[[Guitar Riff]]` or to transition between `[[Chord Changes]]`, enhancing the musical flow.
+*   **Fill Placement**: `[[Fill]]` are often placed to complement the end of a `[[Guitar Riff]]` or to transition between `[[Chord Changes]]`, enhancing the musical flow.
 
 By being aware of these elements, drummers can create parts that are not just rhythmically accurate but also musically integrated and supportive of the overall composition.
