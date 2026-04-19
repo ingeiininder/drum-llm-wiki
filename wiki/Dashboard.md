@@ -10,7 +10,15 @@ last_updated: 2026-04-20
 
 ---
 
-## 1. 音樂風格核心 (Style Hubs)
+## 1. 核心維護空間 (Maintenance & Rules)
+*基於 Karpathy 設計模式，確保知識持續複利與架構統一。*
+
+*   [[SCHEMA]] - 節點類型、用語規範與維護 SOP
+*   [[Journal]] - 庫的演進歷程與 Ingest 紀錄
+*   [[Style_Comparison_Matrix]] - **[合成]** 各曲風技術核心對照表
+*   [[Sound_Aesthetics_Synthesis]] - **[合成]** 專業音色美學設計方案
+
+## 2. 音樂風格核心 (Style Hubs)
 *從風格出發，尋找對應的擊球質感與執行邏輯。*
 
 *   [[Pop-Rock_Drumming]] - 商業、亮、具穿透力的節奏基石
@@ -28,7 +36,8 @@ last_updated: 2026-04-20
 *   [[Ride_Cymbal_Articulation]] - 鈸心 (Bell) 重音與氛圍舖底 (Wash)
 
 ## 3. 全域分類導航 (Global Index)
-*   [[Topics]] - 所有語義化概念與理論條目
+*   [[Topics_Index]] - 全自動化、具有「一行摘要」的主題字典
+*   [[Topics]] - 按標籤分類的主題導航
 *   [[Entities]] - 品牌、器材、知名鼓手與歷史事件
 *   [[Exercises]] - 跨風格的技術演練與練習題
 
