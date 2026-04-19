@@ -1,0 +1,17 @@
+---
+type: exercise
+source: [IMG_0256]
+unit: Unit 2 - Chapter 3
+tags: [Rhythm Reading, Quarter Notes, Eighth Notes, Two-Bar Phrases, Exercise]
+last_updated: 2023-10-27
+---
+
+# Exercise G: Quarter Notes and Eighth Notes (Two-Bar Phrases)
+This entry refers to a specific exercise, labeled 'G', designed to practice [[Quarter Notes and Eighth Notes (Two-Bar Phrases)]]. While the specific musical notation for this exercise is unreadable due to OCR errors, its purpose aligns with the general objectives of the category.
+
+**Focus:**
+*   Applying [[Quarter Notes]] and [[Eighth Notes]] within a [[Two-Bar Phrases]] context.
+*   Developing continuity and rhythmic accuracy across the bar line.
+
+**Practice Recommendation:**
+Refer to the general guidelines for [[Quarter Notes and Eighth Notes (Two-Bar Phrases)]] for effective practice strategies, including [[Metronome]] use, vocalization, and focusing on [[Time Feel]].

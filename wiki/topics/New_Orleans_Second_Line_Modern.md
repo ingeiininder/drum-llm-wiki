@@ -1,0 +1,25 @@
+---
+type: topic
+book_id: TECH1_2
+source: IMG_1207, IMG_1210
+unit: 2
+tags: [second_line, new_orleans, odd_meter, funk]
+last_updated: 2026-04-19
+---
+
+# New Orleans Second Line (Modern Interpretation)
+
+The modern application of **Second Line** drumming involves taking the traditional parade rhythms of New Orleans and adapting them to [[Jazz-Funk]] and [[Odd Meter]] contexts (such as 7/4 and 5/4).
+
+### Rhythmic Characteristics
+- **Swung Eighths**: The feel is rooted in a "triplet-based" or "swung" eighth-note grid, providing a rolling, danceable quality.
+- **Snare Dominance**: The groove is often led by a syncopated snare drum part that mimics a marching cadence, often incorporating [[Double Strokes]] and buzzes.
+- **7/4 Adaptation**: In a 7/4 context (Ex 2.4), the second-line feel must be elongated. The drummer must ensure the "swung" lilt remains consistent across the odd bar line.
+
+### Performance Context
+This style is heavily associated with the drumming of [[Bill Stewart]] in John Scofield's jazz groups. It requires a balance between the "loose" feel of a street band and the "tight" precision of modern funk.
+
+### Transitioning from Vamps
+In modern jazz-funk charts, a Second Line groove is often established during an **Open Vamp**. 
+- **The Cue**: The drummer must listen for the guitar or keyboard player to "head" into the melody.
+- **The Transition Fill**: A small, tasteful fill at the end of the vamp (Ex 2.6) is essential to signal the start of the "Head" (Letter A) to the rest of the ensemble.

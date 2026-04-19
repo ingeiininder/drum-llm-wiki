@@ -1,0 +1,17 @@
+---
+type: topic
+source: IMG_0224
+unit: Unit 1
+tags: [notation, music theory, bar, rhythm, time signature]
+last_updated: 2023-10-27
+---
+
+# Measure (Music Notation)
+A measure, also commonly referred to as a "bar," is a segment of time in [[Music Notation]] defined by [[Bar Line]]s on [[The Staff]]. It represents a specific number of beats or rhythmic values, as determined by the [[Time Signature]].
+
+## Structure and Function
+*   **Division by Bar Lines**: Measures are created by placing single [[Bar Line]]s vertically across the staff.
+*   **Rhythmic Grouping**: Each measure contains a predetermined number of beats or rhythmic units, as indicated by the [[Time Signature]] at the beginning of the piece or section. For example, in 4/4 time, each measure contains four [[Quarter Note]] beats.
+*   **Organizational Unit**: Measures serve as fundamental organizational units in music, making it easier to read, count, and understand the rhythmic structure of a piece. They help musicians keep track of their place and maintain rhythmic accuracy.
+
+Understanding measures is crucial for interpreting [[Rhythm]] and [[Time Feel]] in any musical context.

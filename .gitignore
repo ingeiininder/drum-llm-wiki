@@ -1,0 +1,46 @@
+# ============================================================
+# Groove Hub - .gitignore
+# Strategy: Track wiki knowledge base + pipeline scripts only.
+# Exclude large raw data files to stay within GitHub limits.
+# ============================================================
+
+# --- Raw Data (Large Files) ---
+# OCR input images and processed txt files are excluded.
+# These can be regenerated via the pipeline scripts.
+data/input/
+data/output/
+data/test_input/
+data/test_output/
+
+# --- Python Artifacts ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# --- Environment & Secrets ---
+.env
+.env.local
+.env.*.local
+*.key
+
+# --- OS & Editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/settings.json
+
+# --- Obsidian Workspace State ---
+# Keep .obsidian/ for vault config (themes, plugins), but ignore workspace cache
+wiki/.obsidian/workspace.json
+wiki/.obsidian/workspace-mobile.json
+wiki/.obsidian/cache
