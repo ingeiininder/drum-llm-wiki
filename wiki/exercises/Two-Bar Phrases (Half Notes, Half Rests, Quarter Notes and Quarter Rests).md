@@ -7,12 +7,12 @@ last_updated: 2023-10-27
 ---
 
 # Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)
-These exercises focus on developing fundamental [[Rhythm Reading]] skills by combining basic [[Rhythmic Duration]]s and [[Rests]] within a two-bar framework. The primary components are:
+These exercises focus on developing fundamental [[Rhythm_Reading]] skills by combining basic [[Rhythmic Duration]]s and [[Rests]] within a two-bar framework. The primary components are:
 
-*   **[[Half Note]]**: Lasts for two [[Beat]]s.
-*   **[[Half Rest]]**: A silence lasting for two beats.
-*   **[[Quarter Note]]**: Lasts for one beat.
-*   **[[Quarter Rest]]**: A silence lasting for one beat.
+*   **[[Half_Note]]**: Lasts for two [[Beat]]s.
+*   **[[Half_Rest]]**: A silence lasting for two beats.
+*   **[[Quarter_Note]]**: Lasts for one beat.
+*   **[[Quarter_Rest]]**: A silence lasting for one beat.
 
 **Purpose:**
 The goal of practicing these two-bar phrases is to:

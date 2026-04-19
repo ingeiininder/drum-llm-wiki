@@ -18,6 +18,6 @@ The [[Blues]] is a foundational American musical genre, recognized as one of the
 
 **Influence**:
 *   The blues serves as the bedrock for virtually every major American music form born in the 20th century.
-*   Key genres influenced by the blues include: [[Jazz]], [[Rhythm and Blues]], [[Rock 'n' Roll]], and [[Hip-Hop]].
+*   Key genres influenced by the blues include: [[Jazz]], [[Rhythm_and_Blues]], [[Rock_'n'_Roll]], and [[Hip-Hop]].
 
-**Pro-Tip**: Understanding the historical and cultural context of the blues enriches your musical interpretation. Listening to early blues pioneers can provide invaluable insight into the feel, phrasing, and emotional depth that defines the genre, which is crucial for playing [[12_Bar_Blues_Structure|12-Bar Blues]] authentically.
+**Pro-Tip**: Understanding the historical and cultural context of the blues enriches your musical interpretation. Listening to early blues pioneers can provide invaluable insight into the feel, [[Phrasing|phrasing]], and emotional depth that defines the genre, which is crucial for playing [[12_Bar_Blues_Structure|12-Bar Blues]] authentically.

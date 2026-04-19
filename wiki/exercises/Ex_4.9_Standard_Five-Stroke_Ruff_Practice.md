@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Ex 4.9 Standard Five-Stroke Ruff Practice
-This exercise focuses on the fundamental execution of the [[Standard Five-Stroke Ruff]]. It involves playing the rudiment with a consistent sticking pattern and dynamic emphasis.
+This exercise focuses on the fundamental execution of the [[Standard_Five-Stroke_Ruff]]. It involves playing the rudiment with a consistent sticking pattern and dynamic emphasis.
 
 **Objective:**
-To develop a clear and consistent [[Standard Five-Stroke Ruff]] with proper dynamic contrast between the unaccented grace notes and the accented primary stroke.
+To develop a clear and consistent [[Standard_Five-Stroke_Ruff]] with proper dynamic contrast between the unaccented grace notes and the accented primary stroke.
 
 **Musical Context (as described in source):**
 The exercise is presented with 16th notes and quarter notes, implying a focus on rhythmic precision and control across different subdivisions.
@@ -27,4 +27,4 @@ The core pattern is `r l r l R` (lowercase for unaccented, uppercase for accente
 4.  **Rhythmic Precision:** Pay attention to the specified note values (16th notes, quarter notes) to place the rudiment accurately within the beat.
 
 **Pro-Tip:**
-Visualize the motion: the grace notes are small, quick wrist movements, while the accent is a larger, more deliberate stroke. The goal is to make the grace notes sound like a single, quick "buzz" or "drag" leading into the main beat. This exercise is foundational for mastering the [[Five-Stroke Ruff]].
+Visualize the motion: the grace notes are small, quick wrist movements, while the accent is a larger, more deliberate stroke. The goal is to make the grace notes sound like a single, quick "buzz" or "drag" leading into the main beat. This exercise is foundational for mastering the [[Five-Stroke_Ruff]].

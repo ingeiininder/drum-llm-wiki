@@ -2,16 +2,16 @@
 type: topic
 source: [IMG_0444, IMG_0445]
 unit: Unit 9 Chapter 1
-tags: [music theory, notation, dotted notes, half notes, duration]
+tags: [music theory, notation, [[Dotted_Notes|dotted notes]], half notes, duration]
 last_updated: 2023-10-27
 ---
 
 # Dotted Half Note
-A **dotted half note** is a [[Half Note]] with a dot placed immediately to its right. This dot increases the [[Duration]] of the half note by one-half of its original value.
+A **dotted half note** is a [[Half_Note]] with a dot placed immediately to its right. This dot increases the [[Duration]] of the half note by one-half of its original value.
 
 **Value Calculation:**
-*   A [[Half Note]] is typically worth 2 [[Beat]]s (in [[4-4_Time_Signature]]).
-*   Half of a half note's value is 1 beat (equivalent to a [[Quarter Note]]).
+*   A [[Half_Note]] is typically worth 2 [[Beat]]s (in [[4-4_Time_Signature]]).
+*   Half of a half note's value is 1 beat (equivalent to a [[Quarter_Note]]).
 *   Therefore, a dotted half note is worth 2 + 1 = **3 beats**.
 
 **Implication for Rhythmic Placement:**

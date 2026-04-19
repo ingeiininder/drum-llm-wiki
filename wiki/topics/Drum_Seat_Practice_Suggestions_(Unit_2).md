@@ -6,18 +6,18 @@ tags: [practice, grip, technique, balance, drum seat, metronome]
 last_updated: 2023-10-27
 ---
 
-# Drum Seat Practice Suggestions (Unit 2)
-These practice suggestions are designed to help drummers solidify their understanding of grips, technique control, and proper [[Drum Seat]] posture, ensuring efficient and injury-free playing.
+# Drum Seat [[Practice_Suggestions|Practice Suggestions]] (Unit 2)
+These [[Practice_Suggestions|practice suggestions]] are designed to help drummers solidify their understanding of grips, technique control, and proper [[Drum_Seat]] posture, ensuring efficient and injury-free playing.
 
 ## Recommended Practices:
 1.  **Lesson Review**: Read the entire Unit 2 lesson at least twice. This reinforces theoretical understanding before practical application.
 2.  **Visual Feedback**: Use a mirror or video monitor to check the different angles of your technique for consistency. Pay close attention to:
-    *   Hand positions for [[American Grip]], [[German Grip]], [[French Grip]], and [[Traditional Grip]].
-    *   [[Elbow Position (German Grip)]] (avoiding "chicken wings").
-    *   Overall posture and balance on the [[Drum Seat]].
-3.  **Repetitive Practice**: Play all of the [[Technique Control Exercises (Grips)]] (Ex 2.14 - Ex 2.27) ten times each with all of the grips, every day. This builds muscle memory and reinforces consistent technique.
+    *   Hand positions for [[American_Grip]], [[German_Grip]], [[French_Grip]], and [[Traditional_Grip]].
+    *   [[Elbow_Position_(German_Grip)]] (avoiding "chicken wings").
+    *   Overall posture and balance on the [[Drum_Seat]].
+3.  **Repetitive Practice**: Play all of the [[Technique_Control_Exercises_(Grips)]] (Ex 2.14 - Ex 2.27) ten times each with all of the grips, every day. This builds muscle memory and reinforces consistent technique.
 4.  **Metronome Use**: Use a [[Metronome]] to monitor consistency and accuracy in your timing and rhythmic execution. Start at slow tempos and gradually increase as your control improves.
-5.  **Balance Awareness**: Continuously recognize and adjust the shift of balance from your feet to your [[Drum Seat]] as you sit on the backside of the throne. Make this a conscious part of your setup and playing.
+5.  **Balance Awareness**: Continuously recognize and adjust the shift of balance from your feet to your [[Drum_Seat]] as you sit on the backside of the throne. Make this a conscious part of your setup and playing.
 
 ## Pro-Tips for Effective Practice:
 *   **Quality over Quantity**: Focus on playing correctly and relaxed, rather than just rushing through exercises.

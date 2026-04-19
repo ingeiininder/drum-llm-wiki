@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Quarter Note
-A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic Values|note values]] in music notation.
+A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic_Values|note values]] in music notation.
 
 ## Characteristics
-*   **Duration**: In a standard [[4-4_Time_Signature]], a quarter note is equal to **one beat**. It is one-quarter the duration of a [[Whole Note]] and half the duration of a [[Half Note]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a quarter note is equal to **one beat**. It is one-quarter the duration of a [[Whole_Note]] and half the duration of a [[Half_Note]].
 *   **Notation**: It is indicated by a solid, oval note head with a stem attached. The stem can point up or down depending on its position on the staff.
 *   **Counting**: When counting aloud in 4/4 time, each quarter note aligns directly with a numbered beat: "1 - 2 - 3 - 4".
 
@@ -22,11 +22,11 @@ A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic V
     *   Measure 2: Play on 1, Play on 2, Play on 3, Play on 4.
 
 ## All Together Exercise (Ex 1.22)
-*   **Objective**: To practice combining [[Whole Note]]s, [[Half Note]]s, and Quarter Notes.
+*   **Objective**: To practice combining [[Whole_Note]]s, [[Half_Note]]s, and Quarter Notes.
 *   **Method**: This exercise typically presents a sequence of these note values, requiring the drummer to accurately switch between their durations.
 *   **Example (implied from common exercises)**:
-    *   Measure 1: [[Whole Note]] (Play on 1, sustain 2, 3, 4)
-    *   Measure 2: Two [[Half Note]]s (Play on 1, sustain 2; Play on 3, sustain 4)
+    *   Measure 1: [[Whole_Note]] (Play on 1, sustain 2, 3, 4)
+    *   Measure 2: Two [[Half_Note]]s (Play on 1, sustain 2; Play on 3, sustain 4)
     *   Measure 3: Four Quarter Notes (Play on 1, 2, 3, 4)
     *   Measure 4: Repeat a combination or introduce a new one.
 
@@ -36,11 +36,11 @@ A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic V
 *   **Dynamic Nuance**: Even simple quarter notes can have dynamic variations. Practice playing them with different accents and volumes to add musicality.
 
 ## Related Concepts
-*   [[Rhythmic Values]]
-*   [[Note Value]]
-*   [[Whole Note]]
-*   [[Half Note]]
-*   [[Quarter Rest]]
+*   [[Rhythmic_Values]]
+*   [[Note_Value]]
+*   [[Whole_Note]]
+*   [[Half_Note]]
+*   [[Quarter_Rest]]
 *   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

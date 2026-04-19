@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ride Cymbal
-The ride cymbal is a standard component of a [[Drum Kit]], typically larger and heavier than [[Crash Cymbal]]s, designed to sustain a long, shimmering sound. It is primarily used for playing continuous rhythmic patterns, often referred to as "riding," which provide a foundation for the groove.
+The ride cymbal is a standard component of a [[Drum_Kit]], typically larger and heavier than [[Crash_Cymbal]]s, designed to sustain a long, shimmering sound. It is primarily used for playing continuous rhythmic patterns, often referred to as "riding," which provide a foundation for the groove.
 
 ## Characteristics:
 *   **Size**: Generally ranges from 18 to 24 inches in diameter, with 20-22 inches being most common.
@@ -19,8 +19,8 @@ The ride cymbal is a standard component of a [[Drum Kit]], typically larger and 
 *   **Bow**: Striking the main body of the cymbal produces the characteristic "ping" sound.
 *   **Bell**: Striking the raised center dome produces a brighter, more piercing sound, often used for accents or specific rhythmic figures.
 *   **Edge/Shoulder**: Striking the edge or shoulder of the cymbal can produce a louder, more sustained "wash" sound, sometimes used for accents or swells.
-*   **[[French Grip]]**: Often favored for intricate [[Ride Cymbal Work]] due to its emphasis on [[Finger Technique (French Grip)]], allowing for speed and subtle dynamics.
-*   **[[Moeller Technique]]**: Can be applied for faster eighth and 16th note riding patterns, especially when incorporating [[Accents]] and [[Taps]].
+*   **[[French_Grip]]**: Often favored for intricate [[Ride Cymbal Work]] due to its emphasis on [[Finger_Technique_(French_Grip)]], allowing for speed and subtle dynamics.
+*   **[[Moeller_Technique]]**: Can be applied for faster eighth and 16th note riding patterns, especially when incorporating [[Accents_Drumming]] and [[Taps]].
 
 ## Applications:
 *   **Jazz**: The ride cymbal is a cornerstone of jazz drumming, providing the rhythmic pulse and swing feel.

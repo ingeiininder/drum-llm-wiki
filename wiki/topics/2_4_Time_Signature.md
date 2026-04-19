@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 2/4 Time Signature
-The **2/4 Time Signature** is a fundamental [[Time Signature]] in music, indicating that there are two [[Beat]]s present within each [[Measure]], and a [[Quarter Note]] receives one beat.
+The **2/4 Time Signature** is a fundamental [[Time_Signature]] in music, indicating that there are two [[Beat]]s present within each [[Measure]], and a [[Quarter_Note]] receives one beat.
 
 **Key Characteristics:**
 *   **Top Number (2)**: Indicates two beats per measure.
@@ -24,4 +24,4 @@ The **2/4 Time Signature** is a fundamental [[Time Signature]] in music, indicat
 **Comparison to 4/4 Time:**
 The main difference between 2/4 and 4/4 is the number of beats per measure. While 4/4 has four beats (1, 2, 3, 4), 2/4 has only two (1, 2). This gives 2/4 a more concise and often more urgent feel.
 
-**Pro-Tip:** When transitioning from 4/4 to 2/4, pay close attention to the strong beat emphasis. The quicker recurrence of beat 1 in 2/4 can make the rhythm feel faster or more driving, even at the same numerical [[Tempo]]. Practice feeling the "1-2" pulse distinctly.
+**Pro-Tip:** When transitioning from 4/4 to 2/4, pay close attention to the strong beat emphasis. The quicker recurrence of beat 1 in 2/4 can make the rhythm feel faster or more driving, even at the same numerical [[Tempo]]. Practice feeling the "1-2" [[Pulse|pulse]] distinctly.

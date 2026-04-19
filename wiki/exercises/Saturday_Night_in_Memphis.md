@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Saturday Night in Memphis
 
-"Saturday Night in Memphis" is a funk-based performance piece written by [[Jeff Salem]], Josh Harris, and Dave DiMarco. The track is characterized by melodic bass lines and intricate [[Horn_Section]] arrangements that require the drummer to balance a deep groove with precise [[Comping_Horn_Figures]].
+"Saturday Night in Memphis" is a funk-based performance piece written by [[Jeff_Salem]], Josh Harris, and Dave DiMarco. The track is characterized by melodic bass lines and intricate [[Horn_Section]] arrangements that require the drummer to balance a deep groove with precise [[Comping_Horn_Figures]].
 
 ### Performance Focus
 - **Bass Synchronization**: The primary objective is to lock in tightly with the [[Bass_Guitar]]. Pay close attention to the distinction between **staccato** and **legato** figures within the bass line to ensure the rhythm section breathes as a single unit.

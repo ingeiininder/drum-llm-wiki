@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Drop Stroke
 
-The **Drop Stroke** is a specialized snare drum technique used to execute high-quality [[Ghost Notes]]. It is characterized by a minimal use of the wrist and a reliance on gravity and finger control.
+The **Drop Stroke** is a specialized [[Snare_Drum|snare drum]] technique used to execute high-quality [[Ghost_Notes]]. It is characterized by a minimal use of the wrist and a reliance on gravity and finger control.
 
 ### Technical Steps
 1. **The Drop**: From a low height, loosen the fingers to allow the stick to fall toward the drumhead.
@@ -17,4 +17,4 @@ The **Drop Stroke** is a specialized snare drum technique used to execute high-q
 3. **The Reset**: For the subsequent backbeat, re-grip the stick with the fingers and lift the hand to a standard height for a [[Rimshot]].
 
 ### Purpose
-The drop stroke allows for extreme dynamic contrast between the backbeat (loud) and the ghost notes (soft), which is essential for creating a "fat" groove in genres like [[Pop-Rock Drumming]] and Funk.
+The drop stroke allows for extreme dynamic contrast between the backbeat (loud) and the ghost notes (soft), which is essential for creating a "fat" [[Groove|groove]] in genres like [[Pop-Rock_Drumming]] and [[Funk|Funk]].

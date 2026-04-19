@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Four-Bar Phrases (Eighth-Note Triplets and Rests)
-This exercise extends rhythmic reading skills to [[Four-Bar Phrases]], incorporating [[Eighth Note Triplets]] and various [[Rests]]. It challenges the drummer to maintain rhythmic accuracy and musical continuity over longer musical statements.
+This exercise extends rhythmic reading skills to [[Four-Bar Phrases]], incorporating [[Eighth_Note_Triplets]] and various [[Rests]]. It challenges the drummer to maintain rhythmic accuracy and musical continuity over longer musical statements.
 
 **Key Learning Points:**
 *   **Extended Phrasing**: Develop the ability to perceive and execute rhythmic patterns over a longer musical arc, beyond just one or two measures.

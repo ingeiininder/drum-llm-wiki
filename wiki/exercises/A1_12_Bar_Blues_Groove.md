@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 The A1 section of the [[12_Bar_Blues_Structure]] chart features a foundational [[Groove]] designed to establish the [[12_8_Feel_in_4_4_Time_Signature]]. This groove is played for the entire 12-bar form.
 
 **Key Elements**:
-*   **Ride Cymbal**: Plays continuous [[Eighth Note Triplet]]s, providing the core triplet feel.
+*   **Ride Cymbal**: Plays continuous [[Eighth_Note_Triplet]]s, providing the core triplet feel.
 *   **Snare Drum**: Utilizes a [[Rimshot]] articulation on beats 2 and 4, providing a strong backbeat.
 *   **Bass Drum**: Plays a one-bar pattern, laying down the rhythmic foundation.
 *   **Bass Drum Sound**: Should be a strong, standard sound, achievable with either the [[Bury_the_Beater_Bass_Drum_Technique]] or [[Off_the_Head_Bass_Drum_Technique]].

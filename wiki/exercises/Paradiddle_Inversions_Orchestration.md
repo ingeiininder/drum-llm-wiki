@@ -17,10 +17,10 @@ Mastering [[Paradiddle Inversions]] on the drum set allows for fluid movement an
 4. **Inversion #3**: RLRL LRLR (Note: This is essentially single strokes with a shifted start point).
 
 ### Creative Development Steps
-- **Step 1: Stick Height**: Maintain a strict contrast between [[Accents]] (9"-12") and [[Ghost Notes]] (1"-3").
+- **Step 1: Stick Height**: Maintain a strict contrast between [[Accents_Drumming]] (9"-12") and [[Ghost_Notes]] (1"-3").
 - **Step 2: Orchestration**: 
     - Move accents to the [[Tom-Toms]].
-    - Move accents to [[Cymbals]] with [[Bass Drum]] support.
+    - Move accents to [[Cymbals]] with [[Bass_Drum]] support.
 - **Step 3: Switching**: Practice switching between different inversions every two beats without breaking the 16th-note flow.
 
 ### Pro-Tips

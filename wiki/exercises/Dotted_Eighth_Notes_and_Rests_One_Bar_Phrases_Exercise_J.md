@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise J
-This exercise provides further practice in reading and performing rhythms featuring [[Dotted Eighth Note]]s and [[Dotted Eighth Rest]]s within one-bar phrases. It aims to build fluency and confidence with these precise, often syncopated, rhythmic figures.
+This exercise provides further practice in reading and performing rhythms featuring [[Dotted_Eighth_Note]]s and [[Dotted Eighth Rest]]s within one-bar phrases. It aims to build fluency and confidence with these precise, often syncopated, rhythmic figures.
 
 **Key Learning Points:**
 *   **Pattern Recognition**: Develop the ability to quickly recognize and execute common patterns involving dotted eighth notes and rests.

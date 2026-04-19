@@ -7,18 +7,18 @@ last_updated: 2023-10-27
 ---
 
 # French Grip
-The French Grip is a [[Matched Grip]] technique characterized by the palms facing directly towards each other in a vertical manner, with the thumbs aligned on top of the sticks. This grip primarily utilizes [[Finger Technique (French Grip)]] for stick control, offering a lighter feel and producing a more open sound.
+The French Grip is a [[Matched_Grip]] technique characterized by the palms facing directly towards each other in a vertical manner, with the thumbs aligned on top of the sticks. This grip primarily utilizes [[Finger_Technique_(French_Grip)]] for stick control, offering a lighter feel and producing a more open sound.
 
 ## Key Characteristics:
 *   **Palm Orientation**: Palms face inwards, towards each other, in a vertical position.
 *   **Thumb Position**: Thumbs are placed on top of the stick, aligned with its length.
-*   **Fulcrum**: The stick is typically held between the thumb and the first crease of the forefinger, with the remaining fingers lightly wrapped around the stick.
-*   **Primary Driver**: [[Finger Technique (French Grip)]] is the main source of motion, allowing for rapid, subtle movements.
+*   **[[Fulcrum|Fulcrum]]**: The stick is typically held between the thumb and the first crease of the forefinger, with the remaining fingers lightly wrapped around the stick.
+*   **Primary Driver**: [[Finger_Technique_(French_Grip)]] is the main source of motion, allowing for rapid, subtle movements.
 *   **Feel and Sound**: The stick has a much lighter feel, and the resulting sound is generally more open and resonant due to the increased freedom of the stick.
 
 ## Applications:
-*   **Ride Cymbal Work**: A popular choice for intricate and fast patterns on the [[Ride Cymbal]].
-*   **Faster Playing at Softer Dynamics**: Ideal for executing quick passages with precision and control at lower volume levels.
+*   **Ride Cymbal Work**: A popular choice for intricate and fast patterns on the [[Ride_Cymbal]].
+*   **Faster Playing at Softer [[Dynamics|Dynamics]]**: Ideal for executing quick passages with precision and control at lower volume levels.
 *   **Orchestral Percussion**: Often used for delicate and nuanced playing on various percussion instruments.
 
 ## Positioning Steps:

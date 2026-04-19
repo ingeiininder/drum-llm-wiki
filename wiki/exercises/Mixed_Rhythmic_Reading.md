@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Mixed Rhythmic Reading
 
-**Mixed Rhythmic Reading** involves interpreting notation that combines [[Eighth Notes]], [[Triplets]], and [[Sixteenth Notes]] within the same measure or phrase. This represents the culmination of [[Rhythmic Shifting]] skills.
+**Mixed Rhythmic Reading** involves interpreting notation that combines [[Eighth_Note]], [[Triplets]], and [[16th_Notes]] within the same measure or phrase. This represents the culmination of [[Rhythmic_Shifting]] skills.
 
 ### Exercise Objectives
 - Develop the ability to read complex rhythmic "sentences" without losing the pulse.

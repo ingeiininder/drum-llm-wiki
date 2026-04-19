@@ -24,5 +24,5 @@ To develop these attributes, exercises should be practiced in three ways:
 2.  **Left Hand Isolation**: Correcting the "weak hand" deficit.
 3.  **Unison**: Ensuring both hands move with identical velocity and timing.
 
-### Common Pitfall: Breaking the Groove
-Young drummers often break into a fill not because the music requires it, but because they are physically struggling to maintain the stamina required for a repetitive groove. Consistent endurance training prevents this "physical fatigue" from dictating musical choices.
+### Common Pitfall: Breaking the [[Groove|Groove]]
+Young drummers often break into a [[Fill|fill]] not because the music requires it, but because they are physically struggling to maintain the stamina required for a repetitive [[Groove|groove]]. Consistent endurance training prevents this "physical fatigue" from dictating musical choices.

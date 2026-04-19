@@ -7,11 +7,11 @@ last_updated: 2023-10-27
 ---
 
 # Snare Drum (Notation)
-In [[Drum Set Notation Key]], the [[Snare Drum]] is a central component, and its notation is crucial for conveying the primary rhythmic and accentual information in a drum part.
+In [[Drum_Set_Notation_Key]], the [[Snare_Drum]] is a central component, and its notation is crucial for conveying the primary rhythmic and accentual information in a drum part.
 
 ## Standard Placement
-*   The snare drum is represented by a standard solid black [[Note Head]].
-*   Its typical position is on the **third space from the bottom** of [[The Staff]]. This central placement reflects its importance in most grooves.
+*   The snare drum is represented by a standard solid black [[Note_Head]].
+*   Its typical position is on the **third space from the bottom** of [[The_Staff]]. This central placement reflects its importance in most grooves.
 
 ## Function in Notation
-Snare drum notation indicates when the snare drum should be struck, often marking the [[Back-Beat]] or providing intricate rhythmic figures and fills. Additional symbols may be used to indicate [[Rimshot]]s, [[Ghost Notes]], or [[Cross_Stick]] techniques.
+Snare drum notation indicates when the snare drum should be struck, often marking the [[Back-Beat]] or providing intricate rhythmic figures and fills. Additional symbols may be used to indicate [[Rimshot]]s, [[Ghost_Notes]], or [[Cross_Stick]] techniques.

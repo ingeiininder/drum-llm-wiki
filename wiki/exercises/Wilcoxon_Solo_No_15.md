@@ -15,9 +15,9 @@ Solo No. 15 by [[Charley Wilcoxon]] introduces the challenge of performing compl
 - **Time Signature**: 6/8 (Compound Duple).
 - **Form**: 17 bars with a repeated first 8-measure section and first/second endings.
 - **Metering Variations**: A critical aspect of this solo is that rolls are not metered uniformly:
-    - **[[Five-Stroke Roll]]**: Generally metered as 32nd notes. *Exception*: In Bar 15, they are metered as 16th notes.
-    - **[[Ten-Stroke Roll]]**: Always metered as 16th notes in this context.
-    - **[[Double Paradiddle]]**: Used to navigate the 6/8 flow.
+    - **[[Five_Stroke_Roll]]**: Generally metered as 32nd notes. *Exception*: In Bar 15, they are metered as 16th notes.
+    - **[[Ten-Stroke_Roll]]**: Always metered as 16th notes in this context.
+    - **[[Double_Paradiddle]]**: Used to navigate the 6/8 flow.
 
 ### Technical Focus
 - **6/8 Roll Check Patterns**: Exercises 9.1 through 9.5 are essential for understanding how to "fit" double strokes into a triple-based meter.

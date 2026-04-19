@@ -7,4 +7,4 @@ last_updated: 2026-04-17
 ---
 
 # Hard Rock Play-Along (Unit 2)
-Unit 2 中針對 [[Hard Rock Drumming]] 的練習，包含數拍和帶有 [[Medium Hi-Hat w/Quarter-Note Accents]] 和 [[Ride Cymbal Quarter-Note Accents]] 的律動。此練習提供 [[Practice Suggestions (Drumming)]]。
+Unit 2 中針對 [[Hard_Rock_Drumming]] 的練習，包含數拍和帶有 [[Medium Hi-Hat w/Quarter-Note Accents]] 和 [[Ride Cymbal Quarter-Note Accents]] 的律動。此練習提供 [[Practice Suggestions (Drumming)]]。

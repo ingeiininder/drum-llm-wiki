@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Whole Rest
-A **Whole Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence.
+A **Whole Rest** is a fundamental [[Rhythmic_Values|rest value]] in music notation, indicating a period of silence.
 
 ## Characteristics
 *   **Duration**: In a standard [[4-4_Time_Signature]], a whole rest is equal to **four beats**, meaning it signifies silence for the entire duration of one [[Measure]].
@@ -23,11 +23,11 @@ A **Whole Rest** is a fundamental [[Rhythmic Values|rest value]] in music notati
 *   **Breathing**: Think of a whole rest as a musical breath. It's a moment to reset and prepare for the next musical phrase.
 
 ## Related Concepts
-*   [[Rhythmic Values]]
+*   [[Rhythmic_Values]]
 *   [[Rest Value]]
-*   [[Whole Note]]
-*   [[Half Rest]]
-*   [[Quarter Rest]]
+*   [[Whole_Note]]
+*   [[Half_Rest]]
+*   [[Quarter_Rest]]
 *   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

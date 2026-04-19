@@ -11,7 +11,7 @@ A crucial one-beat [[Fill]] is placed on the eighth bar of the A section in the 
 
 **Execution Focus**:
 *   **Clarity**: The fill must be played clearly and distinctly.
-*   **Precision**: The first [[Eighth Note]] of the fill must land precisely on the [[Downbeat]] of beat 4.
+*   **Precision**: The first [[Eighth_Note]] of the fill must land precisely on the [[Downbeat]] of beat 4.
 
 **Common Pitfall**: Rushing or dragging the fill, especially the crucial downbeat placement.
 **Pro-Tip**: Practice this fill in isolation with a [[Metronome]] to ensure perfect timing. The precision of this fill sets up the next section of the song, so its accuracy is paramount. Think of it as a rhythmic "hand-off" to the pre-chorus.

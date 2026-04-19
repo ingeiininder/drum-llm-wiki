@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eight-Bar Phrases (Rhythm Reading)
-[[Eight-Bar Phrase]] represent a significant step up in complexity and musicality within [[Rhythm Reading]] exercises. Building on the foundation of [[Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)]] and [[Four-Bar Phrases (Rhythm Reading)]], these longer exercises challenge a drummer's endurance, focus, and ability to perceive larger musical structures. They typically integrate combinations of [[Whole Note]], [[Half Note]], and [[Quarter Note]]s and their corresponding rests.
+[[Eight-Bar_Phrase]] represent a significant step up in complexity and musicality within [[Rhythm_Reading]] exercises. Building on the foundation of [[Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)]] and [[Four-Bar Phrases (Rhythm Reading)]], these longer exercises challenge a drummer's endurance, focus, and ability to perceive larger musical structures. They typically integrate combinations of [[Whole_Note]], [[Half_Note]], and [[Quarter_Note]]s and their corresponding rests.
 
 **Purpose:**
 Engaging with eight-bar phrases is crucial for:

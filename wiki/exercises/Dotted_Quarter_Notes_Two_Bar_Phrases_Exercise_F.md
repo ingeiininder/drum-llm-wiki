@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Dotted Quarter Notes (Two Bar Phrases) - Exercise F
-This exercise provides comprehensive practice with [[Dotted Quarter Note]]s in two-bar phrases, presenting various rhythmic combinations to challenge the drummer's reading and performance skills.
+This exercise provides comprehensive practice with [[Dotted_Quarter_Note]]s in two-bar phrases, presenting various rhythmic combinations to challenge the drummer's reading and performance skills.
 
 **Key Learning Points:**
 *   **Versatility**: Develop the ability to play dotted quarter notes in a wide range of rhythmic contexts.

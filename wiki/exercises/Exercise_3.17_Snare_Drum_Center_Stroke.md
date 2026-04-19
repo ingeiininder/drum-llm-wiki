@@ -11,7 +11,7 @@ last_updated: 2023-10-27
 
 **Description (based on preceding text):**
 This exercise likely involves repeated practice of the following steps:
-1.  **Locate the Center**: Consistently identifying and aiming for the exact center of the [[Snare Drum]] [[Drumhead]].
+1.  **Locate the Center**: Consistently identifying and aiming for the exact center of the [[Snare_Drum]] [[Drumhead]].
 2.  **Stick Orientation**: Ensuring the butt end of the [[Drumstick]] is facing outward and makes contact with the drumhead.
 3.  **Wrist Initiation**: Starting the stroke primarily with the [[Wrist Stroke]] for controlled movement.
 4.  **Finger Engagement**: Just before impact, engaging the back three fingers to "grab" the stick, which contributes to a crisp attack and open snare tone.

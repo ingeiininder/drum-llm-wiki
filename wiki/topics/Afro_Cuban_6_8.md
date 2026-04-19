@@ -18,12 +18,12 @@ In a traditional religious gathering (a *bembe*), the rhythm is performed by an 
 
 ### The 6/8 Clave
 The [[6_8_Clave]] is the "key" or skeletal rhythmic figure that anchors the entire ensemble. All other parts must relate to this pattern. 
-*   *Pro-Tip*: To internalize the feel, practice playing the hi-hat foot on dotted quarter notes (the "pulse") while clapping the clave.
+*   *Pro-Tip*: To internalize the feel, practice playing the [[Hi-Hat|hi-hat]] foot on dotted [[Quarter_Notes|quarter notes]] (the "[[Pulse|pulse]]") while clapping the clave.
 
 ### Drumset Adaptation: The Nanigo
 When adapted to the drumset, the folkloric parts are mapped to specific voices:
 *   **Hoe Blade** $\rightarrow$ [[Cowbell]] or Ride Bell.
-*   **High Drum** $\rightarrow$ [[Bass Drum]].
-*   **Low Drum** $\rightarrow$ [[Rack Tom]].
+*   **High Drum** $\rightarrow$ [[Bass_Drum]].
+*   **Low Drum** $\rightarrow$ [[Rack_Tom]].
 
 This adaptation allows a single drummer to simulate the sound of an entire percussion section.

@@ -7,4 +7,4 @@ last_updated: 2026-04-17
 ---
 
 # Drum Performance 1 (Book)
-"[[Drum_Performance]]" is a book in the [[MI Curriculum Series]] for drums, authored by [[Donny Gruendler]] and [[Stewart Jean]]. It covers various drumming styles and techniques across 10 units, including [[Pop-Rock (Drumming Style)]], [[Hard Rock (Drumming Style)]], and [[Rock Shuffle (Drumming Style)]].
+"[[Drum_Performance]]" is a book in the [[MI Curriculum Series]] for drums, authored by [[Donny_Gruendler]] and [[Stewart_Jean]]. It covers various drumming styles and techniques across 10 units, including [[Pop-Rock (Drumming Style)]], [[Hard Rock (Drumming Style)]], and [[Rock Shuffle (Drumming Style)]].

@@ -9,18 +9,18 @@ last_updated: 2026-04-19
 
 # Ostinato-Based Reading
 
-An **Ostinato** is a repeating rhythmic or melodic pattern. In drum set pedagogy, ostinatos are used to develop [[Limb Independence]] and [[Four-Way Coordination]].
+An **Ostinato** is a repeating rhythmic or melodic pattern. In drum set pedagogy, ostinatos are used to develop [[Limb_Independence]] and [[Four-Way_Coordination]].
 
 ### The Three-Voice Pattern
 The exercise involves maintaining a static hand pattern while reading a dynamic rhythm with the feet:
-1.  **Hand Ostinato (Ex 1.13)**: A fixed pattern between the Hi-Hat (right hand) and Snare Drum (left hand).
-2.  **Reading Pattern (Ex 1.14)**: A rhythmic line played by the Right Foot (Bass Drum).
-3.  **Combined Result (Ex 1.15)**: A three-voice texture where the bass drum provides the rhythmic "melody" against the hand "foundation."
+1.  **Hand Ostinato (Ex 1.13)**: A fixed pattern between the [[Hi-Hat|Hi-Hat]] (right hand) and [[Snare_Drum|Snare Drum]] (left hand).
+2.  **Reading Pattern (Ex 1.14)**: A rhythmic line played by the Right Foot ([[Bass_Drum|Bass Drum]]).
+3.  **Combined Result (Ex 1.15)**: A three-voice texture where the [[Bass_Drum|bass drum]] provides the rhythmic "melody" against the hand "foundation."
 
 ### Practice Progression
 *   **Step 1**: Master the hand ostinato until it is "automatic."
-*   **Step 2**: Read the 32-bar exercise ([[Ex 1.17]]) with the bass drum while keeping the hands constant.
-*   **Step 3**: Count eighth notes out loud to ensure the alignment of the bass drum notes with the hand subdivision.
+*   **Step 2**: Read the 32-bar exercise ([[Ex_1.17]]) with the [[Bass_Drum|bass drum]] while keeping the hands constant.
+*   **Step 3**: Count [[Eighth_Notes|eighth notes]] out loud to ensure the alignment of the [[Bass_Drum|bass drum]] notes with the hand [[Subdivision|subdivision]].
 *   **Step 4**: Switch hands to develop **Open-Handed Playing**.
 
 ### Technical Note

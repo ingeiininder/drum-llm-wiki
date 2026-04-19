@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # I-IV-V Chord Progression
-The [[I_IV_V_Chord_Progression]] is a fundamental harmonic structure in Western music, particularly central to the [[Blues]] and many forms of [[Rock 'n' Roll]], [[Country-Pop Style]], and [[Jazz]]. It refers to the use of the tonic (I), subdominant (IV), and dominant (V) chords of a given key.
+The [[I_IV_V_Chord_Progression]] is a fundamental harmonic structure in Western music, particularly central to the [[Blues]] and many forms of [[Rock_'n'_Roll]], [[Country-Pop_Style]], and [[Jazz]]. It refers to the use of the tonic (I), subdominant (IV), and dominant (V) chords of a given key.
 
 **Concept**:
 *   **I Chord (Tonic)**: The home chord, built on the first note of the scale. Provides a sense of resolution.

@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Dynamic Bass Drum Exercises
-These exercises are specifically designed to help drummers explore and develop complete control over the [[Heel Down Bass Drum Technique]] and [[Heel Up Bass Drum Technique]] through dynamic variations. The goal is to be able to play at various levels of soft and loud with precision and consistency.
+These exercises are specifically designed to help drummers explore and develop complete control over the [[Heel_Down_Bass_Drum_Technique]] and [[Heel_Up_Bass_Drum_Technique]] through dynamic variations. The goal is to be able to play at various levels of soft and loud with precision and consistency.
 
 ## Instructions
-*   **Technique Application**: Play these exercises with both [[Heel Down Bass Drum Technique]] and [[Heel Up Bass Drum Technique]]. You will likely find that accented patterns are much easier to play with a heel-up position due to its inherent power advantages.
+*   **Technique Application**: Play these exercises with both [[Heel_Down_Bass_Drum_Technique]] and [[Heel_Up_Bass_Drum_Technique]]. You will likely find that accented patterns are much easier to play with a heel-up position due to its inherent power advantages.
 *   **Beater Rebound**: As you become comfortable with these patterns, allow the [[Bass Drum Beater]] to come back as far as possible after each stroke, especially for louder notes. This utilizes the full range of motion the pedal naturally provides, which is beneficial for powerful playing and conserves energy.
 
 ## Exercises

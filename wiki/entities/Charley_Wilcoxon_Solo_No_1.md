@@ -19,8 +19,8 @@ Solo No. 1 is the introductory piece from **Charley Wilcoxon’s** iconic book, 
     - [[Flam Paradiddle]]
     - [[Flamacue]]
     - [[Alternating Flams]]
-    - [[Single Paradiddle]]
-    - [[Triple Paradiddle]]
+    - [[Single_Paradiddle]]
+    - [[Triple_Paradiddle]]
 
 ### Educational Philosophy
 Wilcoxon's solos are intended to be treated as **music**, not just exercises. The curriculum emphasizes:

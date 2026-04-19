@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Four-Bar Phrases (Rhythm Reading)
-[[Four-Bar Phrases]] in [[Rhythm Reading]] exercises extend the rhythmic concepts learned in shorter phrases (like [[Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)]]) over a longer musical duration. These exercises typically involve combinations of [[Whole Note]], [[Half Note]], and [[Quarter Note]]s and their corresponding rests.
+[[Four-Bar Phrases]] in [[Rhythm_Reading]] exercises extend the rhythmic concepts learned in shorter phrases (like [[Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)]]) over a longer musical duration. These exercises typically involve combinations of [[Whole_Note]], [[Half_Note]], and [[Quarter_Note]]s and their corresponding rests.
 
 **Purpose:**
 Practicing four-bar phrases helps drummers to:

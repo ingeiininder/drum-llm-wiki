@@ -13,7 +13,7 @@ This exercise extends the practice of [[Triplet Eighth Note]]s into two-bar phra
 **Purpose:**
 *   To reinforce the accurate execution of triplet eighth notes in a continuous context in 3/4 time.
 *   To develop rhythmic endurance and the ability to sustain focus over two-bar phrases.
-*   To improve [[Sight Reading]] for extended triplet passages in 3/4.
+*   To improve [[Sight_Reading]] for extended triplet passages in 3/4.
 
 **Pro-Tips:**
 *   **Flow:** Focus on maintaining a smooth, continuous flow of triplets across the bar line.

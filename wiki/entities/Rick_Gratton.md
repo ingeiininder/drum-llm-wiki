@@ -10,4 +10,4 @@ last_updated: 2023-10-27
 Rick Gratton is credited for his role in the layout of educational music publications.
 
 ## Contributions
-*   **Layout**: Responsible for the organizational structure and visual presentation of content within instructional books, such as [[Drum Reading 1]]. His work ensures readability and clarity for students.
+*   **Layout**: Responsible for the organizational structure and visual presentation of content within instructional books, such as [[Drum_Reading_1]]. His work ensures readability and clarity for students.

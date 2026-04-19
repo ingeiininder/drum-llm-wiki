@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth-Note Triplets Mixed with Quarter Notes, Eighth Notes and 16th Notes (Two-Bar Phrases)
-This exercise challenges drummers to read and perform [[Eighth Note Triplets]] alongside other common rhythmic subdivisions, including [[Quarter Notes]], [[Eighth Notes]], and [[Sixteenth Notes]], all within two-bar phrases.
+This exercise challenges drummers to read and perform [[Eighth_Note_Triplets]] alongside other common rhythmic subdivisions, including [[Quarter_Note]], [[Eighth_Note]], and [[16th_Notes]], all within two-bar phrases.
 
 **Key Learning Points:**
 *   **Rhythmic Fluency**: Develop the ability to seamlessly transition between different rhythmic values and subdivisions.

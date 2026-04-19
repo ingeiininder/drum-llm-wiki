@@ -9,13 +9,13 @@ last_updated: 2026-04-19
 
 # Dog (Composition)
 
-**Dog** is a high-energy fusion composition by **Conrad Schrenk**, originally recorded in 2000. The piece is characterized by its aggressive delivery, complex [[Time Signature]] fluctuations, and demanding [[Double Pedal]] technical requirements.
+**Dog** is a high-energy fusion composition by **Conrad Schrenk**, originally recorded in 2000. The piece is characterized by its aggressive delivery, complex [[Time_Signature]] fluctuations, and demanding [[Double Pedal]] technical requirements.
 
 ### Technical Overview
 The track serves as a comprehensive study in modern drumming, requiring mastery over:
 *   **Metric Modulation and Odd Meters**: The song utilizes a recurring cycle of 7/4 and 9/4.
-*   **Orchestration**: Use of a secondary 12" [[Snare Drum]] to provide timbral contrast against the primary 14" snare.
-*   **Unison Phrasing**: A highly unusual section where the drummer performs [[Unison Foot Phrasing]] with a busy guitar solo while maintaining a straight time feel with the hands.
+*   **Orchestration**: Use of a secondary 12" [[Snare_Drum]] to provide timbral contrast against the primary 14" snare.
+*   **Unison Phrasing**: A highly unusual section where the drummer performs [[Unison_Foot_Phrasing]] with a busy guitar solo while maintaining a straight time feel with the hands.
 
 ### Sectional Analysis
 1.  **Intro/Verse**: Features a 7/4 - 9/4 cycle. The drummer utilizes a 12" snare for a tighter, "pop" sound to differentiate the intro from the main groove.

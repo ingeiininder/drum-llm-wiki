@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise L
-This exercise provides comprehensive practice with [[Dotted Eighth Note]]s and [[Dotted Eighth Rest]]s in one-bar phrases, presenting a wide range of rhythmic combinations to solidify the drummer's advanced reading skills.
+This exercise provides comprehensive practice with [[Dotted_Eighth_Note]]s and [[Dotted Eighth Rest]]s in one-bar phrases, presenting a wide range of rhythmic combinations to solidify the drummer's advanced reading skills.
 
 **Key Learning Points:**
 *   **Versatility**: Develop the ability to play dotted eighth notes and rests in a diverse set of rhythmic patterns.

@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Pedal Spring Tension
 
-**Pedal Spring Tension** refers to the adjustment of the recoil springs on a bass drum pedal. This setting is a critical factor in the playability and response of [[Double Pedal]] setups.
+**Pedal Spring Tension** refers to the adjustment of the recoil springs on a [[Bass_Drum|bass drum]] pedal. This setting is a critical factor in the playability and response of [[Double_Pedal]] setups.
 
 ### The Speed vs. Control Paradox
 There is a common misconception among developing drummers regarding spring settings:
@@ -17,8 +17,8 @@ There is a common misconception among developing drummers regarding spring setti
 *   **Tight Tension**: The pedal "snaps" back into position much faster, facilitating higher speeds. However, the trade-off is that the pedal becomes significantly harder to control and requires more muscular effort to depress.
 
 ### Professional Context
-For high-speed genres (as seen in [[Triple Threat Composition]]), a tighter spring is generally preferred to ensure the beater keeps pace with rapid foot movements. 
+For high-speed genres (as seen in [[Triple_Threat_Composition]]), a tighter spring is generally preferred to ensure the beater keeps pace with rapid foot movements. 
 
 ### Common Pitfalls
 *   **Fighting the Pedal**: Setting the tension too high before the leg muscles are developed can lead to fatigue and poor timing.
-*   **Imbalance**: In a [[Double Pedal]] setup, ensure both the primary and slave pedal springs are tensioned equally to maintain a consistent feel between both feet.
+*   **Imbalance**: In a [[Double_Pedal]] setup, ensure both the primary and slave pedal springs are tensioned equally to maintain a consistent feel between both feet.

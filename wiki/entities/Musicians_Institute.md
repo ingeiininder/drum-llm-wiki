@@ -1,18 +1,29 @@
 ---
 type: entity
-source: IMG_0214, IMG_0215, IMG_0219
+book_id: MI_INTRO
+source: [IMG_0127, IMG_0128, IMG_0214, IMG_0215, IMG_0219]
 unit: Uncategorized
-tags: [education, music school, hollywood, drum program]
-last_updated: 2023-10-27
+tags: [education, music_school, hollywood, drum_program]
+last_updated: 2026-04-20
 ---
 
 # Musicians Institute (MI)
-Musicians Institute (MI) is a renowned contemporary music college located in Hollywood, California. It offers a range of programs designed to prepare students for careers in the music industry.
 
-## Key Personnel Mentioned
-*   **[[Donny Gruendler]]**: Vice President of Instruction and Curricular Development.
-*   **[[Stewart Jean]]**: Program Chair for the [[Drum Program]].
-*   **[[Jon Clayden]]**: Vice President of Academic Affairs.
+**Musicians Institute** (MI) is a renowned contemporary music college located in Hollywood, California. It serves as both an educational institution and a primary publisher of instructional drum curricula used worldwide.
 
-## Curriculum Series
-MI produces its own curriculum series, which includes foundational texts like [[Drum Reading 1]], co-authored by [[Donny Gruendler]] and [[Stewart Jean]]. These materials are integral to the institute's educational offerings, providing structured learning paths for aspiring musicians.
+## Institutions and Services
+- **MI Curriculum Series**: The institute produces its own performance-driven texts, including foundational materials like [[Drum_Performance_1]] and [[Drum_Reading_1]].
+- **Drum Program**: A specialized vocational program designed to prepare students for professional careers in performance and recording.
+
+## Key Personnel
+- **[[Donny_Gruendler]]**: Vice President of Instruction and Curricular Development.
+- **[[Stewart_Jean]]**: Program Chair for the Drum Program.
+- **[[Joe_Bergamini]]**: Lead Editor for the MI Curriculum Series.
+- **[[Jon_Clayden]]**: Vice President of Academic Affairs.
+
+## See Also
+- [[Donny_Gruendler]]
+- [[Stewart_Jean]]
+- [[Joe_Bergamini]]
+- [[Drum_Performance_1]]
+- [[Drum_Reading_1]]

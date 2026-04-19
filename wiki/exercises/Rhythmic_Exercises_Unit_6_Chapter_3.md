@@ -7,14 +7,14 @@ last_updated: 2023-10-27
 ---
 
 # Rhythmic Exercises: Unit 6, Chapter 3
-This chapter presents a comprehensive set of one-bar rhythmic exercises designed to reinforce [[Musical Note Values]], [[Rhythmic Groupings]], and [[Common_Eighth_and_16th_Pairings_Rhythmic_Groupings]] from previous units. Crucially, these exercises are intended to be practiced with the [[Sticking Patterns]] introduced in Unit 6, specifically [[Assigned Sticking]] and [[Double Strokes]].
+This chapter presents a comprehensive set of one-bar rhythmic exercises designed to reinforce [[Musical_Note_Values]], [[Rhythmic Groupings]], and [[Common_Eighth_and_16th_Pairings_Rhythmic_Groupings]] from previous units. Crucially, these exercises are intended to be practiced with the [[Sticking_Patterns]] introduced in Unit 6, specifically [[Assigned_Sticking]] and [[Double_Strokes]].
 
 The exercises cover a wide range of rhythmic combinations, including:
-*   **[[16th Note]]s, [[Eighth Note]]s, and [[Quarter Note]]s (One-Bar Phrases)**: Integrating various note durations.
-*   **[[16th Note]]s and [[Eighth Note]]s (One-Bar Phrases)**: Focusing on common subdivisions.
-*   **[[16th Note]]s and [[Eighth Note]]s with [[Eighth Rest]]s (One-Bar Phrases)**: Incorporating short silences for precision.
-*   **[[16th Note]]s, [[Eighth Note]]s, and [[Quarter Note]]s with [[Quarter Rest]]s (One-Bar Phrases)**: Combining longer rests with varied note values.
-*   **[[16th Note]]s, [[Eighth Note]]s, and [[Quarter Note]]s with [[Eighth Rest]]s (One-Bar Phrases)**: More complex patterns with mixed rests.
-*   **[[16th Note]]s, [[Eighth Note]]s, and [[Quarter Note]]s with [[Eighth Rest]]s and [[Quarter Rest]]s (One-Bar Phrases)**: The most comprehensive exercises, challenging the drummer with a full range of note and rest values.
+*   **[[16th_Note]]s, [[Eighth_Note]]s, and [[Quarter_Note]]s (One-Bar Phrases)**: Integrating various note durations.
+*   **[[16th_Note]]s and [[Eighth_Note]]s (One-Bar Phrases)**: Focusing on common subdivisions.
+*   **[[16th_Note]]s and [[Eighth_Note]]s with [[Eighth_Rest]]s (One-Bar Phrases)**: Incorporating short silences for precision.
+*   **[[16th_Note]]s, [[Eighth_Note]]s, and [[Quarter_Note]]s with [[Quarter_Rest]]s (One-Bar Phrases)**: Combining longer rests with varied note values.
+*   **[[16th_Note]]s, [[Eighth_Note]]s, and [[Quarter_Note]]s with [[Eighth_Rest]]s (One-Bar Phrases)**: More complex patterns with mixed rests.
+*   **[[16th_Note]]s, [[Eighth_Note]]s, and [[Quarter_Note]]s with [[Eighth_Rest]]s and [[Quarter_Rest]]s (One-Bar Phrases)**: The most comprehensive exercises, challenging the drummer with a full range of note and rest values.
 
-**Pro-Tip**: Approach these exercises with "great detail and care." The goal is not just to play the rhythms, but to apply the learned [[Sticking_Techniques_General]] consistently and accurately. This will solidify your [[Drum Reading]] skills and build robust [[Muscle_Memory_Drumming]], preparing you for more embellished and combined groupings in future studies. Use a metronome and practice slowly to ensure precision before increasing tempo.
+**Pro-Tip**: Approach these exercises with "great detail and care." The goal is not just to play the rhythms, but to apply the learned [[Sticking_Techniques_General]] consistently and accurately. This will solidify your [[Drum_Reading]] skills and build robust [[Muscle_Memory_Drumming]], preparing you for more embellished and combined groupings in future studies. Use a metronome and practice slowly to ensure precision before increasing tempo.

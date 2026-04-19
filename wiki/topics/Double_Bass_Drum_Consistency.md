@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Double_Bass_Drum_Consistency
 
-Achieving extreme consistency between both feet is the hallmark of professional [[Progressive Metal Foundations|Progressive Metal]] and Fusion drumming. 
+Achieving extreme consistency between both feet is the hallmark of professional [[Progressive_Metal_Foundations|Progressive Metal]] and Fusion drumming. 
 
 ### Physical Analysis and Balance
 When executing continuous 16th-note patterns, the drummer must analyze their **balance on the throne**. 
@@ -21,4 +21,4 @@ When executing continuous 16th-note patterns, the drummer must analyze their **b
 - **The Rim Shot Anchor**: Maintaining a heavy [[Rimshot]] on the snare (beats 2 and 4) while the feet are active helps "lock" the lower body into the grid.
 
 > [!caution] Common Pitfall
-> Many students "flam" their double bass notes when increasing speed. Practice at slow tempos (BPM 80-90) to ensure the 16th-note grid is perfectly even before pushing the tempo.
+> Many students "flam" their double bass notes when increasing speed. Practice at slow tempos (BPM 80-90) to ensure the 16th-note grid is perfectly even before pushing the [[Tempo|tempo]].

@@ -1,13 +1,13 @@
 ---
 type: topic
 source: IMG_0157
-unit: Drum Performance
+unit: [[Drum_Performance|Drum Performance]]
 tags: [hi-hat, stroke technique, drum sound, groove, articulation, fundamental]
 last_updated: 2023-10-27
 ---
 
 # Hi-Hat Chunky Shouldered 16ths
-The [[Hi-Hat Chunky Shouldered 16ths]] technique is a specific approach to playing the [[Hi-Hat]] cymbals designed to create a thick, "chunky" rhythmic texture, often used to make a [[Groove]] feel "fat" and propel it forward with a strong sense of [[Syncopation]].
+The [[Hi-Hat_Chunky_Shouldered_16ths]] technique is a specific approach to playing the [[Hi-Hat]] cymbals designed to create a thick, "chunky" rhythmic texture, often used to make a [[Groove]] feel "fat" and propel it forward with a strong sense of [[Syncopation]].
 
 **Execution:**
 1.  **Stick Contact Point**: Instead of using the tip of the stick, utilize the shoulder of the [[Drumstick]] (the mid-way point down from the tip). This wider contact area contributes significantly to the "chunky" sound.
@@ -22,7 +22,7 @@ The [[Hi-Hat Chunky Shouldered 16ths]] technique is a specific approach to playi
 **Professional Insights & Common Pitfalls:**
 *   **Foot Control**: Mastering the subtle closure of the hi-hat with the foot is critical. Too tight, and you lose the "chunk"; too loose, and it might sound sloppy. Practice varying degrees of foot pressure.
 *   **Dynamic Range**: While aiming for a "chunky" sound, explore the dynamic range possible with this technique. You can still play softly while maintaining the desired timbre.
-*   **Groove Application**: This technique is particularly effective in funk, R&B, hip-hop, and other genres where a solid, driving hi-hat is essential for the [[Groove]].
+*   **Groove Application**: This technique is particularly effective in [[Funk|funk]], R&B, hip-hop, and other genres where a solid, driving hi-hat is essential for the [[Groove]].
 *   **Stick Angle**: Experiment with the angle at which the stick shoulder strikes the hi-hat edge to find your optimal "chunk."
 
 **Related Exercises:**

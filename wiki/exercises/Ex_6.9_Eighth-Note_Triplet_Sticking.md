@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Ex 6.9 Eighth-Note Triplet Sticking
-[[Ex 6.9 Eighth-Note Triplet Sticking]] is part of the [[Eighth-Note Triplet Study]], designed to further challenge the drummer with more intricate sticking patterns or accent placements within the triplet rhythm. This exercise likely introduces further variations or combinations.
+[[Ex_6.9_Eighth-Note_Triplet_Sticking]] is part of the [[Eighth-Note_Triplet_Study]], designed to further challenge the drummer with more intricate sticking patterns or accent placements within the triplet rhythm. This exercise likely introduces further variations or combinations.
 
 **Objective:**
-To enhance rhythmic precision and hand coordination in executing varied triplet stickings, ensuring a consistent [[Eighth-Note Triplet Feel]] across different patterns.
+To enhance rhythmic precision and hand coordination in executing varied triplet stickings, ensuring a consistent [[Eighth-Note_Triplet_Feel]] across different patterns.
 
 **Musical Context (as described in source):**
 The specific notation for Ex 6.9 is not provided, but it is part of a series exploring "various stickings and accent patterns available within this rhythm." It will likely present a distinct triplet pattern.

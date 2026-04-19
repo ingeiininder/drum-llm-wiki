@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 16th and Eighth Notes (One Bar Phrases)
-This exercise type focuses on reading and performing continuous rhythmic patterns using only [[Sixteenth Notes]] and [[Eighth Notes]] within a single measure, without the added complexity of rests. This helps build foundational speed, accuracy, and endurance with these common subdivisions.
+This exercise type focuses on reading and performing continuous rhythmic patterns using only [[16th_Notes]] and [[Eighth_Note]] within a single measure, without the added complexity of rests. This helps build foundational speed, accuracy, and endurance with these common subdivisions.
 
 **Practice Guidance:**
 1.  **Evenness:** Ensure that all notes are played with consistent spacing and volume. Unevenness is a common pitfall when transitioning between different note values.

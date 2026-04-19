@@ -16,7 +16,7 @@ While most rock music is centered in 4/4, the **5/4 Modern Rock Groove** applies
 - **Groove Development**:
     - **Intro**: Often starts with a sparse pattern (e.g., Ride cymbal with rim-shots).
     - **Letter A**: Transitions to a [[Closed Hi-Hat]] for a tighter, more compressed feel.
-    - **Letter B**: Moves back to the [[Ride Cymbal]] with added [[Ghost Notes]] on the snare to increase forward motion.
+    - **Letter B**: Moves back to the [[Ride_Cymbal]] with added [[Ghost_Notes]] on the snare to increase forward motion.
 - **Nine-Bar Phrases**: In 5/4 charts, phrases are sometimes extended (e.g., an 8-bar phrase becomes 9 bars) by tying the final beat of a measure to a succeeding whole note.
 
 ### Ensemble Figures

@@ -7,6 +7,6 @@ last_updated: 2023-10-27
 ---
 
 # Rock Music Styles
-The evolution of `[[Rock Music Styles]]` has seen numerous fusions and innovations. A significant development during the past decade involved the blending of aggressive elements from `[[Heavy Metal]]` with the driving, often electronic, rhythms of `[[Synth-Pop]]`. This synthesis created a cohesive and highly popular sound, characterized by `[[Syncopated Beats]]` and intricate `[[Rhythmic Textures]]` within an `[[Alternative Rock]]` and `[[Metal]]` framework.
+The evolution of `[[Rock_Music_Styles]]` has seen numerous fusions and innovations. A significant development during the past decade involved the blending of aggressive elements from `[[Heavy Metal]]` with the driving, often electronic, rhythms of `[[Synth-Pop]]`. This synthesis created a cohesive and highly popular sound, characterized by `[[Syncopated_Beats]]` and intricate `[[Rhythmic_Textures]]` within an `[[Alternative Rock]]` and `[[Metal]]` framework.
 
-This movement spawned successful bands such as `[[Nine Inch Nails]]`, `[[The Killers]]`, and `[[Linkin Park]]`, who effectively integrated these diverse influences into their music, often utilizing `[[Two-Handed_16th-Note_Groove]]` to achieve their distinctive rhythmic feel.
+This movement spawned successful bands such as `[[Nine_Inch_Nails]]`, `[[The_Killers]]`, and `[[Linkin_Park]]`, who effectively integrated these diverse influences into their music, often utilizing `[[Two-Handed_16th-Note_Groove]]` to achieve their distinctive rhythmic feel.

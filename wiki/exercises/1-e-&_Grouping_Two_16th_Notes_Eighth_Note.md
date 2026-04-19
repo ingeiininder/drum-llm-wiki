@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 1-e-& Grouping (Two 16th Notes + Eighth Note)
 
-The **1-e-& Grouping** is a common rhythmic pattern within a single beat, combining two [[16th Notes]] with an [[Eighth Note]]. This pattern is frequently encountered in various musical styles and is a key component of [[Shared Beams]] notation.
+The **1-e-& Grouping** is a common rhythmic pattern within a single beat, combining two [[16th_Notes]] with an [[Eighth_Note]]. This pattern is frequently encountered in various musical styles and is a key component of [[Shared_Beams]] notation.
 
 ## Rhythmic Structure
 
@@ -30,7 +30,7 @@ This grouping creates a "short-short-long" feel within the beat. It often provid
 *   **Metronome**: Practice with a [[Metronome]] at a slow tempo, gradually increasing speed.
 *   **Vocalization**: Count "1 e & a" out loud, emphasizing the played notes: "ONE (e) AND (a)". This helps to internalize the precise placement.
 *   **Evenness**: Ensure the two initial 16th notes are played evenly and with consistent dynamics.
-*   **Application**: Try incorporating this grouping into simple [[Drum Beat]]s or [[Fill]]s. For example, play the two 16th notes on the [[Hi-Hat]] and the eighth note on the [[Snare Drum]] or [[Bass Drum]].
+*   **Application**: Try incorporating this grouping into simple [[Drum Beat]]s or [[Fill]]s. For example, play the two 16th notes on the [[Hi-Hat]] and the eighth note on the [[Snare_Drum]] or [[Bass_Drum]].
 *   **Looping**: Practice playing this pattern repeatedly for a full measure (as shown in Ex 4.15 in the source) to develop consistency and fluidity.
 
-Mastering the 1-e-& grouping is essential for accurate [[Drum Reading]] and for developing a versatile rhythmic vocabulary.
+Mastering the 1-e-& grouping is essential for accurate [[Drum_Reading]] and for developing a versatile rhythmic vocabulary.

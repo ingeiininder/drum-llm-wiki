@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 16th Notes with 16th Rests (Two Bar Phrases)
-This series of exercises (B through J) extends the focus on [[Sixteenth Notes]] and [[16th_Rest]] into two-bar phrases. This progression builds endurance, rhythmic continuity, and the ability to maintain a precise internal clock over longer musical statements.
+This series of exercises (B through J) extends the focus on [[16th_Notes]] and [[16th_Rest]] into two-bar phrases. This progression builds endurance, rhythmic continuity, and the ability to maintain a precise internal clock over longer musical statements.
 
 **Practice Guidance:**
 1.  **Flow and Continuity:** The challenge here is to maintain the same level of precision and accuracy across two full measures. Avoid rushing or dragging at the bar line.

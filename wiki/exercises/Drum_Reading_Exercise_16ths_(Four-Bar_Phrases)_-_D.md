@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: 16ths (Four-Bar Phrases) - D
-This exercise, labeled 'D' within its unit, focuses on reading and performing rhythms composed primarily of [[Sixteenth Notes]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise, labeled 'D' within its unit, focuses on reading and performing rhythms composed primarily of [[16th_Notes]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing sixteenth-note rhythms.

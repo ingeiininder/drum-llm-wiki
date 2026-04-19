@@ -9,7 +9,7 @@ last_updated: 2023-10-27
 # Syncopated Snare Drum (B Section)
 The "Syncopated Snare Drum (B Section)" refers to a specific snare drum hit that occurs off the main beat within the [[Letter B (Rehearsal Mark)]] (Chorus) section of the song. This syncopated placement adds rhythmic interest and drive to the groove.
 
-Similar to the [[Syncopated Bass Drum (A9)]], this snare hit is placed on the "a" of 2. Accurate placement requires diligent [[Subdivision]] of 16th notes. This technique, combined with a [[Sloshy Hi-Hat]] sound, contributes to the energetic feel of the chorus.
+Similar to the [[Syncopated Bass Drum (A9)]], this snare hit is placed on the "a" of 2. Accurate placement requires diligent [[Subdivision]] of 16th notes. This technique, combined with a [[Sloshy_Hi_Hat]] sound, contributes to the energetic feel of the chorus.
 
 **Example Rhythm (conceptual):**
 1 e & a 2 e & a 3 e & a 4 e & a

@@ -9,10 +9,10 @@ last_updated: 2026-04-19
 
 # Paradiddle Drumset Orchestration
 
-Applying the [[Single Paradiddle Inversions]] to the drumset transforms a technical exercise into a musical tool. This method focuses on moving accents to different sound sources while maintaining a steady [[Ostinato]].
+Applying the [[Single_Paradiddle_Inversions]] to the drumset transforms a technical exercise into a musical tool. This method focuses on moving accents to different sound sources while maintaining a steady [[Ostinato]].
 
 ### Orchestration Methods
-1.  **Tom Movement**: Move only the accented notes of the paradiddle to the High Tom or Floor Tom, leaving the unaccented notes on the Snare Drum as [[Ghost Notes]].
+1.  **Tom Movement**: Move only the accented notes of the paradiddle to the High Tom or Floor Tom, leaving the unaccented notes on the Snare Drum as [[Ghost_Notes]].
 2.  **Snare/Hi-Hat Split**: Play the right hand on the Hi-Hat and the left hand on the Snare. This creates complex, linear-sounding funk grooves.
 3.  **Hi-Hat Ostinatos**: While playing paradiddles on the snare, incorporate various Hi-Hat foot patterns:
     *   Quarter notes.

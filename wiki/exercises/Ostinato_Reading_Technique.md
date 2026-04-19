@@ -13,7 +13,7 @@ The **Ostinato Reading Exercise** is designed to develop four-way independence b
 
 ### The Pattern (Ex 3.19)
 - **Right Hand**: Plays a steady eighth-note pattern on the [[Hi-Hat]].
-- **Left Hand**: Plays a steady eighth-note pattern on the [[Snare Drum]].
+- **Left Hand**: Plays a steady eighth-note pattern on the [[Snare_Drum]].
 - **Combined**: This creates a hand-to-hand [[Ostinato]] that defines the eighth-note grid.
 
 ### The Reading Task (Ex 3.20)
@@ -26,4 +26,4 @@ While the hands maintain the ostinato, the **Bass Drum** is used to read a 32-ba
 4. **Open-Handed Playing**: Once comfortable, switch hands (Left Hand on Hi-Hat, Right Hand on Snare) to develop [[Open-Handed Playing]] and hemispheric brain balance.
 
 ### Pro-Tip
-Focus on the "unison" hits. Identify exactly which bass drum notes fall simultaneously with the hand ostinato and which (if any) fall between. This exercise is the foundation for advanced [[Linear Drumming]].
+Focus on the "unison" hits. Identify exactly which bass drum notes fall simultaneously with the hand ostinato and which (if any) fall between. This exercise is the foundation for advanced [[Linear_Drumming]].

@@ -1,17 +1,23 @@
 ---
 type: entity
-source: IMG_0219
+book_id: MI_INTRO
+source: [IMG_0127, IMG_0128, IMG_0219]
 unit: Uncategorized
-tags: [editor, author, producer, drum education]
-last_updated: 2023-10-27
+tags: [editor, author, producer, drum_education, musicians_institute]
+last_updated: 2026-04-20
 ---
 
 # Joe Bergamini
-Joe Bergamini is a notable figure in drum education and publishing, recognized for his roles as an editor, managing editor, and executive producer for various instructional materials.
 
-## Contributions
-*   **Editor**: He served as the editor for [[Drum Reading 1]], a key text in the [[Musicians Institute]] Curriculum Series.
-*   **Managing Editor**: Also held the position of managing editor for the MI Curriculum Series.
-*   **Executive Producer**: Credited as an executive producer for publications by [[WBH MusicWorks LLC]], including [[Drum Reading 1]].
+Joe Bergamini is a prominent figure in drum education and publishing, widely recognized for his editorial and production roles in foundational drumming instructional materials.
 
-Bergamini's involvement highlights his expertise in structuring and refining educational content for drummers.
+## Professional Roles
+- **Editor**: Served as the primary editor for [[Drum_Reading_1]], a core text in the [[Musicians_Institute]] Curriculum Series.
+- **Managing Editor**: Held the position of Managing Editor for the overall MI Curriculum Series, ensuring structural and pedagogical consistency across drum performance texts.
+- **Executive Producer**: Credited as an executive producer for publications by **WBH MusicWorks LLC**.
+
+## See Also
+- [[Donny_Gruendler]]
+- [[Stewart_Jean]]
+- [[Musicians_Institute]]
+- [[Drum_Reading_1]]

@@ -7,13 +7,13 @@ last_updated: 2023-10-27
 ---
 
 # Bass Drum and Hi-Hat Coordination Part 5
-[[Bass Drum and Hi-Hat Coordination Part 5]] is the final installment of exercises designed to develop the independent and interdependent movement of the bass drum foot and the hi-hat foot/hand. It represents the pinnacle of the coordination challenges presented in this series, building on all previous parts. It is mentioned as a key topic in Unit 10 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+[[Bass_Drum_and_Hi-Hat_Coordination_Part_5]] is the final installment of exercises designed to develop the independent and interdependent movement of the bass drum foot and the hi-hat foot/hand. It represents the pinnacle of the coordination challenges presented in this series, building on all previous parts. It is mentioned as a key topic in Unit 10 of "[[Drum_Technique_1_(MI_Curriculum_Series)]]".
 
 **Exercise Focus:**
-*   **Mastery of Independence:** Achieving a high level of independent control and fluidity between the [[Bass Drum]] and [[Hi-Hat]], often involving highly complex and counter-intuitive rhythmic patterns.
+*   **Mastery of Independence:** Achieving a high level of independent control and fluidity between the [[Bass_Drum]] and [[Hi-Hat]], often involving highly complex and counter-intuitive rhythmic patterns.
 *   **Advanced Musicality:** Applying these coordination skills to create sophisticated, nuanced, and stylistically appropriate grooves and fills across a wide range of musical contexts.
 *   **Extreme Tempos and Endurance:** Developing the ability to execute demanding patterns accurately at very high tempos and for extended performance durations.
-*   **Integration with Other Limbs:** Preparing for full [[Drum Kit]] coordination where hands and feet are all playing highly independent and complex parts.
+*   **Integration with Other Limbs:** Preparing for full [[Drum_Kit]] coordination where hands and feet are all playing highly independent and complex parts.
 
 **Typical Exercises Might Include:**
 *   Very advanced polyrhythmic and polymetric patterns.

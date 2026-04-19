@@ -2,12 +2,12 @@
 type: song structure
 source: IMG_0209
 unit: Unit 10 - Chapter 1
-tags: [song structure, form, rock shuffle, navigation, D.S., drum chart]
+tags: [song structure, form, [[Rock|rock]] [[Shuffle|shuffle]], navigation, D.S., drum [[Chart|chart]]]
 last_updated: 2023-10-27
 ---
 
-# Rock Shuffle Form (Unit 10)
-The structure of the rock shuffle tune in Unit 10 is relatively consistent harmonically, meaning the focus for the drummer is on understanding the section lengths and the order of play. The primary groove, the [[Rock Shuffle]], remains largely the same throughout, making the form crucial for navigation.
+# [[Rock|Rock]] [[Shuffle|Shuffle]] Form (Unit 10)
+The structure of the [[Rock|rock]] [[Shuffle|shuffle]] tune in Unit 10 is relatively consistent harmonically, meaning the focus for the drummer is on understanding the section lengths and the order of play. The primary [[Groove|groove]], the [[Rock_Shuffle]], remains largely the same throughout, making the form crucial for navigation.
 
 **Basic Structure:**
 1.  **Intro (8 bars)**: The piece begins with an eight-bar introduction.
@@ -22,4 +22,4 @@ The structure of the rock shuffle tune in Unit 10 is relatively consistent harmo
 **Detailed Navigation:**
 *   The `[[D.S._Rock_Shuffle_Unit_10]]` instruction at the end of the first B section is critical. It directs the player back to the beginning of the A section, but with a specific instruction to "take 2nd ending," which alters the length of that A section to 8 bars.
 
-**Pro-Tip**: Before playing, always "read through" the entire chart to understand the form. Mentally trace the path through repeats, endings, and D.S. instructions. This prevents getting lost during performance and ensures a smooth, confident delivery of the song's structure.
+**Pro-Tip**: Before playing, always "read through" the entire [[Chart|chart]] to understand the form. Mentally trace the path through repeats, endings, and D.S. instructions. This prevents getting lost during performance and ensures a smooth, confident delivery of the song's structure.

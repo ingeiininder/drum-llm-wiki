@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 16th, Eighth and Quarter Notes with Quarter Rests (One Bar Phrases)
-This exercise type introduces [[Quarter_Rest]] into rhythmic patterns that already combine [[Sixteenth Notes]], [[Eighth Notes]], and [[Quarter Notes]] within a single measure. The inclusion of longer rests requires precise timing and a strong internal pulse to re-enter the rhythm accurately.
+This exercise type introduces [[Quarter_Rest]] into rhythmic patterns that already combine [[16th_Notes]], [[Eighth_Note]], and [[Quarter_Note]] within a single measure. The inclusion of longer rests requires precise timing and a strong internal pulse to re-enter the rhythm accurately.
 
 **Practice Guidance:**
 1.  **Sustained Pulse:** During the [[Quarter_Rest]], maintain a clear mental subdivision of the beat to ensure you re-enter on time.

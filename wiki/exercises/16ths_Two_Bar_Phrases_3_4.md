@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # 16ths (Two-Bar Phrases) - 3/4
 
-This exercise extends the practice of [[Sixteenth Note]]s into two-bar phrases within the [[3_4_Time_Signature]]. This helps drummers develop endurance and continuity when performing sixteenth note-based rhythms over longer periods in a triple meter.
+This exercise extends the practice of [[Sixteenth_Note]]s into two-bar phrases within the [[3_4_Time_Signature]]. This helps drummers develop endurance and continuity when performing sixteenth note-based rhythms over longer periods in a triple meter.
 
 **Purpose:**
 *   To reinforce the accurate execution of sixteenth notes in a continuous context in 3/4 time.
 *   To develop rhythmic endurance and the ability to sustain focus over two-bar phrases.
-*   To improve [[Sight Reading]] for extended sixteenth note passages in 3/4.
+*   To improve [[Sight_Reading]] for extended sixteenth note passages in 3/4.
 
 **Pro-Tips:**
 *   **Flow:** Focus on maintaining a smooth, continuous flow of sixteenth notes across the bar line.

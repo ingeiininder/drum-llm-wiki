@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Eighth-Note Triplet Accent Studies
 
-Developing control over [[Eighth-Note Triplets]] involves shifting accents across the three subdivisions (1-trip-let). This study emphasizes the development of the **[[Up Motion]]** and musical phrasing.
+Developing control over [[Eighth_Note_Triplets]] involves shifting accents across the three subdivisions (1-trip-let). This study emphasizes the development of the **[[Up Motion]]** and musical phrasing.
 
 ### Practice Progression
 1.  **Static Accents**: Playing accents on the first, second, or third partial of the triplet.

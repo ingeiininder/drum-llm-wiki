@@ -17,7 +17,7 @@ A [[Downbeat]] refers to the primary, accented [[Beat]] within a [[Measure]] or 
 **In Drumming and Rhythm Reading:**
 For drummers, accurately placing notes on the downbeats is fundamental to maintaining a solid [[Groove]] and [[Tempo]]. When practicing [[Subdivision]] and [[Foot Tapping for Eighth Note Subdivision]]:
 *   The **downward** motion of the foot (when it hits the floor) aligns with the downbeats (1, 2, 3, 4).
-*   These are the points where [[Quarter Note]]s and the first [[Eighth Note]] of each beat typically land.
+*   These are the points where [[Quarter_Note]]s and the first [[Eighth_Note]] of each beat typically land.
 
 **Pro-Tip:**
 Always strive for absolute precision on your downbeats. They are the anchors of your rhythm. When practicing, ensure that your downbeats are perfectly aligned with the [[Metronome]] click. Developing a strong internal sense of the downbeat is crucial for playing in time and leading a band effectively.

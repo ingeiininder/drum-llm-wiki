@@ -2,7 +2,7 @@
 type: topic
 source: IMG_0141, IMG_0142
 unit: Unit 2
-tags: [Music Notation, Dynamics, Drumming]
+tags: [Music Notation, [[Dynamics|Dynamics]], Drumming]
 last_updated: 2026-04-17
 ---
 

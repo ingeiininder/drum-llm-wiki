@@ -14,7 +14,7 @@ The **Center Snare Stroke** is an articulation where the stick strikes the exact
 ### Characteristics
 *   **Sound**: Deep, open, and "fat" tonality. It lacks the high-frequency "crack" of a [[Rimshot]].
 *   **Execution**: Strike the center (often the "dot") using the butt end of the stick for maximum mass and warmth. The motion should be initiated from the wrist.
-*   **Context**: Used in the chorus of an [[RB_Pop_Ballad_Style|R&B Ballad]] to provide a lift in volume and depth without the aggressive edge of a rock rim shot.
+*   **Context**: Used in the chorus of an [[RB_Pop_Ballad_Style|R&B Ballad]] to provide a lift in volume and depth without the aggressive edge of a [[Rock|rock]] rim shot.
 
 ### Technical Challenge
 While it seems simple, maintaining consistent accuracy in hitting the dead center while avoiding the rim requires significant concentration and wrist control.

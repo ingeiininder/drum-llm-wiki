@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # Quarters and Eighths (One-Bar Phrases) - 3/4
 
-This exercise focuses on fundamental [[Rhythm Reading]] within the [[3_4_Time_Signature]], utilizing combinations of [[Quarter Note]]s and [[Eighth Note]]s. The patterns are presented as one-bar phrases, allowing for focused practice on basic rhythmic building blocks in a triple meter.
+This exercise focuses on fundamental [[Rhythm_Reading]] within the [[3_4_Time_Signature]], utilizing combinations of [[Quarter_Note]]s and [[Eighth_Note]]s. The patterns are presented as one-bar phrases, allowing for focused practice on basic rhythmic building blocks in a triple meter.
 
 **Purpose:**
 *   To solidify the understanding and execution of basic [[Note Values]] in 3/4 time.
 *   To develop a steady internal [[Pulse]] and accurate rhythmic placement within a three-beat measure.
-*   To improve [[Sight Reading]] ability for common rhythmic figures in 3/4.
+*   To improve [[Sight_Reading]] ability for common rhythmic figures in 3/4.
 
 **Pro-Tips:**
 *   **Consistent Tempo:** Start at a slow, comfortable [[Tempo]] with a [[Metronome]] and gradually increase speed only when accuracy is maintained.

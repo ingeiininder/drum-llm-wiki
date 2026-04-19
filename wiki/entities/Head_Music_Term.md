@@ -8,11 +8,11 @@ last_updated: 2023-10-27
 
 # Head (Music Term)
 
-The term "head" is a common piece of [[Jazz Terminology|jazz]] and [[Blues Terminology|blues terminology]] that refers to the thematic melody within a song's form.
+The term "head" is a common piece of [[Jazz_Terminology|jazz]] and [[Blues Terminology|blues terminology]] that refers to the thematic melody within a song's form.
 
 ## Definition
 
-The "head" is the main [[Melody]] of a song. It is typically played at the beginning of a song's performance (the "head in") and again at the end (the "head out"). In a [[12-Bar Blues Open Form|12-bar blues form]], if a [[Bandleader]] requests "one head," it means the band will play through 12 bars of the melody.
+The "head" is the main [[Melody]] of a song. It is typically played at the beginning of a song's performance (the "head in") and again at the end (the "head out"). In a [[12-Bar_Blues_Open_Form|12-bar blues form]], if a [[Bandleader]] requests "one head," it means the band will play through 12 bars of the melody.
 
 ## Usage
 

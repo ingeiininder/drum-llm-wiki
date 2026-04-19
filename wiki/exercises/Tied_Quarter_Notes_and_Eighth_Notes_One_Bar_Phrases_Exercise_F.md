@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Quarter Notes and Eighth Notes (One-Bar Phrases) - Exercise F
-This exercise combines [[Ties]] with both [[Quarter Notes]] and [[Eighth Notes]] within one-bar phrases. It challenges the drummer to interpret and execute rhythms that blend different note values and their extended durations.
+This exercise combines [[Ties]] with both [[Quarter_Note]] and [[Eighth_Note]] within one-bar phrases. It challenges the drummer to interpret and execute rhythms that blend different note values and their extended durations.
 
 **Key Learning Points:**
 *   **Mixed Duration Interpretation**: Accurately read and perform rhythms where quarter notes and eighth notes are tied together, creating varied sustained lengths.

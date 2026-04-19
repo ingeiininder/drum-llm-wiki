@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Reggae
 
-**Reggae** is a genre developed in Jamaica during the late 1960s. It is characterized by its heavy emphasis on the "off-beat" and a unique approach to the drumset backbeat.
+**Reggae** is a genre developed in Jamaica during the late 1960s. It is characterized by its heavy emphasis on the "off-[[Beat|beat]]" and a unique approach to the drumset backbeat.
 
 ### Historical Context
 *   **Key Figures**: Bob Marley and the Wailers.
@@ -17,11 +17,11 @@ last_updated: 2026-04-19
 *   **Evolution**: In the 1970s and 80s, the style was adopted by UK punk and New Wave acts like **The Clash** and **The Police**. Modern iterations include bands like **Sublime** and **No Doubt**.
 
 ### Rhythmic Feel
-Reggae can be performed with either a **straight** or a **shuffle** feel. The shuffle feel is based on a triplet subdivision, which is essential for the "swing" found in many classic Marley tracks.
+Reggae can be performed with either a **straight** or a **[[Shuffle|shuffle]]** feel. The [[Shuffle_Feel|shuffle feel]] is based on a triplet [[Subdivision|subdivision]], which is essential for the "swing" found in many classic Marley tracks.
 
 ### Core Concepts
-*   **The "Drop"**: The absence of a bass drum on beat 1 (in One-Drop).
+*   **The "Drop"**: The absence of a [[Bass_Drum|bass drum]] on [[Beat|beat]] 1 (in One-Drop).
 *   **Cross-Stick**: A sharp, syncopated rim sound that often replaces the standard snare backbeat.
-*   **Hi-Hat Embellishments**: Frequent use of triplet openings and syncopated accents.
+*   **[[Hi-Hat|Hi-Hat]] Embellishments**: Frequent use of triplet openings and syncopated [[Accents|accents]].
 
 **See also**: [[One-Drop_Groove.md]], [[Four-on-the-Floor_Reggae]], [[Reggae_Balance_of_Sound]]

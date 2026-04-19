@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # Half, Quarters and Eighths (One-Bar Phrases) - 2/4
 
-This exercise focuses on fundamental [[Rhythm Reading]] within the [[2_4_Time_Signature]], utilizing combinations of [[Half Note]]s, [[Quarter Note]]s, and [[Eighth Note]]s. The patterns are presented as one-bar phrases, allowing for focused practice on basic rhythmic building blocks.
+This exercise focuses on fundamental [[Rhythm_Reading]] within the [[2_4_Time_Signature]], utilizing combinations of [[Half_Note]]s, [[Quarter_Note]]s, and [[Eighth_Note]]s. The patterns are presented as one-bar phrases, allowing for focused practice on basic rhythmic building blocks.
 
 **Purpose:**
 *   To solidify the understanding and execution of basic [[Note Values]] in 2/4 time.
 *   To develop a steady internal [[Pulse]] and accurate rhythmic placement.
-*   To improve [[Sight Reading]] ability for common rhythmic figures.
+*   To improve [[Sight_Reading]] ability for common rhythmic figures.
 
 **Pro-Tips:**
 *   **Consistent Tempo:** Start at a slow, comfortable [[Tempo]] with a [[Metronome]] and gradually increase speed only when accuracy is maintained.

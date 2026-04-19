@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Half Note
-A **Half Note** is a fundamental [[Rhythmic Values|note value]] in music notation.
+A **Half Note** is a fundamental [[Rhythmic_Values|note value]] in music notation.
 
 ## Characteristics
-*   **Duration**: In a standard [[4-4_Time_Signature]], a half note is equal to **two beats**, which is half the duration of a [[Whole Note]] and half the duration of a full [[Measure]].
+*   **Duration**: In a standard [[4-4_Time_Signature]], a half note is equal to **two beats**, which is half the duration of a [[Whole_Note]] and half the duration of a full [[Measure]].
 *   **Notation**: It is indicated by a hollow oval note head with a stem attached. The stem can point up or down depending on its position on the staff.
 *   **Counting**: When counting aloud in 4/4 time, a half note is typically counted as "1 - 2" or "3 - 4", with the sound sustained for two beats.
 
@@ -23,7 +23,7 @@ A **Half Note** is a fundamental [[Rhythmic Values|note value]] in music notatio
 
 ## Combination Exercise (Ex 1.19)
 *   **Objective**: To practice combining whole notes and half notes.
-*   **Method**: Play a [[Whole Note]] on beat 1 of the first measure, then two [[Half Note]]s (on beats 1 and 3) in the second measure, alternating this pattern.
+*   **Method**: Play a [[Whole_Note]] on beat 1 of the first measure, then two [[Half_Note]]s (on beats 1 and 3) in the second measure, alternating this pattern.
 *   **Example**:
     *   Measure 1: Play on 1 (sustain 2, 3, 4).
     *   Measure 2: Play on 1 (sustain 2), Play on 3 (sustain 4).
@@ -35,11 +35,11 @@ A **Half Note** is a fundamental [[Rhythmic Values|note value]] in music notatio
 *   **Dynamic Control**: Practice playing half notes with consistent dynamics over their full duration, even as the sound decays on a drum.
 
 ## Related Concepts
-*   [[Rhythmic Values]]
-*   [[Note Value]]
-*   [[Whole Note]]
-*   [[Quarter Note]]
-*   [[Half Rest]]
+*   [[Rhythmic_Values]]
+*   [[Note_Value]]
+*   [[Whole_Note]]
+*   [[Quarter_Note]]
+*   [[Half_Rest]]
 *   [[4-4_Time_Signature]]
 *   [[Beat]]
 *   [[Measure]]

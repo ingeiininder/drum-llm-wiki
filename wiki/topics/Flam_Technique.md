@@ -3,7 +3,7 @@ type: topic
 book_id: READ2
 source: IMG_0804
 unit: 1
-tags: [rudiments, technique, fundamentals]
+tags: [[[Rudiments|rudiments]], technique, fundamentals]
 last_updated: 2026-04-19
 ---
 
@@ -26,4 +26,4 @@ Hand-to-hand (alternating) flams require high technical awareness. Each hand per
 ### Pro-Tips and Common Pitfalls
 *   **Avoid "Double Stops"**: A common error is playing both sticks at the exact same time. This creates a "flat" sound known as a double stop, which lacks the characteristic "width" of a flam.
 *   **Maintain Openness**: Focus on the "space" between the grace note and the primary note. The goal is consistent "openness" regardless of which hand is leading.
-*   **Stick Height Discipline**: Keep your down-strokes consistently low (1-2 inches). This is the secret to developing high-speed flams and maintaining [[Dynamic Control]].
+*   **[[Stick_Height|Stick Height]] Discipline**: Keep your down-strokes consistently low (1-2 inches). This is the secret to developing high-speed flams and maintaining [[Dynamic_Control]].

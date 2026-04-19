@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Bass Drum Pedal
-The bass drum pedal is a mechanical device that allows a drummer to play the [[Bass Drum]] with their foot. It consists of a footboard, a chain or strap drive, and a beater, which strikes the drumhead. It is a crucial piece of hardware for all modern [[Drum Kit]] setups.
+The bass drum pedal is a mechanical device that allows a drummer to play the [[Bass_Drum]] with their foot. It consists of a footboard, a chain or strap drive, and a beater, which strikes the drumhead. It is a crucial piece of hardware for all modern [[Drum_Kit]] setups.
 
 ## Components:
 *   **Footboard**: The platform where the drummer places their foot.
@@ -19,10 +19,10 @@ The bass drum pedal is a mechanical device that allows a drummer to play the [[B
 *   **Spring**: Provides tension for the beater's return, adjustable to control rebound and feel.
 
 ## Playing Techniques:
-The bass drum pedal is central to [[Bass Drum Technique]], enabling both [[Heel Up]] and [[Heel Down]] methods.
+The bass drum pedal is central to [[Bass_Drum_Technique]], enabling both [[Heel Up]] and [[Heel Down]] methods.
 *   **[[Heel Up]]**: The heel is raised off the footboard, allowing the entire leg to contribute to power, often used for louder playing and faster patterns.
 *   **[[Heel Down]]**: The heel remains on the footboard, with the ankle acting as the primary pivot, ideal for softer dynamics and control.
-*   **[[Burying the Beater]] / [[Burying_the_Beater]]**: The choice of whether to leave the beater pressed against the head or allow it to rebound naturally, affecting the drum's sustain and attack.
+*   **[[Burying_the_Beater]] / [[Burying_the_Beater]]**: The choice of whether to leave the beater pressed against the head or allow it to rebound naturally, affecting the drum's sustain and attack.
 
 ## Importance:
 *   **Rhythmic Foundation**: Enables the drummer to lay down the bass drum patterns that form the rhythmic backbone of a song.

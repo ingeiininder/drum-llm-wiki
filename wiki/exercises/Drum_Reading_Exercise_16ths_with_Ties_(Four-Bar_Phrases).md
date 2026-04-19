@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: 16ths with Ties (Four-Bar_Phrases)
-This exercise focuses on reading and performing rhythms that combine [[Sixteenth Notes]] with [[Ties (Music)]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise focuses on reading and performing rhythms that combine [[16th_Notes]] with [[Ties (Music)]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing complex rhythms involving both rapid sixteenth-note subdivisions and tied notes.

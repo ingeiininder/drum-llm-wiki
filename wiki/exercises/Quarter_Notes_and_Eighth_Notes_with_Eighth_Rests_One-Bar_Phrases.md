@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarter Notes and Eighth Notes with Eighth Rests (One-Bar Phrases)
 
-This exercise category focuses on developing fundamental [[Rhythm]] reading and playing skills using [[Quarter Notes]], [[Eighth Notes]], and [[Eighth Rests]] within single-measure phrases. These exercises are crucial for building a solid rhythmic foundation.
+This exercise category focuses on developing fundamental [[Rhythm]] reading and playing skills using [[Quarter_Note]], [[Eighth_Note]], and [[Eighth Rests]] within single-measure phrases. These exercises are crucial for building a solid rhythmic foundation.
 
 ## Exercise Description
 
@@ -27,4 +27,4 @@ The goal is to accurately interpret and perform the rhythmic patterns, paying cl
 *   **Articulation**: Ensure clean attacks and releases for all notes. Rests should be observed as complete silence.
 *   **Application**: Once comfortable with these one-bar phrases, try to combine them or integrate them into simple [[Drum Beat]] patterns.
 
-These exercises are foundational for understanding more complex rhythmic figures and are essential for any drummer's [[Drum Reading]] proficiency.
+These exercises are foundational for understanding more complex rhythmic figures and are essential for any drummer's [[Drum_Reading]] proficiency.

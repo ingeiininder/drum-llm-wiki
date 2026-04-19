@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Cue (Music)
 
-In musical performance, especially in [[Open Form (Music)|open forms]] like the [[12-Bar Blues Open Form]], a "cue" is a critical element of [[Ensemble Performance|ensemble communication]].
+In musical performance, especially in [[Open Form (Music)|open forms]] like the [[12-Bar_Blues_Open_Form]], a "cue" is a critical element of [[Ensemble Performance|ensemble communication]].
 
 ## Definition
 

@@ -7,15 +7,15 @@ last_updated: 2023-10-27
 ---
 
 # Drum Seat
-The drum seat, or drum throne, is a critical component of a drummer's setup, often overlooked despite its profound impact on comfort, technique, and [[Injury Prevention]]. Proper interaction with the drum seat is essential for maintaining balance and freeing up all four limbs for drumming.
+The drum seat, or drum throne, is a critical component of a drummer's setup, often overlooked despite its profound impact on comfort, technique, and [[Injury_Prevention]]. Proper interaction with the drum seat is essential for maintaining balance and freeing up all four limbs for drumming.
 
 ## Importance of Balance:
-*   **Four-Limb Coordination**: Playing the [[Drum Kit]] requires independent and coordinated use of all four limbs.
-*   **Shift of Balance**: Normally, we use our feet for balance. However, while drumming, our feet need to be free to operate pedals (e.g., [[Bass Drum Technique]], [[Hi-Hat]] pedal). Therefore, a drummer's balance must shift from the feet to the seat.
+*   **Four-Limb Coordination**: Playing the [[Drum_Kit]] requires independent and coordinated use of all four limbs.
+*   **Shift of Balance**: Normally, we use our feet for balance. However, while drumming, our feet need to be free to operate pedals (e.g., [[Bass_Drum_Technique]], [[Hi-Hat]] pedal). Therefore, a drummer's balance must shift from the feet to the seat.
 
 ## Proper Seating Position:
 *   **Sit Towards the Backside**: To facilitate this shift of balance, sit towards the backside of the drum throne. This centers your weight on the seat, freeing your feet for pedal work.
-*   **Relieves Stress**: Sitting on the backside of the throne also significantly relieves unneeded stress from your lower back and hips, contributing to [[Injury Prevention]].
+*   **Relieves Stress**: Sitting on the backside of the throne also significantly relieves unneeded stress from your lower back and hips, contributing to [[Injury_Prevention]].
 
 ## Improper Seating Position:
 *   **Sitting at the Front**: Sitting at the front of the throne transfers your weight directly down to your feet, shifting your center of gravity (balance) to your feet.

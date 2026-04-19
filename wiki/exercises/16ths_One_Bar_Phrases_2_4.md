@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # 16ths (One-Bar Phrases) - 2/4
 
-This exercise focuses on reading and executing [[Sixteenth Note]]s within one-bar phrases in the [[2_4_Time_Signature]]. It introduces the subdivision of each beat into four equal parts, a crucial skill for playing intricate rhythms and faster tempos.
+This exercise focuses on reading and executing [[Sixteenth_Note]]s within one-bar phrases in the [[2_4_Time_Signature]]. It introduces the subdivision of each beat into four equal parts, a crucial skill for playing intricate rhythms and faster tempos.
 
 **Purpose:**
 *   To develop a strong internal feel for sixteenth note subdivisions.
 *   To accurately place sixteenth notes within the two beats of a 2/4 measure.
-*   To improve [[Sight Reading]] of sixteenth note-based rhythms.
+*   To improve [[Sight_Reading]] of sixteenth note-based rhythms.
 
 **Pro-Tips:**
 *   **Vocalization:** Count "ONE-e-and-a TWO-e-and-a" to internalize the feel of the sixteenth notes.

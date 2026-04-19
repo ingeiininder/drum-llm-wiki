@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Sixteenth Note/Rest Application (Ex 10.16)
 
-This exercise is designed to enhance your ability to read and accurately perform various combinations of [[Sixteenth Note]]s and [[Sixteenth Rest]]s within a [[3_4_Time_Signature]]. It builds upon fundamental [[Rhythm Reading]] skills by introducing finer subdivisions.
+This exercise is designed to enhance your ability to read and accurately perform various combinations of [[Sixteenth_Note]]s and [[Sixteenth_Rest]]s within a [[3_4_Time_Signature]]. It builds upon fundamental [[Rhythm_Reading]] skills by introducing finer subdivisions.
 
 **Instructions:**
 *   Play each combination at a comfortable [[Tempo]] between 90-120 [[BPM]].

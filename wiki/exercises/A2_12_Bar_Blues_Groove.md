@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # A2 12-Bar Blues Groove
-The A2 section of the [[12_Bar_Blues_Structure]] chart introduces a variation on the blues [[Groove]], shifting the primary timekeeping element and introducing a new [[Snare Drum]] articulation. This groove is also played for 12 bars.
+The A2 section of the [[12_Bar_Blues_Structure]] chart introduces a variation on the blues [[Groove]], shifting the primary timekeeping element and introducing a new [[Snare_Drum]] articulation. This groove is also played for 12 bars.
 
 **Key Elements**:
 *   **Hi-Hat**: Played on a tightly closed [[Hi-Hat]], providing a crisp, defined pulse.

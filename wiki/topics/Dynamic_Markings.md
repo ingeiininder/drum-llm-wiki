@@ -3,7 +3,7 @@ type: topic
 book_id: READ2
 source: IMG_0739, IMG_0740
 unit: 4
-tags: [notation, dynamics, technique]
+tags: [notation, [[Dynamics|dynamics]], technique]
 last_updated: 2026-04-19
 ---
 
@@ -25,4 +25,4 @@ last_updated: 2026-04-19
 *   **[[Decrescendo]]**: A gradual decrease in volume.
 
 ### Pro-Tip
-Dynamics on the drum set are not just about volume but about **tone**. For example, playing *piano* (p) often requires a different [[Snare Drum Articulation]] (center of the head, lower stick height) than playing *forte* (f).
+[[Dynamics|Dynamics]] on the drum set are not just about volume but about **tone**. For example, playing *piano* (p) often requires a different [[Snare_Drum_Articulation]] (center of the head, lower [[Stick_Height|stick height]]) than playing *forte* (f).

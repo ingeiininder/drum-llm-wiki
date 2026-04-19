@@ -14,7 +14,7 @@ An [[Upbeat]] refers to the rhythmic placement that occurs *between* the main [[
 *   **Anticipation**: Notes played on upbeats often create a sense of anticipation or forward motion in the music.
 
 **In Drumming and Rhythm Reading:**
-For drummers, accurately placing notes on upbeats is essential for playing [[Eighth Note]] rhythms, syncopated patterns, and creating a dynamic [[Groove]]. When practicing [[Subdivision]] and [[Foot Tapping for Eighth Note Subdivision]]:
+For drummers, accurately placing notes on upbeats is essential for playing [[Eighth_Note]] rhythms, syncopated patterns, and creating a dynamic [[Groove]]. When practicing [[Subdivision]] and [[Foot Tapping for Eighth Note Subdivision]]:
 *   The **upward** motion of the foot (when it lifts off the floor) aligns with the upbeats (the "&" of 1, "&" of 2, etc.).
 *   These are the points where the second eighth note of each beat typically lands.
 

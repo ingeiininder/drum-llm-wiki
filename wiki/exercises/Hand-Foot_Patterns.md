@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Hand-Foot Patterns
-Hand-foot patterns are the building blocks of modern "Gospel Chops" and solo vocabulary. They involve distributing rhythmic groupings between the hands and the [[Bass Drum]].
+Hand-foot patterns are the building blocks of modern "Gospel Chops" and solo vocabulary. They involve distributing rhythmic groupings between the hands and the [[Bass_Drum]].
 
 ### Common Groupings
 - **Two-note**: [Hand, Foot] or [Foot, Hand]
@@ -21,7 +21,7 @@ Hand-foot patterns are the building blocks of modern "Gospel Chops" and solo voc
 1. **Double Stops**: Play the hand portion as [[Double Stops]] (e.g., Snare and Floor Tom together) against the bass drum to check for alignment.
 2. **Leading**: Practice leading the hand portions with both the Right and Left hands.
 3. **Orchestration**: Move the hands around the kit in "shapes" while keeping the bass drum consistent.
-4. **Linear Integration**: Mix these patterns with [[Ghost Notes]] and [[Accents]] to create complex [[Linear Drumming|linear grooves]].
+4. **Linear Integration**: Mix these patterns with [[Ghost_Notes]] and [[Accents_Drumming]] to create complex [[Linear_Drumming|linear grooves]].
 
 ### Technical Focus
 - **Balance of Sound**: Ensure the bass drum notes are as articulate and dynamically matched as the hand strokes.

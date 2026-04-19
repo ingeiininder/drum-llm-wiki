@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarter Notes and Eighth Notes with Half, Quarter and Eighth Rests (One-Bar Phrases)
 
-This exercise category expands upon basic [[Rhythm]] reading by incorporating a wider variety of [[Rests]] alongside [[Quarter Notes]] and [[Eighth Notes]] within single-measure phrases. This helps drummers develop a comprehensive understanding of rhythmic duration and silence.
+This exercise category expands upon basic [[Rhythm]] reading by incorporating a wider variety of [[Rests]] alongside [[Quarter_Note]] and [[Eighth_Note]] within single-measure phrases. This helps drummers develop a comprehensive understanding of rhythmic duration and silence.
 
 ## Exercise Description
 
@@ -23,10 +23,10 @@ The challenge lies in accurately interpreting and performing the various duratio
 
 ## Practice Tips
 
-*   **Subdivision Awareness**: Maintain a strong internal sense of the underlying [[Eighth Note]] or [[Quarter Note]] pulse, even during longer rests.
+*   **Subdivision Awareness**: Maintain a strong internal sense of the underlying [[Eighth_Note]] or [[Quarter_Note]] pulse, even during longer rests.
 *   **Metronome Use**: Essential for developing accurate timing. Start slowly and gradually increase the tempo.
 *   **Counting Out Loud**: Vocalize the counts (e.g., "1 & 2 & 3 & 4 &") to keep track of where you are in the measure, especially during rests.
 *   **Body Movement**: Some drummers find it helpful to maintain a subtle body movement (e.g., foot tapping) to keep time during rests without making sound.
 *   **Dynamic Control**: Ensure notes are played with consistent dynamics and rests are truly silent.
 
-Mastering these exercises is vital for developing strong [[Drum Reading]] skills and a nuanced understanding of rhythmic phrasing, preparing drummers for more complex musical passages.
+Mastering these exercises is vital for developing strong [[Drum_Reading]] skills and a nuanced understanding of rhythmic phrasing, preparing drummers for more complex musical passages.

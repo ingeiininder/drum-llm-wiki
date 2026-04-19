@@ -22,7 +22,7 @@ To maintain timing at high speeds, use "lead hand counting" rather than counting
 ### Key Technical Principles
 - **Wrist Motion**: The movement should come primarily from turning the wrists. Avoid "squeezing" the sticks, which causes tension.
 - **Stroke Height**: Each roll stroke should begin and end approximately **one inch** above the practice pad or drumhead, parallel to the floor.
-- **Relaxation**: If tension is felt in the forearms, neck, or shoulders, immediately lower the [[Metronome]] tempo. Relaxation is the key to velocity.
+- **Relaxation**: If tension is felt in the forearms, neck, or shoulders, immediately lower the [[Metronome]] [[Tempo|tempo]]. Relaxation is the key to velocity.
 - **Precision**: Every roll must begin and end exactly with the metronome click.
 
 ### Common Pitfalls

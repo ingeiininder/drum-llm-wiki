@@ -27,4 +27,4 @@ When applied to the feet:
 
 ### Pro-Tips
 *   **Lead with the Weak Foot**: Practice starting the pattern with the left foot (**L R L R L L**) to ensure symmetry in power and timing.
-*   **Integration**: Try playing a steady 8th-note pattern on the [[Ride Cymbal]] while executing the double paradiddles on the feet to test four-way coordination.
+*   **Integration**: Try playing a steady 8th-note pattern on the [[Ride_Cymbal]] while executing the double paradiddles on the feet to test four-way coordination.

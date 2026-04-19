@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Reggae Fill Orchestration (Double Stops)
 
-In a [[Swung Reggae Ostinato]] context, fills are often orchestrated using **Double Stops**—striking two different drum surfaces simultaneously. This creates a thicker, more percussive texture common in dub and reggae music.
+In a [[Swung_Reggae_Ostinato]] context, fills are often orchestrated using **Double Stops**—striking two different drum surfaces simultaneously. This creates a thicker, more percussive texture common in dub and reggae music.
 
 ### Orchestration Ideas (Ex 8.14)
 Common double-stop combinations include:

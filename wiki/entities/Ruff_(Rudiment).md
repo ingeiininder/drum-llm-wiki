@@ -16,10 +16,10 @@ A Ruff is a drum rudiment defined as a short [[Single-Stroke Roll]] that is gene
 
 ## Types of Ruffs
 The "Ruff family" includes several variations, distinguished by the number of strokes involved. This unit focuses on:
-*   [[Three-Stroke Ruff]]
-*   [[Four-Stroke Ruff]]
-*   [[Five-Stroke Ruff]]
-*   [[Seven-Stroke Ruff]]
+*   [[Three-Stroke_Ruff]]
+*   [[Four-Stroke_Ruff]]
+*   [[Five-Stroke_Ruff]]
+*   [[Seven-Stroke_Ruff]]
 
 Each of these can also have "inverted" variations, where the grace notes follow the accent.
 

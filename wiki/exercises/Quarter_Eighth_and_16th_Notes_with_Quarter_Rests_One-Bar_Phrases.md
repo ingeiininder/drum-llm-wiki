@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarter, Eighth, and 16th Notes with Quarter Rests (One-Bar Phrases)
 
-This exercise category integrates [[Quarter Notes]], [[Eighth Notes]], and [[16th Notes]] with [[Quarter_Rest]] within single-measure phrases. This challenges drummers to navigate a wide range of rhythmic values and manage significant periods of silence, all while interpreting [[Shared Beams]] notation.
+This exercise category integrates [[Quarter_Note]], [[Eighth_Note]], and [[16th_Notes]] with [[Quarter_Rest]] within single-measure phrases. This challenges drummers to navigate a wide range of rhythmic values and manage significant periods of silence, all while interpreting [[Shared_Beams]] notation.
 
 ## Exercise Description
 
@@ -25,7 +25,7 @@ The primary challenge is to accurately interpret the varied durations and placem
 *   **Internal Clock with Rests**: Develop a strong internal [[Metronome]] to keep time accurately through the quarter rests. Mentally count the subdivisions (e.g., "1 e & a") during the silence.
 *   **Metronome Use**: Essential for developing a steady [[Tempo]] and precise timing. Start slowly and gradually increase the speed.
 *   **Vocalization**: Count out loud, articulating the subdivisions for each note and rest. This helps to internalize the rhythmic patterns.
-*   **Beaming Interpretation**: Pay close attention to how notes are beamed, especially the use of [[Partial Beams]], as this indicates their rhythmic relationship within the beat.
+*   **Beaming Interpretation**: Pay close attention to how notes are beamed, especially the use of [[Partial_Beams]], as this indicates their rhythmic relationship within the beat.
 *   **Anticipation**: Mentally prepare for the upcoming notes or rests during the preceding silence to ensure a precise re-entry.
 
-Mastering these exercises is crucial for developing a comprehensive rhythmic vocabulary, improving [[Drum Reading]] skills for complex rhythmic figures, and enhancing overall rhythmic precision in performance, particularly when dealing with varied note durations and longer periods of silence.
+Mastering these exercises is crucial for developing a comprehensive rhythmic vocabulary, improving [[Drum_Reading]] skills for complex rhythmic figures, and enhancing overall rhythmic precision in performance, particularly when dealing with varied note durations and longer periods of silence.

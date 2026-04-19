@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Bass Drum (Notation)
-In [[Drum Set Notation Key]], the [[Bass Drum]] is typically notated on the lowest part of [[The Staff]] to reflect its low pitch.
+In [[Drum_Set_Notation_Key]], the [[Bass_Drum]] is typically notated on the lowest part of [[The_Staff]] to reflect its low pitch.
 
 ## Standard Placement
-*   The bass drum is commonly represented by a standard solid black [[Note Head]].
+*   The bass drum is commonly represented by a standard solid black [[Note_Head]].
 *   Its usual position is on the **bottom space** of the staff or sometimes on the **first ledger line below the staff**.
 
 ## Function in Notation

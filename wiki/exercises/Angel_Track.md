@@ -9,13 +9,13 @@ last_updated: 2026-04-19
 
 # Angel (Track)
 
-"Angel" is a complex composition by Conrad Schrenk, featured in [[Thomas Lang]]'s *Creative Control*. It is described as "acoustic drum and bass jazz-fusion with a hint of latin flair."
+"Angel" is a complex composition by Conrad Schrenk, featured in [[Thomas_Lang]]'s *Creative Control*. It is described as "acoustic drum and bass jazz-fusion with a hint of latin flair."
 
 ### Structural Evolution
 The track follows a "full circle" arrangement:
 1. **Intro**: Features a [[Non_Descript_Groove]]. The focus is on an open, evolving "vibe" rather than a repetitive cycle.
-2. **Main Section**: Transitions into a "human version" of a [[Drum and Bass]] groove. This section utilizes [[Rimshot]], tight [[Hi-Hat]] work, and dense [[Ghost Notes]].
-3. **Bridge**: The climax of the tune, involving [[Ride Cymbal]] patterns and unison accents with the guitar and vocals.
+2. **Main Section**: Transitions into a "human version" of a [[Drum and Bass]] groove. This section utilizes [[Rimshot]], tight [[Hi-Hat]] work, and dense [[Ghost_Notes]].
+3. **Bridge**: The climax of the tune, involving [[Ride_Cymbal]] patterns and unison accents with the guitar and vocals.
 4. **Outro**: Returns to the open, improvised feel of the intro, concluding with a [[Groove Solo]].
 
 ### Technical Requirements
@@ -25,4 +25,4 @@ The track follows a "full circle" arrangement:
 
 **Pitfall**: Avoid playing too "stiff" during the Drum and Bass sections. While the goal is a programmed sound, the "human version" requires a subtle jazzy looseness to the ghost notes.
 
-**Source**: Excerpted from *Creative Control* by [[Thomas Lang]].
+**Source**: Excerpted from *Creative Control* by [[Thomas_Lang]].

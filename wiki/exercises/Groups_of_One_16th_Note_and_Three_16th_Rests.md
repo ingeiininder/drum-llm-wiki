@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Groups of One 16th Note and Three 16th Rests
 
-This exercise category focuses on developing precise [[16th Notes]] placement and understanding of [[Rests]]. Each exercise involves playing a single 16th note followed by three 16th rests, effectively isolating the attack point within a beat. This helps drummers internalize the four subdivisions of a quarter note (1 e & a).
+This exercise category focuses on developing precise [[16th_Notes]] placement and understanding of [[Rests]]. Each exercise involves playing a single 16th note followed by three 16th rests, effectively isolating the attack point within a beat. This helps drummers internalize the four subdivisions of a quarter note (1 e & a).
 
 ## Variations
 
@@ -27,4 +27,4 @@ The core concept is applied to different subdivisions of the beat:
 *   **Consistency**: Focus on consistent dynamics and articulation for the single 16th note, regardless of its placement.
 *   **Application**: Once comfortable, try applying these isolated placements to a [[Drum Beat]] or [[Fill]] to add rhythmic interest and precision.
 
-This exercise is fundamental for developing a strong internal clock and precise rhythmic control, especially crucial for playing complex [[Groove]] and [[Fill]] involving [[16th Notes]].
+This exercise is fundamental for developing a strong internal clock and precise rhythmic control, especially crucial for playing complex [[Groove]] and [[Fill]] involving [[16th_Notes]].

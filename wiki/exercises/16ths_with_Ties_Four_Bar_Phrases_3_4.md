@@ -8,15 +8,15 @@ last_updated: 2023-10-27
 
 # 16ths with Ties (Four-Bar Phrases) - 3/4
 
-This exercise combines [[Ties]] with [[Sixteenth Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. This is a challenging exercise that requires a high degree of rhythmic precision and the ability to maintain a consistent sixteenth note subdivision across tied notes and bar lines in a triple meter.
+This exercise combines [[Ties]] with [[Sixteenth_Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. This is a challenging exercise that requires a high degree of rhythmic precision and the ability to maintain a consistent sixteenth note subdivision across tied notes and bar lines in a triple meter.
 
 **Purpose:**
 *   To master the accurate execution of tied sixteenth notes, ensuring their combined duration is precisely observed.
 *   To develop advanced rhythmic continuity and precision in longer phrases involving both sixteenth notes and ties in 3/4 time.
-*   To improve [[Sight Reading]] for complex rhythmic figures in fine subdivisions.
+*   To improve [[Sight_Reading]] for complex rhythmic figures in fine subdivisions.
 
 **Pro-Tips:**
-*   **Subdivision:** Maintain a strong internal [[Sixteenth Note]] subdivision ("one-e-and-a") to accurately calculate the combined duration of tied notes and their precise release point.
+*   **Subdivision:** Maintain a strong internal [[Sixteenth_Note]] subdivision ("one-e-and-a") to accurately calculate the combined duration of tied notes and their precise release point.
 *   **Mental Continuation:** When encountering a tie, mentally "play" the tied note for its full duration without re-attacking. This is crucial for maintaining the [[Pulse]].
 *   **Metronome:** Use a [[Metronome]] clicking on the sixteenth note subdivision to ensure precise timing.
 *   **Common Pitfall:** Re-attacking a tied note, or shortening/lengthening the combined duration of tied sixteenth notes, leading to rhythmic inaccuracies.

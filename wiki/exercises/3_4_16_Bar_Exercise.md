@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # 3/4 16-Bar Exercise
 
-This comprehensive exercise presents a 16-bar rhythmic passage within the [[3_4_Time_Signature]]. It integrates various [[Note Values]], [[Rests]], [[Ties]], and potentially [[Syncopation]] encountered in previous shorter exercises, challenging the drummer's endurance, focus, and overall [[Rhythm Reading]] proficiency in a triple meter.
+This comprehensive exercise presents a 16-bar rhythmic passage within the [[3_4_Time_Signature]]. It integrates various [[Note Values]], [[Rests]], [[Ties]], and potentially [[Syncopation]] encountered in previous shorter exercises, challenging the drummer's endurance, focus, and overall [[Rhythm_Reading]] proficiency in a triple meter.
 
 **Purpose:**
 *   To develop rhythmic endurance and the ability to maintain a consistent [[Tempo]] and [[Pulse]] over an extended musical phrase in 3/4 time.
 *   To integrate and apply all previously learned rhythmic concepts within a continuous context.
-*   To improve [[Sight Reading]] for longer, more complex musical passages in 3/4.
+*   To improve [[Sight_Reading]] for longer, more complex musical passages in 3/4.
 
 **Pro-Tips:**
 *   **Sectional Practice:** Break the 16 bars into smaller, manageable sections (e.g., 4-bar phrases) and master each section before linking them together.

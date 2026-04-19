@@ -3,7 +3,7 @@ type: topic
 book_id: READ1
 source: IMG_0573
 unit: 10
-tags: [rudiments, contemporary_drumming, technique]
+tags: [[[Rudiments|rudiments]], contemporary_drumming, technique]
 last_updated: 2026-04-19
 ---
 
@@ -23,10 +23,10 @@ The Herta is essentially a three-note motive played within a four-note or triple
 ### Usage
 Hertas are frequently used in:
 *   **Grooves**: Adding excitement to a standard backbeat.
-*   **Fills/Solos**: Creating high-velocity bursts that are easier to execute than pure [[Single Stroke Roll]]s.
+*   **Fills/Solos**: Creating high-velocity bursts that are easier to execute than pure [[Single_Stroke_Roll]]s.
 
 ### Common Pitfalls
-The most common mistake is "crushing" the double strokes, which causes the rudiment to sound like a [[Flams]]. The goal is an "open" and "breathy" sound where every note is distinct.
+The most common mistake is "crushing" the [[Double_Strokes|double strokes]], which causes the rudiment to sound like a [[Flams]]. The goal is an "open" and "breathy" sound where every note is distinct.
 
 ### Pro-Tip
-Practice Hertas to a 16th-note click. Ensure the double strokes are not rushed. This rudiment is equally effective when orchestrated between the hands and the [[Bass Drum]].
+Practice Hertas to a 16th-note click. Ensure the [[Double_Strokes|double strokes]] are not rushed. This rudiment is equally effective when orchestrated between the hands and the [[Bass_Drum]].

@@ -1,20 +1,38 @@
 ---
 type: topic
-book_id: TECH1_2
-source: [IMG_1107]
+book_id: [READ3, TECH1_2]
+source: [IMG_0879, IMG_0880, IMG_1107]
 unit: 1
-tags: [fills, ensemble_playing]
-last_updated: 2026-04-19
+tags: [fills, [[Phrasing|phrasing]], ensemble_playing, technique, notation]
+last_updated: 2026-04-20
 ---
 
 # Setup Fills
 
-**Setup Fills** (or "Lead-in Fills") are short rhythmic figures used to "telegraph" or forecast the arrival of [[Ensemble Figures]]. Their primary purpose is to ensure the entire band hits a syncopated figure together.
+A **Setup [[Fill|Fill]]** (also known as a "Lead-in [[Fill|Fill]]") is a short rhythmic statement played by the drummer immediately preceding an **[[Ensemble_Figures|Ensemble Figure]]**. Its primary purpose is to "telegraph" or forecast the upcoming rhythm to the rest of the band, ensuring a unified and powerful execution.
 
-### Functional Requirements
-- **Solid Downbeat**: A setup fill must often include a very solid downbeat (e.g., on beat 3) to provide a clear reference point for the band before the syncopated figure occurs.
-- **Duration**: In the MI curriculum, these are often 1-1/2 beat "fill markers."
-- **Filling the Gaps**: To ensure proper placement of syncopated notes, it is recommended to "fill in" the missing 16th-note subdivisions with [[Ghost Notes]] on the snare drum (IMG_1107).
+## Mechanics and Execution
+A setup [[Fill|fill]] must conclude exactly before the ensemble figure begins. It typically starts on a designated **[[Target_Beat|Target Beat]]**.
 
-### Context
-In [[Pop-Rock Drumming]], setup fills are crucial for navigating the "&" of beat 3 and the "ah" of beat 4, which are common recurring ensemble figures.
+- **Length vs. Target**: The length of the [[Fill|fill]] often corresponds to the [[Duration|duration]] of the note being set up:
+    - **[[Quarter_Notes|Quarter Notes]]**: Typically require a one-[[Beat|beat]] setup.
+    - **Half Notes**: Typically require a two-[[Beat|beat]] setup.
+    - **Whole Notes**: Typically require a four-[[Beat|beat]] setup.
+- **[[Subdivision|Subdivision]] Integrity**: To ensure perfect placement of syncopated notes (like the "e" or "ah" of a [[Beat|beat]]), it is recommended to "[[Fill|fill]] in" the missing 16th-note subdivisions with **[[Ghost_Notes]]** on the snare drum.
+
+## Functional Requirements
+For a setup [[Fill|fill]] to be effective:
+1.  **Solid Downbeat**: It must provide a clear reference point (often a strong hit on a downbeat) so the band can orient themselves before the [[Syncopation|syncopation]].
+2.  **Clarity**: It should distinguish itself clearly from the regular [[Groove|groove]] without being overly complex.
+3.  **Lead-in**: Think of the setup as a physical breath. It prepares the ensemble to "exhale" the ensemble figure together.
+
+## Professional Practice
+- **Orchestration**: A common professional technique is to use the **[[Snare_Drum]]** for the [[Fill|fill]] and the **[[Crash_Cymbal]]** supported by the **[[Bass_Drum]]** for the actual ensemble figure impacts.
+- **Volume**: The setup should be heard clearly by the band but should not be louder than the ensemble figure itself.
+
+## See Also
+- [[Ensemble_Figures]]
+- [[Drum_Fill]]
+- [[Fill_Markers]]
+- [[Time_Slashes]]
+- [[Target_Beats]]

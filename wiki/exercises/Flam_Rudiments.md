@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Flam Rudiments
 
-Flam rudiments integrate the [[Flam Technique]] into various rhythmic patterns and sticking permutations. The primary goal when practicing these is **control over speed**, specifically maintaining low stick heights for unaccented notes.
+Flam rudiments integrate the [[Flam_Technique]] into various rhythmic patterns and sticking permutations. The primary goal when practicing these is **control over speed**, specifically maintaining low stick heights for unaccented notes.
 
 ### Essential Flam Rudiments
 The following are the foundational flam-based patterns used in the Musicians Institute curriculum:

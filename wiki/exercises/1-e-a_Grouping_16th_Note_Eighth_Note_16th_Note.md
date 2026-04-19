@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 1-e-a Grouping (16th Note + Eighth Note + 16th Note)
 
-The **1-e-a Grouping** is a common syncopated rhythmic pattern within a single beat, combining a [[16th Note]], an [[Eighth Note]], and another 16th note. This pattern is frequently encountered in various musical styles and is a key component of [[Shared Beams]] notation, often utilizing [[Partial Beams]].
+The **1-e-a Grouping** is a common syncopated rhythmic pattern within a single beat, combining a [[16th_Note]], an [[Eighth_Note]], and another 16th note. This pattern is frequently encountered in various musical styles and is a key component of [[Shared_Beams]] notation, often utilizing [[Partial_Beams]].
 
 ## Rhythmic Structure
 
@@ -31,7 +31,7 @@ This grouping creates a "short-long-short" or "syncopated" feel within the beat,
 *   **Metronome**: Practice with a [[Metronome]] at a slow tempo, gradually increasing speed.
 *   **Vocalization**: Count "1 e & a" out loud, emphasizing the played notes: "ONE (E-AND) A". This helps to internalize the precise placement.
 *   **Evenness**: Ensure the two 16th notes are played evenly and with consistent dynamics, framing the central eighth note.
-*   **Application**: This pattern is excellent for creating syncopated [[Hi-Hat]] or [[Snare Drum]] patterns in [[Drum Beat]]s, or for adding rhythmic interest to [[Fill]]s.
+*   **Application**: This pattern is excellent for creating syncopated [[Hi-Hat]] or [[Snare_Drum]] patterns in [[Drum Beat]]s, or for adding rhythmic interest to [[Fill]]s.
 *   **Looping**: Practice playing this pattern repeatedly for a full measure (as shown in Ex 4.17 in the source) to develop consistency and fluidity.
 
-Mastering the 1-e-a grouping is essential for accurate [[Drum Reading]] and for developing a versatile rhythmic vocabulary, particularly for playing syncopated and grooving patterns.
+Mastering the 1-e-a grouping is essential for accurate [[Drum_Reading]] and for developing a versatile rhythmic vocabulary, particularly for playing syncopated and grooving patterns.

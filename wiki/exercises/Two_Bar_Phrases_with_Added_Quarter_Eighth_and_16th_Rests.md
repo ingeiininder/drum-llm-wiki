@@ -14,4 +14,4 @@ This exercise focuses on enhancing a drummer's proficiency in accurately reading
 *   **Subdivision of Rests**: Accurately subdivide the beat to ensure rests of different values (quarter, eighth, sixteenth) are held for their exact duration.
 *   **Dynamic Control**: Practice maintaining a consistent internal pulse during rests, preparing for the next attack with precision.
 
-**Pro-Tip:** When practicing, mentally "play" the rests. For example, if there's an [[Eighth Rest]], think "1-and" but only play on the "and" if the next note falls there. This mental subdivision helps maintain rhythmic continuity even during periods of silence. Using a [[Metronome]] is essential for developing accurate rest timing.
+**Pro-Tip:** When practicing, mentally "play" the rests. For example, if there's an [[Eighth_Rest]], think "1-and" but only play on the "and" if the next note falls there. This mental subdivision helps maintain rhythmic continuity even during periods of silence. Using a [[Metronome]] is essential for developing accurate rest timing.

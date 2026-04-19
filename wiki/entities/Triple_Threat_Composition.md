@@ -21,4 +21,4 @@ The "Road Map" (IMG_1570) indicates a structure alternating between "Groove A" a
 
 ### Pro-Tips
 *   **Counting**: Because the left foot occupies unusual upbeat positions, vocalizing the count is essential to prevent "rushing" the triplets.
-*   **Spring Tension**: Refer to [[Pedal Spring Tension]] for hardware optimization specific to this style of playing.
+*   **Spring Tension**: Refer to [[Pedal_Spring_Tension]] for hardware optimization specific to this style of playing.

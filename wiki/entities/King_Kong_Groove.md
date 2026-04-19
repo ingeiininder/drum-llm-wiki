@@ -8,10 +8,10 @@ last_updated: 2026-04-19
 ---
 
 # King Kong Groove
-The **King Kong Groove** is a high-level coordination beat characterized by a distinct, syncopated rhythm on the [[Hi-Hat]] or [[Ride Cymbal]], often utilizing [[Swiss Army Triplet]] stickings.
+The **King Kong Groove** is a high-level coordination beat characterized by a distinct, syncopated rhythm on the [[Hi-Hat]] or [[Ride_Cymbal]], often utilizing [[Swiss Army Triplet]] stickings.
 
 ### Construction
-The groove is built by applying a specific sticking pattern (typically involving flams or shifted triplets) between the ride surface and the [[Snare Drum]].
+The groove is built by applying a specific sticking pattern (typically involving flams or shifted triplets) between the ride surface and the [[Snare_Drum]].
 - **Sticking**: Often utilizes the [[Swiss Army Triplet]] (LR R L).
 - **Accents**: Placing accents on beats 2 and 4 creates a "Garibaldi-esque" (funk) feel.
 - **Bass Drum Variations**:

@@ -8,11 +8,11 @@ last_updated: 2023-10-27
 
 # Chorus (Jazz/Blues Term)
 
-In [[Jazz Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the term "chorus" has a specific meaning that differs significantly from its use in pop music.
+In [[Jazz_Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the term "chorus" has a specific meaning that differs significantly from its use in pop music.
 
 ## Definition
 
-Unlike a pop music chorus, which refers to "the hook" or main repeating section of a song, a jazz or blues chorus is slang for "one time through the form." This means that one chorus represents a complete cycle of the underlying musical structure, typically the [[12-Bar Blues Open Form|12-bar blues]] progression.
+Unlike a pop music chorus, which refers to "the hook" or main repeating section of a song, a jazz or blues chorus is slang for "one time through the form." This means that one chorus represents a complete cycle of the underlying musical structure, typically the [[12-Bar_Blues_Open_Form|12-bar blues]] progression.
 
 ## Usage
 

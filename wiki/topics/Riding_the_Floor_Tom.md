@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Riding the Floor Tom
 
-**Riding the Floor Tom** is an orchestration technique where the floor tom replaces the hi-hat or ride cymbal as the primary time-keeping surface.
+**Riding the Floor Tom** is an orchestration technique where the floor tom replaces the [[Hi-Hat|hi-hat]] or [[Ride_Cymbal|ride cymbal]] as the primary time-keeping surface.
 
 ### Technical Requirements
 - **Dynamic**: Typically played at *mezzo-forte*.
@@ -18,8 +18,8 @@ last_updated: 2026-04-19
 
 ### The "Low Drone" Concept
 The goal is to create a "low drone" that surrounds the band. 
-- **Avoid**: A tight/tense grip or hitting too hard, which makes the tom sound staccato, choked, and stiff.
+- **Avoid**: A tight/tense grip or hitting too hard, which makes the tom sound [[Staccato|staccato]], choked, and stiff.
 - **Result**: A thick, resonant tone that adds immense weight to a "C" section or bridge.
 
 ### Context
-Often used in [[Modern Rock Drumming]] during heavy, syncopated sections alongside a [[Four-on-the-Floor]] bass drum pattern.
+Often used in [[Modern_Rock_Drumming]] during heavy, syncopated sections alongside a [[Four-on-the-Floor]] [[Bass_Drum|bass drum]] pattern.

@@ -7,17 +7,17 @@ last_updated: 2023-10-27
 ---
 
 # Half Notes and Quarter Notes with Accompanying Rests (Advanced Exercises)
-This section presents more complex rhythmic exercises, building upon the foundational understanding of [[Half Note]]s, [[Quarter Note]]s, and their corresponding [[Half Rest]]s and [[Quarter Rest]]s. These exercises introduce various phrasing and combination challenges. As with all exercises, play on a single surface (e.g., [[Practice Pad]] or [[Snare Drum]]) at a starting [[Beats Per Minute (BPM)|BPM]] of 75, repeating each exercise ten times.
+This section presents more complex rhythmic exercises, building upon the foundational understanding of [[Half_Note]]s, [[Quarter_Note]]s, and their corresponding [[Half_Rest]]s and [[Quarter_Rest]]s. These exercises introduce various phrasing and combination challenges. As with all exercises, play on a single surface (e.g., [[Practice Pad]] or [[Snare_Drum]]) at a starting [[Beats_Per_Minute_(BPM)|BPM]] of 75, repeating each exercise ten times.
 
 ## A. Two-Bar Phrases (Alternating Measures: One Bar of Half Notes, One Bar of Quarter Notes)
 *   **Objective**: To develop smooth transitions between different rhythmic densities across measures.
-*   **Description**: This exercise involves playing a full [[Measure]] of [[Half Note]]s (two per measure) followed by a full measure of [[Quarter Note]]s (four per measure), then repeating the pattern.
+*   **Description**: This exercise involves playing a full [[Measure]] of [[Half_Note]]s (two per measure) followed by a full measure of [[Quarter_Note]]s (four per measure), then repeating the pattern.
 *   **Pro-Tip**: Focus on maintaining a consistent underlying [[Beat]] and [[Tempo]] as you shift from the two-beat pulse of half notes to the four-beat pulse of quarter notes.
 
 ## B. One-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)
 *   **Objective**: To master intricate rhythmic combinations within a single measure, incorporating both notes and rests.
-*   **Description**: These exercises will present various patterns of [[Half Note]]s, [[Half Rest]]s, [[Quarter Note]]s, and [[Quarter Rest]]s, all contained within one measure.
-*   **Pro-Tip**: Pay meticulous attention to the precise placement and duration of each note and rest. Vocalize the [[Counting Beats|counts]] and ensure rests are "played" as accurately as notes.
+*   **Description**: These exercises will present various patterns of [[Half_Note]]s, [[Half_Rest]]s, [[Quarter_Note]]s, and [[Quarter_Rest]]s, all contained within one measure.
+*   **Pro-Tip**: Pay meticulous attention to the precise placement and duration of each note and rest. Vocalize the [[Counting_Beats|counts]] and ensure rests are "played" as accurately as notes.
 
 ## C. Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)
 *   **Objective**: To extend the complexity of rhythmic combinations over two measures, enhancing rhythmic flow and continuity.
@@ -41,18 +41,18 @@ This section presents more complex rhythmic exercises, building upon the foundat
 
 ## General Practice Advice
 *   **Metronome**: Essential for maintaining [[Tempo]] and identifying timing inaccuracies.
-*   **Subdivision**: Mentally subdivide the beats (e.g., into [[Eighth Note]]s) to ensure precise placement of notes and rests, especially for syncopated rhythms.
+*   **Subdivision**: Mentally subdivide the beats (e.g., into [[Eighth_Note]]s) to ensure precise placement of notes and rests, especially for syncopated rhythms.
 *   **Dynamic Control**: Practice playing these exercises with consistent dynamics, ensuring each stroke has the same volume and attack unless otherwise indicated.
 
 ## Related Concepts
 *   [[Exercises: Rhythmic Fundamentals Introduction]]
-*   [[Rhythmic Values]]
-*   [[Half Note]]
-*   [[Quarter Note]]
-*   [[Half Rest]]
-*   [[Quarter Rest]]
+*   [[Rhythmic_Values]]
+*   [[Half_Note]]
+*   [[Quarter_Note]]
+*   [[Half_Rest]]
+*   [[Quarter_Rest]]
 *   [[Metronome]]
 *   [[Practice Pad]]
-*   [[Snare Drum]]
+*   [[Snare_Drum]]
 *   [[Phrasing]]
 *   [[Syncopation]]

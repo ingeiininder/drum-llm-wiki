@@ -14,7 +14,7 @@ last_updated: 2026-04-19
 ### Application in Drum Charts
 - **Contextual Silence**: Often used during intros where only the bass or guitar is playing to establish the mood before the drums enter.
 - **Conditional Tacet**: Charts may include instructions such as "Drums Tacet until 3rd time," indicating that the performer should wait through multiple repeats before initiating the [[Groove]].
-- **Transitioning**: Coming out of a tacet section usually requires a [[Pickup Fill]] or a strong "hit" to signal the band's collective entry.
+- **Transitioning**: Coming out of a tacet section usually requires a [[Pickup_Fill]] or a strong "hit" to signal the band's collective entry.
 
 ### Professional Context
-When a chart marks a section as tacet, the drummer should remain physically still and attentive to the tempo, ensuring they are ready to enter with perfect [[Timekeeping]] when the tacet period concludes.
+When a [[Chart|chart]] marks a section as tacet, the drummer should remain physically still and attentive to the [[Tempo|tempo]], ensuring they are ready to enter with perfect [[Timekeeping]] when the tacet period concludes.

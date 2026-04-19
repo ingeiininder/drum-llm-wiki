@@ -13,7 +13,7 @@ This exercise integrates [[Ties]] with [[Triplet Eighth Note]]s in extended four
 **Purpose:**
 *   To master the accurate execution of tied triplet eighth notes, ensuring their combined duration is precisely observed.
 *   To develop advanced rhythmic continuity and precision in longer phrases involving both triplets and ties in 3/4 time.
-*   To improve [[Sight Reading]] for complex rhythmic figures in compound subdivisions.
+*   To improve [[Sight_Reading]] for complex rhythmic figures in compound subdivisions.
 
 **Pro-Tips:**
 *   **Subdivision:** Maintain a consistent internal [[Triplet Eighth Note]] subdivision ("trip-uh-let") to accurately calculate the combined duration of tied notes.

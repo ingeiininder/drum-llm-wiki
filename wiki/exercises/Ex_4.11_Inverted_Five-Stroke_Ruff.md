@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Ex 4.11 Inverted Five-Stroke Ruff
-This exercise introduces the [[Inverted Five-Stroke Ruff]], where the accented stroke precedes the four unaccented grace notes. This requires a different approach to dynamic control and stick articulation compared to the standard version.
+This exercise introduces the [[Inverted_Five-Stroke_Ruff]], where the accented stroke precedes the four unaccented grace notes. This requires a different approach to dynamic control and stick articulation compared to the standard version.
 
 **Objective:**
-To develop proficiency in executing the [[Inverted Five-Stroke Ruff]] with a clear initial accent followed by soft, even grace notes.
+To develop proficiency in executing the [[Inverted_Five-Stroke_Ruff]] with a clear initial accent followed by soft, even grace notes.
 
 **Musical Context (as described in source):**
 The exercise is presented with 16th-note triplets and quarter notes, indicating a focus on rhythmic precision within a triplet feel and across different subdivisions.

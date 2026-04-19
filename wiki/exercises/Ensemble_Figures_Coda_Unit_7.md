@@ -22,8 +22,8 @@ In the Unit 7 chart, ensemble figures are present in the coda section (at the ve
 ## Drummer's Orchestration
 
 As a drummer, you need to accentuate these rhythms alongside the band to create a powerful and cohesive ending. A good orchestration option is:
-*   **Play the rhythm on the [[Snare Drum]]**: This provides a clear and articulate articulation for the figures.
-*   **Last hit on the "&" of 2**: Play this final hit with a [[Bass Drum]]/[[Crash Cymbal]] combination. This creates a definitive and impactful final statement.
+*   **Play the rhythm on the [[Snare_Drum]]**: This provides a clear and articulate articulation for the figures.
+*   **Last hit on the "&" of 2**: Play this final hit with a [[Bass_Drum]]/[[Crash_Cymbal]] combination. This creates a definitive and impactful final statement.
 
 ## Importance
 

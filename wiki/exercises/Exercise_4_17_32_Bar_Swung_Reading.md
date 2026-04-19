@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Exercise 4.17: 32-Bar Swung Reading
-This exercise focuses on the independence required to maintain a [[Swung 16th Notes]] feel while reading syncopated rhythms.
+This exercise focuses on the independence required to maintain a [[Swung_16th_Notes]] feel while reading syncopated rhythms.
 
 ### The Hand Ostinato (Ex 4.16)
 Before reading the 32-bar chart, establish the following hand pattern:

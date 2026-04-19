@@ -7,14 +7,14 @@ last_updated: 2023-10-27
 ---
 
 # Drum Seat Homework (Unit 2)
-This homework assignment focuses on understanding and applying the concepts of drumming grips, [[Traditional Grip]] history, [[Technique Control Exercises (Grips)]], [[Down Stroke]] integration, and proper [[Drum Seat]] balance.
+This homework assignment focuses on understanding and applying the concepts of drumming grips, [[Traditional_Grip]] history, [[Technique_Control_Exercises_(Grips)]], [[Down_Stroke]] integration, and proper [[Drum_Seat]] balance.
 
 ## Objectives:
-1.  **Grip Differentiation**: Be able to explain the differences between [[American Grip]], [[German Grip]], and [[French Grip]].
-2.  **Traditional Grip Knowledge**: Be able to explain what [[Traditional Grip]] is and where it originated from.
-3.  **Technique Control Exercises**: Be able to play all of the [[Technique Control Exercises (Grips)]] (Ex 2.14 - Ex 2.27) with all of the grips (American, German, French, and Traditional if applicable).
-4.  **Down Stroke Integration**: Incorporate [[Down Stroke]]s within a series of free strokes, as demonstrated in Ex 1.16 (likely a typo, should refer to a relevant exercise from Unit 1 or 2).
-5.  **Balance Shift**: Recognize and actively practice the shift of balance from your feet to your [[Drum Seat]] as you sit on the backside of the throne.
+1.  **Grip Differentiation**: Be able to explain the differences between [[American_Grip]], [[German_Grip]], and [[French_Grip]].
+2.  **Traditional Grip Knowledge**: Be able to explain what [[Traditional_Grip]] is and where it originated from.
+3.  **Technique Control Exercises**: Be able to play all of the [[Technique_Control_Exercises_(Grips)]] (Ex 2.14 - Ex 2.27) with all of the grips (American, German, French, and Traditional if applicable).
+4.  **Down Stroke Integration**: Incorporate [[Down_Stroke]]s within a series of free strokes, as demonstrated in Ex 1.16 (likely a typo, should refer to a relevant exercise from Unit 1 or 2).
+5.  **Balance Shift**: Recognize and actively practice the shift of balance from your feet to your [[Drum_Seat]] as you sit on the backside of the throne.
 
 ## Pro-Tips for Success:
 *   **Verbal Explanation**: Practice explaining the grip differences and Traditional Grip's history out loud, as if teaching someone else. This reinforces your understanding.

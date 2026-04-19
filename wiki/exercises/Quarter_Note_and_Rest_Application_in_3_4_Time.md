@@ -7,11 +7,11 @@ last_updated: 2023-10-27
 ---
 
 # Quarter Note and Rest Application in 3/4 Time
-This exercise focuses on the application of [[Quarter Notes]], [[Quarter_Rest]], [[Tied Quarter Notes]], and [[Dotted Quarter Note]]s within the [[3_4_Time_Signature]]. It builds proficiency in handling the primary beat unit and its extensions in this meter.
+This exercise focuses on the application of [[Quarter_Note]], [[Quarter_Rest]], [[Tied_Quarter_Notes]], and [[Dotted_Quarter_Note]]s within the [[3_4_Time_Signature]]. It builds proficiency in handling the primary beat unit and its extensions in this meter.
 
 **Key Learning Points:**
 *   **Beat Unit Mastery**: Accurately play and rest for the duration of a single beat (quarter note/rest).
 *   **Tied Quarter Notes**: Understand how quarter notes are tied together, especially across bar lines, to extend their [[Duration]].
-*   **Dotted Quarter Notes**: Precisely execute the 1.5-beat duration of dotted quarter notes, often creating [[Syncopated Rhythms]] that span across the beat.
+*   **Dotted Quarter Notes**: Precisely execute the 1.5-beat duration of dotted quarter notes, often creating [[Syncopated_Rhythms]] that span across the beat.
 
 **Pro-Tip:** Pay close attention to the placement of dotted quarter notes. In 3/4, a dotted quarter note on beat 1 will sustain through the "&" of 1, with the next available attack on beat 2. This creates a distinct rhythmic feel that is characteristic of 3/4 time.

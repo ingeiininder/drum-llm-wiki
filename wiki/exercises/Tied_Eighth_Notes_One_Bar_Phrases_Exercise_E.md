@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Eighth Notes (One-Bar Phrases) - Exercise E
-This exercise focuses on reading and performing [[Ties]] specifically applied to [[Eighth Notes]] within one-bar phrases. This is crucial for understanding [[Syncopated Rhythms]] and how notes can sustain across subdivisions.
+This exercise focuses on reading and performing [[Ties]] specifically applied to [[Eighth_Note]] within one-bar phrases. This is crucial for understanding [[Syncopated_Rhythms]] and how notes can sustain across subdivisions.
 
 **Key Learning Points:**
 *   **Subdivision Accuracy**: Precisely time the attacks and feel the extended duration of tied eighth notes, often crossing the "&" or main beat.

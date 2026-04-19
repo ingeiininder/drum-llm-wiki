@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Five Stroke Roll
-The Five Stroke Roll is one of the 40 International Drum Rudiments and is a prime example of the [[Double_Strokes_Alternating_Method]]. It consists of two [[Double Strokes]] followed by a single stroke, totaling five strokes.
+The Five Stroke Roll is one of the 40 International Drum Rudiments and is a prime example of the [[Double_Strokes_Alternating_Method]]. It consists of two [[Double_Strokes]] followed by a single stroke, totaling five strokes.
 
 *   **Sticking**:
     *   Right Hand Lead: RRLLR

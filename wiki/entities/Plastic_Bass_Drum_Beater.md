@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Plastic Bass Drum Beater
-A [[Plastic Bass Drum Beater]] is a type of bass drum beater characterized by its plastic or other hard-surfaced striking face (e.g., wood, rubber). Compared to traditional felt beaters, plastic beaters produce a brighter, more articulate, and often louder attack with a sharper "click" or "thwack" sound.
+A [[Plastic_Bass_Drum_Beater]] is a type of bass drum beater characterized by its plastic or other hard-surfaced striking face (e.g., wood, rubber). Compared to traditional felt beaters, plastic beaters produce a brighter, more articulate, and often louder attack with a sharper "click" or "thwack" sound.
 
 This makes them particularly suitable for:
 *   Forceful, staccato bass drum articulations.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ties Underneath Beams
-**Ties underneath beams** refers to a notational practice where [[Ties]] are placed below [[Beamed Notes]], typically [[Eighth Notes]] or [[Sixteenth Notes]]. While sometimes encountered, this method can occasionally reduce readability compared to tying individual notes.
+**Ties underneath beams** refers to a notational practice where [[Ties]] are placed below [[Beamed_Notes]], typically [[Eighth_Note]] or [[16th_Notes]]. While sometimes encountered, this method can occasionally reduce readability compared to tying individual notes.
 
 **Common Scenarios:**
 *   **Grouping Notes**: A tie might encompass all notes under a single beam, indicating a continuous sound across that group.

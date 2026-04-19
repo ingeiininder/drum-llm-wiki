@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: Triplet Eighths (Four-Bar Phrases)
-This exercise focuses on reading and performing rhythms composed of [[Eighth Note Triplets]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise focuses on reading and performing rhythms composed of [[Eighth_Note_Triplets]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing triplet-based rhythms.

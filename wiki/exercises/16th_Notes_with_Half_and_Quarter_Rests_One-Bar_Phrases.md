@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 16th Notes with Half and Quarter Rests (One-Bar Phrases)
 
-This exercise category focuses on developing advanced [[Rhythm]] reading and playing skills by combining [[16th Notes]] with longer [[Rests]] ([[Half_Rest]] and [[Quarter_Rest]]) within single-measure phrases. This challenges drummers to maintain a precise internal [[Metronome]] and subdivision awareness through periods of silence.
+This exercise category focuses on developing advanced [[Rhythm]] reading and playing skills by combining [[16th_Notes]] with longer [[Rests]] ([[Half_Rest]] and [[Quarter_Rest]]) within single-measure phrases. This challenges drummers to maintain a precise internal [[Metronome]] and subdivision awareness through periods of silence.
 
 ## Exercise Description
 
@@ -27,4 +27,4 @@ The primary challenge is to accurately interpret and perform the rapid 16th note
 *   **Dynamic Control**: Play the 16th notes with precision and consistent dynamics, and ensure the rests are truly silent.
 *   **Anticipation**: Mentally prepare for the upcoming notes or rests during the preceding silence.
 
-Mastering these exercises is vital for drummers who need to play intricate [[Groove]] and [[Fill]]s that involve both fast passages and precise rhythmic breaks, enhancing their overall [[Drum Reading]] and performance capabilities.
+Mastering these exercises is vital for drummers who need to play intricate [[Groove]] and [[Fill]]s that involve both fast passages and precise rhythmic breaks, enhancing their overall [[Drum_Reading]] and performance capabilities.

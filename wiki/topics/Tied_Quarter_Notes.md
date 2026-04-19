@@ -2,15 +2,15 @@
 type: topic
 source: [IMG_0429]
 unit: Unit 8 Chapter 1
-tags: [music theory, notation, ties, quarter notes, bar line]
+tags: [music theory, notation, ties, [[Quarter_Notes|quarter notes]], [[Bar_Line|bar line]]]
 last_updated: 2023-10-27
 ---
 
-# Tied Quarter Notes
-[[Ties]] are frequently used with [[Quarter Notes]] to extend their [[Duration]], especially when a note needs to sustain across a [[Bar Line]] or over a [[Downbeat]] that would otherwise be obscured.
+# Tied [[Quarter_Notes|Quarter Notes]]
+[[Ties]] are frequently used with [[Quarter_Note]] to extend their [[Duration]], especially when a note needs to sustain across a [[Bar_Lines]] or over a [[Downbeat]] that would otherwise be obscured.
 
 **Common Scenarios:**
-*   **Extending Across a Bar Line**: A quarter note on beat 4 of a measure can be tied to a note in the next measure (e.g., a [[Whole Note]]), creating a sustained sound that carries over the bar line. This effectively combines their durations. For example, a quarter note (1 beat) tied to a whole note (4 beats) results in a 5-beat duration.
-*   **Adhering to the [[2_3_Rule]]**: In [[4-4_Time_Signature]], to avoid obscuring the downbeat of beat 3, a [[Half Note]] on beat 2 might be replaced by two tied quarter notes (one on beat 2, tied to one on beat 3).
+*   **Extending Across a [[Bar_Line|Bar Line]]**: A quarter note on [[Beat|beat]] 4 of a [[Measure|measure]] can be tied to a note in the next [[Measure|measure]] (e.g., a [[Whole_Note]]), creating a sustained sound that carries over the [[Bar_Line|bar line]]. This effectively combines their durations. For example, a quarter note (1 [[Beat|beat]]) tied to a whole note (4 beats) results in a 5-[[Beat|beat]] duration.
+*   **Adhering to the [[2_3_Rule]]**: In [[4-4_Time_Signature]], to avoid obscuring the downbeat of [[Beat|beat]] 3, a [[Half_Note]] on [[Beat|beat]] 2 might be replaced by two tied [[Quarter_Notes|quarter notes]] (one on [[Beat|beat]] 2, tied to one on [[Beat|beat]] 3).
 
-**Pro-Tip:** When encountering tied quarter notes, remember to only strike the first note. The challenge lies in accurately feeling the combined duration and maintaining the internal [[Tempo]] without re-attacking the tied note. This is crucial for rhythmic accuracy and musical flow, particularly in [[Sight-Reading]].
+**Pro-Tip:** When encountering tied [[Quarter_Notes|quarter notes]], remember to only strike the first note. The challenge lies in accurately feeling the combined duration and maintaining the internal [[Tempo]] without re-attacking the tied note. This is crucial for rhythmic accuracy and musical flow, particularly in [[Sight_Reading]].

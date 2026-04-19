@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 "Master Studies" by Joe Morello is a highly regarded and influential drum instruction book, widely considered a cornerstone for developing advanced drumming technique and control. It focuses on a systematic approach to stick control, dynamics, and rhythmic precision.
 
 **Integration into Curriculum:**
-To further develop drumming techniques, the curriculum incorporates exercises from the [[Joe Morello Master Studies]] book. Specifically, the "Accent Studies" section is assigned for this unit.
+To further develop drumming techniques, the curriculum incorporates exercises from the [[Joe_Morello_Master_Studies]] book. Specifically, the "Accent Studies" section is assigned for this unit.
 
 **Assigned Exercises:**
 *   Exercises 1-12 on pages 7 and 8 of the "Master Studies" book are assigned for this unit. These exercises combine alternate stickings with one-handed stickings, providing a comprehensive workout for stick control and dynamic articulation.

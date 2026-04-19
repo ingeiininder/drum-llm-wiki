@@ -9,12 +9,12 @@ last_updated: 2026-04-19
 
 # 32nd Note Interpretation
 
-**32nd Note Interpretation** is the process of using 32nd-note subdivisions to set up [[Ensemble Figures]] or fill the space between rhythmic hits. This technique transforms stagnant figures into fluid, musical phrases.
+**32nd Note Interpretation** is the process of using 32nd-note subdivisions to set up [[Ensemble_Figures]] or [[Fill|fill]] the space between rhythmic hits. This technique transforms stagnant figures into fluid, musical phrases.
 
 ### The Continuous Flow Concept
 A common method for interpreting figures is to maintain a steady stream of alternating 32nd notes. 
-1.  **Double Stroke Method**: Play continuous 32nd notes as [[Double Stroke Roll|Double Strokes]] (RR-LL-RR-LL).
-2.  **Accenting**: When a written figure appears, interrupt the double-stroke flow with a single, accented [[16th Note]].
+1.  **Double Stroke Method**: Play continuous 32nd notes as [[Double_Stroke_Roll|Double Strokes]] (RR-LL-RR-LL).
+2.  **Accenting**: When a written figure appears, interrupt the double-stroke flow with a single, accented [[16th_Note]].
 
 ### Technical Execution
 *   **Lead Hand**: When playing isolated groups of two 32nd notes as doubles, your lead hand typically remains consistent.

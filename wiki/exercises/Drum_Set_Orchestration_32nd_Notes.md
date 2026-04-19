@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Drum Set Orchestration (32nd Notes)
 
-Once the concept of [[32nd Note Interpretation]] is mastered on the snare drum, it should be orchestrated across the drum set to enhance [[Phrasing]].
+Once the concept of [[32nd_Note_Interpretation]] is mastered on the snare drum, it should be orchestrated across the drum set to enhance [[Phrasing]].
 
 ### Orchestration Methods
 1.  **Bass Drum Support**: Add the bass drum to every accented note within the 32nd-note stream.

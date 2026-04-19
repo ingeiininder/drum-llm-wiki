@@ -7,18 +7,18 @@ last_updated: 2023-10-27
 ---
 
 # Inverted Five-Stroke Ruff Hand Isolation
-This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted Five-Stroke Ruff]]. It involves playing the entire rudiment with a single hand, focusing on that hand's ability to produce an accented stroke immediately followed by unaccented grace notes.
+This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted_Five-Stroke_Ruff]]. It involves playing the entire rudiment with a single hand, focusing on that hand's ability to produce an accented stroke immediately followed by unaccented grace notes.
 
 **Objective:**
-To develop independent hand control and strength for both hands, ensuring each hand can execute the [[Inverted Five-Stroke Ruff]] with precision, dynamics, and fluidity. This is crucial for achieving balanced and versatile [[Drum_Technique_50]].
+To develop independent hand control and strength for both hands, ensuring each hand can execute the [[Inverted_Five-Stroke_Ruff]] with precision, dynamics, and fluidity. This is crucial for achieving balanced and versatile [[Drum_Technique_50]].
 
 **Method (based on Ex 4.11 played with one hand):**
-The original [[Ex 4.11 Inverted Five-Stroke Ruff]] is adapted to be played entirely with one hand.
+The original [[Ex_4.11_Inverted_Five-Stroke_Ruff]] is adapted to be played entirely with one hand.
 Example: `R r r r r` (all strokes with the right hand, with the first 'R' being accented).
 Then repeat with the left hand: `L l l l l` (all strokes with the left hand, with the first 'L' being accented).
 
 **Practice Instructions:**
-1.  **Focus on One Hand:** Begin by playing the entire [[Inverted Five-Stroke Ruff]] (one accent, four grace notes) using only your right hand.
+1.  **Focus on One Hand:** Begin by playing the entire [[Inverted_Five-Stroke_Ruff]] (one accent, four grace notes) using only your right hand.
 2.  **Wrist-Driven Motion:** Emphasize that all five strokes should primarily come from the wrist, with minimal arm involvement.
 3.  **Dynamic Control:** Maintain the dynamic contrast: a strong initial accent followed by four soft grace notes, all produced by the same wrist.
 4.  **Repeat with Other Hand:** Once comfortable with the right hand, switch to the left hand and repeat the process, ensuring equal attention and development for both hands.

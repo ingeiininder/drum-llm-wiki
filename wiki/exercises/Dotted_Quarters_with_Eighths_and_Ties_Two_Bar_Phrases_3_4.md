@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Dotted Quarters with Eighths and Ties (Two-Bar Phrases) - 3/4
 
-This exercise introduces [[Ties]] in conjunction with [[Dotted Quarter Note]]s and [[Eighth Note]]s within two-bar phrases in the [[3_4_Time_Signature]]. Ties add another layer of complexity to rhythmic interpretation, requiring notes to be sustained across beat or bar lines, particularly challenging in a triple meter.
+This exercise introduces [[Ties]] in conjunction with [[Dotted_Quarter_Note]]s and [[Eighth_Note]]s within two-bar phrases in the [[3_4_Time_Signature]]. Ties add another layer of complexity to rhythmic interpretation, requiring notes to be sustained across beat or bar lines, particularly challenging in a triple meter.
 
 **Purpose:**
 *   To master the accurate execution of tied notes, ensuring the combined duration is precisely observed.

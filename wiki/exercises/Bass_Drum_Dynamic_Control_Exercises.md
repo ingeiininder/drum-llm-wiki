@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Bass Drum Dynamic Control Exercises
-[[Bass Drum Dynamic Control Exercises]] are designed to develop the ability to play the bass drum with a wide range of dynamics, from loud, accented strokes to very soft, unaccented notes (often referred to as ghost notes). This is a critical skill for musicality and versatility in [[Bass Drum Technique]].
+[[Bass_Drum_Dynamic_Control_Exercises]] are designed to develop the ability to play the bass drum with a wide range of dynamics, from loud, accented strokes to very soft, unaccented notes (often referred to as ghost notes). This is a critical skill for musicality and versatility in [[Bass_Drum_Technique]].
 
 **Objective:**
 To achieve the biggest dynamic spread possible on the bass drum, allowing for expressive and nuanced playing. This involves mastering the control required for both powerful accents and subtle, quiet strokes.
@@ -21,7 +21,7 @@ The source material provides a series of exercises (Ex 5.3, Ex 5.4, Ex 5.5, Ex 5
 
 **Practice Instructions:**
 1.  **Focus on Dynamic Spread:** Consciously aim for a significant difference in volume between accented and unaccented notes.
-2.  **Utilize Proper Technique:** Apply the refinements discussed in [[Bass_Drum_Technique_Heel-Up_Refinement]], including correct [[Heel-Up Bass Drum Heel Position]] and [[Bass Drum Pedal Foot Placement]].
+2.  **Utilize Proper Technique:** Apply the refinements discussed in [[Bass_Drum_Technique_Heel-Up_Refinement]], including correct [[Heel-Up_Bass_Drum_Heel_Position]] and [[Bass_Drum_Pedal_Foot_Placement]].
 3.  **Start Slow:** Begin at a slow tempo with a [[Metronome]] to ensure precision and control over each stroke's dynamic.
 4.  **Listen Critically:** Record yourself and listen back to evaluate the consistency of your dynamics. Are the accents truly loud? Are the unaccented notes truly soft and consistent?
 

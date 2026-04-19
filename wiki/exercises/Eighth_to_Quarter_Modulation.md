@@ -18,7 +18,7 @@ The [[Value Indicator]] states that the **Eighth Note** from the Ballad section 
 
 ### Sectional Analysis
 1.  **Letter A (Ballad)**: 16th-note based groove at 80 BPM. Requires consistent hi-hat work and a solid backbeat.
-2.  **Letter B (Transition)**: Continues the ballad feel but introduces ensemble figures that require [[Setup Fills]]. The final fill should be stylistically transitional (e.g., using eighth-note triplets).
+2.  **Letter B (Transition)**: Continues the ballad feel but introduces ensemble figures that require [[Setup_Fills]]. The final fill should be stylistically transitional (e.g., using eighth-note triplets).
 3.  **Letter C (Reggae)**: The [[One-Drop]] groove. The bass drum and side-stick land on beat 3. Because of the $e = q$ modulation, the notation remains clean and readable despite the faster tempo.
 
 ### Performance Notes

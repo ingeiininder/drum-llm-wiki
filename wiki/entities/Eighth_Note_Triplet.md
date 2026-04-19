@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth Note Triplet
-An [[Eighth Note Triplet]] is a rhythmic subdivision where three eighth notes are played in the time normally occupied by two standard eighth notes. It is a fundamental building block for creating a "swing" or "shuffle" feel, and is central to the [[12_8_Feel_in_4_4_Time_Signature]].
+An [[Eighth_Note_Triplet]] is a rhythmic subdivision where three eighth notes are played in the time normally occupied by two standard eighth notes. It is a fundamental building block for creating a "swing" or "shuffle" feel, and is central to the [[12_8_Feel_in_4_4_Time_Signature]].
 
 **Definition**:
 *   Three notes of the same value (eighth notes) occupying the same space as two notes of the same value (two standard eighth notes).

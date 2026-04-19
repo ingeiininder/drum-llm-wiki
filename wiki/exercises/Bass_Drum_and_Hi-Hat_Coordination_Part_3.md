@@ -7,21 +7,21 @@ last_updated: 2023-10-27
 ---
 
 # Bass Drum and Hi-Hat Coordination Part 3
-[[Bass Drum and Hi-Hat Coordination Part 3]] is the third installment of exercises designed to further develop the independent and interdependent movement of the bass drum foot and the hi-hat foot/hand. It builds upon the concepts introduced in "[[Bass Drum and Hi-Hat Coordination Part 1]]" and "[[Bass Drum and Hi-Hat Coordination Part 2]]", introducing more advanced challenges. It is mentioned as a key topic in Unit 8 of "[[Drum Technique 1 (MI Curriculum Series)]]".
+[[Bass_Drum_and_Hi-Hat_Coordination_Part_3]] is the third installment of exercises designed to further develop the independent and interdependent movement of the bass drum foot and the hi-hat foot/hand. It builds upon the concepts introduced in "[[Bass_Drum_and_Hi-Hat_Coordination_Part_1]]" and "[[Bass_Drum_and_Hi-Hat_Coordination_Part_2]]", introducing more advanced challenges. It is mentioned as a key topic in Unit 8 of "[[Drum_Technique_1_(MI_Curriculum_Series)]]".
 
 **Exercise Focus:**
-*   **Advanced Rhythmic Interplay:** Exploring more complex and syncopated rhythmic relationships between the [[Bass Drum]] and [[Hi-Hat]].
+*   **Advanced Rhythmic Interplay:** Exploring more complex and syncopated rhythmic relationships between the [[Bass_Drum]] and [[Hi-Hat]].
 *   **Dynamic Control and Articulation:** Developing a wider range of dynamics and articulations for both feet, including accents, ghost notes, and open/closed hi-hat variations.
 *   **Tempo and Endurance:** Challenging the drummer to maintain precision and control at higher tempos and for longer durations.
 *   **Groove Versatility:** Applying these advanced coordination skills to create a broader spectrum of drum grooves across different musical styles.
 
 **Typical Exercises Might Include:**
-*   Complex [[Sixteenth Notes]] and [[Eighth Note Triplet]] patterns for both feet.
-*   Incorporating more intricate [[Hi-Hat Technique]] variations (e.g., foot splashes, heel-toe combinations).
+*   Complex [[16th_Notes]] and [[Eighth_Note_Triplet]] patterns for both feet.
+*   Incorporating more intricate [[Hi-Hat_Technique]] variations (e.g., foot splashes, heel-toe combinations).
 *   Developing patterns that involve polyrhythms or odd groupings between the feet.
 
 **Benefits:**
-*   Significantly enhances [[Limb Independence]] and overall [[Drum Kit]] coordination.
+*   Significantly enhances [[Limb Independence]] and overall [[Drum_Kit]] coordination.
 *   Expands the drummer's rhythmic vocabulary for the lower half of the body to a professional level.
 *   Improves the ability to create and maintain highly complex and nuanced grooves.
 

@@ -10,7 +10,7 @@ last_updated: 2023-10-27
 This set of exercises is designed to develop fundamental stick control and reinforce proper grip mechanics across various hand positions.
 
 ## Instructions
-*   **Grips to Use**: For each exercise, practice using [[American Grip]], [[German Grip]], and [[French Grip]]. If you are comfortable, also attempt them with [[Traditional Grip]].
+*   **Grips to Use**: For each exercise, practice using [[American_Grip]], [[German_Grip]], and [[French_Grip]]. If you are comfortable, also attempt them with [[Traditional_Grip]].
 *   **Resting Position**: Remember to keep each stick down one to two inches above the drumhead when resting between strokes or phrases. This promotes control and readiness for the next stroke.
 
 ## Exercises

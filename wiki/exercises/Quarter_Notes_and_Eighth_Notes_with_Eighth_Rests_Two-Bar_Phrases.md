@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarter Notes and Eighth Notes with Eighth Rests (Two-Bar Phrases)
 
-This exercise category builds upon one-bar rhythmic studies by extending patterns over two-bar phrases, using [[Quarter Notes]], [[Eighth Notes]], and [[Eighth Rests]]. This helps drummers develop their ability to sustain rhythmic accuracy and musical flow over longer musical statements.
+This exercise category builds upon one-bar rhythmic studies by extending patterns over two-bar phrases, using [[Quarter_Note]], [[Eighth_Note]], and [[Eighth Rests]]. This helps drummers develop their ability to sustain rhythmic accuracy and musical flow over longer musical statements.
 
 ## Exercise Description
 
@@ -27,4 +27,4 @@ The challenge here is not just individual note placement but also maintaining th
 *   **Phrase Awareness**: Think of the two bars as a single musical phrase rather than two separate measures. This encourages a more musical approach.
 *   **Looping**: Practice looping each two-bar phrase repeatedly to develop consistency and endurance.
 
-Mastering these two-bar exercises is a crucial step in developing advanced [[Drum Reading]] skills and the ability to play longer, more complex [[Groove]] and [[Fill]].
+Mastering these two-bar exercises is a crucial step in developing advanced [[Drum_Reading]] skills and the ability to play longer, more complex [[Groove]] and [[Fill]].

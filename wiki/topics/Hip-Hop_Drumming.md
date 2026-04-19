@@ -16,11 +16,11 @@ While early hip-hop relied on programmed beats, artists like D'Angelo, Prince, a
 - **Key Drummers**: Questlove, Chris "Daddy" Dave, and Karriem Riggins.
 
 ### Sound and Articulation
-- **Snare**: High pitch with a crisp [[Snare Rim Shot]].
-- **Bass Drum**: Sparse, syncopated patterns. Unlike rock, the beater is often played "off the head" for an **open bass drum sound**.
-- **Hi-Hat**: Continuous 16th notes, often utilizing [[Swung 16th Phrasing]].
+- **Snare**: High pitch with a crisp [[Snare_Rim_Shot]].
+- **[[Bass_Drum|Bass Drum]]**: Sparse, syncopated patterns. Unlike [[Rock|rock]], the beater is often played "off the head" for an **open [[Bass_Drum|bass drum]] sound**.
+- **[[Hi-Hat|Hi-Hat]]**: Continuous [[16th_Notes|16th notes]], often utilizing [[Swung_16th_Phrasing]].
 
 ### Key Concepts
 - [[Drop-Outs]]: Emulating a mixing console's mute button.
-- [[Half-Open Hi-Hat]]: Creating a "sloshy" wash for builds.
+- [[Half-Open_Hi-Hat]]: Creating a "sloshy" wash for builds.
 - **Cross-stick**: Frequently used in Coda sections for a "wooden" percussion texture.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Quarter Notes and Eighth Notes (One-Bar Phrases) - Exercise G
-This exercise offers additional practice in reading and performing [[Ties]] that connect [[Quarter Notes]] and [[Eighth Notes]] within one-bar phrases. It aims to reinforce the understanding of how these combinations create specific rhythmic patterns and contribute to [[Syncopated Rhythms]].
+This exercise offers additional practice in reading and performing [[Ties]] that connect [[Quarter_Note]] and [[Eighth_Note]] within one-bar phrases. It aims to reinforce the understanding of how these combinations create specific rhythmic patterns and contribute to [[Syncopated_Rhythms]].
 
 **Key Learning Points:**
 *   **Pattern Recognition**: Develop the ability to quickly recognize common tied patterns involving quarter and eighth notes.

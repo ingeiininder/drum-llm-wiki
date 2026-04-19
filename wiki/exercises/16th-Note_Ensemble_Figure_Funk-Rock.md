@@ -7,11 +7,11 @@ last_updated: 2023-10-27
 ---
 
 # 16th-Note Ensemble Figure (Funk-Rock)
-An [[Ensemble Figures]] (or "hit") is a rhythmic accent played simultaneously by multiple instruments in a band. In this [[Funk-Rock]] chart, a specific [[16th_Note_Ensemble_Figures]] occurs in the second bar of the "Letter B" groove.
+An [[Ensemble_Figures]] (or "hit") is a rhythmic accent played simultaneously by multiple instruments in a band. In this [[Funk_Rock]] chart, a specific [[16th_Note_Ensemble_Figures]] occurs in the second bar of the "Letter B" groove.
 
 **Key Characteristics:**
 *   **Placement:** Located on the "e" of beat 4 in the second bar of the [[Syncopated_Funk-Rock_Groove_Letter_B]]. This is a highly [[Syncopated]] placement, making it challenging to execute precisely.
-*   **Instrumentation:** Performed on the [[Bass Drum]] and [[Crash Cymbal]] simultaneously. This combination creates a powerful, punctuating accent.
+*   **Instrumentation:** Performed on the [[Bass_Drum]] and [[Crash_Cymbal]] simultaneously. This combination creates a powerful, punctuating accent.
 *   **Purpose:** Ensemble figures add rhythmic punctuation, emphasize specific musical moments, and create dynamic interest within the chart.
 
 **Importance of Subdividing:**
@@ -19,7 +19,7 @@ The text explicitly warns against rushing this hit or the subsequent entrance ba
 
 **Pro-Tip:**
 *   **Precision:** Practice this figure repeatedly with a [[Metronome]], focusing on hitting the "e" of beat 4 exactly.
-*   **Crash Cymbal Technique:** Ensure a clean [[Crash Cymbal]] strike that rings appropriately without choking or sounding weak.
-*   **Bass Drum Power:** The [[Bass Drum]] should hit with authority to match the [[Crash Cymbal]].
+*   **Crash Cymbal Technique:** Ensure a clean [[Crash_Cymbal]] strike that rings appropriately without choking or sounding weak.
+*   **Bass Drum Power:** The [[Bass_Drum]] should hit with authority to match the [[Crash_Cymbal]].
 *   **Anticipation:** Mentally prepare for the hit and the immediate return to the groove. The syncopated nature means you're hitting *before* the main beat, requiring strong internal timing.
 *   **Listen to the Band:** In a band setting, listen for the other instruments to ensure your hit is perfectly synchronized with the ensemble.

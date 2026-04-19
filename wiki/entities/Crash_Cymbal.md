@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Crash Cymbal
-A [[Crash Cymbal]] is a type of cymbal on a drum kit designed to produce a loud, explosive, and often sustained sound, primarily used for accents, punctuation, and marking musical sections.
+A [[Crash_Cymbal]] is a type of cymbal on a drum kit designed to produce a loud, explosive, and often sustained sound, primarily used for accents, punctuation, and marking musical sections.
 
 **Characteristics:**
 *   **Sound:** Typically bright, loud, and with a relatively long sustain, designed to cut through the sound of the rest of the band.
@@ -21,10 +21,10 @@ A [[Crash Cymbal]] is a type of cymbal on a drum kit designed to produce a loud,
 
 **Common Applications:**
 *   **Accents:** Used to emphasize downbeats, particularly the "one" of a new section or phrase.
-*   **Ensemble Figures:** Essential for playing [[Ensemble Figures]]s, where the crash cymbal combines with other instruments (e.g., [[Bass Drum]]) for a powerful hit, as seen in the [[16th-Note_Ensemble_Figure_Funk-Rock]].
+*   **Ensemble Figures:** Essential for playing [[Ensemble_Figures]]s, where the crash cymbal combines with other instruments (e.g., [[Bass_Drum]]) for a powerful hit, as seen in the [[16th-Note_Ensemble_Figure_Funk-Rock]].
 *   **Transitions:** Marks the beginning or end of musical sections.
 
 **Pro-Tip:**
-*   **Musicality:** Use the [[Crash Cymbal]] judiciously. Overusing it can diminish its impact and make the drumming sound cluttered.
+*   **Musicality:** Use the [[Crash_Cymbal]] judiciously. Overusing it can diminish its impact and make the drumming sound cluttered.
 *   **Listen to the Sustain:** Allow the cymbal to ring out naturally unless a choked sound is specifically desired.
 *   **Stick Choice:** Heavier sticks can produce a louder crash, but lighter sticks can offer more nuance. Experiment to find what works best for your sound.

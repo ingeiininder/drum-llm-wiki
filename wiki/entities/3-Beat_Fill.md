@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 3-Beat Fill
-A [[3-Beat Fill]] is a [[Drum_Fill]] that occupies three beats. In drum notation, it is indicated by three [[Fill Markers]] (time slashes). This length provides a good balance between brevity and rhythmic development.
+A [[3-Beat_Fill]] is a [[Drum_Fill]] that occupies three beats. In drum notation, it is indicated by three [[Fill_Markers]] (time slashes). This length provides a good balance between brevity and rhythmic development.
 
 Three-beat fills are versatile and can be used for:
 *   **Building momentum**: Leading into a new section with a sense of anticipation.

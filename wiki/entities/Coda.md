@@ -11,6 +11,6 @@ A [[Coda]] is a specific ending section of a musical piece. It provides a defini
 
 **The Coda Symbol**: 𝄌
 
-When a musician encounters the Coda symbol in conjunction with instructions like [[D.S. al Coda]], it signifies that they should "jump" from their current position in the chart to the designated Coda section to conclude the song.
+When a musician encounters the Coda symbol in conjunction with instructions like [[D.S._al_Coda]], it signifies that they should "jump" from their current position in the chart to the designated Coda section to conclude the song.
 
 **Pro-Tip**: The Coda is not just an ending; it's an *intentional* ending. Drummers should approach the Coda with a clear understanding of its musical purpose. It might involve a change in [[Dynamics]], [[Tempo]], or [[Groove]] to create a sense of finality. Be prepared for any specific [[Drum_Fill]] or hits that might be written into the Coda to punctuate the end of the song. Always locate the Coda section in the chart to ensure a smooth and accurate finish.

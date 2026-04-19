@@ -7,12 +7,12 @@ last_updated: 2023-10-27
 ---
 
 # Ensemble Figure (Country-Pop B Section Second Ending)
-The second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]] features a dramatic [[Ensemble Figures]] consisting of a [[Half Note]]. This figure is designed to create an impactful stop.
+The second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]] features a dramatic [[Ensemble_Figures]] consisting of a [[Half_Note]]. This figure is designed to create an impactful stop.
 
 **Execution Details**:
-1.  The [[Half Note]] should be played on a [[Crash Cymbal]] with the [[Bass Drum]] supporting it simultaneously.
-2.  The notated [[Snare Drum]] hit on beat 3 should be played as a [[Rimshot]] with one stick.
-3.  Crucially, your free hand should grab and [[Muting Crash Cymbal with Free Hand|mute the crash cymbal]] on beat 3.
+1.  The [[Half_Note]] should be played on a [[Crash_Cymbal]] with the [[Bass_Drum]] supporting it simultaneously.
+2.  The notated [[Snare_Drum]] hit on beat 3 should be played as a [[Rimshot]] with one stick.
+3.  Crucially, your free hand should grab and [[Muting_Crash_Cymbal_with_Free_Hand|mute the crash cymbal]] on beat 3.
 
 **Effect**: This technique allows for an incredibly dramatic stop and dead silence on beat 4, maximizing the impact of the ensemble hit.
 

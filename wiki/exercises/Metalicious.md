@@ -27,4 +27,4 @@ Excerpted from *Double Pedal Metal* by Steve Kilgallon (Hudson Music).
 
 ### Related Exercises
 - [[Groove Builders]]
-- [[Double Pedal Endurance]]
+- [[Double_Pedal_Endurance]]

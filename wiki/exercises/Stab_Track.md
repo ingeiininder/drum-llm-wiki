@@ -28,4 +28,4 @@ The curriculum provides three levels of grooves for this track:
 
 **Pro-Tip**: Pay close attention to the "Bass Lick" at the end of Section E. You have the choice to either play in unison with it or stay out of the way—both are valid professional choices depending on the desired energy.
 
-**Source**: Excerpted from *Messin' Wid da Bull* by [[Jeff Salem]].
+**Source**: Excerpted from *Messin' Wid da Bull* by [[Jeff_Salem]].

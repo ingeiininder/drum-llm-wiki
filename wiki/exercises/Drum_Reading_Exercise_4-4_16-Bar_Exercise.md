@@ -12,7 +12,7 @@ This exercise is a longer-form drum reading piece, spanning 16 bars in [[4-4_Tim
 **Exercise Focus:**
 *   **Rhythmic Endurance:** Maintaining accuracy and consistency over a longer musical passage.
 *   **Form and Phrasing:** Understanding and navigating a 16-bar musical structure.
-*   **Reading Comprehension:** Applying various rhythmic concepts (e.g., [[Eighth Notes]], [[Sixteenth Notes]], [[Triplets]], rests, dynamics) within a continuous context.
+*   **Reading Comprehension:** Applying various rhythmic concepts (e.g., [[Eighth_Note]], [[16th_Notes]], [[Triplets]], rests, dynamics) within a continuous context.
 
 **Note on Source Material:** The musical notation for this specific exercise in the provided OCR (IMG_0503) is highly garbled and unreadable, preventing a detailed transcription of the exact rhythms. However, the title indicates its structure and time signature.
 

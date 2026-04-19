@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Paradiddle Bass Drum Permutations
 
-This concept involves applying various [[Bass Drum]] patterns against the four primary [[Paradiddle]] inversions. This exercise is designed to develop [[Four-Way Coordination]] and rhythmic stability.
+This concept involves applying various [[Bass_Drum]] patterns against the four primary [[Paradiddle]] inversions. This exercise is designed to develop [[Four-Way Coordination]] and rhythmic stability.
 
 ### The Four Paradiddle Inversions
 To master these permutations, the hands must be fluent in the following stickings:
@@ -28,4 +28,4 @@ The curriculum progresses from single-note bass drum variations to **double-note
 
 ### Pro-Tips
 - **Balance**: Watch for "sympathetic tension" where the hands want to follow the rhythm of the foot. The hands should remain a constant "ostinato" regardless of what the bass drum is doing.
-- **Heel-Up vs. Heel-Down**: Experiment with both [[Bass Drum Technique|techniques]] to see which provides better control for the double-note placements.
+- **Heel-Up vs. Heel-Down**: Experiment with both [[Bass_Drum_Technique|techniques]] to see which provides better control for the double-note placements.

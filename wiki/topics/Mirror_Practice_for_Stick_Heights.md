@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Mirror Practice for Stick Heights
-[[Mirror Practice]] is a highly effective visual feedback technique used to refine [[Drum_Technique_50]], particularly for achieving consistent [[Stick_Height]]. By observing your reflection while practicing [[Roll Exercises]] or other patterns, you can:
+[[Mirror_Practice]] is a highly effective visual feedback technique used to refine [[Drum_Technique_50]], particularly for achieving consistent [[Stick_Height]]. By observing your reflection while practicing [[Roll_Exercises]] or other patterns, you can:
 
 *   **Monitor Consistency**: Ensure both hands are striking from the same height, which is crucial for evenness in [[Dynamics]] and [[Tone]].
 *   **Identify Imbalances**: Quickly spot discrepancies in hand motion, grip, or rebound.

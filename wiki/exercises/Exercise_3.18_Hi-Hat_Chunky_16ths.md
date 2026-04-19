@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Exercise 3.18 (Hi-Hat Chunky 16ths)
-**Purpose**: [[Exercise_3.18_Hi-Hat_Chunky_16ths]] is designed to develop the specific technique and articulation required for the [[Hi-Hat Chunky Shouldered 16ths]] sound. It focuses on achieving the desired "chunk-chunk-chunk" articulation and thick tone.
+**Purpose**: [[Exercise_3.18_Hi-Hat_Chunky_16ths]] is designed to develop the specific technique and articulation required for the [[Hi-Hat_Chunky_Shouldered_16ths]] sound. It focuses on achieving the desired "chunk-chunk-chunk" articulation and thick tone.
 
 **Description (based on preceding text):**
 This exercise likely involves repetitive practice of:
@@ -23,4 +23,4 @@ This exercise likely involves repetitive practice of:
 *   **Dynamic Control**: Experiment with different dynamics to see how the "chunk" sound can be maintained at various volumes.
 *   **Relaxation**: Ensure your grip and foot pressure are relaxed enough to allow the cymbals to resonate properly.
 
-**Goal**: The primary goal of this exercise is to master the physical mechanics and auditory result of the [[Hi-Hat Chunky Shouldered 16ths]] technique, enabling the drummer to consistently produce a thick, driving hi-hat sound.
+**Goal**: The primary goal of this exercise is to master the physical mechanics and auditory result of the [[Hi-Hat_Chunky_Shouldered_16ths]] technique, enabling the drummer to consistently produce a thick, driving hi-hat sound.

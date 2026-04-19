@@ -12,7 +12,7 @@ last_updated: 2026-04-19
 The standard Bossa Nova groove is a two-bar [[Ostinato]] that requires independence between all four limbs.
 
 ### Rhythmic Breakdown
-*   **Hands (Top)**: Continuous 8th notes on the [[Hi-Hat]] or [[Ride Cymbal]].
+*   **Hands (Top)**: Continuous 8th notes on the [[Hi-Hat]] or [[Ride_Cymbal]].
 *   **Cross-Stick (Snare)**:
     *   Bar 1: Beat 1, the "&" of 2, and Beat 4.
     *   Bar 2: Beat 2 and the "&" of 3.

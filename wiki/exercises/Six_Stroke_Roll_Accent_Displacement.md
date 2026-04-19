@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Six-Stroke Roll Accent Displacement
-This exercise involves moving accents through every partial of the [[Six-Stroke Roll]] to develop extreme control over [[Dynamic Nuance]] and [[Stick Control]].
+This exercise involves moving accents through every partial of the [[Six_Stroke_Roll]] to develop extreme control over [[Dynamic Nuance]] and [[Stick Control]].
 
 ### Single Accent Displacement
 Start with an unaccented Six-Stroke Roll (**R L L R R L**). Move a single accent through each of the six partials:

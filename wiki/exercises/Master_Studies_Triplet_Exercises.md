@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Master Studies Triplet Exercises
-The [[Master Studies Triplet Exercises]] refer to a specific set of exercises (1-12 on pages 13 and 14) from the renowned book [[Master Studies]] by Joe Morello. These exercises are designed to further develop and explore various triplet stickings and accent patterns.
+The [[Master_Studies_Triplet_Exercises]] refer to a specific set of exercises (1-12 on pages 13 and 14) from the renowned book [[Master_Studies]] by Joe Morello. These exercises are designed to further develop and explore various triplet stickings and accent patterns.
 
 **Objective:**
-To enhance advanced triplet control by combining alternate stickings with one-handed stickings, while consistently aiming for a "round, flowing feel" characteristic of [[Eighth-Note Triplet Feel]].
+To enhance advanced triplet control by combining alternate stickings with one-handed stickings, while consistently aiming for a "round, flowing feel" characteristic of [[Eighth-Note_Triplet_Feel]].
 
 **Content Focus:**
 *   **Alternate Stickings:** Patterns that involve alternating hands for each stroke or group of strokes.
@@ -18,7 +18,7 @@ To enhance advanced triplet control by combining alternate stickings with one-ha
 *   **Accent Exploration:** Various placements of accents to create different rhythmic emphasis and musical phrasing.
 
 **Practice Instructions:**
-1.  **Refer to Master Studies:** Access exercises 1-12 on pages 13 and 14 of the [[Master Studies]] book.
+1.  **Refer to Master Studies:** Access exercises 1-12 on pages 13 and 14 of the [[Master_Studies]] book.
 2.  **Analyze Each Exercise:** Carefully study the sticking and accent patterns for each exercise. Identify the specific technical challenges.
 3.  **Start Slow and Methodical:** Begin at a very slow tempo with a [[Metronome]], focusing on precision and control.
 4.  **Maintain Triplet Feel:** Consciously strive to maintain the "round, flowing feel" of triplets, even when the stickings are complex or involve one-handed groupings. Avoid stiffness.

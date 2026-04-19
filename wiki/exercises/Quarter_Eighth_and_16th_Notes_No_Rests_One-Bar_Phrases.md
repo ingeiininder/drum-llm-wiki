@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarter, Eighth, and 16th Notes, No Rests (One-Bar Phrases)
 
-This exercise category focuses on reading and performing continuous rhythmic patterns within single-measure phrases, utilizing [[Quarter Notes]], [[Eighth Notes]], and [[16th Notes]] without any [[Rests]]. This emphasizes rhythmic continuity, precision in subdivision, and the interpretation of [[Shared Beams]].
+This exercise category focuses on reading and performing continuous rhythmic patterns within single-measure phrases, utilizing [[Quarter_Note]], [[Eighth_Note]], and [[16th_Notes]] without any [[Rests]]. This emphasizes rhythmic continuity, precision in subdivision, and the interpretation of [[Shared_Beams]].
 
 ## Exercise Description
 
@@ -25,6 +25,6 @@ The absence of rests means the drummer must maintain an unbroken flow of sound, 
 *   **Subdivision Accuracy**: Pay close attention to the exact placement of each note, especially when transitioning between eighth notes and 16th notes. Use the "1 e & a" counting system for 16th notes.
 *   **Metronome Use**: Essential for developing a rock-solid [[Tempo]] and consistent internal clock. Start slowly and gradually increase speed.
 *   **Evenness**: Ensure all notes are played with consistent dynamics and articulation, regardless of their duration.
-*   **Beaming Interpretation**: Understand how [[Shared Beams]] visually group notes within each beat, which aids in rhythmic interpretation.
+*   **Beaming Interpretation**: Understand how [[Shared_Beams]] visually group notes within each beat, which aids in rhythmic interpretation.
 
 Mastering these exercises is crucial for developing strong rhythmic endurance, precise subdivision control, and the ability to play continuous, flowing [[Drum Beat]]s and [[Fill]]s without hesitation.

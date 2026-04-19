@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Dotted Quarter Notes (Two Bar Phrases) - Exercise E
-This exercise offers further opportunities to practice reading and performing rhythms featuring [[Dotted Quarter Note]]s within two-bar phrases. The goal is to enhance rhythmic precision and the ability to maintain a consistent pulse through syncopated figures.
+This exercise offers further opportunities to practice reading and performing rhythms featuring [[Dotted_Quarter_Note]]s within two-bar phrases. The goal is to enhance rhythmic precision and the ability to maintain a consistent pulse through syncopated figures.
 
 **Key Learning Points:**
 *   **Rhythmic Accuracy**: Focus on hitting the exact attack points and sustaining for the precise 1.5-beat duration.

@@ -3,7 +3,7 @@ type: topic
 book_id: TECH3_4
 source: IMG_1386
 unit: 3
-tags: [rudiments, rolls, closed_roll, buzz_roll, technique]
+tags: [[[Rudiments|rudiments]], rolls, closed_roll, buzz_roll, technique]
 last_updated: 2026-04-19
 ---
 
@@ -19,8 +19,8 @@ The **Closed Roll** (also known as the **Multiple Bounce Roll**, **Buzz Roll**, 
 In MI curriculum and standard percussion notation, the closed roll is often indicated by a **"z"** through the stem of the note.
 
 ### Development Exercises
-1. **Primary Pulse**: Play a bar of alternating quarter notes, followed by a bar of "buzzed" quarter notes. Maintain the exact same hand motion (the primary pulse) for both.
-2. **Subdivision Consistency**: Practice the roll using an 8th-note or triplet base. The speed of your hands (the "base" or "skeleton") determines the density of the roll.
+1. **Primary [[Pulse|Pulse]]**: Play a bar of alternating [[Quarter_Notes|quarter notes]], followed by a bar of "buzzed" [[Quarter_Notes|quarter notes]]. Maintain the exact same hand motion (the primary [[Pulse|pulse]]) for both.
+2. **[[Subdivision|Subdivision]] Consistency**: Practice the roll using an 8th-note or triplet base. The speed of your hands (the "base" or "skeleton") determines the density of the roll.
 
 ### Pro-Tip
 To achieve a "seamless" roll, focus on the volume of the *end* of the bounce. If the bounces die out too quickly, the roll will sound "choppy." Work on low-height, high-density bounces at 60 BPM to build the necessary micro-muscles in the fulcrum.

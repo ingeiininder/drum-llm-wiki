@@ -2,12 +2,12 @@
 type: topic
 source: IMG_0536
 unit: Unit 4 - Chapter 4
-tags: [rudiment, ruff, five-stroke ruff, inverted, drum rudiments, snare drum, accent]
+tags: [rudiment, ruff, [[Five-Stroke_Ruff|five-stroke ruff]], inverted, drum [[Rudiments|rudiments]], [[Snare_Drum|snare drum]], accent]
 last_updated: 2023-10-27
 ---
 
-# Inverted Five-Stroke Ruff
-The [[Inverted Five-Stroke Ruff]] is a variation of the [[Standard Five-Stroke Ruff]] where the unaccented grace notes *follow* the accented primary stroke, rather than preceding it. This creates a different feel and presents a unique challenge in control and articulation.
+# Inverted [[Five-Stroke_Ruff|Five-Stroke Ruff]]
+The [[Inverted_Five-Stroke_Ruff]] is a variation of the [[Standard_Five-Stroke_Ruff]] where the unaccented grace notes *follow* the accented primary stroke, rather than preceding it. This creates a different feel and presents a unique challenge in control and articulation.
 
 **Structure:**
 The pattern consists of one accented stroke followed by four unaccented alternating strokes.
@@ -29,9 +29,9 @@ Example: `R r l r l` (where uppercase is accented, lowercase is unaccented).
 *   **Loss of Control:** At faster tempos, the grace notes can become messy or uneven.
 
 **Pro-Tip:**
-Think of the initial accent as a "launch" from which the grace notes gently "fall." The stick height for the accent should be high, while the subsequent grace notes should be played from a very low height, almost catching the rebound. This helps in achieving the dynamic contrast. This rudiment is excellent for developing fine motor control and dynamic sensitivity, especially for [[Linear Phrasing]] and intricate fills.
+Think of the initial accent as a "launch" from which the grace notes gently "fall." The [[Stick_Height|stick height]] for the accent should be high, while the subsequent grace notes should be played from a very low height, almost catching the rebound. This helps in achieving the dynamic contrast. This rudiment is excellent for developing fine motor control and dynamic sensitivity, especially for [[Linear_Phrasing]] and intricate fills.
 
 **Related Exercises:**
-*   [[Ex 4.11 Inverted Five-Stroke Ruff]]
-*   [[Ex 4.12 Inverted Five-Stroke Ruff Accents]]
-*   [[Inverted Five-Stroke Ruff Hand Isolation]]
+*   [[Ex_4.11_Inverted_Five-Stroke_Ruff]]
+*   [[Ex_4.12_Inverted_Five-Stroke_Ruff_Accents]]
+*   [[Inverted_Five-Stroke_Ruff_Hand_Isolation]]

@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # 1-&-a Grouping (Eighth Note + Two 16th Notes)
 
-The **1-&-a Grouping** is a common rhythmic pattern within a single beat, combining an [[Eighth Note]] with two [[16th Notes]]. This pattern is frequently encountered in various musical styles and is a key component of [[Shared Beams]] notation.
+The **1-&-a Grouping** is a common rhythmic pattern within a single beat, combining an [[Eighth_Note]] with two [[16th_Notes]]. This pattern is frequently encountered in various musical styles and is a key component of [[Shared_Beams]] notation.
 
 ## Rhythmic Structure
 
@@ -19,7 +19,7 @@ The **1-&-a Grouping** is a common rhythmic pattern within a single beat, combin
 
 ## Notation
 
-In [[Sheet Music]], this grouping is typically notated with the eighth note and the first 16th note sharing a main beam. The two 16th notes are then connected by an additional, shorter [[Partial Beams|partial beam]].
+In [[Sheet Music]], this grouping is typically notated with the eighth note and the first 16th note sharing a main beam. The two 16th notes are then connected by an additional, shorter [[Partial_Beams|partial beam]].
 
 ## Sound and Feel
 
@@ -30,7 +30,7 @@ This grouping creates a "long-short-short" feel within the beat. It often provid
 *   **Metronome**: Practice with a [[Metronome]] at a slow tempo, gradually increasing speed.
 *   **Vocalization**: Count "1 e & a" out loud, emphasizing the played notes: "ONE (e) AND (a)". This helps to internalize the precise placement.
 *   **Evenness**: Ensure the two 16th notes are played evenly and with consistent dynamics.
-*   **Application**: Try incorporating this grouping into simple [[Drum Beat]]s or [[Fill]]s. For example, play the eighth note on the [[Bass Drum]] and the two 16th notes on the [[Snare Drum]] or [[Hi-Hat]].
+*   **Application**: Try incorporating this grouping into simple [[Drum Beat]]s or [[Fill]]s. For example, play the eighth note on the [[Bass_Drum]] and the two 16th notes on the [[Snare_Drum]] or [[Hi-Hat]].
 *   **Looping**: Practice playing this pattern repeatedly for a full measure (as shown in Ex 4.13 in the source) to develop consistency and fluidity.
 
-Mastering the 1-&-a grouping is essential for accurate [[Drum Reading]] and for developing a versatile rhythmic vocabulary.
+Mastering the 1-&-a grouping is essential for accurate [[Drum_Reading]] and for developing a versatile rhythmic vocabulary.

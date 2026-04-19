@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Ex 6.3 Eighth-Note Triplet Sticking
-[[Ex 6.3 Eighth-Note Triplet Sticking]] is another exercise within the [[Eighth-Note Triplet Study]], likely introducing a new sticking variation or accent pattern that deviates from strict [[Hand-to-Hand Triplets]] while still aiming for balanced hand development.
+[[Ex_6.3_Eighth-Note_Triplet_Sticking]] is another exercise within the [[Eighth-Note_Triplet_Study]], likely introducing a new sticking variation or accent pattern that deviates from strict [[Hand-to-Hand_Triplets]] while still aiming for balanced hand development.
 
 **Objective:**
-To expand the drummer's vocabulary of triplet stickings and to develop control over varied patterns while maintaining the characteristic [[Eighth-Note Triplet Feel]].
+To expand the drummer's vocabulary of triplet stickings and to develop control over varied patterns while maintaining the characteristic [[Eighth-Note_Triplet_Feel]].
 
 **Musical Context (as described in source):**
 The specific notation for Ex 6.3 is not provided, but it is part of a series exploring "various stickings and accent patterns available within this rhythm." It will likely present a distinct triplet pattern.

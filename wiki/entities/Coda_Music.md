@@ -31,5 +31,5 @@ Codas often feature [[Ensemble_Figures_Coda_Unit_7|ensemble figures]] – rhythm
 *   **Recognize the Symbol**: Familiarize yourself with the coda symbol (Ø) and understand its function in [[Musical Notation]].
 *   **Listen for the Cue**: Be highly attentive to the [[Bandleader]] or other musicians for the "take coda" [[Cue (Music)|cue]]. Missing this cue can lead to a disjointed ending.
 *   **Practice the Transition**: Practice the transition from the main form to the coda, ensuring a smooth and timely jump.
-*   **Accentuate Ensemble Figures**: If the coda contains ensemble figures, ensure your playing accentuates these rhythms alongside the band, often with a [[Snare Drum]] hit, [[Bass Drum]] hit, or [[Crash Cymbal]] accent.
+*   **Accentuate Ensemble Figures**: If the coda contains ensemble figures, ensure your playing accentuates these rhythms alongside the band, often with a [[Snare_Drum]] hit, [[Bass_Drum]] hit, or [[Crash_Cymbal]] accent.
 *   **Dynamic Control**: The coda often builds to a final dynamic statement. Be prepared to contribute to this with appropriate power and precision.

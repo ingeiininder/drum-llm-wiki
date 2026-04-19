@@ -7,12 +7,12 @@ last_updated: 2023-10-27
 ---
 
 # Hi-Hat
-The hi-hat is a pair of cymbals mounted on a stand, operated by both a foot pedal and drumsticks. It is one of the most versatile and frequently played components of the [[Drum Kit]], crucial for establishing rhythmic patterns, dynamics, and groove.
+The hi-hat is a pair of cymbals mounted on a stand, operated by both a foot pedal and drumsticks. It is one of the most versatile and frequently played components of the [[Drum_Kit]], crucial for establishing rhythmic patterns, dynamics, and groove.
 
 ## Components:
 *   **Top Cymbal**: Mounted on a rod that moves up and down.
 *   **Bottom Cymbal**: Fixed in place on the stand.
-*   **[[Hi-Hat Pedal]]**: A foot pedal that controls the opening and closing of the cymbals.
+*   **[[Hi-Hat_Pedal]]**: A foot pedal that controls the opening and closing of the cymbals.
 
 ## Playing Positions and Sounds:
 1.  **Closed Hi-Hat**: Cymbals are pressed together by the foot pedal.
@@ -24,9 +24,9 @@ The hi-hat is a pair of cymbals mounted on a stand, operated by both a foot peda
     *   **Stick Sound**: Offers a middle ground between closed and open, adding texture and intensity.
 
 ## Playing Techniques:
-*   **Stick Patterns**: Used for continuous rhythmic patterns, often in conjunction with the [[Bass Drum]] and [[Snare Drum]].
-*   **Foot Control**: The [[Hi-Hat Pedal]] allows for intricate foot patterns, including opening and closing the cymbals on specific beats or off-beats.
-*   **[[Moeller Technique]]**: Can be applied for faster eighth and 16th note riding patterns on the hi-hat, especially when incorporating [[Accents]] and [[Taps]].
+*   **Stick Patterns**: Used for continuous rhythmic patterns, often in conjunction with the [[Bass_Drum]] and [[Snare_Drum]].
+*   **Foot Control**: The [[Hi-Hat_Pedal]] allows for intricate foot patterns, including opening and closing the cymbals on specific beats or off-beats.
+*   **[[Moeller_Technique]]**: Can be applied for faster eighth and 16th note riding patterns on the hi-hat, especially when incorporating [[Accents_Drumming]] and [[Taps]].
 
 ## Importance:
 *   **Rhythmic Foundation**: Provides a consistent rhythmic pulse and feel.

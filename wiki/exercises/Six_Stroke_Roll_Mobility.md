@@ -22,5 +22,5 @@ Applying the [[Six_Stroke_Roll_Variations]] to the drumset requires a systematic
 
 ### Related Concepts
 *   [[16th-Note Triplets]]
-*   [[Ghost Notes]]
+*   [[Ghost_Notes]]
 *   [[Four-Way Coordination]]

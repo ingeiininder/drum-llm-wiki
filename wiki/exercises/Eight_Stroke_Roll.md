@@ -17,7 +17,7 @@ The **Eight-Stroke Roll** is a truncated [[Double_Stroke_Roll]] variation that t
 - **Counting**: A common way to internalize the motion is to count "1-2-3-4-5," representing the five distinct hand motions (RR-LL-RR-L-R).
 
 ### Technical Focus
-- **Note Values**: Often written as [[Thirty-Second Notes]] leading into [[Sixteenth Notes]].
+- **Note Values**: Often written as [[Thirty-Second Notes]] leading into [[16th_Notes]].
 - **Sticking Pattern**: `R R L L R R L R` / `L L R R L L R L`.
 
 ### Pro-Tips

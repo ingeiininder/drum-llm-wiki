@@ -11,8 +11,8 @@ last_updated: 2023-10-27
 
 **Description (based on preceding text):**
 This exercise likely involves:
-1.  **Applying Chunky Hi-Hat**: Incorporating the [[Hi-Hat Chunky Shouldered 16ths]] technique into a rhythmic pattern, often a 16th-note based groove.
-2.  **Interplay with Other Limbs**: Coordinating the chunky hi-hat with [[Bass Drum]] and [[Snare Drum]] patterns to create a cohesive and driving feel.
+1.  **Applying Chunky Hi-Hat**: Incorporating the [[Hi-Hat_Chunky_Shouldered_16ths]] technique into a rhythmic pattern, often a 16th-note based groove.
+2.  **Interplay with Other Limbs**: Coordinating the chunky hi-hat with [[Bass_Drum]] and [[Snare_Drum]] patterns to create a cohesive and driving feel.
 3.  **Focus on Groove Feel**: Emphasizing the overall rhythmic effect – a sense of thickness, forward momentum, and potentially incorporating syncopated accents within the hi-hat pattern or in conjunction with other drums.
 4.  **Tempo-Based Illusion**: Understanding how the consistent, thick hi-hat sound, especially at certain tempos, contributes to the perception of a denser and more propulsive groove.
 
@@ -23,4 +23,4 @@ This exercise likely involves:
 *   **Record Yourself**: Listen back to your playing to assess if you are achieving the desired "rhythmically thick" illusion and "fat" feel.
 *   **Contextual Practice**: Practice this groove in different musical contexts or along with backing tracks to develop its application.
 
-**Goal**: The goal of this exercise is to master the integration of the [[Hi-Hat Chunky Shouldered 16ths]] technique into a full drum groove, creating a powerful, driving, and rhythmically dense foundation that enhances the overall musicality and feel.
+**Goal**: The goal of this exercise is to master the integration of the [[Hi-Hat_Chunky_Shouldered_16ths]] technique into a full drum groove, creating a powerful, driving, and rhythmically dense foundation that enhances the overall musicality and feel.

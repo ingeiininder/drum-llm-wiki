@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Tony Williams
 
-Tony Williams (1945–1997) was a revolutionary jazz drummer best known for his work with the **Miles Davis Second Great Quintet**. His approach to [[Uptempo Jazz]] and [[Ride Cymbal]] technique redefined the role of the drummer in a modern ensemble.
+Tony Williams (1945–1997) was a revolutionary jazz drummer best known for his work with the **Miles Davis Second Great Quintet**. His approach to [[Uptempo Jazz]] and [[Ride_Cymbal]] technique redefined the role of the drummer in a modern ensemble.
 
 ### Technical Contributions
 - **Ride Cymbal Mastery**: Williams was known for letting the ride cymbal "carry the time," creating a "floating" feel that breathed with the music rather than being metronomically rigid.
@@ -21,5 +21,5 @@ When practicing [[Uptempo Jazz]], students are encouraged to listen to Williams'
 
 ### Related Entities
 - [[Miles Davis]]
-- [[Uptempo Jazz Phrasing]]
+- [[Uptempo_Jazz_Phrasing]]
 - [[Gretsch Drums]]

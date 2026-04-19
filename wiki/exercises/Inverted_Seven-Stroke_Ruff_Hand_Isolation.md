@@ -7,18 +7,18 @@ last_updated: 2023-10-27
 ---
 
 # Inverted Seven-Stroke Ruff Hand Isolation
-This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted Seven-Stroke Ruff]]. It involves playing the entire rudiment with a single hand, focusing on that hand's ability to produce an accented stroke immediately followed by six unaccented grace notes.
+This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted_Seven-Stroke_Ruff]]. It involves playing the entire rudiment with a single hand, focusing on that hand's ability to produce an accented stroke immediately followed by six unaccented grace notes.
 
 **Objective:**
-To develop independent hand control and strength for both hands, ensuring each hand can execute the [[Inverted Seven-Stroke Ruff]] with precision, dynamics, and fluidity. This is crucial for achieving balanced and versatile [[Drum_Technique_50]], especially with longer grace note figures.
+To develop independent hand control and strength for both hands, ensuring each hand can execute the [[Inverted_Seven-Stroke_Ruff]] with precision, dynamics, and fluidity. This is crucial for achieving balanced and versatile [[Drum_Technique_50]], especially with longer grace note figures.
 
 **Method (based on Ex 4.15 played with one hand):**
-The original [[Ex 4.15 Inverted Seven-Stroke Ruff]] is adapted to be played entirely with one hand.
+The original [[Ex_4.15_Inverted_Seven-Stroke_Ruff]] is adapted to be played entirely with one hand.
 Example: `R r r r r r r` (all strokes with the right hand, with the first 'R' being accented).
 Then repeat with the left hand: `L l l l l l l` (all strokes with the left hand, with the first 'L' being accented).
 
 **Practice Instructions:**
-1.  **Focus on One Hand:** Begin by playing the entire [[Inverted Seven-Stroke Ruff]] (one accent, six grace notes) using only your right hand.
+1.  **Focus on One Hand:** Begin by playing the entire [[Inverted_Seven-Stroke_Ruff]] (one accent, six grace notes) using only your right hand.
 2.  **Wrist-Driven Motion:** Emphasize that all seven strokes should primarily come from the wrist, with minimal arm involvement.
 3.  **Dynamic Control:** Maintain the dynamic contrast: a strong initial accent followed by six soft grace notes, all produced by the same wrist.
 4.  **Evenness of Grace Notes:** This is paramount. Ensure the six grace notes are perfectly even in spacing and consistent in volume, creating a smooth, quiet roll effect.

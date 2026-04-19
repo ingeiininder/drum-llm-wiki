@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Funk-Rock Play-Along (Unit 8 Ex 8.13)
-This exercise, "Ex 8.13," is a full [[Funk-Rock]] play-along designed to integrate all the concepts and grooves learned in Unit 8. It features a comprehensive chart that includes various sections, dynamic markings, and form navigation instructions.
+This exercise, "Ex 8.13," is a full [[Funk_Rock]] play-along designed to integrate all the concepts and grooves learned in Unit 8. It features a comprehensive chart that includes various sections, dynamic markings, and form navigation instructions.
 
 **Key Elements to Apply:**
 *   **Grooves:** Incorporate the [[Syncopated_Funk-Rock_Groove_Letter_A]] and [[Syncopated_Funk-Rock_Groove_Letter_B]].
@@ -15,7 +15,7 @@ This exercise, "Ex 8.13," is a full [[Funk-Rock]] play-along designed to integra
 *   **Fills:** Execute the [[Snare_Drum_Pick-Up_Fill_Funk-Rock]] and any other designated fills with precision.
 *   **Ensemble Figures:** Perform the [[16th-Note_Ensemble_Figure_Funk-Rock]] accurately with the band.
 *   **Form Navigation:** Master the [[D.C._al_Coda_No_Repeats]] instruction, understanding how it affects repeats and leads to [[Extended_Phrase_Funk-Rock]] sections like the [[Extended_Letter_B_Phrase_Funk-Rock]].
-*   **Dynamics and Sound:** Pay attention to dynamic markings (e.g., "FF" for fortissimo) and specific sound instructions (e.g., "Medium, Thick Hi-Hat," [[Open Hi-Hat]], [[Rimshot]]).
+*   **Dynamics and Sound:** Pay attention to dynamic markings (e.g., "FF" for fortissimo) and specific sound instructions (e.g., "Medium, Thick Hi-Hat," [[Open_Hi-Hat]], [[Rimshot]]).
 
 **Practice Strategy:**
 1.  **Chart Study:** Thoroughly read and understand the entire chart, including all instructions and form markings.
@@ -24,4 +24,4 @@ This exercise, "Ex 8.13," is a full [[Funk-Rock]] play-along designed to integra
 4.  **Play-Along Integration:** Play along with the track, initially at slower tempos if available, gradually building up to the target tempo.
 5.  **Recording:** Record your performance to critically evaluate your timing, feel, dynamics, and adherence to the chart.
 
-**Pro-Tip:** This play-along is a performance simulation. Treat it as such. Focus not just on playing the notes correctly, but on playing them *musically* within the context of the song. Listen to the other instruments in the play-along to ensure you're locking in and contributing to the overall [[Funk-Rock]] feel.
+**Pro-Tip:** This play-along is a performance simulation. Treat it as such. Focus not just on playing the notes correctly, but on playing them *musically* within the context of the song. Listen to the other instruments in the play-along to ensure you're locking in and contributing to the overall [[Funk_Rock]] feel.

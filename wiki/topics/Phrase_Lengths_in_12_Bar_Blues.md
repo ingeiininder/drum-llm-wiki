@@ -2,15 +2,15 @@
 type: topic
 source: IMG_0181
 unit: Unit 6 - Chapter 1
-tags: [blues, phrase, song structure, form, chart reading]
+tags: [[[Blues|blues]], phrase, song structure, form, [[Chart|chart]] reading]
 last_updated: 2023-10-27
 ---
 
-# Phrase Lengths in 12-Bar Blues
-In the context of a [[12_Bar_Blues_Structure]], musical phrases can vary in length, even within a repeating 12-bar form. Understanding these [[Phrase Lengths]] is crucial for accurate [[Drum Chart Reading]] and performance.
+# Phrase Lengths in 12-Bar [[Blues|Blues]]
+In the context of a [[12_Bar_Blues_Structure]], musical phrases can vary in length, even within a repeating 12-bar form. Understanding these [[Phrase_Lengths]] is crucial for accurate [[Drum_Chart_Reading]] and performance.
 
 **Variations in Phrase Lengths**:
-*   The chart for this unit contains phrases of varying lengths: 1, 2, and 4 bars.
+*   The [[Chart|chart]] for this unit contains phrases of varying lengths: 1, 2, and 4 bars.
 *   **A1 Section**: A one-bar phrase played for 12 bars.
 *   **A2 and A4 Sections**: Two-bar phrases played for 12 bars.
 *   **A3 Section**: A four-bar phrase played for 12 bars.

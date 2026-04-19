@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Quarter Notes and Eighth Notes with Half, Quarter and Eighth Rests (Two-Bar Phrases)
 
-This exercise category further develops rhythmic reading and performance skills by extending patterns over two-bar phrases and incorporating a full range of [[Rests]] ([[Half_Rest]], [[Quarter_Rest]], and [[Eighth Rests]]) alongside [[Quarter Notes]] and [[Eighth Notes]]. This challenges drummers to maintain rhythmic accuracy and musical flow through longer periods of silence.
+This exercise category further develops rhythmic reading and performance skills by extending patterns over two-bar phrases and incorporating a full range of [[Rests]] ([[Half_Rest]], [[Quarter_Rest]], and [[Eighth Rests]]) alongside [[Quarter_Note]] and [[Eighth_Note]]. This challenges drummers to maintain rhythmic accuracy and musical flow through longer periods of silence.
 
 ## Exercise Description
 
@@ -29,4 +29,4 @@ The primary challenge is to accurately interpret and perform the various duratio
 *   **Breathing/Movement**: Use subtle body movements or controlled breathing to mark time during rests without making sound, helping to maintain the flow.
 *   **Looping**: Practice looping each two-bar phrase to build consistency, endurance, and a natural feel for the rhythmic patterns.
 
-Mastering these exercises is crucial for developing advanced [[Drum Reading]] skills, enabling drummers to confidently navigate complex musical forms with varied rhythmic figures and periods of silence.
+Mastering these exercises is crucial for developing advanced [[Drum_Reading]] skills, enabling drummers to confidently navigate complex musical forms with varied rhythmic figures and periods of silence.

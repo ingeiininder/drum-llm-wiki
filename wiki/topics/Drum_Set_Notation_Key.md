@@ -2,16 +2,16 @@
 type: topic
 source: IMG_0224
 unit: Unit 1
-tags: [notation, drum set, percussion, chart reading]
+tags: [notation, drum set, percussion, [[Chart|chart]] reading]
 last_updated: 2023-10-27
 ---
 
 # Drum Set Notation Key
-The [[Drum_Seat]] Notation Key establishes the standard conventions for writing drum parts on [[The Staff]]. Unlike melodic instruments where lines and spaces represent specific pitches, for drum set, they represent specific components of the drum kit.
+The [[Drum_Seat]] Notation Key establishes the standard conventions for writing drum parts on [[The_Staff]]. Unlike melodic instruments where lines and spaces represent specific pitches, for drum set, they represent specific components of the drum kit.
 
 ## Principles of Drum Set Notation
-*   **Vertical Placement**: Lower-pitched instruments are typically placed at the bottom of [[The Staff]], and instruments ascend in pitch as they are notated higher on the staff. This provides a logical visual representation of the kit.
-*   **Note Head Shapes**: Different [[Note Head]] shapes are used to distinguish between drums and cymbals.
+*   **Vertical Placement**: Lower-pitched instruments are typically placed at the bottom of [[The_Staff]], and instruments ascend in pitch as they are notated higher on the staff. This provides a logical visual representation of the kit.
+*   **Note Head Shapes**: Different [[Note_Head]] shapes are used to distinguish between drums and cymbals.
     *   **Drums**: Normally represented by a solid black dot (standard note head).
     *   **Cymbals**: Notated with an 'X' (an 'X' note head).
 

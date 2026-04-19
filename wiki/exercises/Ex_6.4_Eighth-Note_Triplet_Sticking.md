@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Ex 6.4 Eighth-Note Triplet Sticking
-[[Ex 6.4 Eighth-Note Triplet Sticking]] is part of the [[Eighth-Note Triplet Study]], designed to further explore different sticking and accent patterns within the triplet rhythm. This exercise likely introduces a more complex or extended pattern than previous exercises.
+[[Ex_6.4_Eighth-Note_Triplet_Sticking]] is part of the [[Eighth-Note_Triplet_Study]], designed to further explore different sticking and accent patterns within the triplet rhythm. This exercise likely introduces a more complex or extended pattern than previous exercises.
 
 **Objective:**
-To develop advanced control over varied triplet stickings, ensuring rhythmic accuracy, dynamic consistency, and the preservation of the [[Eighth-Note Triplet Feel]].
+To develop advanced control over varied triplet stickings, ensuring rhythmic accuracy, dynamic consistency, and the preservation of the [[Eighth-Note_Triplet_Feel]].
 
 **Musical Context (as described in source):**
 The exercise is presented with explicit sticking patterns.

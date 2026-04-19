@@ -2,18 +2,18 @@
 type: topic
 source: [IMG_0361, IMG_0362]
 unit: Unit 6 - Chapter 2
-tags: [sticking, technique, rudiments, speed, control, drum reading]
+tags: [sticking, technique, [[Rudiments|rudiments]], speed, control, [[Drum_Reading|drum reading]]]
 last_updated: 2023-10-27
 ---
 
 # Double Strokes
-Double Strokes are a fundamental [[Sticking Patterns]] technique in drumming where two consecutive notes are played with a single hand motion. This technique is essential for achieving speed, fluidity, and specific textures, especially in [[16th Note]] passages and rudimental drumming.
+Double Strokes are a fundamental [[Sticking_Patterns]] technique in drumming where two consecutive notes are played with a single hand motion. This technique is essential for achieving speed, fluidity, and specific textures, especially in [[16th_Note]] passages and [[Rudimental_Drumming|rudimental drumming]].
 
 *   **Basic Principle**: Instead of alternating hands for every note (R L R L), a double stroke involves playing two notes with the right hand (RR) followed by two notes with the left hand (LL), or vice versa.
 *   **Benefits**:
     *   **Speed**: Allows for faster note groupings than single strokes, as the hand only needs to move half as often.
     *   **Control**: When developed properly, double strokes can be played with precision and dynamic control.
-    *   **Rudimental Foundation**: They are a core component of many drum rudiments, such as the [[Five Stroke Roll]] and the Double Stroke Roll.
+    *   **Rudimental Foundation**: They are a core component of many drum [[Rudiments|rudiments]], such as the [[Five_Stroke_Roll]] and the [[Double_Stroke_Roll|Double Stroke Roll]].
 
 **Methods of Application**:
 1.  **[[Double_Strokes_Lead_Method]]**: A specific hand consistently leads the double stroke pattern (e.g., always starting with RR or always starting with LL).

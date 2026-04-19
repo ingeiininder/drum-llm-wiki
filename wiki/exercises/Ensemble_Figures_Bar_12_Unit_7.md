@@ -12,15 +12,15 @@ In musical charts, [[Ensemble Performance|ensemble figures]] are rhythmic patter
 
 ## Location and Rhythms
 
-In the Unit 7 chart, ensemble figures are present in bar 12, just prior to repeating the [[12-Bar Blues Open Form]]. Specifically, these figures occur on:
+In the Unit 7 chart, ensemble figures are present in bar 12, just prior to repeating the [[12-Bar_Blues_Open_Form]]. Specifically, these figures occur on:
 *   Beat 2
 *   The "&" of 2
 
 ## Drummer's Orchestration
 
 As a drummer, you need to accentuate these rhythms alongside the band. A solid orchestration option is:
-*   **Beat 2**: Play a [[Snare Drum]] hit (which might already be part of your [[Drum Grooves|groove]]).
-*   **"&" of 2**: Play a [[Crash Cymbal]] in unison with the [[Bass Drum]]. This creates a powerful, unified accent.
+*   **Beat 2**: Play a [[Snare_Drum]] hit (which might already be part of your [[Drum Grooves|groove]]).
+*   **"&" of 2**: Play a [[Crash_Cymbal]] in unison with the [[Bass_Drum]]. This creates a powerful, unified accent.
 
 ## Importance
 

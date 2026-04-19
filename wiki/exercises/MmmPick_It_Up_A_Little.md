@@ -9,11 +9,11 @@ last_updated: 2026-04-19
 
 # MmmPick It Up A Little
 
-"MmmPick It Up A Little" is a technical study in [[Medium Swing]] performance, structured as a standard [[12-Bar Blues]] in the key of F. Written by Peter Retzlaff and Jim Rupp, it serves as a practical application for [[Comping]] and [[Feathering the Bass Drum]].
+"MmmPick It Up A Little" is a technical study in [[Medium Swing]] performance, structured as a standard [[12-Bar Blues]] in the key of F. Written by Peter Retzlaff and Jim Rupp, it serves as a practical application for [[Comping]] and [[Feathering_the_Bass_Drum]].
 
 ### Performance Objectives
 1. **Form Awareness**: Drummers must outline the 12-bar form. Use a [[Turnaround]] figure to clearly mark the transition back to the top of each section.
-2. **Dynamic Balance**: Maintain a solid relationship between the [[Ride Cymbal]], [[Hi-Hat]], and [[Bass Drum]].
+2. **Dynamic Balance**: Maintain a solid relationship between the [[Ride_Cymbal]], [[Hi-Hat]], and [[Bass_Drum]].
 3. **Trading Fours**: During the [[Trading Fours]] section, the form continues to move. 
     - *Chorus 1*: Play the second four bars of the 12-bar tune.
     - *Chorus 2*: Play the first and third sets of four bars.

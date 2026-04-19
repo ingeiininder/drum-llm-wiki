@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 12-Bar Phrase (Eighth-Note Triplets and Rests)
-This exercise applies rhythmic reading skills to an extended [[12-Bar Phrase]], integrating [[Eighth Note Triplets]] and various [[Rests]]. This format often relates to the [[Blues Form]] and challenges a drummer's endurance, consistency, and ability to maintain a rhythmic pattern over a significant musical structure.
+This exercise applies rhythmic reading skills to an extended [[12-Bar Phrase]], integrating [[Eighth_Note_Triplets]] and various [[Rests]]. This format often relates to the [[Blues Form]] and challenges a drummer's endurance, consistency, and ability to maintain a rhythmic pattern over a significant musical structure.
 
 **Key Learning Points:**
 *   **Form Awareness**: Understand the structure of a 12-bar phrase and how rhythmic ideas develop and repeat within it.

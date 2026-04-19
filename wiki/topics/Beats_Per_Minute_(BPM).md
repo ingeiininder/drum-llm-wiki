@@ -10,10 +10,10 @@ last_updated: 2023-10-27
 **Beats Per Minute (BPM)** is the standard unit of measurement for [[Tempo]] in music. It quantifies the pace of a piece by indicating the number of [[Beat]]s that occur within a 60-second interval (one minute).
 
 ## Indication in Music
-BPM is commonly indicated at the top of a piece of music, often above the first measure. It can be notated in two primary ways:
+BPM is commonly indicated at the top of a piece of music, often above the first [[Measure|measure]]. It can be notated in two primary ways:
 
 1.  **As a numerical value**: e.g., "120 bpm".
-2.  **With a [[Note Value]] equaling the BPM**: e.g., a [[Quarter Note]] symbol followed by "= 120". This explicitly states which note value receives the beat at that tempo.
+2.  **With a [[Note_Value]] equaling the BPM**: e.g., a [[Quarter_Note]] symbol followed by "= 120". This explicitly states which note value receives the beat at that tempo.
 
 ## Importance for Drummers
 *   **Consistency**: BPM provides a precise target for maintaining a consistent tempo throughout a performance.
@@ -29,4 +29,4 @@ BPM is commonly indicated at the top of a piece of music, often above the first 
 *   [[Tempo]]
 *   [[Beat]]
 *   [[Metronome]]
-*   [[Rhythmic Values]]
+*   [[Rhythmic_Values]]

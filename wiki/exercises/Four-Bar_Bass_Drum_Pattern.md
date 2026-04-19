@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Four-Bar Bass Drum Pattern
-A [[Four-Bar Bass Drum Pattern]] is an example of a [[Multiple-Bar Phrases]] where the [[Bass Drum]] part repeats every four measures. This allows for more complex and evolving rhythmic ideas within the groove, contributing to the overall [[Song Structure]] and feel.
+A [[Four-Bar_Bass_Drum_Pattern]] is an example of a [[Multiple_Bar_Phrases]] where the [[Bass_Drum]] part repeats every four measures. This allows for more complex and evolving rhythmic ideas within the groove, contributing to the overall [[Song Structure]] and feel.
 
 **Example Structure**:
 *   **Bar 1**: First bar of the phrase.

@@ -13,15 +13,15 @@ Cumbia originated as a courtship dance among African populations and evolved sig
 
 ### Musical Structure
 Cumbia charts often utilize an **AAB Form**:
-- **Section A**: Typically an eight-bar phrase featuring a one-bar groove and a fill on the eighth measure.
-- **Section A2**: A variation of Section A, often incorporating melodic movement to the [[Rack Tom]] to emulate conga or timbale patterns.
+- **Section A**: Typically an [[Eight-Bar_Phrase|eight-bar phrase]] featuring a one-bar [[Groove|groove]] and a [[Fill|fill]] on the eighth [[Measure|measure]].
+- **Section A2**: A variation of Section A, often incorporating melodic movement to the [[Rack_Tom]] to emulate conga or timbale patterns.
 - **Section B**: Features a [[Two-Handed_16th-Note_Groove]] with a two-bar phrase structure, often involving [[Hi-Hat]] openings on the "&" of 4.
 
 ### Performance Mechanics
-1. **The Groove**: The core involves a [[Cross-Stick Articulation]] on every downbeat, which must align perfectly with the [[Bass Drum]].
-2. **Hi-Hat Pattern**: Plays an eighth-and-two-16th-note pattern (`1 & a 2 & a...`) to emulate the [[Merengue Guiro]].
-3. **Ensemble Figures**: Often involve transitions between 16th-note subdivisions and [[Eighth-Note Triplets]] in the [[Coda]].
+1. **The [[Groove|Groove]]**: The core involves a [[Cross-Stick_Articulation]] on every downbeat, which must align perfectly with the [[Bass_Drum]].
+2. **Hi-Hat Pattern**: Plays an eighth-and-two-16th-note pattern (`1 & a 2 & a...`) to emulate the [[Merengue_Guiro]].
+3. **[[Ensemble_Figures|Ensemble Figures]]**: Often involve transitions between 16th-note subdivisions and [[Eighth_Note_Triplets]] in the [[Coda]].
 
 ### Pro-Tips
 - **Avoid Flamming**: The most common pitfall is "flamming" between the cross-stick and the bass drum. Practice these two elements in isolation before adding the hi-hat.
-- **Visual Timekeeping**: In sections with whole-note rests (like Bar 8 of Section B), maintain eye contact with the ensemble to ensure a unified re-entry.
+- **Visual Timekeeping**: In sections with whole-note [[Rests|rests]] (like Bar 8 of Section B), maintain eye contact with the ensemble to ensure a unified re-entry.

@@ -14,6 +14,6 @@ In drumming, "technique" refers to the fundamental methods and skills used to ha
 2.  **Injury Avoidance:** To prevent unnecessary strain, fatigue, and long-term injuries that can arise from inefficient or incorrect movements.
 
 **Achieving Virtuosity:**
-Musicians and athletes who display "super-human physical ability" often achieve this by tapping into the natural physical properties of the body and the instrument. This involves understanding and utilizing principles like gravity, rebound, and leverage to maximize efficiency and minimize effort. Techniques like the [[Gladstone Technique]], [[Free Stroke]], [[Control Stroke]], and [[Moeller Technique]] are prime examples of exploring these natural properties.
+Musicians and athletes who display "super-human physical ability" often achieve this by tapping into the natural physical properties of the body and the instrument. This involves understanding and utilizing principles like gravity, rebound, and leverage to maximize efficiency and minimize effort. Techniques like the [[Gladstone_Technique]], [[Free_Stroke]], [[Control_Stroke]], and [[Moeller_Technique]] are prime examples of exploring these natural properties.
 
 **Pro-Tip:** There isn't one "right" technique, but rather a set of principles that promote efficiency, control, and musicality. The goal is to find what works best for your body and musical goals while adhering to biomechanically sound practices. Consistent practice with a focus on relaxation and natural movement is key to developing effective technique.

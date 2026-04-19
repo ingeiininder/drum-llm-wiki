@@ -12,13 +12,13 @@ This section serves as a crucial reminder that all previously learned informatio
 **Pro-Tip:** Think of your drumming knowledge as a growing tree. Each new lesson is a branch, but the trunk and roots (previous units) must remain strong and well-nourished. Regular review of core concepts ensures a solid foundation for advanced techniques.
 
 **Key Concepts to Remember:**
-*   [[First and Second Endings]]
-*   [[Drum Fill]]
-*   [[AABA Form]]
-*   [[Multiple Bar Phrases]]
+*   [[First_and_Second_Endings]]
+*   [[Drum_Fill]]
+*   [[AABA_Form]]
+*   [[Multiple_Bar_Phrases]]
 *   [[Center_Snare_Hit_Butt_End]]
-*   [[Open Non-Buried Bass Drum Technique]]
-*   [[The Count-Off]]
-*   [[Ensemble Figures]]
+*   [[Open_Non-Buried_Bass_Drum_Technique]]
+*   [[The_Count-Off]]
+*   [[Ensemble_Figures]]
 *   [[Fermata]]
-*   [[D.C. al Fine]]
+*   [[D.C._al_Fine]]

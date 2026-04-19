@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Half Note and Rest Application in 3/4 Time
-This exercise focuses on the application of [[Half_Note]], [[Half_Rest]], [[Tied Half Notes]], and [[Dotted Half Note]]s within the [[3_4_Time_Signature]]. It helps drummers internalize how these longer durations function in a three-beat measure.
+This exercise focuses on the application of [[Half_Note]], [[Half_Rest]], [[Tied Half Notes]], and [[Dotted_Half_Note]]s within the [[3_4_Time_Signature]]. It helps drummers internalize how these longer durations function in a three-beat measure.
 
 **Key Learning Points:**
 *   **Dotted Half Note as Full Measure**: Understand that a dotted half note or dotted half rest occupies an entire measure in 3/4 time.

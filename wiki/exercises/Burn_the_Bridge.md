@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Burn the Bridge
 
-"Burn the Bridge" is a funk composition by [[Jeff Salem]] that emphasizes [[Syncopation]] and pocket playing. The track is built around a highly syncopated bass line and requires the drummer to maintain a consistent feel with minimal fill interference.
+"Burn the Bridge" is a funk composition by [[Jeff_Salem]] that emphasizes [[Syncopation]] and pocket playing. The track is built around a highly syncopated bass line and requires the drummer to maintain a consistent feel with minimal fill interference.
 
 ### Technical Requirements
 - **Two-Bar Patterns**: The core grooves for sections A and B are constructed as two-bar phrases. Consistency in these patterns is more important than technical flash.

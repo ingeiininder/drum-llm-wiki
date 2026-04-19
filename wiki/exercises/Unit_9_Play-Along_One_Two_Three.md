@@ -13,10 +13,10 @@ This entry refers to the full drum chart for Unit 9, Chapter 3, titled "One" "Tw
 *   **Genre**: Rock
 *   **Count-in**: The chart begins with a count-in, typically to help the drummer synchronize with the track.
 *   **Sections**: The chart incorporates all the previously discussed sections, including the [[A Section Groove (Unit 3)]], [[B Section Groove (Unit 3)]] with its various [[B_Section_Endings_Unit_9]], and the [[Coda_Section_Unit_9]] with its [[Coda_Fills_Unit_9]] and [[Coda_Build-up_Unit_9]].
-*   **Instrumentation**: Features standard drum kit instrumentation, including [[Closed Hi-Hat]], [[Half-Open_Hi-Hat]], and [[Ride Cymbal]] as indicated in the performance notes.
+*   **Instrumentation**: Features standard drum kit instrumentation, including [[Closed Hi-Hat]], [[Half-Open_Hi-Hat]], and [[Ride_Cymbal]] as indicated in the performance notes.
 
 **Performance Notes:**
-*   **Application of Concepts**: This play-along is designed to test your ability to apply all the performance notes and technical instructions from Chapter 2, such as specific [[Bass Drum]] and [[Snare Drum]] sounds, hi-hat articulation, and fill execution.
+*   **Application of Concepts**: This play-along is designed to test your ability to apply all the performance notes and technical instructions from Chapter 2, such as specific [[Bass_Drum]] and [[Snare_Drum]] sounds, hi-hat articulation, and fill execution.
 *   **Musicality**: Focus on playing the entire piece musically, paying attention to dynamics, phrasing, and the overall feel of the rock style.
 *   **Road Map**: Carefully follow the song's form, including all repeats, endings, and navigation instructions like `[[D. S. al Coda]]`.
 

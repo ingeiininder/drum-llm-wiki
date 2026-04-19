@@ -13,7 +13,7 @@ This exercise focuses on reading and executing [[Triplet Eighth Note]]s within o
 **Purpose:**
 *   To develop a strong internal feel for [[Triplets]] subdivisions.
 *   To accurately place triplet eighth notes within the two beats of a 2/4 measure.
-*   To improve [[Sight Reading]] of triplet-based rhythms.
+*   To improve [[Sight_Reading]] of triplet-based rhythms.
 
 **Pro-Tips:**
 *   **Vocalization:** Count "ONE-trip-let TWO-trip-let" to internalize the feel of the triplets.

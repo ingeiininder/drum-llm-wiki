@@ -7,10 +7,10 @@ last_updated: 2023-10-27
 ---
 
 # Ex 4.15 Inverted Seven-Stroke Ruff
-This exercise introduces the [[Inverted Seven-Stroke Ruff]], where the accented stroke precedes the six unaccented grace notes. This is a challenging rudiment that demands precise control over dynamics and stick articulation.
+This exercise introduces the [[Inverted_Seven-Stroke_Ruff]], where the accented stroke precedes the six unaccented grace notes. This is a challenging rudiment that demands precise control over dynamics and stick articulation.
 
 **Objective:**
-To develop proficiency in executing the [[Inverted Seven-Stroke Ruff]] with a clear initial accent followed by six soft, even grace notes.
+To develop proficiency in executing the [[Inverted_Seven-Stroke_Ruff]] with a clear initial accent followed by six soft, even grace notes.
 
 **Musical Context (as described in source):**
 The exercise is presented with 16th-note triplets and quarter notes, indicating a focus on rhythmic precision within a triplet feel and across different subdivisions.

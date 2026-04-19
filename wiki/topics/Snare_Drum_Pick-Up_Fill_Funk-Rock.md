@@ -2,13 +2,13 @@
 type: technique
 source: IMG_0195
 unit: Unit 8 Chapter 1
-tags: [fill, snare drum, pick-up, 16th notes, rimshot, technique, funk-rock, dynamics]
+tags: [[[Fill|fill]], [[Snare_Drum|snare drum]], pick-up, 16th notes, [[Rimshot|rimshot]], technique, [[Funk|funk]]-[[Rock|rock]], dynamics]
 last_updated: 2023-10-27
 ---
 
-# Snare Drum Pick-Up Fill (Funk-Rock)
-During the `[[Guitar Introduction (Funk-Rock)]]`, the `[[Drums]]` lead into `[[Letter A]]` with a `[[Snare Drum Pick-Up Fill]]`. This fill consists of a full measure of `[[Broken 16th Notes]]`.
+# [[Snare_Drum|Snare Drum]] Pick-Up [[Fill|Fill]] ([[Funk|Funk]]-[[Rock|Rock]])
+During the `[[Guitar_Introduction_(Funk-Rock)]]`, the `[[Drums]]` lead into `[[Letter_A]]` with a `[[Snare_Drum_Pick-Up_Fill]]`. This [[Fill|fill]] consists of a full [[Measure|measure]] of `[[Broken_16th_Notes]]`.
 
-Crucially, these notes are to be performed as `[[Snare Drum Rimshots]]`. Emphasis is placed on playing these notes evenly, both in `[[Sound]]` and `[[Timing]]`. This ensures a clean and impactful entrance into the main groove. The example `[[Ex 8.2]]` illustrates this fill.
+Crucially, these notes are to be performed as `[[Snare_Drum_Rimshots]]`. Emphasis is placed on playing these notes evenly, both in `[[Stylistically_Correct_Drum_Sound]]` and `[[Timing]]`. This ensures a clean and impactful entrance into the main [[Groove|groove]]. The example `[[Ex_8.2]]` illustrates this [[Fill|fill]].
 
-**Pro-Tip:** Achieving evenness in `[[16th Notes]]`, especially with `[[Rimshots]]`, requires precise `[[Stick Control]]`. Practice this fill slowly with a `[[Metronome]]`, focusing on consistent `[[Dynamics]]` and articulation for each note. A common pitfall is rushing or unevenly accenting the notes. Ensure your `[[Rimshot Technique]]` is solid, striking the rim and head simultaneously for a clear, cutting sound. This fill serves as a powerful `[[Transition]]` element.
+**Pro-Tip:** Achieving evenness in `[[16th_Notes]]`, especially with `[[Rimshots]]`, requires precise `[[Stick_Control]]`. Practice this [[Fill|fill]] slowly with a `[[Metronome]]`, focusing on consistent `[[Dynamics]]` and articulation for each note. A common pitfall is rushing or unevenly accenting the notes. Ensure your `[[Rimshot_Technique]]` is solid, striking the rim and head simultaneously for a clear, cutting sound. This [[Fill|fill]] serves as a powerful `[[Transition]]` element.

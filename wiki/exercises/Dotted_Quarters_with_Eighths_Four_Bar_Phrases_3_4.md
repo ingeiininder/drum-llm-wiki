@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # Dotted Quarters with Eighths (Four-Bar Phrases) - 3/4
 
-Building on the previous exercise, this section presents [[Dotted Quarter Note]]s and [[Eighth Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. This challenges the drummer to maintain rhythmic accuracy and flow over longer periods in a triple meter.
+Building on the previous exercise, this section presents [[Dotted_Quarter_Note]]s and [[Eighth_Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. This challenges the drummer to maintain rhythmic accuracy and flow over longer periods in a triple meter.
 
 **Purpose:**
 *   To reinforce the accurate execution of dotted quarter notes and eighth notes in a continuous context in 3/4 time.
 *   To develop rhythmic endurance and the ability to sustain focus over longer phrases.
-*   To improve [[Sight Reading]] for more complex, extended rhythmic passages.
+*   To improve [[Sight_Reading]] for more complex, extended rhythmic passages.
 
 **Pro-Tips:**
 *   **Anticipation:** Practice looking ahead in the music to anticipate upcoming dotted notes and their resolutions.

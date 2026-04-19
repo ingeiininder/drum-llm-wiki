@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 ---
 
 # Staccato Interpretation
-When interpreting **Staccato** markings in an [[Ensemble Figures]] context, the goal is brevity and precision.
+When interpreting **Staccato** markings in an [[Ensemble_Figures]] context, the goal is brevity and precision.
 
 ### Performance Characteristics
 *   **Set-up Fills**: Should be short and simple. Avoid long rolls or complex flams that might bleed into the figure.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: Eighth Triplets with Ties (Four-Bar Phrases)
-This exercise focuses on reading and performing rhythms that combine [[Eighth Note Triplets]] with [[Ties (Music)]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise focuses on reading and performing rhythms that combine [[Eighth_Note_Triplets]] with [[Ties (Music)]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing complex rhythms involving both triplet subdivisions and tied notes.

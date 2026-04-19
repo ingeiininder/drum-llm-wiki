@@ -8,17 +8,17 @@ last_updated: 2023-10-27
 
 # 3/4 Exercises (Rhythm Reading)
 
-This section provides a series of [[Rhythm Reading]] exercises specifically tailored for the [[3_4_Time_Signature]]. These exercises progressively introduce various [[Note Values]], [[Rests]], and rhythmic complexities, helping drummers to internalize the feel and subdivision of 3/4 time.
+This section provides a series of [[Rhythm_Reading]] exercises specifically tailored for the [[3_4_Time_Signature]]. These exercises progressively introduce various [[Note_Values]], [[Rests]], and rhythmic complexities, helping drummers to internalize the feel and [[Subdivision|subdivision]] of 3/4 time.
 
 **Purpose:**
-*   To develop a strong sense of pulse and rhythmic accuracy in 3/4 time.
-*   To practice reading and executing combinations of [[Half Note]]s, [[Quarter Note]]s, [[Eighth Note]]s, [[Sixteenth Note]]s, [[Triplet Eighth Note]]s, and their corresponding rests.
+*   To develop a strong sense of [[Pulse|pulse]] and rhythmic accuracy in 3/4 time.
+*   To practice reading and executing combinations of [[Half_Note]]s, [[Quarter_Note]]s, [[Eighth_Note]]s, [[Sixteenth_Note]]s, [[Triplet_Eighth_Note]]s, and their corresponding rests.
 *   To build endurance and focus through exercises ranging from one-bar phrases to longer, multi-bar compositions, including patterns with [[Ties]] and [[Dotted_Notes]]s.
 
 **Pro-Tips for 3/4 Time:**
-*   **Waltz Feel:** In 3/4, the emphasis is typically on beat one, creating a "ONE-two-three" or waltz-like feel.
-*   **Subdivision:** Consistently subdivide the beats into the smallest [[Note Value]] present in the exercise (e.g., eighth notes for simple patterns, sixteenth notes for more complex ones).
-*   **Metronome Placement:** Experiment with placing the [[Metronome]] on different beats (e.g., on beat one, or on all three beats) to challenge your internal clock.
-*   **Application:** Once comfortable reading, try orchestrating these rhythms around the [[Drum Kit]] to create [[Groove]] or [[Fill]] in 3/4.
+*   **Waltz Feel:** In 3/4, the emphasis is typically on [[Beat|beat]] one, creating a "ONE-two-three" or waltz-like feel.
+*   **[[Subdivision|Subdivision]]:** Consistently subdivide the beats into the smallest [[Note_Value]] present in the exercise (e.g., [[Eighth_Notes|eighth notes]] for simple patterns, [[Sixteenth_Notes|sixteenth notes]] for more complex ones).
+*   **Metronome Placement:** Experiment with placing the [[Metronome]] on different beats (e.g., on [[Beat|beat]] one, or on all three beats) to challenge your internal clock.
+*   **Application:** Once comfortable reading, try orchestrating these rhythms around the [[Drum_Kit]] to create [[Groove]] or [[Fill]] in 3/4.
 
-These exercises are fundamental for developing versatility in different [[Time Signature]]s, which is crucial for playing diverse musical styles.
+These exercises are fundamental for developing versatility in different [[Time_Signature]]s, which is crucial for playing diverse musical styles.

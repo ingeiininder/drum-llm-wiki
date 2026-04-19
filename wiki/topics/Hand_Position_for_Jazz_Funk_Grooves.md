@@ -3,13 +3,13 @@ type: topic
 book_id: TECH1_2
 source: IMG_1136
 unit: 4
-tags: [technique, ergonomics, hi-hat, jazz-funk]
+tags: [technique, ergonomics, hi-hat, [[Jazz|jazz]]-[[Funk|funk]]]
 last_updated: 2026-04-19
 ---
 
-# Hand Position for Jazz-Funk Grooves
+# Hand Position for [[Jazz|Jazz]]-[[Funk|Funk]] Grooves
 
-In contemporary drumming, maintaining a static hand position for every [[Groove]] is often counterproductive to achieving specific sonic articulations. When executing a [[Jazz Ride]] pattern on the [[Hi-Hat]] while simultaneously delivering a powerful [[Back-Beat]] on the [[Snare Drum]], standard "crossed-hand" positions may need adjustment.
+In contemporary drumming, maintaining a static hand position for every [[Groove]] is often counterproductive to achieving specific sonic [[Articulations|articulations]]. When executing a [[Jazz_Ride]] pattern on the [[Hi-Hat]] while simultaneously delivering a powerful [[Back-Beat]] on the [[Snare_Drum]], standard "crossed-hand" positions may need adjustment.
 
 ### Technical Adjustments
 To facilitate a strong backbeat without sacrificing the fluidity of the hi-hat pattern:

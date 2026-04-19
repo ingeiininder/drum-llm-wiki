@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Dotted Half Notes and Dotted Quarter Notes (One Bar Phrases) - Exercise A
-This exercise focuses on reading and performing rhythms that incorporate [[Dotted Half Note]]s and [[Dotted Quarter Note]]s within single-bar phrases. It reinforces the understanding of their extended [[Duration]]s and how they fit within a measure.
+This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Half_Note]]s and [[Dotted_Quarter_Note]]s within single-bar phrases. It reinforces the understanding of their extended [[Duration]]s and how they fit within a measure.
 
 **Key Learning Points:**
 *   **Duration Calculation**: Accurately interpret the 3-beat value of a dotted half note and the 1.5-beat value of a dotted quarter note.

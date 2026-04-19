@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ex 6.2 Eighth-Note Triplet Sticking
-[[Ex 6.2 Eighth-Note Triplet Sticking]] is a continuation of the [[Eighth-Note Triplet Study]], building upon the foundational patterns introduced in [[Ex 6.1 Eighth-Note Triplet Sticking]]. This exercise likely introduces a slightly varied or extended [[Hand-to-Hand Triplets]] pattern.
+[[Ex_6.2_Eighth-Note_Triplet_Sticking]] is a continuation of the [[Eighth-Note_Triplet_Study]], building upon the foundational patterns introduced in [[Ex_6.1_Eighth-Note_Triplet_Sticking]]. This exercise likely introduces a slightly varied or extended [[Hand-to-Hand_Triplets]] pattern.
 
 **Objective:**
 To further develop consistency and fluidity in playing eighth-note triplets, reinforcing balanced hand technique and maintaining the characteristic "round" feel.
@@ -18,7 +18,7 @@ The exercise is presented as a continuous triplet pattern.
 `R L R L R L R L R L R` (A continuation or inverse of the above.)
 
 **Sticking Pattern:**
-The exercise explicitly shows alternating [[Hand-to-Hand Triplets]]:
+The exercise explicitly shows alternating [[Hand-to-Hand_Triplets]]:
 `L R L R L R L R L R L`
 `R L R L R L R L R L R`
 
@@ -29,4 +29,4 @@ The exercise explicitly shows alternating [[Hand-to-Hand Triplets]]:
 4.  **Relaxation:** Continue to prioritize relaxation in your grip, wrists, and arms to prevent tension and facilitate speed.
 
 **Pro-Tip:**
-This exercise helps to solidify the muscle memory for continuous [[Hand-to-Hand Triplets]]. Think of it as a rhythmic "engine" where both hands are working in perfect synchronicity. The longer phrases in this exercise are excellent for building endurance and maintaining the [[Eighth-Note Triplet Feel]] over extended periods.
+This exercise helps to solidify the muscle memory for continuous [[Hand-to-Hand_Triplets]]. Think of it as a rhythmic "engine" where both hands are working in perfect synchronicity. The longer phrases in this exercise are excellent for building endurance and maintaining the [[Eighth-Note_Triplet_Feel]] over extended periods.

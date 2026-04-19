@@ -15,7 +15,7 @@ last_updated: 2026-04-19
 *   **Style**: 16th Note-Based Funk.
 *   **Tempo**: 108 BPM.
 *   **Key Features**:
-    *   Heavy use of [[16th Note]] subdivisions.
+    *   Heavy use of [[16th_Note]] subdivisions.
     *   Ensemble figures occurring on the "e's" and "ah's" (off-beats).
     *   Requires precise coordination between the ride cymbal, snare, and bass drum.
     *   Includes a "hard stop" and a two-beat break that requires strict internal counting.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 1-Beat Fill
-A [[1-Beat Fill]] is a short [[Drum_Fill]] that occupies the duration of a single beat. In drum notation, it is typically indicated by a single [[Fill Markers]] (a time slash).
+A [[1-Beat_Fill]] is a short [[Drum_Fill]] that occupies the duration of a single beat. In drum notation, it is typically indicated by a single [[Fill_Markers]] (a time slash).
 
 These short fills are often used for:
 *   **Subtle transitions**: Connecting phrases or sections without being overly disruptive.

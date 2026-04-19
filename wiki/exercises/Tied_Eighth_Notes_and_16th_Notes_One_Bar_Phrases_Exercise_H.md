@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Tied Eighth Notes and 16th Notes (One-Bar Phrases) - Exercise H
-This exercise introduces [[Ties]] that connect [[Eighth Notes]] and [[Sixteenth Notes]] within one-bar phrases. This is a more advanced rhythmic challenge, crucial for interpreting intricate [[Syncopated Rhythms]] and maintaining precise [[Subdivision]] at a finer level.
+This exercise introduces [[Ties]] that connect [[Eighth_Note]] and [[16th_Notes]] within one-bar phrases. This is a more advanced rhythmic challenge, crucial for interpreting intricate [[Syncopated_Rhythms]] and maintaining precise [[Subdivision]] at a finer level.
 
 **Key Learning Points:**
 *   **Fine Subdivision**: Accurately interpret and execute tied notes at the sixteenth-note level, including "e" and "a" subdivisions.

@@ -20,7 +20,7 @@ This symbol is placed above the staff to mark the beginning of the Coda section.
 ## Usage
 
 *   **Ending Section**: The Coda is a separate section of music that serves as an extended ending. It often introduces new material or reworks previous themes in a conclusive manner.
-*   **Navigation**: The Coda symbol is frequently used in conjunction with [[Repeat Signs]] or other directives like [[D.S. al Coda]] or "To Coda." These instructions tell the performer to jump directly to the Coda section, skipping any intervening measures.
+*   **Navigation**: The Coda symbol is frequently used in conjunction with [[Repeat Signs]] or other directives like [[D.S._al_Coda]] or "To Coda." These instructions tell the performer to jump directly to the Coda section, skipping any intervening measures.
 
 ## Importance in Chart Reading
 

@@ -19,7 +19,7 @@ This symbol is placed above the staff at the measure where the performer is inst
 
 ## Usage
 
-When a musical chart contains the instruction "D.S." (e.g., as part of [[D.S. al Coda]]), the performer must:
+When a musical chart contains the instruction "D.S." (e.g., as part of [[D.S._al_Coda]]), the performer must:
 1.  **Locate the Sign**: Find the measure marked with the Del Segno symbol.
 2.  **Return to that Point**: Go back to that specific measure and continue playing from there.
 
@@ -27,7 +27,7 @@ When a musical chart contains the instruction "D.S." (e.g., as part of [[D.S. al
 
 *   **Navigation**: Del Segno is a crucial navigation marker, allowing composers to create complex [[Form]]s and repeat sections without writing them out multiple times.
 *   **Efficiency**: It saves space in [[Sheet Music]] and makes charts more concise.
-*   **Contrast with Da Capo**: Unlike [[D.C. al Fine]] (Da Capo), which always directs a return to the very beginning of the piece, Del Segno directs a return to a specific, marked point within the piece.
+*   **Contrast with Da Capo**: Unlike [[D.C._al_Fine]] (Da Capo), which always directs a return to the very beginning of the piece, Del Segno directs a return to a specific, marked point within the piece.
 
 ## Pro-Tip
 

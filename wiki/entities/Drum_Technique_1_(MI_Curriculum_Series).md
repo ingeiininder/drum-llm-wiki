@@ -7,74 +7,74 @@ last_updated: 2023-10-27
 ---
 
 # Drum Technique 1 (MI Curriculum Series)
-"Drum Technique 1" is a foundational instructional book within the [[Musicians Institute]] (MI) Curriculum Series, focusing on essential drumming techniques, reading, and performance.
+"Drum Technique 1" is a foundational instructional book within the [[Musicians_Institute]] (MI) Curriculum Series, focusing on essential drumming techniques, reading, and performance.
 
 **Key Information:**
-*   **Author:** [[Jeff Bowders]]
-*   **Instructional Design:** [[Stewart Jean]] (Drum Program Chair, [[Musicians Institute]])
-*   **Edited by:** [[Joe Bergamini]]
+*   **Author:** [[Jeff_Bowders]]
+*   **Instructional Design:** [[Stewart_Jean]] (Drum Program Chair, [[Musicians_Institute]])
+*   **Edited by:** [[Joe_Bergamini]]
 *   **Digital Book Design & Cover:** Mike Hoff
 *   **Layout:** Rick Gratton
 *   **Music Engraving:** Willie Rose
 *   **Series Sponsor:** Jon Clayden (Vice President of Academic Affairs)
-*   **Creative Director & Executive Editor:** [[Donny Gruendler]] (Vice President of Instruction and Curricular Development)
-*   **Managing Editor:** [[Joe Bergamini]]
-*   **Publisher:** WBH MusicWorks LLC for [[Musicians Institute]]
-*   **Executive Producers:** Rob Wallis, [[Joe Bergamini]], Mike Hoff
+*   **Creative Director & Executive Editor:** [[Donny_Gruendler]] (Vice President of Instruction and Curricular Development)
+*   **Managing Editor:** [[Joe_Bergamini]]
+*   **Publisher:** WBH MusicWorks LLC for [[Musicians_Institute]]
+*   **Executive Producers:** Rob Wallis, [[Joe_Bergamini]], Mike Hoff
 *   **Copyright:** © 2014 Musicians Institute, Inc.
 
 **Overview of Units and Key Topics:**
 
 *   **Unit 1:**
-    *   [[Fulcrum (Drumming)]] and [[American Grip]]
-    *   [[Gladstone Technique]] / [[Free Stroke]]
-    *   [[Control Stroke]] / [[Down Stroke]]
+    *   [[Fulcrum_(Drumming)]] and [[American_Grip]]
+    *   [[Gladstone_Technique]] / [[Free_Stroke]]
+    *   [[Control_Stroke]] / [[Down_Stroke]]
 *   **Unit 2:**
-    *   [[German Grip]]
-    *   [[French Grip]]
-    *   [[Traditional Grip]]
-    *   [[Second-Finger Fulcrum]]
+    *   [[German_Grip]]
+    *   [[French_Grip]]
+    *   [[Traditional_Grip]]
+    *   [[Second-Finger_Fulcrum]]
     *   [[Technique Control Exercises]]
     *   [[The Drum Seat]]
 *   **Unit 3:**
-    *   [[Moeller Technique]]
-    *   [[Accents, Taps, and Up Strokes]]
+    *   [[Moeller_Technique]]
+    *   [[Accents,_Taps,_and_Up_Strokes]]
     *   [[Technique Control Exercises]]
-    *   [[Bass Drum Technique]]
-    *   [[Seat Height (Drumming)]]
+    *   [[Bass_Drum_Technique]]
+    *   [[Seat_Height_(Drumming)]]
 *   **Unit 4:**
-    *   [[Rudimental Drumming]]
-    *   [[Three-Stroke Ruff]]
-    *   [[Four-Stroke Ruff]]
-    *   [[Five-Stroke Ruff]]
-    *   [[Seven-Stroke Ruff]]
-    *   [[Hi-Hat Technique]]
+    *   [[Rudimental_Drumming]]
+    *   [[Three-Stroke_Ruff]]
+    *   [[Four-Stroke_Ruff]]
+    *   [[Five-Stroke_Ruff]]
+    *   [[Seven-Stroke_Ruff]]
+    *   [[Hi-Hat_Technique]]
 *   **Unit 5:**
-    *   [[Bass Drum Technique]] (continued)
+    *   [[Bass_Drum_Technique]] (continued)
 *   **Unit 6:**
-    *   [[Eighth-Note Triplet Study]]
+    *   [[Eighth-Note_Triplet_Study]]
     *   [[Rudimental_Recall_Ruffs]]
-    *   [[Bass Drum and Hi-Hat Coordination Part 1]]
+    *   [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]]
 *   **Unit 7:**
-    *   [[Double Stroke Technique]]
-    *   [[Five-Stroke Roll]]
-    *   [[Six-Stroke Roll]]
-    *   [[Seven-Stroke Roll]]
-    *   [[Ten-Stroke Roll]]
-    *   [[Bass Drum and Hi-Hat Coordination Part 2]]
+    *   [[Double_Stroke_Technique]]
+    *   [[Five_Stroke_Roll]]
+    *   [[Six_Stroke_Roll]]
+    *   [[Seven-Stroke_Roll]]
+    *   [[Ten-Stroke_Roll]]
+    *   [[Bass_Drum_and_Hi-Hat_Coordination_Part_2]]
 *   **Unit 8:**
-    *   [[Single Paradiddle]]
-    *   [[Double Paradiddle]]
-    *   [[Triple Paradiddle]]
+    *   [[Single_Paradiddle]]
+    *   [[Double_Paradiddle]]
+    *   [[Triple_Paradiddle]]
     *   [[Paradiddle-diddle]]
-    *   [[Check Patterns]]
-    *   [[Bass Drum and Hi-Hat Coordination Part 3]]
+    *   [[Check_Patterns]]
+    *   [[Bass_Drum_and_Hi-Hat_Coordination_Part_3]]
 *   **Unit 9:**
-    *   [[Progressive Paradiddle Accents]]
+    *   [[Progressive_Paradiddle_Accents]]
     *   [[Rudimental_Recall_Rolls]]
-    *   [[Bass Drum and Hi-Hat Coordination Part 4]]
+    *   [[Bass_Drum_and_Hi-Hat_Coordination_Part_4]]
 *   **Unit 10:**
-    *   [[Hairta (Drumming Term)]] (likely a typo for a specific technique or concept)
-    *   [[Bass Drum and Hi-Hat Coordination Part 5]]
+    *   [[Hairta_(Drumming_Term)]] (likely a typo for a specific technique or concept)
+    *   [[Bass_Drum_and_Hi-Hat_Coordination_Part_5]]
 
 **Pro-Tip:** This curriculum provides a structured approach to developing fundamental drumming skills, progressing from basic grip and stroke mechanics to rudiments, coordination, and reading. It's an excellent resource for drummers looking to build a solid technical foundation.

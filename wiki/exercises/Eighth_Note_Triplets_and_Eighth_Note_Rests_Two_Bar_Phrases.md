@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Eighth-Note Triplets and Eighth-Note Rests (Two-Bar Phrases)
-This exercise focuses on developing proficiency in reading and accurately performing [[Eighth Note Triplets]] and [[Eighth Note Rests]] within two-bar rhythmic phrases.
+This exercise focuses on developing proficiency in reading and accurately performing [[Eighth_Note_Triplets]] and [[Eighth Note Rests]] within two-bar rhythmic phrases.
 
 **Key Learning Points:**
 *   **Subdivision Accuracy**: Maintain a consistent internal pulse for the triplet subdivision (three equal notes per beat).

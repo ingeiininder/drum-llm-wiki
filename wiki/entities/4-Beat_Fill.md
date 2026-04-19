@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # 4-Beat Fill
-A [[4-Beat Fill]] is a [[Drum_Fill]] that spans the entire measure (in common time). In drum notation, it is indicated by four [[Fill Markers]] (time slashes). These longer fills are often used for significant transitions or to mark the end of major sections.
+A [[4-Beat_Fill]] is a [[Drum_Fill]] that spans the entire measure (in common time). In drum notation, it is indicated by four [[Fill_Markers]] (time slashes). These longer fills are often used for significant transitions or to mark the end of major sections.
 
 As noted in the curriculum, 4-beat fills are often featured in crucial parts of the song, such as at the end of a [[Rehearsal_Letters_II_Augmented_Rehearsal_Letters]] section (e.g., B2) or leading into a [[Coda]].
 

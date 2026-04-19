@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # 4/4 to Cut Time Modulation (Funk to Samba)
 
-This modulation transitions from a 16th-note **Funk Feel** in [[4/4 Time]] to a **Samba** in [[Cut Time]] ($2/2$).
+This modulation transitions from a 16th-note **Funk Feel** in [[4/4 Time]] to a **Samba** in [[Cut_Time]] ($2/2$).
 
 ### Rationale for Notation
 *   **Funk**: Written in 4/4 to clearly display 16th-note syncopations.
@@ -19,7 +19,7 @@ This modulation transitions from a 16th-note **Funk Feel** in [[4/4 Time]] to a 
 The [[Value Indicator]] specifies that the **Quarter Note** in the Funk section is equal to the **Half Note** in the Samba section.
 *   The pulse (the "big beat") remains the same, but the internal counting shifts.
 *   **Funk Section**: Focus on the 16th-note hi-hat patterns and snare backbeats on 2 and 4.
-*   **Samba Section**: Focus on the consistent [[Bass Drum]] ostinato and the two-bar side-stick pattern.
+*   **Samba Section**: Focus on the consistent [[Bass_Drum]] ostinato and the two-bar side-stick pattern.
 
 ### Interpretation Key
 1.  **Transitional Fill**: The fill at the end of the Funk section should be syncopated to "hint" at the oncoming Latin feel.

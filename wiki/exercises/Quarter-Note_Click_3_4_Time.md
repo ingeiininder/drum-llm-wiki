@@ -12,7 +12,7 @@ This is `[[Method 1]]` for `[[Practicing_3_4_Time]]` using a `[[Metronome]]`.
 **Method:**
 1.  Set your `[[Metronome]]` to 100 `[[BPM]]`.
 2.  Ensure there are no `[[Accented Clicks]]`.
-3.  Treat each click as a `[[Quarter Note]]`.
+3.  Treat each click as a `[[Quarter_Note]]`.
 4.  Play a simple `[[Groove]]` (e.g., `[[Ex 9.1]]`) while maintaining this click.
 
 Once comfortable and the `[[Tempo]]` is "internalized," try playing the same groove at faster and slower tempos.

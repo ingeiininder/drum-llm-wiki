@@ -15,6 +15,6 @@ A **tie** is a curved line connecting two notes of the same pitch, extending the
 *   Only the first note is played; the sound is sustained through the duration of the second note.
 
 **Example:**
-If a [[Whole Note]] (4 beats) is tied to another whole note, its duration is extended from four beats to eight beats. The sound initiated on the first whole note simply continues for the duration of the second.
+If a [[Whole_Note]] (4 beats) is tied to another whole note, its duration is extended from four beats to eight beats. The sound initiated on the first whole note simply continues for the duration of the second.
 
-**Pro-Tip:** Ties are indispensable for creating longer notes that exceed the length of a single [[Measure]] or for notating [[Syncopated Rhythms]] that fall across [[Beat]]s or [[Bar Line]]s. For drummers, understanding ties is crucial for accurately interpreting rhythmic figures and maintaining the intended [[Phrasing]], even when the physical attack only occurs once.
+**Pro-Tip:** Ties are indispensable for creating longer notes that exceed the length of a single [[Measure]] or for notating [[Syncopated_Rhythms]] that fall across [[Beat]]s or [[Bar_Lines]]s. For drummers, understanding ties is crucial for accurately interpreting rhythmic figures and maintaining the intended [[Phrasing]], even when the physical attack only occurs once.

@@ -3,7 +3,7 @@ type: topic
 book_id: READ3
 source: IMG_0908
 unit: 3
-tags: [articulations, technique, accents]
+tags: [[[Articulations|articulations]], technique, [[Accents|accents]]]
 last_updated: 2026-04-19
 ---
 
@@ -17,5 +17,5 @@ Represented by a wedge-shaped symbol (^) above the note.
 If a standard accent (>) sounds like "dat," a Martellato accent sounds like "daht"—it is broader, heavier, and more aggressive.
 
 ### Application on Drum Set
-*   **Orchestration**: Often voiced using a combination of **Snare Drum and Bass Drum** together to provide maximum "weight" to the hit.
-*   **Rimshots**: A common way to achieve the "hammered" sound on the snare drum.
+*   **Orchestration**: Often voiced using a combination of **[[Snare_Drum|Snare Drum]] and [[Bass_Drum|Bass Drum]]** together to provide maximum "weight" to the hit.
+*   **Rimshots**: A common way to achieve the "hammered" sound on the [[Snare_Drum|snare drum]].

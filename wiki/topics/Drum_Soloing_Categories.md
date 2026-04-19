@@ -13,25 +13,25 @@ Drum solos are opportunities for creativity and expression. To avoid becoming ov
 
 ### 1. The "Open" Solo
 An extended, unaccompanied solo. It typically features:
-*   Tempo changes.
+*   [[Tempo|Tempo]] changes.
 *   **Rubato** sections (free-form, out-of-time).
-*   Associated with 1970s/80s rock (e.g., **John Bonham**, **Neil Peart**, **Ian Paice**).
+*   Associated with 1970s/80s [[Rock|rock]] (e.g., **John Bonham**, **Neil Peart**, **Ian Paice**).
 
 ### 2. Soloing Over the Form
-Common in the jazz idiom, the drummer follows the structure of the song (e.g., AABA, Blues) just as a melodic soloist would.
+Common in the [[Jazz|jazz]] idiom, the drummer follows the structure of the song (e.g., AABA, [[Blues|Blues]]) just as a melodic soloist would.
 *   **Key Skill**: Awareness of the melody and "trading fours" or "eights."
 *   **Notable Practitioners**: **Philly Joe Jones**, **Art Blakey**, **Max Roach**.
 
 ### 3. Soloing Over a Rhythmic Vamp
-Soloing over a set of ensemble figures, usually a repeating two or four-bar pattern.
-*   **Challenge**: The drummer must play the ensemble figures while soloing "in between" and "around" them.
+Soloing over a set of [[Ensemble_Figures|ensemble figures]], usually a repeating two or four-bar pattern.
+*   **Challenge**: The drummer must play the [[Ensemble_Figures|ensemble figures]] while soloing "in between" and "around" them.
 *   **Notable Practitioners**: **Steve Gadd**, **Dennis Chambers**, **Tony Williams**.
 
 ### 4. Groove-Based Solo
 Primarily a [[Groove]] with variations and fills, either unaccompanied or over a bass line.
-*   **Approach**: Minimalistic; often limited to bass drum, snare, and cymbals.
+*   **Approach**: Minimalistic; often limited to [[Bass_Drum|bass drum]], snare, and cymbals.
 *   **Notable Practitioners**: **Steve Jordan**.
 
 ### Development Strategies
 *   **Research**: Study the "go-to" licks of masters like **Steve Gadd** or **Tony Williams**.
-*   **The Seed**: Start with a small rhythmic idea and develop it through [[Compression and Expansion]] or [[Over_the_Bar_Phrasing]].
+*   **The Seed**: Start with a small rhythmic idea and develop it through [[Compression_and_Expansion]] or [[Over_the_Bar_Phrasing]].

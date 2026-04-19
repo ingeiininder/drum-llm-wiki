@@ -13,9 +13,9 @@ The **Paradiddle Pyramid** is an advanced coordination exercise that cycles thro
 
 ### Exercise Structure
 The pyramid consists of playing the following in sequence:
-1.  **Four (4) [[Single Paradiddle]]s**: (RLRR LRLL) x 4
-2.  **Four (4) [[Double Paradiddle]]s**: (RLRLRR LRLRLL) x 4
-3.  **Four (4) [[Triple Paradiddle]]s**: (RLRLRLRR LRLRLRLL) x 4
+1.  **Four (4) [[Single_Paradiddle]]s**: (RLRR LRLL) x 4
+2.  **Four (4) [[Double_Paradiddle]]s**: (RLRLRR LRLRLL) x 4
+3.  **Four (4) [[Triple_Paradiddle]]s**: (RLRLRLRR LRLRLRLL) x 4
 4.  **Four (4) Double Paradiddles**: (Return down the pyramid)
 
 ### Drumset Integration

@@ -11,6 +11,6 @@ Thorough comprehension of lesson material is crucial for effective learning and 
 
 **Practice Suggestion**:
 *   Read the entire lesson at least twice.
-*   Actively focus on understanding all [[Memorizing Drumming Terminology|terms]] and instructions.
+*   Actively focus on understanding all [[Memorizing_Drumming_Terminology|terms]] and instructions.
 
 **Pro-Tip**: Don't just read passively. Engage with the text by highlighting key points, taking notes, and visualizing the concepts on the drum kit. If you encounter unfamiliar terms, look them up immediately. A deep understanding of the theory and instructions will significantly improve your practice efficiency and results.

@@ -12,10 +12,10 @@ last_updated: 2026-04-19
 This module focuses on solidifying the execution of various short and long rolls using different note values and unexpected stickings.
 
 ### Included Rolls
-*   **[[Five-Stroke Roll]]**: RRLL R / LLRR L.
-*   **[[Six-Stroke Roll]]**: RLLRRL (standard) or variations like LLRRLL.
-*   **[[Seven-Stroke Roll]]**: RRLLRR L.
-*   **[[Ten-Stroke Roll]]**: RRLLRRLLRR L.
+*   **[[Five_Stroke_Roll]]**: RRLL R / LLRR L.
+*   **[[Six_Stroke_Roll]]**: RLLRRL (standard) or variations like LLRRLL.
+*   **[[Seven-Stroke_Roll]]**: RRLLRR L.
+*   **[[Ten-Stroke_Roll]]**: RRLLRRLLRR L.
 
 ### Permutations
 The curriculum introduces **16th-note, 32nd-note, and Triplet Roll Permutations**. These exercises challenge the player to fit roll doubles into different rhythmic grids, ensuring the doubles don't "swing" or "crush" regardless of the underlying pulse.

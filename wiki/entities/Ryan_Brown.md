@@ -9,7 +9,7 @@ last_updated: 2026-04-19
 
 # Ryan Brown
 
-**Ryan Brown** is a professional drummer, percussionist, and educator based in Los Angeles. He is a prominent member of the drum faculty at [[Musicians Institute]] and contributed to the development of the school's percussion curriculum.
+**Ryan Brown** is a professional drummer, percussionist, and educator based in Los Angeles. He is a prominent member of the drum faculty at [[Musicians_Institute]] and contributed to the development of the school's percussion curriculum.
 
 ### Career Highlights
 *   **Education**: Studied under rock legend **Kenny Aronoff** at Indiana University, earning a Bachelor of Music in Jazz Studies and Percussion.

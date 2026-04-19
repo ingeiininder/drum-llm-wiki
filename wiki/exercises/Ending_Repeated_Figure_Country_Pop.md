@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Ending Repeated Figure (Country-Pop)
-The very end of the [[Country_Pop_Play_Along_Chart_Unit_5]] utilizes a repeated [[Ensemble Figures]] to conclude the tune. This figure is designed to provide a definitive and memorable ending.
+The very end of the [[Country_Pop_Play_Along_Chart_Unit_5]] utilizes a repeated [[Ensemble_Figures]] to conclude the tune. This figure is designed to provide a definitive and memorable ending.
 
 **Execution Approaches**:
 The text provides a few examples (Example 1, 2, 3), suggesting variations in how this repeated figure can be articulated. These variations likely involve different orchestrations or rhythmic interpretations to achieve the final impact.

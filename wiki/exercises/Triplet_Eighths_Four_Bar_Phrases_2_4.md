@@ -13,7 +13,7 @@ This exercise challenges drummers to perform [[Triplet Eighth Note]]s in extende
 **Purpose:**
 *   To develop advanced rhythmic endurance for triplet-based patterns.
 *   To solidify the ability to maintain a consistent and even triplet feel over extended phrases.
-*   To improve [[Sight Reading]] and rhythmic continuity for complex, longer triplet passages.
+*   To improve [[Sight_Reading]] and rhythmic continuity for complex, longer triplet passages.
 
 **Pro-Tips:**
 *   **Relaxation:** As phrases get longer, tension can build. Focus on maintaining a relaxed grip and stroke to prevent fatigue and ensure evenness.

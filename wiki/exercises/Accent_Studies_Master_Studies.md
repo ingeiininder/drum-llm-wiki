@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Accent Studies (Master Studies)
-The "Accent Studies" section within [[Joe Morello Master Studies]] is a dedicated series of exercises designed to develop precise control over [[Accents (Drumming)|accented]] and [[Taps (Drumming)|unaccented notes]]. These studies are crucial for enhancing dynamic range, rhythmic clarity, and overall stick control.
+The "Accent Studies" section within [[Joe_Morello_Master_Studies]] is a dedicated series of exercises designed to develop precise control over [[Accents_(Drumming)|accented]] and [[Taps_(Drumming)|unaccented notes]]. These studies are crucial for enhancing dynamic range, rhythmic clarity, and overall stick control.
 
 **Focus:**
 These exercises combine alternate stickings with one-handed stickings, challenging the drummer to maintain consistent dynamics and timing across various patterns. The emphasis is on the controlled execution of accents, ensuring they stand out clearly from the surrounding taps.

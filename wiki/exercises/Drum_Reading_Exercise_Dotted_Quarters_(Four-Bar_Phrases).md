@@ -16,4 +16,4 @@ This exercise focuses on reading and performing rhythms that incorporate [[Dotte
 
 **Note on Source Material:** The musical notation for this specific exercise in the provided OCR (IMG_0499) is highly garbled and unreadable, preventing a detailed transcription of the exact rhythms. However, the title indicates its rhythmic focus.
 
-**Pro-Tip:** When encountering dotted notes, it's helpful to subdivide the beat into the smallest common denominator (e.g., [[Eighth Notes]] or [[Sixteenth Notes]]) to accurately place the attack and release of the note.
+**Pro-Tip:** When encountering dotted notes, it's helpful to subdivide the beat into the smallest common denominator (e.g., [[Eighth_Note]] or [[16th_Notes]]) to accurately place the attack and release of the note.

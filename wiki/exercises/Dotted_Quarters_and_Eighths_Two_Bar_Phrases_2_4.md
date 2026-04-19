@@ -8,7 +8,7 @@ last_updated: 2023-10-27
 
 # Dotted Quarters and Eighths (Two-Bar Phrases) - 2/4
 
-This exercise introduces [[Dotted Quarter Note]]s in combination with [[Eighth Note]]s within two-bar phrases in the [[2_4_Time_Signature]]. Understanding dotted notes is critical for accurate rhythmic interpretation.
+This exercise introduces [[Dotted_Quarter_Note]]s in combination with [[Eighth_Note]]s within two-bar phrases in the [[2_4_Time_Signature]]. Understanding dotted notes is critical for accurate rhythmic interpretation.
 
 **Purpose:**
 *   To master the precise duration and placement of dotted quarter notes.
@@ -21,4 +21,4 @@ This exercise introduces [[Dotted Quarter Note]]s in combination with [[Eighth N
 *   **Metronome:** Use a [[Metronome]] clicking on the eighth note subdivision to ensure precise timing.
 *   **Common Pitfall:** Misinterpreting the duration of the dotted quarter note, often cutting it short or extending it too long.
 
-Accurate execution of dotted notes is a hallmark of precise [[Rhythm Reading]].
+Accurate execution of dotted notes is a hallmark of precise [[Rhythm_Reading]].

@@ -8,12 +8,12 @@ last_updated: 2023-10-27
 
 # Half, Syncopated Quarters and Eighths (Four-Bar Phrases) - 4/4
 
-This exercise introduces [[Syncopation]] in combination with [[Half Note]]s, [[Quarter Note]]s, and [[Eighth Note]]s within four-bar phrases in the [[4-4_Time_Signature]]. This challenges drummers to play rhythms that emphasize off-beats, creating rhythmic tension and interest.
+This exercise introduces [[Syncopation]] in combination with [[Half_Note]]s, [[Quarter_Note]]s, and [[Eighth_Note]]s within four-bar phrases in the [[4-4_Time_Signature]]. This challenges drummers to play rhythms that emphasize off-beats, creating rhythmic tension and interest.
 
 **Purpose:**
 *   To develop a strong understanding and feel for syncopated rhythms in 4/4 time.
 *   To accurately place notes that fall between the main beats, enhancing rhythmic precision.
-*   To improve [[Sight Reading]] for more musically complex and engaging rhythmic passages.
+*   To improve [[Sight_Reading]] for more musically complex and engaging rhythmic passages.
 
 **Pro-Tips:**
 *   **Subdivision is Key:** Always maintain a strong internal subdivision (e.g., eighth notes) to accurately place the syncopated notes.

@@ -7,7 +7,7 @@ last_updated: 2023-10-27
 ---
 
 # Drum Reading Exercise: Quarters with Ties (Four-Bar Phrases)
-This exercise focuses on reading and performing rhythms that incorporate [[Quarter Notes]] connected by [[Ties (Music)]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
+This exercise focuses on reading and performing rhythms that incorporate [[Quarter_Note]] connected by [[Ties (Music)]] within a four-bar phrase structure. It is part of a series of drum reading exercises designed to develop rhythmic literacy and coordination.
 
 **Exercise Focus:**
 *   **Rhythmic Interpretation:** Accurately reading and playing tied notes, where the duration of a note is extended across bar lines or over other beats.
