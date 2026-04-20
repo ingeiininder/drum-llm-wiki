@@ -1,8 +1,8 @@
 ---
 type: index
 title: Groove Hub Wiki Index
-last_updated: 2026-04-19
-total_nodes: 1189
+last_updated: 2026-04-20
+total_nodes: 1169
 ---
 
 # Groove Hub Wiki Index
@@ -12,1001 +12,990 @@ It serves as the primary navigation layer for LLM-assisted querying.
 When answering a question, read this file first to identify relevant nodes,
 then drill into the specific pages.
 
-> **Stats**: 755 Topics | 309 Exercises | 125 Entities | **1189 Total Nodes**
-> Last updated: 2026-04-19
+> **Stats**: 740 Topics | 308 Exercises | 121 Entities | **1169 Total Nodes**
+> Last updated: 2026-04-20
 
 ---
 
-## Topics (755 entries)
+## Topics (740 entries)
 
 Theory, technique, notation, and rhythm concepts.
 
 ### 1
-- [[12-8_Time_Signature]] — 12/8 Time Signature. The **12/8 Time Signature** is a compound quadruple meter containing twelve eighth notes per measure. `READ1`
-- [[12-Bar_Blues_Open_Form]]. The [[12-Bar Blues]] is a fundamental musical structure, and when described as an "open form," it refers to a specific w `Unit 7 - Chapter 1`
-- [[12_8_Feel_in_4_4_Time_Signature]] — 12/8 Feel in 4/4 Time Signature. The "12/8 Feel" is a common rhythmic characteristic, especially in [[Blues]], [[Jazz]], and [[Gospel]] music, where each `Unit 6 - Chapter 1`
+- [[12-8_Time_Signature]] — 12/8 [[Time_Signature|Time Signature]]. The **12/8 [[Time_Signature|Time Signature]]** is a compound quadruple [[Meter|meter]] containing twelve [[Eighth_Notes| `READ1`
+- [[12-Bar_Blues_Open_Form]] — 12-Bar [[Blues|Blues]] Open Form. The [[12-Bar_Blues]] is a fundamental musical structure, and when described as an "open form," it refers to a specific w `Unit 7 - Chapter 1`
+- [[12_8_Feel_in_4_4_Time_Signature]] — 12/8 Feel in 4/4 [[Time_Signature|Time Signature]]. The "12/8 Feel" is a common rhythmic characteristic, especially in [[Blues]], [[Jazz]], and [[Gospel]] music, where each `Unit 6 - Chapter 1`
 - [[12_Bar_Blues_Structure]] — 12-Bar Blues Structure. The "12-bar blues" is a fundamental and widely recognized musical form, referring to a specific number of measures used  `Unit 6 - Chapter 1`
-- [[16th_Eighth_Quarter_Note_Exercises_with_Rests_Overview]] — 16th, Eighth and Quarter Note Exercises with Rests Overview. This section of exercises, designated "II," provides a comprehensive approach to integrating [[Sixteenth Notes]], [[Eigh `Unit 6 - Chapter 3`
-- [[16th_Note_Ensemble_Figures]] — 16th-Note Ensemble Figures. In genres such as **Funk**, **R&B**, and **Rock**, ensemble figures are frequently based on [[16th-Note Subdivisions]]. `READ3`
-- [[16th_Notes]]. [[16th Notes]] are a fundamental rhythmic subdivision in music, representing one-sixteenth of a whole note's duration. `Unit 4 - Chapter 1`
-- [[16th_Notes_on_Snare_Drum_with_Quarter_Note_Bass_Drum]]. This specific [[Groove]] pattern is described for the [[Verse_Section_Letter_A]] in a [[Country-Pop Genre]] chart. `Unit 5`
+- [[16th_Eighth_Quarter_Note_Exercises_with_Rests_Overview]] — 16th, Eighth and Quarter Note Exercises with [[Rests|Rests]] Overview. This section of exercises, designated "II," provides a comprehensive approach to integrating [[16th_Notes]], [[Eighth_No `Unit 6 - Chapter 3`
+- [[16th_Note_Ensemble_Figures]] — 16th-Note [[Ensemble_Figures|Ensemble Figures]]. In genres such as **[[Funk|Funk]]**, **R&B**, and **[[Rock|Rock]]**, [[Ensemble_Figures|ensemble figures]] are frequentl `READ3`
+- [[16th_Notes]]. [[16th_Notes]] are a fundamental rhythmic [[Subdivision|subdivision]] in music, representing one-sixteenth of a whole no `Unit 4 - Chapter 1`
+- [[16th_Notes_on_Snare_Drum_with_Quarter_Note_Bass_Drum]]. This specific [[Groove]] pattern is described for the [[Verse_Section_Letter_A]] in a [[Country-Pop_Genre]] [[Chart|char `Unit 5`
 ### 2
 - [[2_3_Rule]] — 2/3 Rule. The **2/3 Rule** is a common practice in musical notation, particularly in [[4-4_Time_Signature]], designed to enhance r `Unit 8 Chapter 1`
-- [[2_4_Exercises_Rhythm_Reading]] — 2/4 Exercises (Rhythm Reading). This section presents a series of [[Rhythm Reading]] exercises specifically designed for the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[2_4_Time_Signature]] — 2/4 Time Signature. The **2/4 Time Signature** is a fundamental [[Time Signature]] in music, indicating that there are two [[Beat]]s present `Unit 10 Chapter 1`
+- [[2_4_Exercises_Rhythm_Reading]] — 2/4 Exercises (Rhythm Reading). This section presents a series of [[Rhythm_Reading]] exercises specifically designed for the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[2_4_Time_Signature]] — 2/4 Time Signature. The **2/4 Time Signature** is a fundamental [[Time_Signature]] in music, indicating that there are two [[Beat]]s present `Unit 10 Chapter 1`
 ### 3
 - [[32nd_Note_Counting_Systems]]. While it is rare to verbally count every 32nd note at high tempos, a specific counting system is utilized during the dev `READ4`
-- [[32nd_Note_Ensemble_Figures]] — 32nd-Note Ensemble Figures. In advanced [[Drum Reading]], [[32nd Notes]] are frequently utilized to "fill in" the gaps between [[16th_Note]] ensembl `TECH1_2`
-- [[32nd_Note_Interpretation]]. **32nd Note Interpretation** is the process of using 32nd-note subdivisions to set up [[Ensemble Figures]] or fill the s `READ4`
-- [[32nd_Note_Notation]]. In advanced percussion studies, the **32nd note** represents the next level of rhythmic subdivision beyond the [[16th No `READ4`
-- [[32nd_Note_Rests]]. The **32nd rest** is the silent counterpart to the [[32nd Note Notation]]. `READ4`
-- [[32nd_Note_Triplets]] — 32nd-Note Triplets. A **32nd-note triplet** is a rhythmic grouping where three notes occupy the space normally taken by two [[32nd Notes]]. `TECH1_2`
-- [[3_4_Exercises_Rhythm_Reading]] — 3/4 Exercises (Rhythm Reading). This section provides a series of [[Rhythm Reading]] exercises specifically tailored for the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[3_4_Time_Signature]] — 3/4 Time Signature. The `[[3_4_Time_Signature]]` is a common `[[Meter]]` used across virtually all genres of music, including `[[Modern Rock `Unit 9 Chapter 1`
+- [[32nd_Note_Ensemble_Figures]] — 32nd-Note [[Ensemble_Figures|Ensemble Figures]]. In advanced [[Drum_Reading]], [[32nd_Notes]] are frequently utilized to "fill in" the gaps between [[16th_Note]] [[Ensem `TECH1_2`
+- [[32nd_Note_Interpretation]]. **32nd Note Interpretation** is the process of using 32nd-note subdivisions to set up [[Ensemble_Figures]] or [[Fill|fil `READ4`
+- [[32nd_Note_Notation]]. In advanced percussion studies, the **32nd note** represents the next level of rhythmic [[Subdivision|subdivision]] beyo `READ4`
+- [[32nd_Note_Rests]] — 32nd Note [[Rests|Rests]]. The **32nd rest** is the silent counterpart to the [[32nd_Note_Notation]]. `READ4`
+- [[32nd_Note_Triplets]] — 32nd-Note [[Triplets|Triplets]]. A **32nd-note triplet** is a rhythmic grouping where three notes occupy the space normally taken by two [[32nd_Notes]]. `TECH1_2`
+- [[3_4_Exercises_Rhythm_Reading]] — 3/4 Exercises (Rhythm Reading). This section provides a series of [[Rhythm_Reading]] exercises specifically tailored for the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[3_4_Time_Signature]] — 3/4 [[Time_Signature|Time Signature]]. The `[[3_4_Time_Signature]]` is a common `[[Meter]]` used across virtually all genres of music, including `[[Modern_Rock `Unit 9 Chapter 1`
 ### 4
-- [[4_4_Exercises_Rhythm_Reading]] — 4/4 Exercises (Rhythm Reading). This section introduces a series of [[Rhythm Reading]] exercises specifically designed for the [[4-4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[4_4_Exercises_Rhythm_Reading]] — 4/4 Exercises (Rhythm Reading). This section introduces a series of [[Rhythm_Reading]] exercises specifically designed for the [[4-4_Time_Signature]]. `Unit 10 - Chapter 3`
 ### 5
-- [[5-8_Time_Signature]] — 5/8 Time Signature. The **5/8 time signature** consists of five eighth notes per measure. `TECH1_2`
+- [[5-8_Time_Signature]] — 5/8 [[Time_Signature|Time Signature]]. The **5/8 [[Time_Signature|time signature]]** consists of five [[Eighth_Notes|eighth notes]] per [[Measure|measure]]. `TECH1_2`
 ### 6
-- [[6-8_Time_Signature]] — 6/8 Time Signature. The **6/8 Time Signature** is a compound meter where there are six beats per measure, and the **eighth note** receives o `READ1`
-- [[6-8_vs_3-4_Comparison]] — Comparison: 6/8 vs. 3/4 Time. While both **6/8** and **3/4** time signatures contain six eighth notes per measure, they are distinguished by their mat `READ1`
+- [[6-8_Time_Signature]] — 6/8 [[Time_Signature|Time Signature]]. The **6/8 [[Time_Signature|Time Signature]]** is a compound [[Meter|meter]] where there are six beats per [[Measure|meas `READ1`
+- [[6-8_vs_3-4_Comparison]] — Comparison: 6/8 vs. 3/4 Time. While both **6/8** and **3/4** time signatures contain six [[Eighth_Notes|eighth notes]] per [[Measure|measure]], they a `READ1`
 ### 7
-- [[7-8_Time_Signature]] — 7/8 Time Signature. The **7/8 time signature** contains seven eighth notes per measure. `TECH1_2`
+- [[7-8_Time_Signature]] — 7/8 [[Time_Signature|Time Signature]]. The **7/8 [[Time_Signature|time signature]]** contains seven [[Eighth_Notes|eighth notes]] per [[Measure|measure]]. `TECH1_2`
 ### 9
-- [[90-Degree_Stick_Angle_(German_Grip)]]. In [[German Grip]], a key visual characteristic is the angle formed by the drumsticks. `Unit 2 - Chapter 1`
+- [[90-Degree_Stick_Angle_(German_Grip)]]. In [[German_Grip]], a key visual characteristic is the angle formed by the drumsticks. `Unit 2 - Chapter 1`
 ### A
-- [[A_Section_Groove_Unit_9]] — A Section Groove (Unit 9). The A section features a distinct two-bar groove that forms the foundation of this part of the song. `Unit 9 - Chapter 2`
+- [[A_Section_Groove_Unit_9]] — A Section [[Groove|Groove]] (Unit 9). The A section features a distinct two-bar [[Groove|groove]] that forms the foundation of this part of the song. `Unit 9 - Chapter 2`
 - [[A_Section_Song_Structure]] — A Section (Song Structure). In musical arrangements, the "A Section" typically refers to the primary or initial thematic section of a song. `Unit 4 - Chapter 1`
-- [[AABA 32-Bar Form]]. A classic musical structure often employed in R&B/pop charts (e.g., in the tradition of Maroon 5 and John Mayer). `Unit 3 - Chapter 1`
-- [[AABA_32-Bar_Form]]. The `[[AABA 32-Bar Form]]` is a classic and widely used song structure, particularly prevalent in jazz standards and pop `Unit 4 - Chapter 1`
-- [[AABA_Form]]. [[AABA Form]] is a common 32-bar song structure prevalent in jazz standards, pop, and rock music. `Unit 4 - Chapter 1`
-- [[AB_16-Bar_Form]]. The AB 16-Bar Form is a standard structural building block in rock and pop music. `READ2`
-- [[ABAB_32-Bar_Form]]. The `[[ABAB 32-Bar Form]]` is a common musical structure used in songwriting and composition, similar in length to the ` `Unit 4 - Chapter 1`
-- [[ABAB_Form]]. The `[[ABAB Form]]` is a common `[[Musical Form]]` or `[[Structure]]` used in this study, particularly within the `[[Mod `Unit 9 Chapter 1`
-- [[ABAB_Form_with_a_Pre-Chorus]]. This study employs a musical [[Song Form]] similar to the [[ABAB 32 Bar Form]] but is more condensed due to shorter sect `Unit 5`
-- [[ABC_24-Bar_Form]]. The **ABC 24-Bar Form** is a specific structural template used in [[Pop-Rock Drumming]] to organize a song into three di `TECH1_2`
-- [[ABC_34-Bar_Form]]. The **ABC 34-Bar Form** is a specific structural arrangement used in contemporary rock music to organize different music `READ2`
-- [[Accent Patterns]]. [[Accent Patterns]] refer to the deliberate emphasis placed on specific notes within a rhythmic phrase or [[Sticking Pat
-- [[Accent_(Musical)]]. An [[Accent (Musical)]] is an emphasis or stress placed on a particular note or beat, making it stand out from the surro `Unit 3 - Chapter 1`
-- [[Accented Hi-Hat Note Technique]]. To achieve a clear, loud accented sound on the [[Hi-Hat]]:
+- [[AABA_32-Bar_Form]]. The AABA 32-Bar Form is a classic and widely used musical structure, particularly prevalent in [[Jazz|Jazz]] standards,  `READ1`
+- [[AABA_Form]]. [[AABA_Form]] is a common 32-bar song structure prevalent in [[Jazz|jazz]] standards, pop, and [[Rock|rock]] music. `Unit 4 - Chapter 1`
+- [[AB_16-Bar_Form]]. The AB 16-Bar Form is a standard structural building block in [[Rock|rock]] and pop music. `READ2`
+- [[ABAB_32-Bar_Form]]. The `[[ABAB_32-Bar_Form]]` is a common musical structure used in songwriting and composition, similar in length to the ` `Unit 4 - Chapter 1`
+- [[ABAB_Form]]. The `[[ABAB_Form]]` is a common `[[Musical_Form]]` or `[[Phrasing]]` used in this study, particularly within the `[[Mode `Unit 9 Chapter 1`
+- [[ABAB_Form_with_a_Pre-Chorus]] — [[ABAB_Form|ABAB Form]] with a [[Pre-Chorus|Pre-Chorus]]. This study employs a musical [[Song_Form]] similar to the [[ABAB_32_Bar_Form]] but is more condensed due to shorter sect `Unit 5`
+- [[ABC_24-Bar_Form]]. The **ABC 24-Bar Form** is a specific structural template used in [[Pop-Rock_Drumming]] to organize a song into three di `TECH1_2`
+- [[ABC_34-Bar_Form]]. The **ABC 34-Bar Form** is a specific structural arrangement used in contemporary [[Rock|rock]] music to organize differ `READ2`
+- [[Accent_(Musical)]]. An [[Accent_(Musical)]] is an emphasis or stress placed on a particular note or [[Beat|beat]], making it stand out from  `Unit 3 - Chapter 1`
+- [[Accent_Patterns]]. [[Accent_Patterns]] refer to the deliberate emphasis placed on specific notes within a rhythmic phrase or [[Sticking_Pat
+- [[Accented_Eighth_Note_Triplets]] — Accented Eighth-Note [[Triplets|Triplets]]. Developing control over **Accented Eighth-Note [[Triplets|Triplets]]** is essential for mastering the [[Swing_Feel]] and `TECH3_4`
+- [[Accented_Hi-Hat_Note_Technique]]. To achieve a clear, loud accented sound on the [[Hi-Hat]]:
 1. `Unit 2 - Chapter 2`
-- [[Accented Note Technique (Cymbal)]] — Accented Note Technique (Cymbal) (鈸重音音符技巧). 在鈸上實現重音聲音的技巧，使用鼓棒的肩部，從尖端向下約三分之一處擊打。這是 [[Playing Accented and Un-accented Notes (Cymbal)]] 的一部分，通常應用於 [[Ride Cymbal Quart `Unit 2`
-- [[Accented_Eighth_Note_Triplets]] — Accented Eighth-Note Triplets. Developing control over **Accented Eighth-Note Triplets** is essential for mastering the [[Swing Feel]] and jazz-influen `TECH3_4`
-- [[Accents (Musical Notation)]] — Accents (Musical Notation) (重音 (音樂記譜)). 一種音樂記譜符號，表示音符或和弦應以強調或更大的強度演奏。在 Unit 3 中作為背景資訊進行回顧。也與 [[Accented Note Technique (Cymbal)]] 相關。 `Unit 3`
-- [[Accents,_Taps,_and_Up_Strokes]]. [[Accents, Taps, and Up Strokes]] are fundamental components of [[Stick Control]] and dynamic articulation in drumming,  `Unit 3`
+- [[Accented_Note_Technique_(Cymbal)]] — Accented Note Technique (Cymbal) (鈸重音音符技巧). 在鈸上實現重音聲音的技巧，使用鼓棒的肩部，從尖端向下約三分之一處擊打。這是 [[Playing_Accented_and_Un-accented_Notes_(Cymbal)]] 的一部分，通常應用於 [[Ride_Cymbal_Quart `Unit 2`
+- [[Accents,_Taps,_and_Up_Strokes]] — [[Accents|Accents]], Taps, and Up Strokes. [[Accents,_Taps,_and_Up_Strokes]] are fundamental components of [[Stick_Control]] and dynamic articulation in drumming,  `Unit 3`
 - [[Accents]] — Accents (重音). 「重音」是一個符號，表示某個音符應該比其他音符演奏得更響亮，因此它被「強調」了。這種演奏（和力度）細節通常用一個橫向的三角形來標記。 `Unit 2`
-- [[Accents_(Drumming)]]. In drumming, an accent is a note played louder than the surrounding notes, causing it to stand out and contribute expres `Unit 3 - Chapter 2`
-- [[Accents_Drumming]] — Accents (Drumming). In drumming, an accent refers to a note that is played louder than the surrounding notes. `Unit 3 - Chapter 2`
-- [[Advanced_Mixed_Meter]] — Advanced Mixed Meter Concepts. Advanced mixed meter involves changing the **bottom number** (denominator) of the [[Time Signature]]. `TECH1_2`
-- [[Afro-Cuban_6-8_Groove]] — Afro-Cuban 6/8 Groove. The **Afro-Cuban 6/8 Groove** is a foundational polyrhythmic structure in Latin percussion, characterized by its triplet `TECH3_4`
+- [[Accents_(Drumming)]] — [[Accents|Accents]] (Drumming). In drumming, an accent is a note played louder than the surrounding notes, causing it to stand out and contribute expres `Unit 3 - Chapter 2`
+- [[Accents_(Musical_Notation)]] — [[Accents|Accents]] (Musical Notation) (重音 (音樂記譜)). 一種音樂記譜符號，表示音符或和弦應以強調或更大的強度演奏。在 Unit 3 中作為背景資訊進行回顧。也與 [[Accented_Note_Technique_(Cymbal)]] 相關。 `Unit 3`
+- [[Accents_Drumming]] — [[Accents|Accents]] (Drumming). In drumming, an accent refers to a note that is played louder than the surrounding notes. `Unit 3 - Chapter 2`
+- [[Advanced_Mixed_Meter]] — Advanced [[Mixed_Meter|Mixed Meter]] Concepts. Advanced [[Mixed_Meter|mixed meter]] involves changing the **bottom number** (denominator) of the [[Time_Signature]]. `TECH1_2`
+- [[Afro-Cuban_6-8_Groove]] — Afro-Cuban 6/8 [[Groove|Groove]]. The **Afro-Cuban 6/8 [[Groove|Groove]]** is a foundational polyrhythmic structure in Latin percussion, characterized by  `TECH3_4`
 - [[Afro_Cuban_6_8]] — Afro-Cuban 6/8 (Bembe). The Afro-Cuban 6/8 feel, commonly known as **Bembe**, is a folkloric rhythm rooted in West African traditions (specifica `TECH1_2`
-- [[Alternating_Hands_Sticking]] — Alternating Hands (Sticking). Alternating Hands (Sticking) is a fundamental [[Sticking Patterns]] principle where the right (R) and left (L) hands pla `Unit 6 - Chapter 1, Unit 6 - Chapter 2`
-- [[American_Grip]]. [[American Grip]] describes the angle at which the hands are positioned in a resting posture while holding the [[Drumsti `Unit 1 - Chapter 1`
-- [[Ankle_Technique]]. [[Ankle Technique]] refers to the primary method of generating bass drum strokes by pivoting the foot at the ankle. `Unit 3 - Chapter 5`
-- [[Anticipated_Crash]]. An **Anticipated Crash** is an accent played slightly before the downbeat (Beat 1) of a new phrase or section. `READ2`
+- [[Alternating_Hands_Sticking]] — Alternating Hands (Sticking). Alternating Hands (Sticking) is a fundamental [[Sticking_Patterns]] principle where the right (R) and left (L) hands pla `Unit 6 - Chapter 1, Unit 6 - Chapter 2`
+- [[American_Grip]]. [[American_Grip]] describes the angle at which the hands are positioned in a resting posture while holding the [[Drumsti `Unit 1 - Chapter 1`
+- [[Ankle_Technique]]. [[Ankle_Technique]] refers to the primary method of generating [[Bass_Drum|bass drum]] strokes by pivoting the foot at t `Unit 3 - Chapter 5`
+- [[Anticipated_Crash]]. An **Anticipated Crash** is an accent played slightly before the downbeat ([[Beat|Beat]] 1) of a new phrase or section. `READ2`
 - [[Anticipated_Figures]] — Anticipated Figures (Pushes). **Anticipated Figures**, commonly referred to as **"Pushes,"** occur when the band plays a chord or rhythmic hit slightl `TECH1_2`
-- [[Articulation_Interpretation]]. In drum set performance, written [[Ensemble Figures]] often include articulation markings that dictate the duration, wei `READ3`
-- [[Articulations]]. **Articulations** are symbols placed above or below notes to provide specific performance instructions regarding the att `READ3`
-- [[Assigned_Sticking]]. Assigned Sticking is a fundamental [[Sticking Patterns]] method that provides a natural and intuitive way to interpret a `Unit 6 - Chapter 1`
-- [[Asymmetrical_Groupings]]. **Asymmetrical Groupings** are the building blocks of **[[Odd Meter]]**. `TECH1_2`
-- [[Authoritative_Bass_Drum_Performance]]. An "[[Authoritative Bass Drum Performance]]" describes a bass drum sound and execution that is powerful, clear, well-def `Drum Technique 50`
-- [[Avoiding Hi-Hat Tip Strike]]. 重要提示：不要使用鼓棒尖端擊打 [[Hi-Hat]] 頂部。這聽起來會非常俗氣且像鼓機。 `Chapter 2`
+- [[Articulation_Interpretation]]. In drum set performance, written [[Ensemble_Figures]] often include articulation markings that dictate the [[Duration|du `READ3`
+- [[Articulations]]. Articulation refers to the specific performance method or stroke used to achieve a desired sound on the drum set. `READ1`
+- [[Assigned_Sticking]]. Assigned Sticking is a fundamental [[Sticking_Patterns]] method that provides a natural and intuitive way to interpret a `Unit 6 - Chapter 1`
+- [[Asymmetrical_Groupings]]. **Asymmetrical Groupings** are the building blocks of **[[Odd_Meter]]**. `TECH1_2`
+- [[Authoritative_Bass_Drum_Performance]] — Authoritative Bass [[Drum_Performance|Drum Performance]]. An "[[Authoritative_Bass_Drum_Performance]]" describes a [[Bass_Drum|bass drum]] sound and execution that is powerful, c `[[Drum_Technique_50|Drum Technique 50]]`
+- [[Avoiding_Hi-Hat_Tip_Strike]]. 重要提示：不要使用鼓棒尖端擊打 [[Hi-Hat]] 頂部。這聽起來會非常俗氣且像鼓機。 `Chapter 2`
 ### B
-- [[B_Section_Groove_Unit_9]] — B Section Groove (Unit 9). The B section introduces a new groove that evolves throughout its structure, providing support for a descending guitar r `Unit 9 - Chapter 2`
+- [[B_Section_Groove_Unit_9]] — B Section [[Groove|Groove]] (Unit 9). The B section introduces a [[New_Groove|new groove]] that evolves throughout its structure, providing support for a desc `Unit 9 - Chapter 2`
 - [[B_Section_Song_Structure]] — B Section (Song Structure). The "B Section" in a musical arrangement typically refers to a contrasting section that provides a departure from the ma `Unit 4 - Chapter 1`
-- [[Back-Beat]]. The back-beat is a fundamental rhythmic concept in drumming, particularly prevalent in rock, pop, funk, and R&B music. `Uncategorized`
+- [[Back-Beat]] — Back-[[Beat|Beat]]. The back-[[Beat|beat]] is a fundamental rhythmic concept in drumming, particularly prevalent in [[Rock|rock]], pop, [[Fu `Uncategorized`
 - [[Bad_Country_Track]] — Bad Country (Track). "Bad Country" is a high-energy, uptempo performance track designed to develop the unrelenting feel required for [[Funk-R `MI_CURR`
 - [[Bad_to_the_Bone_Song_Study]] — Bad to the Bone: Song Study. "Bad to the Bone" is a study in [[Syncopation]] and [[Horn_Comping]]. `TECH3_4`
-- [[Bar_4_Fill_Unit_9]] — Bar 4 Fill (Unit 9). A specific fill is indicated for bar 4 of the B section. `Unit 9 - Chapter 2`
-- [[Bar_Line]]. A bar line is a vertical line used in [[Music Notation]] to divide [[The Staff]] into segments called [[Measure_Music_No `Unit 1`
+- [[Bar_4_Fill_Unit_9]] — Bar 4 [[Fill|Fill]] (Unit 9). A specific [[Fill|fill]] is indicated for bar 4 of the B section. `Unit 9 - Chapter 2`
+- [[Bar_Line]]. A bar line is a vertical line used in [[Music_Notation]] to divide [[The_Staff]] into segments called [[Measure_Music_No `Unit 1`
 - [[Basic_Independence_Framework]]. Coordinated independence is the ability to maintain a steady [[Ostinato]] in one or more limbs while playing varying fig `TECH3_4`
-- [[Basic_Notation_Components]]. Basic Notation Components form the foundational building blocks of [[Music Notation]]. `Unit 1`
-- [[Bass Drum Articulation (Open)]] — Bass Drum Articulation (Open) (低音鼓開放式發音). 一種強勁的低音鼓發音，通過使用 [[Felt Beater (Bass Drum)]] 和 [[Off the Head Stroke (Bass Drum)]] 實現。這種技巧旨在產生圓潤、飽滿、低沉的音色，減少衝擊和穿透力，讓鼓有更多共 `Unit 3`
-- [[Bass Drum Sound Strategies]]. 為了獲得強勁、有力的 [[Bass Drum]] 聲音，需要運用以下三種重要策略：
-1. `Chapter 2`
-- [[Bass_Clef]]. The Bass Clef, also known as the F Clef, is one of the most commonly used [[Clef_Music_Notation|clefs]] in [[Music Notat `Unit 1`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]]. This chapter focuses on developing fundamental coordination between the [[Bass Drum]] and [[Hi-Hat]] on the drumset. `Unit 6 - Chapter 3`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_2]]. This chapter is designed to further develop the foundational [[Bass Drum and Hi-Hat Coordination Part 1]] introduced in  `Unit 7 - Chapter 6`
-- [[Bass_Drum_Articulation]]. In ballad and R&B contexts, the bass drum provides the "round" foundation of the kit's sound. `READ2`
-- [[Bass_Drum_Articulation_Letter_A]] — Bass Drum Articulation (Letter A). For the 'A' section of a song, the bass drum pattern should be played with a specific articulation to establish a strong `Unit 4 - Chapter 2`
-- [[Bass_Drum_Articulation_Pop]] — Bass Drum Articulation (Pop/Rock). In contemporary Pop and Rock, the bass drum serves as the rhythmic foundation and must be played with power, precision,  `TECH1_2`
+- [[Basic_Notation_Components]]. Basic Notation Components form the foundational building blocks of [[Music_Notation]]. `Unit 1`
+- [[Bass_Clef]]. The Bass Clef, also known as the F Clef, is one of the most commonly used [[Clef_Music_Notation|clefs]] in [[Music_Notat `Unit 1`
+- [[Bass_Drum]]. The Bass Drum (or Kick Drum) is the largest component of the drum set, played with a foot-operated pedal. `READ1`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]]. This chapter focuses on developing fundamental coordination between the [[Bass_Drum]] and [[Hi-Hat]] on the drumset. `Unit 6 - Chapter 3`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_2]]. This chapter is designed to further develop the foundational [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]] introduced in  `Unit 7 - Chapter 6`
+- [[Bass_Drum_Articulation]] — [[Bass_Drum|Bass Drum]] Articulation. In ballad and R&B contexts, the [[Bass_Drum|bass drum]] provides the "round" foundation of the kit's sound. `READ2`
+- [[Bass_Drum_Articulation_(Open)]] — [[Bass_Drum_Articulation|Bass Drum Articulation]] (Open) (低音鼓開放式發音). 一種強勁的低音鼓發音，通過使用 [[Felt_Beater_(Bass_Drum)]] 和 [[Off_the_Head_Stroke_(Bass_Drum)]] 實現。這種技巧旨在產生圓潤、飽滿、低沉的音色，減少衝擊和穿透力，讓鼓有更多共 `Unit 3`
+- [[Bass_Drum_Articulation_Letter_A]] — [[Bass_Drum_Articulation|Bass Drum Articulation]] (Letter A). For the 'A' section of a song, the [[Bass_Drum|bass drum]] pattern should be played with a specific articulation to esta `Unit 4 - Chapter 2`
+- [[Bass_Drum_Articulation_Pop]] — [[Bass_Drum_Articulation|Bass Drum Articulation]] (Pop/[[Rock|Rock]]). In contemporary Pop and [[Rock|Rock]], the [[Bass_Drum|bass drum]] serves as the rhythmic foundation and must be played  `TECH1_2`
 - [[Bass_Drum_Coordination]] — Bass_Drum_Coordination. **Bass Drum and Hi-Hat Coordination** is the study of layered independence between the lower and upper extremities. `READ1`
-- [[Bass_Drum_Doubles]]. **Bass Drum Doubles** refer to playing two consecutive notes on the bass drum, often at high speeds or within syncopated `TECH3_4`
-- [[Bass_Drum_Notation]] — Bass Drum (Notation). In [[Drum Set Notation Key]], the [[Bass Drum]] is typically notated on the lowest part of [[The Staff]] to reflect its  `Unit 1`
-- [[Bass_Drum_Pedal_Foot_Placement]]. [[Bass Drum Pedal Foot Placement]] is a crucial aspect of [[Bass Drum Technique]], particularly for achieving dynamic co `Unit 5 - Chapter 1`
-- [[Bass_Drum_Syncopation]]. [[Bass Drum Syncopation]] refers to the rhythmic technique of placing [[Bass Drum]] notes on the weaker beats or off-bea `Unit 7 - Chapter 6`
-- [[Bass_Drum_Technique]]. [[Bass Drum Technique]] refers to the various methods and approaches used to play the bass drum pedal, crucial for rhyth `Unit 3, Unit 5`
-- [[Bass_Drum_Technique_Heel-Up_Refinement]] — Bass Drum Technique (Heel-Up Refinement). This section focuses on further developing [[Bass Drum Technique]], specifically refining the [[Heel-Up Bass Drum Method `Unit 5 - Chapter 1`
-- [[Beaming_Sixteenth_Notes]]. [[Beaming Sixteenth Notes]] is the practice of connecting consecutive [[Sixteenth Note]]s (and sometimes [[Sixteenth Res `Unit 3 - Chapter 1`
-- [[Beams (Notation)]]. Beams are thick horizontal lines used in musical notation to visually group multiple [[Eighth Notes]] (or smaller subdiv `Unit 2 - Chapter 1`
-- [[Beat]]. The **Beat** is the basic unit of time, the pulse (regularly repeating event), of the mensural level in musical rhythm. `CORE`
-- [[Beat_Placement]]. [[Beat Placement]] refers to the precise rhythmic position of a note or event within a beat or measure. `Unit 3 - Chapter 1`
+- [[Bass_Drum_Doubles]] — [[Bass_Drum|Bass Drum]] Doubles. **[[Bass_Drum|Bass Drum]] Doubles** refer to playing two consecutive notes on the [[Bass_Drum|bass drum]], often at high `TECH3_4`
+- [[Bass_Drum_Notation]] — Bass Drum (Notation). In [[Drum_Set_Notation_Key]], the [[Bass_Drum]] is typically notated on the lowest part of [[The_Staff]] to reflect its  `Unit 1`
+- [[Bass_Drum_Pedal_Foot_Placement]] — [[Bass_Drum|Bass Drum]] Pedal Foot Placement. [[Bass_Drum_Pedal_Foot_Placement]] is a crucial aspect of [[Bass_Drum_Technique]], particularly for achieving dynamic co `Unit 5 - Chapter 1`
+- [[Bass_Drum_Sound_Strategies]]. 為了獲得強勁、有力的 [[Bass_Drum]] 聲音，需要運用以下三種重要策略：
+1. `Chapter 2`
+- [[Bass_Drum_Syncopation]] — Bass Drum [[Syncopation|Syncopation]]. [[Bass_Drum_Syncopation]] refers to the rhythmic technique of placing [[Bass_Drum]] notes on the weaker beats or off-bea `Unit 7 - Chapter 6`
+- [[Bass_Drum_Technique]] — [[Bass_Drum|Bass Drum]] Technique. [[Bass_Drum_Technique]] refers to the various methods and approaches used to play the [[Bass_Drum|bass drum]] pedal, cru
+- [[Bass_Drum_Technique_Heel-Up_Refinement]] — [[Bass_Drum|Bass Drum]] Technique (Heel-Up Refinement). This section focuses on further developing [[Bass_Drum_Technique]], specifically refining the [[Heel-Up_Bass_Drum_Method `Unit 5 - Chapter 1`
+- [[Beaming_Sixteenth_Notes]] — Beaming [[Sixteenth_Notes|Sixteenth Notes]]. [[Beaming_Sixteenth_Notes]] is the practice of connecting consecutive [[Sixteenth_Note]]s (and sometimes [[Sixteenth_Res `Unit 3 - Chapter 1`
+- [[Beams_(Notation)]]. Beams are thick horizontal lines used in musical notation to visually group multiple [[Eighth_Note]] (or smaller subdivi `Unit 2 - Chapter 1`
+- [[Beat]]. The **Beat** is the basic unit of time, the [[Pulse|pulse]] (regularly repeating event), of the mensural level in musica `CORE`
+- [[Beat_Placement]] — [[Beat|Beat]] Placement. [[Beat_Placement]] refers to the precise rhythmic position of a note or event within a [[Beat|beat]] or [[Measure|measur `Unit 3 - Chapter 1`
 - [[Beats_Per_Minute_(BPM)]]. **Beats Per Minute (BPM)** is the standard unit of measurement for [[Tempo]] in music. `Unit Chapter 1`
 - [[Blues-Rock]]. [[Blues-Rock]] is a subgenre of [[Rock]] music that emerged in the late 1960s, building upon the foundations of early [[ `Unit 8 Chapter 1`
+- [[Blues]]. The Blues is the foundation of virtually every major American musical form born in the 20th century, including Jazz, R&B `TECH1_6`
+- [[Blues_Drumming]] — [[Blues|Blues]] Drumming. **[[Blues|Blues]]** is a foundational American roots genre that evolved from African-American work songs and spirituals.
 - [[Blues_Music_History]]. The [[Blues]] is a foundational American musical genre, recognized as one of the nation's greatest musical treasures. `Unit 6 - Chapter 1`
 - [[Bossa_Nova]]. **Bossa Nova** (Portuguese for "new trend") is a sophisticated style of Brazilian music that emerged between 1958 and 19 `READ2`
-- [[Bossa_Nova_Balance_of_Sound]]. Achieving the correct "internal mix" is critical for a stylistically authentic [[Bossa Nova]] sound. `READ2`
-- [[Bossa_Nova_Bass_Drum_Ostinato]]. The **Bossa Nova Bass Drum Ostinato** is a syncopated Brazilian pattern used as a rhythmic anchor. `READ1`
-- [[Bossa_Nova_Drum_Set]] — Bossa Nova (Drum Set). The **Bossa Nova** is a Brazilian rhythm characterized by its sophisticated, understated elegance and straight-eighth su `TECH1_2`
-- [[Bridge (Song Section)]]. A "Bridge" is a section within a song that typically provides musical and lyrical contrast to the [[Verse (Song Section) `Unit 5 - Chapter 1`
-- [[Broken-Triplet_Fill_Unit_10]] — Broken-Triplet Fill (Unit 10). This is a significant and complex fill occurring in measures 43-45 of the Unit 10 rock shuffle. `Unit 10 - Chapter 2`
+- [[Bossa_Nova_Balance_of_Sound]]. Achieving the correct "internal mix" is critical for a stylistically authentic [[Bossa_Nova]] sound. `READ2`
+- [[Bossa_Nova_Bass_Drum_Ostinato]] — [[Bossa_Nova|Bossa Nova]] [[Bass_Drum|Bass Drum]] Ostinato. The **[[Bossa_Nova|Bossa Nova]] [[Bass_Drum|Bass Drum]] Ostinato** is a syncopated Brazilian pattern used as a rhythmic  `READ1`
+- [[Bossa_Nova_Drum_Set]] — [[Bossa_Nova|Bossa Nova]] (Drum Set). The **[[Bossa_Nova|Bossa Nova]]** is a Brazilian rhythm characterized by its sophisticated, understated elegance and str `TECH1_2`
+- [[Bridge_(Song_Section)]]. A "Bridge" is a section within a song that typically provides musical and lyrical contrast to the [[Verse_(Song_Section) `Unit 5 - Chapter 1`
+- [[Broken-Triplet_Fill_Unit_10]] — Broken-Triplet [[Fill|Fill]] (Unit 10). This is a significant and complex [[Fill|fill]] occurring in measures 43-45 of the Unit 10 [[Rock_Shuffle|rock shuffle]] `Unit 10 - Chapter 2`
 - [[Brush_Legato_Sweep]]. The foundation of [[Brush_Technique]] is the smooth, legato sweep. `TECH3_4`
-- [[Brush_Technique_Conventional_Stroke]] — Brush Technique: The Conventional Stroke. The **Conventional Stroke** is the standard method for timekeeping with brushes in medium to up-tempo jazz contexts. `TECH1_2`
-- [[Bury_the_Beater_Bass_Drum_Technique]] — Bury-the-Beater Bass Drum Technique. The "bury-the-beater" technique for the [[Bass Drum]] involves allowing the beater to remain pressed against the drumhea `Unit 6 - Chapter 2`
-- [[Burying the Bass Drum Beater]]. 在每次擊打後，將 [[Bass Drum Beater]] 推入（或埋入）[[Bass Drum Head]] 中非常重要。這不僅能輕微地悶住鼓聲，還能為初始擊打增加另一個起音元素（配合硬表面的 [[Bass Drum Beater]]）。 `Chapter 2`
-- [[Burying_the_Bass_Drum_Beater]]. [[Burying the Bass Drum Beater]] is a bass drum technique where, after striking the bass drum head, the beater is allowe `Unit 4 - Chapter 2`
-- [[Burying_the_Beater]]. "Burying the beater" refers to the bass drum technique where the [[Bass Drum Beater]] is left pressed against the [[Bass `Unit 3 - Chapter 4`
+- [[Brush_Technique_Conventional_Stroke]] — Brush Technique: The Conventional Stroke. The **Conventional Stroke** is the standard method for timekeeping with brushes in medium to up-[[Tempo|tempo]] [[Jazz|j `TECH1_2`
+- [[Bury_the_Beater_Bass_Drum_Technique]] — Bury-the-Beater [[Bass_Drum_Technique|Bass Drum Technique]]. The "bury-the-beater" technique for the [[Bass_Drum]] involves allowing the beater to remain pressed against the drumhea `Unit 6 - Chapter 2`
+- [[Burying_the_Bass_Drum_Beater]]. **Burying the Bass Drum Beater** (also known as "[[Burying_the_Beater|Burying the Beater]]") is a [[Bass_Drum_Technique| `Unit 4 - Chapter 2`
+- [[Burying_the_Beater]]. "Burying the beater" refers to the [[Bass_Drum_Technique|bass drum technique]] where the [[Bass_Drum_Beater]] is left pr `Unit 3 - Chapter 4`
 ### C
 - [[Calif-Horn-Ya_Song_Study]] — Calif-Horn-Ya: Song Study. "Calif-Horn-Ya" (written by Jeff Salem, Josh Harris, and Dave DiMarco) is a technical exercise in maintaining a **laid-b `TECH3_4`
 - [[Center_of_Your_Heart_Song_Study]] — Center of Your Heart: Song Study. "Center of Your Heart" is a ballad study featuring the playing of [[Todd_Sucherman]]. `TECH3_4`
-- [[Center_Snare_Hit_Butt_End]] — Center Snare Hit (Butt End). The [[Center_Snare_Hit_Butt_End]] is a specific snare drum articulation where the butt end (the thicker, heavier end) of `Unit 4 - Chapter 1`
+- [[Center_Snare_Hit_Butt_End]] — Center Snare Hit (Butt End). The [[Center_Snare_Hit_Butt_End]] is a specific [[Snare_Drum_Articulation|snare drum articulation]] where the butt end ( `Unit 4 - Chapter 1`
 - [[Center_Snare_Stroke]]. The **Center Snare Stroke** is an articulation where the stick strikes the exact center of the drumhead without making c `READ2`
-- [[Chart_Analysis_Shuffle_Feel]] — Chart Analysis: Shuffle Feel. Reading a shuffle chart (e.g., "Eight Bars to Go") requires an understanding of triplet-based [[Subdivision]] and specif `READ3`
-- [[Chart_Reading_Strategy_12-Bar_Blues]] — Chart Reading Strategy (12-Bar Blues). When performing a [[12-Bar Blues Open Form]] chart, an effective [[Drum Chart Reading|chart reading strategy]] goes beyo `Unit 7 - Chapter 2`
-- [[Check_Patterns]]. [[Check Patterns]] are specific rhythmic exercises or sequences designed to ensure accuracy in note placement, timing, a `Unit 7 - Chapter 1`
-- [[Chippy_Hi-Hat_Sound]]. A "[[Chippy Hi-Hat Sound]]" refers to a crisp, articulate, and often short-decaying sound produced by the [[Hi-Hat Cymba `Drum Technique 50`
-- [[Chorus (Song Section)]]. The "Chorus" is a fundamental section in most popular song structures, often referred to as the "hook" or main theme. `Unit 5 - Chapter 1`
-- [[Chunky_Shouldered_Hi-Hat]]. The **Chunky Shouldered Hi-Hat** is an articulation technique used to create a thick, forceful eighth-note pulse. `TECH1_2`
-- [[Clef_Music_Notation]] — Clef (Music Notation). A clef is a symbol placed at the beginning of [[The Staff]] in [[Music Notation]] that designates one particular line as `Unit 1`
+- [[Chart]]. A Drum Chart (or Drum Part) is a technical document that serves as a musical roadmap for a performance. `READ1`
+- [[Chart_Analysis_Shuffle_Feel]] — [[Chart|Chart]] Analysis: [[Shuffle_Feel|Shuffle Feel]]. Reading a [[Shuffle|shuffle]] [[Chart|chart]] (e.g., "Eight Bars to Go") requires an understanding of triplet-based [[Su `READ3`
+- [[Chart_Reading_Strategy_12-Bar_Blues]] — [[Chart|Chart]] Reading Strategy (12-Bar [[Blues|Blues]]). When performing a [[12-Bar_Blues_Open_Form]] [[Chart|chart]], an effective [[Drum_Chart_Reading|chart reading strategy]] `Unit 7 - Chapter 2`
+- [[Check_Patterns]]. [[Check_Patterns]] are specific rhythmic exercises or sequences designed to ensure accuracy in note placement, timing, a `Unit 7 - Chapter 1`
+- [[Chippy_Hi-Hat_Sound]] — Chippy [[Hi-Hat|Hi-Hat]] Sound. A "[[Chippy_Hi-Hat_Sound]]" refers to a crisp, articulate, and often short-decaying sound produced by the [[Hi-Hat_Cymba `[[Drum_Technique_50|Drum Technique 50]]`
+- [[Chorus_(Song_Section)]]. The "Chorus" is a fundamental section in most popular song structures, often referred to as the "hook" or main theme. `Unit 5 - Chapter 1`
+- [[Chunky_Shouldered_Hi-Hat]] — Chunky Shouldered [[Hi-Hat|Hi-Hat]]. The **Chunky Shouldered [[Hi-Hat|Hi-Hat]]** is an articulation technique used to create a thick, forceful eighth-note [[ `TECH1_2`
+- [[Clef_Music_Notation]] — Clef (Music Notation). A clef is a symbol placed at the beginning of [[The_Staff]] in [[Music_Notation]] that designates one particular line as `Unit 1`
 - [[Closed_Roll]]. The **Closed Roll** (also known as the **Multiple Bounce Roll**, **Buzz Roll**, or **Press Roll**) consists of alternati `TECH3_4`
-- [[Closed_Triplet_Rolls]]. Closed triplet rolls are essential for developing touch and [[Finger Control]], particularly within [[Jazz Drumming]] an `TECH3_4`
-- [[Coda (Song Section)]]. The "Coda" (Italian for "tail") is a concluding section of a musical piece, often serving as an outro or a final stateme `Unit 5 - Chapter 1`
+- [[Closed_Triplet_Rolls]]. Closed triplet rolls are essential for developing touch and [[Finger_Control]], particularly within [[Jazz_Drumming]] an `TECH3_4`
+- [[Coda_(Song_Section)]]. The "Coda" (Italian for "tail") is a concluding section of a musical piece, often serving as an outro or a final stateme `Unit 5 - Chapter 1`
 - [[Coda_Build-up_Unit_9]] — Coda Build-up (Unit 9). The final part of the [[Coda_Section_Unit_9]] functions as a significant build-up, leading to the very last bar of the p `Unit 9 - Chapter 2`
-- [[Coda_Fills_Unit_9]] — Coda Fills (Unit 9). Within the [[Coda_Section_Unit_9]], the musical development includes the strategic addition of one-measure fills. `Unit 9 - Chapter 2`
+- [[Coda_Fills_Unit_9]] — Coda Fills (Unit 9). Within the [[Coda_Section_Unit_9]], the musical development includes the strategic addition of one-[[Measure|measure]] f `Unit 9 - Chapter 2`
 - [[Coda_Section_Unit_9]] — Coda Section (Unit 9). The Coda section serves as the concluding part of the piece and is broken down into two distinct subsections, each prese `Unit 9 - Chapter 2`
-- [[Combined_Subdivision_Ensemble_Figures]]. Advanced [[Drum Reading]] involves navigating phrases that mix quarter, eighth, and 16th notes, including dotted values. `READ3`
-- [[Combining Repeat Signs]]. In musical notation, various [[Repeat Signs]] can be combined to create complex and extended musical forms efficiently. `Unit 2 - Chapter 2`
-- [[Common_Eighth_and_16th_Pairings_Rhythmic_Groupings]] — Common Eighth and 16th Pairings (Rhythmic Groupings). Common Eighth and 16th Pairings refer to the most essential and frequently encountered combinations of [[Eighth Note]]s, `Unit 5 - Chapter 2`
+- [[Combined_Subdivision_Ensemble_Figures]] — Combined Subdivision [[Ensemble_Figures|Ensemble Figures]]. Advanced [[Drum_Reading]] involves navigating phrases that mix quarter, eighth, and [[16th_Notes|16th notes]], including `READ3`
+- [[Combining_Repeat_Signs]] — Combining [[Repeat_Signs|Repeat Signs]]. In musical notation, various [[Repeat_Signs]] can be combined to create complex and extended musical forms efficiently. `Unit 2 - Chapter 2`
+- [[Common_Eighth_and_16th_Pairings_Rhythmic_Groupings]] — Common Eighth and 16th Pairings (Rhythmic Groupings). Common Eighth and 16th Pairings refer to the most essential and frequently encountered combinations of [[Eighth_Note]]s, `Unit 5 - Chapter 2`
 - [[Common_Time_Symbol]]. The **Common Time Symbol**, represented by the letter 'C', is a shorthand notation used in music to indicate the most pr `Unit Chapter 1`
 - [[Comping_Horn_Figures]]. **Comping** (short for accompanying or complementing) horn figures is the art of reinforcing the rhythmic punches of a b `MI_CURR`
-- [[Comping_Jazz]] — Comping (Jazz). "Comping" (short for accompanying) is the rhythmic support provided by the drummer to the melody or soloist. `READ2`
-- [[Compound_Meter_Reading]]. Compound meter refers to time signatures where the basic pulse is divisible by three. `READ1`
-- [[Compression_and_Expansion]]. Compression and expansion is a rhythmic concept used to develop [[Fill Development|fills]] and solo vocabulary by alteri `TECH3_4`
-- [[Constant_Eighth_Meter_Change]] — 12/8 to 4/4 Meter Change (Constant Eighth Note). A specific type of modulation occurs when moving from [[12/8 Time]] to [[4/4 Time]] while keeping the **Eighth Note cons `TECH1_2`
-- [[Control_Stroke]]. A [[Control Stroke]], also known as a [[Down Stroke]], is a drumming technique where the natural rebound of the [[Drumst `Unit 1 - Chapter 3`
+- [[Comping_Jazz]] — Comping ([[Jazz|Jazz]]). "Comping" (short for accompanying) is the rhythmic support provided by the drummer to the melody or soloist. `READ2`
+- [[Compound_Meter_Reading]] — Compound [[Meter|Meter]] Reading. Compound [[Meter|meter]] refers to time signatures where the basic pulse is divisible by three. `READ1`
+- [[Compression_and_Expansion]]. Compression and expansion is a rhythmic concept used to develop [[Fill_Development|fills]] and solo vocabulary by alteri `TECH3_4`
+- [[Constant_Eighth_Meter_Change]] — 12/8 to 4/4 [[Meter|Meter]] Change (Constant Eighth Note). A specific type of modulation occurs when moving from [[12/8_Time]] to [[4/4_Time]] while keeping the **Eighth Note cons `TECH1_2`
+- [[Control_Stroke]]. A [[Control_Stroke]], also known as a [[Down_Stroke]], is a drumming technique where the natural rebound of the [[Drumst `Unit 1 - Chapter 3`
 - [[Coordinated_Independence_4_Step_Method]] — Coordinated Independence: 4-Step Method. This systematic approach is used to master complex rhythmic patterns between all four limbs. `TECH3_4`
-- [[Counting Eighth Notes]]. [[Counting Eighth Notes]] is a fundamental skill for drummers and musicians, essential for accurately interpreting and p `Unit 2 Chapter 1`
 - [[Counting_Beats]]. Once the [[Meter]] of a piece of music is identified, a systematic counting method is applied to represent the progressi `Unit Chapter 1`
-- [[Counting_Eighth_Note_Triplets]] — Counting Eighth-Note Triplets. Accurately [[Counting_Eighth_Note_Triplets]] subdivisions is crucial for internalizing and performing rhythms with a [[1 `Unit 6 - Chapter 1`
-- [[Counting_Odd_Meters]]. Accurate counting is the foundation of performing in **[[Odd Meter]]**. `TECH1_2`
-- [[Counting_Out_Loud]]. [[Counting Out Loud]] is a fundamental practice technique that significantly enhances a drummer's [[Rhythmic Accuracy]]  `Drum Technique 50`
-- [[Counting_Sixteenth_Notes]]. [[Counting Sixteenth Notes]] is a standardized [[Verbal Counting (Rhythm)]] method for articulating [[Sixteenth Note]] s `Unit 3 - Chapter 1`
-- [[Counting_Triplets]]. Accurate [[Counting Triplets]] is essential for internalizing and performing [[Eighth-Note Triplets]] correctly. `Unit 7 - Chapter 2`
-- [[Country-Pop (Drumming Style)]]. [[Country-Pop]] is a drumming style introduced in Unit 5 of "[[Drum Performance 1 (Book)]]". `Unit 5`
-- [[Country-Pop Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 5 中介紹的入門打擊樂風格。 `Unit 5`
-- [[Country_Rock_Ballad]] — Country-Rock Ballad. The **Country-Rock Ballad** has been a staple of popular music for decades, designed to capture emotional themes of roma `READ2`
-- [[Crash_Cymbal_Notation]] — Crash Cymbal (Notation). In [[Drum Set Notation Key]], the [[Crash Cymbal]] is used for accents and punctuation, and its notation is designed to  `Unit 1`
-- [[Cross-Stick_Technique]]. The cross-stick (sometimes called "rim click" or "side stick") is a fundamental [[Snare Drum]] articulation used to prod `Uncategorized`
-- [[Cross_Stick]] — Cross-Stick. The [[Cross_Stick]] (also known as "rim click" or "side stick") is a [[Snare Drum]] articulation produced by laying the  `Uncategorized`
-- [[Cross_Stick_Technique]] — Cross-Stick Technique. The **Cross-Stick** (or Side-Stick) is a snare drum articulation that produces a "click" sound, frequently used in balla `READ2`
+- [[Counting_Eighth_Note_Triplets]] — Counting Eighth-Note [[Triplets|Triplets]]. Accurately [[Counting_Eighth_Note_Triplets]] subdivisions is crucial for internalizing and performing rhythms with a [[1 `Unit 6 - Chapter 1`
+- [[Counting_Eighth_Notes]] — Counting [[Eighth_Notes|Eighth Notes]]. [[Counting_Eighth_Notes]] is a fundamental skill for drummers and musicians, essential for accurately interpreting and p `Unit 2 Chapter 1`
+- [[Counting_Odd_Meters]]. Accurate counting is the foundation of performing in **[[Odd_Meter]]**. `TECH1_2`
+- [[Counting_Out_Loud]]. [[Counting_Out_Loud]] is a fundamental practice technique that significantly enhances a drummer's [[Rhythmic_Accuracy]]  `[[Drum_Technique_50|Drum Technique 50]]`
+- [[Counting_Sixteenth_Notes]] — Counting [[Sixteenth_Notes|Sixteenth Notes]]. [[Counting_Sixteenth_Notes]] is a standardized [[Verbal_Counting_(Rhythm)]] method for articulating [[Sixteenth_Note]] s `Unit 3 - Chapter 1`
+- [[Counting_Triplets]] — Counting [[Triplets|Triplets]]. Accurate [[Counting_Triplets]] is essential for internalizing and performing [[Eighth_Note_Triplets]] correctly. `Unit 7 - Chapter 2`
+- [[Country-Pop_(Drumming_Style)]]. [[Country-Pop]] is a drumming style introduced in Unit 5 of "[[Drum_Performance_1_(Book)]]". `Unit 5`
+- [[Country-Pop_Drumming]]. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 5 中介紹的入門打擊樂風格。 `Unit 5`
+- [[Country_Rock_Ballad]] — Country-[[Rock|Rock]] Ballad. The **Country-[[Rock|Rock]] Ballad** has been a staple of popular music for decades, designed to capture emotional theme `READ2`
+- [[Crash_Cymbal_Notation]] — Crash Cymbal (Notation). In [[Drum_Set_Notation_Key]], the [[Crash_Cymbal]] is used for [[Accents|accents]] and punctuation, and its notation is  `Unit 1`
+- [[Cross_Stick]] — Cross-Stick. The [[Cross_Stick]] (also known as "rim click" or "side stick") is a [[Snare_Drum]] articulation produced by laying the  `Uncategorized`
+- [[Cross_Stick_Technique]] — Cross-Stick Technique. The **Cross-Stick** (sometimes called "rim click" or "side stick") is a fundamental [[Snare_Drum]] articulation used to  `READ2`
 - [[Cumbia_Drum_Set_Adaptation]]. Cumbia originated as a courtship dance among African populations and evolved significantly in Colombia and Panama during `READ2`
 - [[Cut_Time]] — Cut Time (2/2). **Cut Time**, also known as *alla breve*, is a time signature represented by the symbol **₵** or **2/2**. `TECH1_2`
-- [[Cut_Time_Drum_Set_Interpretation]]. In professional drum charts, [[Cut Time]] (2/2) is the standard notation for high-energy Latin, Afro-Cuban, and certain  `TECH1_2`
+- [[Cut_Time_Drum_Set_Interpretation]]. In professional drum charts, [[Cut_Time]] (2/2) is the standard notation for high-energy Latin, Afro-Cuban, and certain  `TECH1_2`
 ### D
-- [[D. S. al Coda]]. al Coda" is a common musical instruction, an abbreviation for "Dal Segno al Coda," which translates from Italian as "fro `Unit 5 - Chapter 1`
-- [[D.C. al Fine]]. A common musical instruction indicating how to navigate repeats and endings in a piece:
-*   **D.C.** (da capo): Italian  `Unit 3 - Chapter 1`
-- [[D.C._al_Coda_Funk-Rock_Intro]] — D.C. al Coda (Funk-Rock Intro). The instruction "[[D.S._al_Coda]]" (Da Capo al Coda) is a common musical directive meaning "go back to the beginning (Da `Unit 8 Chapter 1`
+- [[D.C._al_Coda_Funk-Rock_Intro]] — D.C. al Coda ([[Funk|Funk]]-[[Rock|Rock]] Intro). The instruction "[[D.S._al_Coda]]" (Da Capo al Coda) is a common musical directive meaning "go back to the beginning (Da `Unit 8 Chapter 1`
 - [[D.C._al_Coda_No_Repeats]] — D.C. al Coda (No Repeats). The instruction "[[D.S._al_Coda]] (No Repeats)" is a specific musical directive that modifies the standard [[D.S._al_Cod `Unit 8 Chapter 2`
-- [[D.C._al_Fine]]. al Fine]] is an Italian musical direction that stands for "Da Capo al Fine," which translates to "from the beginning to  `Unit 4 - Chapter 1`
-- [[D.S._al_Coda]]. al Coda]] is a specific set of musical directions used in [[Notation]] to guide musicians through the [[Song Structure]] `Unit 4 - Chapter 1`
+- [[D.C._al_Fine]]. al Fine** is an Italian musical direction standing for "Da Capo al Fine," which translates to "from the beginning to the `READ1`
+- [[D.S._al_Coda]]. al Coda** is an abbreviation for "Dal Segno al Coda," an Italian music term translating to "from the sign to the coda."  `READ1`
 - [[D.S._al_Coda_No_Repeats]] — D.S. al Coda (No Repeats). al Coda (no repeats)" or "D.S. `Unit 5 - Chapter 3`
-- [[D.S._al_Coda_Repeats_are_Good]] — D.S. al Coda (Repeats are Good). al Coda (repeats are good)" is a specific instruction for navigating a [[D.S. `Unit 5 - Chapter 3`
-- [[D.S._Rock_Shuffle_Unit_10]] — D.S. (Rock Shuffle - Unit 10). The `D.S.` (Dal Segno) instruction at the end of [[Letter_B_Rock_Shuffle_Unit_10]] is a critical navigation marker in th `Unit 10 - Chapter 1`
-- [[Developing_Stylistic_Drum_Sound]]. Developing a stylistically correct drum sound involves more than just playing the right notes; it's about understanding  `Uncategorized`
-- [[Diddles_Rudiment_Family]] — Diddles (Rudiment Family). The [[Diddles_Rudiment_Family]] is one of the five [[Rudiment Families]] and is characterized by the use of "diddles," w `Unit 4 - Chapter 1`
-- [[Different_Rhythm_(or_Groove)]]. Within musical structures like the `[[ABAB 32-Bar Form]]`, a "Different Rhythm (or Groove)" refers to the distinct rhyth `Unit 4 - Chapter 1`
+- [[D.S._al_Coda_Repeats_are_Good]] — D.S. al Coda (Repeats are Good). al Coda (repeats are good)" is a specific instruction for navigating a [[D.S._al_Coda]] when [[First_Ending]]s and [[Sec `Unit 5 - Chapter 3`
+- [[D.S._Rock_Shuffle_Unit_10]] — D.S. ([[Rock_Shuffle|Rock Shuffle]] - Unit 10). The `D.S.` (Dal Segno) instruction at the end of [[Letter_B_Rock_Shuffle_Unit_10]] is a critical navigation marker in th `Unit 10 - Chapter 1`
+- [[Developing_Stylistic_Drum_Sound]]. Developing a [[Stylistically_Correct_Drum_Sound|stylistically correct drum sound]] involves more than just playing the r `Uncategorized`
+- [[Diddles_Rudiment_Family]] — Diddles (Rudiment Family). The [[Diddles_Rudiment_Family]] is one of the five [[Rudiment_Families]] and is characterized by the use of "diddles," w `Unit 4 - Chapter 1`
+- [[Different_Rhythm_(or_Groove)]]. Within musical structures like the `[[ABAB_32-Bar_Form]]`, a "Different Rhythm (or Groove)" refers to the distinct rhyth `Unit 4 - Chapter 1`
 - [[Displaced_Grooves]]. **Displaced Grooves** involve taking a specific rhythmic sequence or [[Groove]] and shifting its starting point by a set `TECH3_4`
-- [[Dotted_16th_Notes]]. A **dotted 16th note** follows the standard rule of [[Dotted Notes]]: the dot adds half the value of the note it is atta `TECH1_2`
-- [[Dotted_Eighth_Note]]. A **dotted eighth note** is an [[Eighth Note]] with a dot placed immediately to its right. `Unit 9 Chapter 1`
-- [[Dotted_Eighth_Notes_Practical_Use]] — Dotted Eighth Notes (Practical Use). The practical application of [[Dotted Eighth Note]]s (worth three [[Sixteenth Note]]s or 0.75 [[Beat]]s) is crucial for  `Unit 9 Chapter 2`
-- [[Dotted_Half_Note]]. A **dotted half note** is a [[Half Note]] with a dot placed immediately to its right. `Unit 9 Chapter 1`
-- [[Dotted_Half_Notes_Practical_Use]] — Dotted Half Notes (Practical Use). [[Dotted Half Note]]s, which are worth three [[Beat]]s, are frequently used in musical notation. `Unit 9 Chapter 2`
-- [[Dotted_Note_Values_Calculation_Methods]] — Dotted Note Values (Calculation Methods). Understanding the exact [[Duration]] of [[Dotted Notes]] is crucial for accurate rhythmic performance. `Unit 9 Chapter 1`
-- [[Dotted_Notes]]. A **dotted note** is a musical notation symbol where a small dot is placed immediately to the right of a [[Note Head]]. `Unit 9 Chapter 1`
-- [[Dotted_Quarter_Note]]. A **dotted quarter note** is a [[Quarter Note]] with a dot placed immediately to its right. `Unit 9 Chapter 1`
-- [[Dotted_Quarter_Note_Superimposition]]. A hallmark of [[Jazz]] phrasing is the use of dotted quarter notes to create a "three-over-four" feel. `TECH1_2`
-- [[Dotted_Rests]]. Similar to [[Dotted Notes]], [[Rests]] can also employ dots to extend their [[Duration]]. `Unit 9 Chapter 1`
-- [[Double-Time_Feel]]. **Double-time feel** is a rhythmic concept where the pulse of the music feels twice as fast as the actual tempo, though  `READ2`
-- [[Double_Bar_Line]]. A double bar line is a type of [[Bar Line]] used in [[Music Notation]] to visually separate distinct sections of music w `Unit 1`
-- [[Double_Bass_Drum_Consistency]] — Double_Bass_Drum_Consistency. Achieving extreme consistency between both feet is the hallmark of professional [[Progressive Metal Foundations|Progress `TECH1_2`
+- [[Dotted_16th_Notes]] — Dotted [[16th_Notes|16th Notes]]. A **dotted 16th note** follows the standard rule of [[Dotted_Notes]]: the dot adds half the value of the note it is atta `TECH1_2`
+- [[Dotted_Eighth_Note]]. A **dotted eighth note** is an [[Eighth_Note]] with a dot placed immediately to its right. `Unit 9 Chapter 1`
+- [[Dotted_Eighth_Notes_Practical_Use]] — Dotted [[Eighth_Notes|Eighth Notes]] (Practical Use). The practical application of [[Dotted_Eighth_Note]]s (worth three [[Sixteenth_Note]]s or 0.75 [[Beat]]s) is crucial for  `Unit 9 Chapter 2`
+- [[Dotted_Half_Note]]. A **dotted half note** is a [[Half_Note]] with a dot placed immediately to its right. `Unit 9 Chapter 1`
+- [[Dotted_Half_Notes_Practical_Use]] — Dotted Half Notes (Practical Use). [[Dotted_Half_Note]]s, which are worth three [[Beat]]s, are frequently used in musical notation. `Unit 9 Chapter 2`
+- [[Dotted_Note_Values_Calculation_Methods]] — Dotted Note Values (Calculation Methods). Understanding the exact [[Duration]] of [[Dotted_Notes]] is crucial for accurate rhythmic performance. `Unit 9 Chapter 1`
+- [[Dotted_Notes]]. A **dotted note** is a musical notation symbol where a small dot is placed immediately to the right of a [[Note_Head]]. `Unit 9 Chapter 1`
+- [[Dotted_Quarter_Note]]. A **dotted quarter note** is a [[Quarter_Note]] with a dot placed immediately to its right. `Unit 9 Chapter 1`
+- [[Dotted_Quarter_Note_Superimposition]] — [[Dotted_Quarter_Note|Dotted Quarter Note]] Superimposition. A hallmark of [[Jazz]] [[Phrasing|phrasing]] is the use of dotted [[Quarter_Notes|quarter notes]] to create a "three-ove `TECH1_2`
+- [[Dotted_Rests]]. Similar to [[Dotted_Notes]], [[Rests]] can also employ dots to extend their [[Duration]]. `Unit 9 Chapter 1`
+- [[Double_Bar_Line]] — Double [[Bar_Line|Bar Line]]. A double [[Bar_Line|bar line]] is a type of [[Bar_Lines]] used in [[Music_Notation]] to visually separate distinct secti `Unit 1`
+- [[Double_Bass_Drum_Consistency]] — Double_Bass_Drum_Consistency. Achieving extreme consistency between both feet is the hallmark of professional [[Progressive_Metal_Foundations|Progress `TECH1_2`
 - [[Double_Dotted_Notes]]. **Double dotted notes** are an advanced form of rhythmic notation. `TECH1_2`
-- [[Double_Paradiddle]]. The [[Double Paradiddle]] is an extension of the [[Single Paradiddle]], consisting of six notes. `Unit 8`
-- [[Double_Pedal_Endurance]]. Developing speed and longevity with [[Double Bass Drumming]] requires a combination of technical facility and physical c `TECH3_4`
+- [[Double_Paradiddle]] — Double [[Paradiddle|Paradiddle]]. The [[Double_Paradiddle]] is an extension of the [[Single_Paradiddle]], consisting of six notes. `Unit 8`
+- [[Double_Pedal_Endurance]]. Developing speed and longevity with [[Double_Bass_Drumming]] requires a combination of technical facility and physical c `TECH3_4`
 - [[Double_Stops_Percussion]] — Double Stops (Percussion). A **Double Stop** in drumming occurs when two different sound sources (typically the snare drum and a tom) are struck si `READ2`
-- [[Double_Stroke_Roll]]. The [[Double Stroke Roll]] is a fundamental drumming rudiment consisting of two strokes played by each hand in successio `Unit 7 - Chapter 1`
+- [[Double_Stroke_Roll]]. The [[Double_Stroke_Roll]] is a fundamental drumming rudiment consisting of two strokes played by each hand in successio `Unit 7 - Chapter 1`
 - [[Double_Stroke_Roll_Open]] — Double-Stroke Roll (Open Roll). The **Double-Stroke Roll**, specifically performed as an **Open Roll**, is one of the most critical [[Rudiment]] for any `TECH3_4`
-- [[Double_Stroke_Technique]]. The [[Double Stroke Technique]] is a fundamental drumming technique that involves playing two consecutive strokes with a `Unit 7`
-- [[Double_Strokes]]. Double Strokes are a fundamental [[Sticking Patterns]] technique in drumming where two consecutive notes are played with `Unit 6 - Chapter 2`
-- [[Double_Strokes_Alternating_Method]] — Double Strokes: Alternating Method. The Double Strokes: Alternating Method is an application of [[Double Strokes]] where the lead hand alternates, rather th `Unit 6 - Chapter 2`
-- [[Double_Strokes_Lead_Method]] — Double Strokes: Lead Method. The Double Strokes: Lead Method is an application of [[Double Strokes]] where a specific hand consistently initiates the `Unit 6 - Chapter 2`
-- [[Double_Time_Feel]] — Double-Time Feel. A **Double-Time Feel** is a rhythmic device that gives the illusion that the music has doubled in speed, even though the `READ2`
-- [[Down_Stroke]]. A [[Down Stroke]] is a drumming technique that is synonymous with the [[Control Stroke]]. `Unit 1 - Chapter 3`
-- [[Downbeat_Ensemble_Figures]]. Downbeat Ensemble Figures are rhythmic hits that occur on the primary pulses of a measure (1, 2, 3, or 4). `READ3`
-- [[Drag_Rudiments_Overview]]. Drag-based rudiments are essential for developing "inner-beat" dexterity and control over [[Diddle]] quality. `READ2`
+- [[Double_Stroke_Technique]]. The [[Double_Stroke_Technique]] is a fundamental drumming technique that involves playing two consecutive strokes with a `Unit 7`
+- [[Double_Strokes]]. Double Strokes are a fundamental [[Sticking_Patterns]] technique in drumming where two consecutive notes are played with `Unit 6 - Chapter 2`
+- [[Double_Strokes_Alternating_Method]] — Double Strokes: Alternating Method. The Double Strokes: Alternating Method is an application of [[Double_Strokes]] where the lead hand alternates, rather th `Unit 6 - Chapter 2`
+- [[Double_Strokes_Lead_Method]] — Double Strokes: Lead Method. The Double Strokes: Lead Method is an application of [[Double_Strokes]] where a specific hand consistently initiates the `Unit 6 - Chapter 2`
+- [[Double_Time_Feel]] — Double-[[Time_Feel|Time Feel]]. **Double-[[Time_Feel|Time Feel]]** is a rhythmic device that gives the illusion that the music has doubled in speed, eve `READ2`
+- [[Down_Stroke]]. A [[Down_Stroke]] is a drumming technique that is synonymous with the [[Control_Stroke]]. `Unit 1 - Chapter 3`
+- [[Downbeat_Ensemble_Figures]] — Downbeat [[Ensemble_Figures|Ensemble Figures]]. Downbeat [[Ensemble_Figures|Ensemble Figures]] are rhythmic hits that occur on the primary pulses of a [[Measure|measure `READ3`
+- [[Drag_Rudiments_Overview]] — Drag [[Rudiments|Rudiments]] Overview. Drag-based [[Rudiments|rudiments]] are essential for developing "inner-[[Beat|beat]]" dexterity and control over [[Diddl `READ2`
 - [[Drag_Technique]]. A **Drag** consists of two grace notes tied to a primary note. `READ2`
-- [[Drags_Rudiment_Family]] — Drags (Rudiment Family). The [[Drags_Rudiment_Family]] is one of the five [[Rudiment Families]] and is characterized by rudiments that typically  `Unit 4 - Chapter 1`
-- [[Drop-Outs]]. **Drop-outs** are short, abrupt interruptions of a groove, typically lasting one or two beats. `TECH1_2`
-- [[Drop_Stroke]]. The **Drop Stroke** is a specialized snare drum technique used to execute high-quality [[Ghost Notes]]. `TECH1_2`
-- [[Drum Reading Exercises (Unit 2 Chapter 3)]]. This chapter introduces a series of [[Drum Reading]] exercises designed to progressively develop rhythmic accuracy and f `Unit 2 - Chapter 3`
-- [[Drum Sound (Performance)]]. Just as a musical chart has a particular groove, phrase length, and chord progression, it also implies a particular drum `Unit 2 - Chapter 2`
-- [[Drum_Chart_Types]]. In a professional environment, drummers encounter various levels of notation detail. `READ3`
-- [[Drum_Fill]]. A drum fill is a short, often improvised rhythmic phrase played on the drum set, typically used to transition between se `Unit 4 - Chapter 1`
-- [[Drum_Performance]]. `[[Drum Performance]]` encompasses not just the technical execution of drumming but also the artistry, stage presence, a `Uncategorized`
+- [[Drags_Rudiment_Family]] — Drags (Rudiment Family). The [[Drags_Rudiment_Family]] is one of the five [[Rudiment_Families]] and is characterized by [[Rudiments|rudiments]] t `Unit 4 - Chapter 1`
+- [[Drop-Outs]]. **Drop-outs** are short, abrupt interruptions of a [[Groove|groove]], typically lasting one or two beats. `TECH1_2`
+- [[Drop_Stroke]]. The **Drop Stroke** is a specialized [[Snare_Drum|snare drum]] technique used to execute high-quality [[Ghost_Notes]]. `TECH1_2`
+- [[Drum_Chart_Types]] — Drum [[Chart|Chart]] Types. In a professional environment, drummers encounter various levels of notation detail. `READ3`
+- [[Drum_Fill]] — Drum [[Fill|Fill]]. A drum [[Fill|fill]] is a short, often improvised rhythmic phrase played on the drum set, typically used to transition b `Unit 4 - Chapter 1`
+- [[Drum_Performance]]. `[[Drum_Performance]]` encompasses not just the technical execution of drumming but also the artistry, stage presence, a `Uncategorized`
 - [[Drum_Reading]]. Drum reading is the fundamental skill of interpreting musical notation specifically written for percussion instruments,  `Uncategorized`
-- [[Drum_Reading_1]] — Drum Reading 1 (MI Curriculum Series). "Drum Reading 1" is a foundational instructional book within the [[Musicians Institute]] Curriculum Series, specifically `Uncategorized`
-- [[Drum_Seat]]. The [[Drum Seat]], also known as a drum throne, is a critical component of a drummer's setup, significantly impacting co `Unit 2`
-- [[Drum_Seat_(Balance)]]. The position and use of the [[Drum Throne]] are often overlooked aspects of drumming technique, yet they are crucial for `Unit 2 - Chapter 6`
-- [[Drum_Seat_Height]]. The optimal [[Drum Seat]] height is a critical ergonomic factor in drumming, directly influencing comfort, technique, an `Unit 3 - Chapter 5`
-- [[Drum_Seat_Homework_(Unit_2)]]. This homework assignment focuses on understanding and applying the concepts of drumming grips, [[Traditional Grip]] hist `Unit 2`
-- [[Drum_Seat_Positioning]]. Proper [[Drum Seat Positioning]] is one of the most overlooked yet critical aspects of playing the drums comfortably, ef `Unit 2 - Chapter 6`
-- [[Drum_Seat_Practice_Suggestions_(Unit_2)]]. These practice suggestions are designed to help drummers solidify their understanding of grips, technique control, and p `Unit 2`
-- [[Drum_Set_Application_6-8]] — Drum Set Application in 6/8. Transitioning from snare-only reading to the full [[Drum_Seat]] in [[6/8 Time]] involves distributing rhythmic phrases a `READ1`
+- [[Drum_Reading_1]] — [[Drum_Reading|Drum Reading]] 1 (MI Curriculum Series). "[[Drum_Reading|Drum Reading]] 1" is a foundational instructional book within the [[Musicians_Institute]] Curriculum Ser `Uncategorized`
+- [[Drum_Reading_Exercises_(Unit_2_Chapter_3)]]. This chapter introduces a series of [[Drum_Reading]] exercises designed to progressively develop rhythmic accuracy and f `Unit 2 - Chapter 3`
+- [[Drum_Seat]]. The [[Drum_Seat]], also known as a drum throne, is a critical component of a drummer's setup, significantly impacting co `Unit 2`
+- [[Drum_Seat_(Balance)]] — [[Drum_Seat|Drum Seat]] (Balance). The position and use of the [[Drum_Throne]] are often overlooked aspects of drumming technique, yet they are crucial for `Unit 2 - Chapter 6`
+- [[Drum_Seat_Height]]. The optimal [[Drum_Seat]] height is a critical ergonomic factor in drumming, directly influencing comfort, technique, an `Unit 3 - Chapter 5`
+- [[Drum_Seat_Homework_(Unit_2)]]. This homework assignment focuses on understanding and applying the concepts of drumming grips, [[Traditional_Grip]] hist `Unit 2`
+- [[Drum_Seat_Positioning]] — [[Drum_Seat|Drum Seat]] Positioning. Proper [[Drum_Seat_Positioning]] is one of the most overlooked yet critical aspects of playing the drums comfortably, ef `Unit 2 - Chapter 6`
+- [[Drum_Seat_Practice_Suggestions_(Unit_2)]] — Drum Seat [[Practice_Suggestions|Practice Suggestions]] (Unit 2). These [[Practice_Suggestions|practice suggestions]] are designed to help drummers solidify their understanding of grips, `Unit 2`
+- [[Drum_Set_Application_6-8]] — Drum Set Application in 6/8. Transitioning from snare-only reading to the full [[Drum_Seat]] in [[6/8_Time]] involves distributing rhythmic phrases a `READ1`
 - [[Drum_Set_Application_Hand_to_Hand]] — Drum Set Application: Hand-to-Hand. Once the [[Hand_to_Hand_Technique]] is mastered on a single surface, it is transferred to the full drum set to enhance m `READ1`
-- [[Drum_Set_Notation_Key]]. The [[Drum_Seat]] Notation Key establishes the standard conventions for writing drum parts on [[The Staff]]. `Unit 1`
+- [[Drum_Set_Notation_Key]]. The [[Drum_Seat]] Notation Key establishes the standard conventions for writing drum parts on [[The_Staff]]. `Unit 1`
 - [[Drum_Soloing_Categories]]. Drum solos are opportunities for creativity and expression. `TECH3_4`
-- [[Drum_Technique_50]]. [[Drum Technique 50]] is a foundational unit or course within the Musicians Institute percussion curriculum, focusing on `Drum Technique 50`
-- [[Drumset Application]]. [[Drumset Application]] refers to the process of taking fundamental drumming techniques, [[Rudiment]]s, and [[Sticking P
+- [[Drum_Sound_(Performance)]]. Just as a musical [[Chart|chart]] has a particular [[Groove|groove]], phrase length, and chord progression, it also impl `Unit 2 - Chapter 2`
+- [[Drum_Technique_50]]. [[Drum_Technique_50]] is a foundational unit or course within the Musicians Institute percussion curriculum, focusing on `Drum Technique 50`
+- [[Drumset_Application]]. [[Drumset_Application]] refers to the process of taking fundamental drumming techniques, [[Rudiment]]s, and [[Sticking_P
 - [[Drumset_Mobility]]. Drumset Mobility refers to the drummer's ability to navigate the various voices of the kit (snare, toms, cymbals) with a `READ2`
-- [[Drumset_Mobility_Flams]] — Drumset Mobility: Flams. [[Flams]] rudiments are highly effective for enhancing specific notes within a groove or fill. `READ2`
-- [[Dubstep_Drumming]]. **Dubstep** is a genre of electronic music originating from Jamaican Reggae, British Garage, and Drum-and-Bass/Jungle. `TECH3_4`
-- [[Duration_and_Sustain]]. In music, **duration** refers to the length of time a note or rest is held, symbolized by its [[Note Value]] (e.g., [[Wh `Unit 8 Chapter 1`
+- [[Drumset_Mobility_Flams]] — [[Drumset_Mobility|Drumset Mobility]]: Flams. [[Flams]] [[Rudiments|rudiments]] are highly effective for enhancing specific notes within a [[Groove|groove]] or [[Fill `READ2`
+- [[Drumstick]]. The drumstick is the primary tool for sound production on the drum set. `READ1`
+- [[Dubstep_Drumming]]. **Dubstep** is a genre of electronic music originating from Jamaican [[Reggae|Reggae]], British Garage, and Drum-and-Bas `TECH3_4`
+- [[Duration]]. Duration refers to the specific length of time a note or rest is held. `READ1`
+- [[Duration_and_Sustain]] — [[Duration|Duration]] and Sustain. In music, **[[Duration|duration]]** refers to the length of time a note or rest is held, symbolized by its [[Note_Value] `Unit 8 Chapter 1`
 - [[Dynamic_Markings]]. **Dynamic Markings** indicate the volume at which a musical passage should be performed. `READ2`
+- [[Dynamics]]. Dynamics refer to the volume and intensity level of a musical performance. `READ1`
 ### E
 - [[Economizing_Notation]]. Economizing Notation refers to the practice of writing rhythms in the clearest and most concise way possible, even when  `Unit 5 - Chapter 1`
 - [[Effective_Lesson_Reading]]. Thorough comprehension of lesson material is crucial for effective learning and application of drumming concepts. `Uncategorized`
-- [[Eight-Bar Phrase]] — Eight-Bar Phrase (八小節樂句). 八小節樂句是搖滾和流行音樂中常見的結構。這段樂句長八個小節，除了第一個小節外，每個小節都用 [[Time Slashes]] 標記。每個樂句還可以透過 [[Rehearsal Letters]] 和/或 [[Repeat Signs]] 進 `Unit One Chapter 1`
-- [[Eight-Bar_Phrase]]. An `[[Eight-Bar Phrase]]` is a common and fundamental building block in musical composition, representing a complete mus `Unit 4 - Chapter 1`
-- [[Eighth Note Notation and Values]]. The [[Eighth Note]] is a fundamental [[Rhythmic Duration]] in modern music and a cornerstone for understanding more comp `Unit 2 Chapter 1`
-- [[Eighth Note Pulse]]. The [[Eighth Note Pulse]] refers to the continuous, underlying rhythmic current of [[Eighth Note]]s that forms the found `Unit 2 Chapter 1`
-- [[Eighth Note Subdivision]]. [[Eighth Note Subdivision]] is the process of mentally or physically dividing each [[Beat]] into two equal parts, specif `Unit 2 Chapter 1`
-- [[Eighth Rests]]. An [[Eighth Rest]] is a fundamental symbol in musical notation that represents a period of silence equal to the duration `Unit 2 - Chapter 1`
-- [[Eighth-Note_Triplet_Feel]]. The [[Eighth-Note Triplet Feel]] describes the inherent character and quality of rhythms based on eighth-note triplets. `Unit 6 - Chapter 1`
-- [[Eighth-Note_Triplet_Rests]]. Just as [[Eighth Notes]] can be replaced by [[Eighth Rests]] in straight subdivisions, [[Eighth-Note Triplets]] can also `Unit 7 - Chapter 2`
-- [[Eighth-Note_Triplet_Study]]. The [[Eighth-Note Triplet Study]] delves into the various stickings and accent patterns available within this fundamenta `Unit 6 - Chapter 1`
-- [[Eighth-Note_Triplets]]. [[Eighth-Note Triplets]] are the most common application of [[Triplets]] in drumming and are the rhythmic basis for [[Sw `Unit 7 - Chapter 2`
-- [[Eighth_Note_and_16th_Note_Relationship]]. The relationship between [[Eighth Notes]] and [[16th Notes]] is fundamental to understanding rhythmic subdivision and is `Unit 4 - Chapter 2`
+- [[Eight-Bar_Phrase]]. An `[[Eight-Bar_Phrase]]` is a common and fundamental building block in musical composition, representing a complete mus `Unit 4 - Chapter 1`
+- [[Eighth-Note_Triplet_Feel]]. The [[Eighth-Note_Triplet_Feel]] describes the inherent character and quality of rhythms based on eighth-note [[Triplets `Unit 6 - Chapter 1`
+- [[Eighth-Note_Triplet_Rests]] — Eighth-Note Triplet [[Rests|Rests]]. Just as [[Eighth_Note]] can be replaced by [[Eighth_Rests]] in straight subdivisions, [[Eighth_Note_Triplets]] can also  `Unit 7 - Chapter 2`
+- [[Eighth-Note_Triplet_Study]]. The [[Eighth-Note_Triplet_Study]] delves into the various stickings and [[Accent_Patterns|accent patterns]] available wi `Unit 6 - Chapter 1`
+- [[Eighth_Note_and_16th_Note_Relationship]]. The relationship between [[Eighth_Note]] and [[16th_Notes]] is fundamental to understanding rhythmic [[Subdivision|subdi `Unit 4 - Chapter 2`
 - [[Eighth_Note_and_Eighth_Rest_Exercises]]. This category of exercises focuses on developing proficiency in reading and performing rhythms that incorporate both [[E `Uncategorized`
-- [[Eighth_Note_Examples_Extended_Phrase]]. Extended phrases utilizing [[Dotted Eighth Note]]s are extremely common in contemporary drumming. `Unit 9 Chapter 2`
-- [[Eighth_Note_Rule]] — The Eighth-Note Rule. In jazz and triplet-based contemporary music, standard notation often fails to capture the intended phrasing. `READ3`
-- [[Eighth_Note_Triplets]] — Eighth-Note Triplets. Eighth-note triplets are a primary [[Subdivision]] where a single beat is divided into three equal parts. `READ1`
-- [[Eighth_Notes]]. An **Eighth Note** (or quaver) is a musical note played for one eighth the duration of a [[Whole Note]]. `CORE`
-- [[Elbow_Position_(German_Grip)]]. In the [[German Grip]], maintaining a proper elbow position is crucial for ergonomic efficiency, power generation, and p `Unit 2 - Chapter 1`
-- [[Ensemble Figures]] — Ensemble Figures (合奏樂句). [[Ensemble Figures]] 是由整個樂團（band）演奏的節奏。這些樂句寫在五線譜的中間，並優先於 [[Time Slashes]]。鼓手需要與樂團一起強調這些節奏。一種常見的演奏方法是與小鼓（snare drum）同步演奏鈸 `Unit One Chapter 1`
+- [[Eighth_Note_Examples_Extended_Phrase]]. Extended phrases utilizing [[Dotted_Eighth_Note]]s are extremely common in contemporary drumming. `Unit 9 Chapter 2`
+- [[Eighth_Note_Notation_and_Values]]. The [[Eighth_Note]] is a fundamental [[Rhythmic_Duration]] in modern music and a cornerstone for understanding more comp `Unit 2 Chapter 1`
+- [[Eighth_Note_Pulse]] — Eighth Note [[Pulse|Pulse]]. The [[Eighth_Note_Pulse]] refers to the continuous, underlying rhythmic current of [[Eighth_Note]]s that forms the found `Unit 2 Chapter 1`
+- [[Eighth_Note_Rule]] — The Eighth-Note Rule. In [[Jazz|jazz]] and triplet-based contemporary music, standard notation often fails to capture the intended [[Phrasing| `READ3`
+- [[Eighth_Note_Subdivision]] — Eighth Note [[Subdivision|Subdivision]]. [[Eighth_Note_Subdivision]] is the process of mentally or physically dividing each [[Beat]] into two equal parts, specif `Unit 2 Chapter 1`
+- [[Eighth_Note_Triplets]] — Eighth-Note Triplets. Eighth-note triplets are a primary [[Subdivision]] where a single [[Beat|beat]] is divided into three equal parts. `READ1`
+- [[Eighth_Notes]]. An **Eighth Note** (or quaver) is a musical note played for one eighth the [[Duration|duration]] of a [[Whole_Note]]. `CORE`
+- [[Eighth_Rests]] — Eighth [[Rests|Rests]]. An [[Eighth_Rest]] is a fundamental symbol in musical notation that represents a period of silence equal to the [[Durati `Unit 2 - Chapter 1`
+- [[Elbow_Position_(German_Grip)]]. In the [[German_Grip]], maintaining a proper elbow position is crucial for ergonomic efficiency, power generation, and p `Unit 2 - Chapter 1`
 - [[Ensemble_Figure_Interpretation]]. Ensemble Figure Interpretation is the ability of a drummer to read, execute, and musically support rhythmic figures play `READ3`
-- [[Ensemble_Figure_Interpretation_in_Odd_Meter]]. Navigating in and out of **Ensemble Figures** (kicks) while maintaining an **[[Odd Meter]]** groove is a critical skill  `TECH1_2`
-- [[Ensemble_Figures]]. [[Ensemble Figures]] are specific rhythms or musical phrases that are played simultaneously by the entire ensemble (band `Unit 4 - Chapter 1`
+- [[Ensemble_Figure_Interpretation_in_Odd_Meter]] — [[Ensemble_Figure_Interpretation|Ensemble Figure Interpretation]] in Odd [[Meter|Meter]]. Navigating in and out of **[[Ensemble_Figures|Ensemble Figures]]** (kicks) while maintaining an **[[Odd_Meter]]** [[Groo `TECH1_2`
+- [[Ensemble_Figures]] — Ensemble Figures (合奏樂句). Ensemble Figures (often called "hits") are specific rhythms that are played by the entire ensemble (the whole band) in u `READ1`
 - [[Etude_Practice_Methods]]. To bridge the gap between technical reading and musical performance, specific practice methods are used to integrate [[S `READ1`
 - [[Exercises_Rhythmic_Fundamentals_Intro]] — Exercises: Rhythmic Fundamentals Introduction. This section introduces a series of exercises designed to progressively develop rhythmic accuracy and understanding. `Unit 1 Chapter 3`
-- [[Extended Ensemble Figure]]. An "Extended Ensemble Figure" refers to a musical passage where multiple instruments in an ensemble play a synchronized, `Unit 5 - Chapter 1`
-- [[Extended_Letter_B_Phrase_Funk-Rock]] — Extended Letter B Phrase (Funk-Rock). In the context of a [[Funk-Rock]] chart, particularly after a [[D.C._al_Coda_No_Repeats]], specific sections like "Lette `Unit 8 Chapter 2`
-- [[Extended_Phrase_2_Funk-Rock]] — Extended Phrase 2 (Funk-Rock). In the context of the `[[Funk-Rock]]` chart, `[[Extended Phrase 2]]` refers to an alteration in the `[[Musical Arrangeme `Unit 8 Chapter 2`
-- [[Extended_Phrase_Funk-Rock]] — Extended Phrase (Funk-Rock). An [[Extended Phrase]] refers to a musical phrase that is lengthened beyond its typical or expected duration. `Unit 8 Chapter 2`
-- [[Extending_a_Note_Value_Across_a_Bar_Line]]. One of the primary uses of [[Ties]] in musical notation is to allow a [[Note Value]] to extend beyond the allowable numb `Unit 8 Chapter 1`
+- [[Extended_Ensemble_Figure]]. An "Extended Ensemble Figure" refers to a musical passage where multiple instruments in an ensemble play a synchronized, `Unit 5 - Chapter 1`
+- [[Extended_Letter_B_Phrase_Funk-Rock]] — Extended Letter B Phrase ([[Funk|Funk]]-[[Rock|Rock]]). In the context of a [[Funk_Rock]] [[Chart|chart]], particularly after a [[D.C._al_Coda_No_Repeats]], specific sections l `Unit 8 Chapter 2`
+- [[Extended_Phrase_2_Funk-Rock]] — Extended Phrase 2 ([[Funk|Funk]]-[[Rock|Rock]]). In the context of the `[[Funk_Rock]]` [[Chart|chart]], `[[Extended_Phrase_2]]` refers to an alteration in the `[[Musical `Unit 8 Chapter 2`
+- [[Extended_Phrase_Funk-Rock]] — Extended Phrase ([[Funk|Funk]]-[[Rock|Rock]]). An [[Extended_Phrase]] refers to a musical phrase that is lengthened beyond its typical or expected [[Duration|duration] `Unit 8 Chapter 2`
+- [[Extending_a_Note_Value_Across_a_Bar_Line]] — Extending a Note Value Across a [[Bar_Line|Bar Line]]. One of the primary uses of [[Ties]] in musical notation is to allow a [[Note_Value]] to extend beyond the allowable numb `Unit 8 Chapter 1`
 ### F
-- [[Feathering_the_Bass_Drum]]. Feathering is the technique of playing the bass drum on straight quarter notes at an extremely quiet dynamic. `READ2`
+- [[Feathering_the_Bass_Drum]] — Feathering the [[Bass_Drum|Bass Drum]]. Feathering is the technique of playing the [[Bass_Drum|bass drum]] on straight [[Quarter_Notes|quarter notes]] at an ext `READ2`
 - [[Feel_Transitions]]. In professional drumming, the ability to seamlessly navigate transitions between different rhythmic subdivisions—specifi `TECH1_2`
-- [[Felt Beater (Bass Drum)]] — Felt Beater (Bass Drum) (低音鼓毛氈槌頭). 一種帶有毛氈或軟表面槌頭的低音鼓槌。使用這種槌頭有助於產生圓潤的聲音，減少衝擊和穿透力，非常適合為歌曲增添飽滿、低沉的音色，作為 [[Bass Drum Articulation (Open)]] 的一部分。 `Unit 3`
-- [[Felt-Flutter (Bass Drum)]] — Felt-Flutter (Bass Drum) (低音鼓毛氈顫動). 一種不希望發生的現象，指低音鼓槌頭在擊打之間在鼓面上顫動或彈跳。為避免此情況，鼓手必須控制槌頭和踏板，練習 [[Rest and Release (Bass Drum Technique)]]。這是嘗試實現 [[Off the Head S `Unit 3`
+- [[Felt-Flutter_(Bass_Drum)]] — Felt-Flutter ([[Bass_Drum|Bass Drum]]) (低音鼓毛氈顫動). 一種不希望發生的現象，指低音鼓槌頭在擊打之間在鼓面上顫動或彈跳。為避免此情況，鼓手必須控制槌頭和踏板，練習 [[Rest_and_Release_(Bass_Drum_Technique)]]。這是嘗試實現 [[Off_the_Head_S `Unit 3`
+- [[Felt_Beater_(Bass_Drum)]] — Felt Beater ([[Bass_Drum|Bass Drum]]) (低音鼓毛氈槌頭). 一種帶有毛氈或軟表面槌頭的低音鼓槌。使用這種槌頭有助於產生圓潤的聲音，減少衝擊和穿透力，非常適合為歌曲增添飽滿、低沉的音色，作為 [[Bass_Drum_Articulation_(Open)]] 的一部分。 `Unit 3`
 - [[Fermata]]. A [[Fermata]] (also known as an extended ending, hold, or pause) is an element of musical notation indicating that a not `Unit 2 - Chapter 1`
-- [[Fill Markers]]. Notation used to indicate transition fills within a drum chart. `Unit 3 - Chapter 1`
-- [[Fill]]. A `[[Fill]]` (or drum fill) is a short, often improvisational, rhythmic passage played by the drummer to transition betw `Uncategorized`
-- [[Fill_Development_Compression]] — Fill Development: Compression. **Compression** is a creative rhythmic device used to transform a "seed" idea into a more dense or complex vocabulary. `TECH3_4`
-- [[Fill_Development_Expansion]] — Fill Development: Expansion. **Expansion** (or "stretching") is the rhythmic inverse of [[Fill_Development_Compression]]. `TECH3_4`
-- [[Fill_Markers]]. [[Fill Markers]] are a common notation convention used in drum charts to indicate the presence and duration of a [[Drum_ `Unit 4 - Chapter 1`
-- [[Final_Bar_Line]]. The final bar line is a specific type of [[Bar Line]] used in [[Music Notation]] to unequivocally mark the conclusion of `Unit 1`
-- [[Finger_Control_vs_Wrist_Control]] — Finger Control vs. Wrist Control. In high-level technical drumming, particularly within [[Jazz-Fusion]] and [[Drum and Bass]], the ability to switch betwe `MI_CURR`
-- [[Finger_Technique_(French_Grip)]]. In [[French Grip]], the fingers are the primary drivers of stick motion, allowing for rapid, subtle, and highly articula `Unit 2 - Chapter 2`
-- [[First and Second Endings]]. A common musical notation technique used to indicate repeated sections without writing them out multiple times, particul `Unit 3 - Chapter 1`
-- [[First_and_Second_Endings]]. In musical notation, first and second endings (also known as "volta brackets") are used to indicate repeated sections of `Unit 4 - Chapter 1`
-- [[Five-Stroke_Roll]]. The [[Five-Stroke Roll]] is a fundamental drum rudiment and one of the most common [[Double Stroke Roll]]s. `Unit 7`
-- [[Five-Stroke_Ruff]]. The [[Five-Stroke Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" family. `Unit 4`
-- [[Five-Stroke_Ruff_Combinations]]. The five-stroke ruff is a drumming rudiment consisting of five notes, typically played as two grace notes preceding a ma `Uncategorized`
-- [[Five_Four_Time_Phrasing]] — 5/4 Time Signature Phrasing. Playing in **5/4 Time** requires a departure from standard 4/4 groupings. `TECH3_4`
-- [[Five_Stroke_Roll_Phrasing]] — Five-Stroke Roll Phrasing. In the context of [[New Orleans Second Line Drumming]] and jazz, the **Five-Stroke Roll** on beat 1 can be interpreted i `TECH1_2`
-- [[Flam_Buzz]] — Flam-Buzz. The **Flam-Buzz** is a foundational element of [[New Orleans Second Line Drumming]]. `TECH1_2`
-- [[Flam_Rudiment_Applications]]. This unit integrates three primary flam-based [[Rudiment]] into a drumset context, utilizing a standard [[Bass Drum]] an `TECH3_4`
-- [[Flam_Rudiment_Variations]] — Flam Rudiment Variations (Rudimental Recall). This section focuses on expanding the [[Flams]] vocabulary by introducing hybrid and advanced rudimental patterns. `READ2`
+- [[Fill]]. A [[Drum_Fill|Drum Fill]] (or "fill-in") is a rhythmic embellishment or departure from the main groove that serves a spe `READ1`
+- [[Fill_Development_Compression]] — [[Fill|Fill]] Development: Compression. **Compression** is a creative rhythmic device used to transform a "seed" idea into a more dense or complex vocabulary. `TECH3_4`
+- [[Fill_Development_Expansion]] — [[Fill|Fill]] Development: Expansion. **Expansion** (or "stretching") is the rhythmic inverse of [[Fill_Development_Compression]]. `TECH3_4`
+- [[Fill_Markers]] — [[Fill|Fill]] Markers. **[[Fill|Fill]] Markers** are a common notation convention used in drum charts to indicate the presence and [[Duration|d `READ1`
+- [[Final_Bar_Line]] — Final [[Bar_Line|Bar Line]]. The final [[Bar_Line|bar line]] is a specific type of [[Bar_Lines]] used in [[Music_Notation]] to unequivocally mark the `Unit 1`
+- [[Finger_Control_vs_Wrist_Control]] — Finger Control vs. Wrist Control. In high-level technical drumming, particularly within [[Jazz-Fusion]] and [[Drum_and_Bass]], the ability to switch betwe `MI_CURR`
+- [[Finger_Technique_(French_Grip)]]. In [[French_Grip]], the fingers are the primary drivers of stick motion, allowing for rapid, subtle, and highly articula `Unit 2 - Chapter 2`
+- [[First_and_Second_Endings]]. In musical notation, **First and Second Endings** (also known as "Volta Brackets") are used to indicate repeated section `READ1`
+- [[Five-Stroke_Ruff]]. The [[Five-Stroke_Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" family. `Unit 4`
+- [[Five-Stroke_Ruff_Combinations]] — [[Five-Stroke_Ruff|Five-Stroke Ruff]] Combinations. The [[Five-Stroke_Ruff|five-stroke ruff]] is a drumming rudiment consisting of five notes, typically played as two grace `Uncategorized`
+- [[Five_Four_Time_Phrasing]] — 5/4 [[Time_Signature|Time Signature]] [[Phrasing|Phrasing]]. Playing in **5/4 Time** requires a departure from standard 4/4 groupings. `TECH3_4`
+- [[Five_Stroke_Roll]] — Five-Stroke Roll. The [[Five_Stroke_Roll]] is a fundamental drum rudiment and one of the most common [[Double_Stroke_Roll]]s. `Unit 7`
+- [[Five_Stroke_Roll_Phrasing]] — Five-Stroke Roll [[Phrasing|Phrasing]]. In the context of [[New_Orleans_Second_Line_Drumming]] and [[Jazz|jazz]], the **Five-Stroke Roll** on [[Beat|beat]] 1 ca `TECH1_2`
+- [[Flam_Buzz]] — Flam-Buzz. The **Flam-Buzz** is a foundational element of [[New_Orleans_Second_Line_Drumming]]. `TECH1_2`
+- [[Flam_Rudiment_Applications]]. This unit integrates three primary flam-based [[Rudiment]] into a drumset context, utilizing a standard [[Bass_Drum]] an `TECH3_4`
+- [[Flam_Rudiment_Variations]] — Flam Rudiment Variations ([[Rudimental_Recall|Rudimental Recall]]). This section focuses on expanding the [[Flams]] vocabulary by introducing hybrid and advanced rudimental patterns. `READ2`
 - [[Flam_Technique]]. The **Flam** is a fundamental drum rudiment designed to add "thickness," color, or texture to a single note. `READ2`
-- [[Flams_and_Double_Stops_Fill_Unit_10]] — Flams and Double Stops Fill (Unit 10). This is a recurring fill in the Unit 10 rock shuffle, appearing three times (bars 8, 16, and 25). `Unit 10 - Chapter 2`
-- [[Flams_Rudiment_Family]] — Flams (Rudiment Family). The [[Flams_Rudiment_Family]] is one of the five [[Rudiment Families]] and is defined by rudiments that incorporate a "f `Unit 4 - Chapter 1`
-- [[Floor_Tom_as_Ride_Surface_Rock_Shuffle]] — Floor Tom as Ride Surface (Rock Shuffle). A focal point of the Unit 10 rock shuffle is the unique use of the [[Floor Tom]] as a primary ride surface, particularly `Unit 10 - Chapter 2`
-- [[Floor_Tom_Notation]] — Floor Tom (Notation). In [[Drum Set Notation Key]], the [[Floor Tom]] is notated on [[The Staff]] to indicate its specific role and sound with `Unit 1`
-- [[Focused_Roll_Practice]]. This structured [[Practice Routine]] for [[Drum Rolls]] emphasizes targeted development of [[Roll Rudiments]] and their  `Drum Technique 50`
-- [[Foot Tapping for Eighth Note Subdivision]]. [[Foot Tapping for Eighth Note Subdivision]] is a fundamental and highly effective technique for drummers to internalize `Unit 2 Chapter 1`
+- [[Flams_and_Double_Stops_Fill_Unit_10]] — Flams and Double Stops [[Fill|Fill]] (Unit 10). This is a recurring [[Fill|fill]] in the Unit 10 [[Rock_Shuffle|rock shuffle]], appearing three times (bars 8, 16, and 2 `Unit 10 - Chapter 2`
+- [[Flams_Rudiment_Family]] — Flams (Rudiment Family). The [[Flams_Rudiment_Family]] is one of the five [[Rudiment_Families]] and is defined by [[Rudiments|rudiments]] that in `Unit 4 - Chapter 1`
+- [[Floor_Tom_as_Ride_Surface_Rock_Shuffle]] — Floor Tom as Ride Surface ([[Rock_Shuffle|Rock Shuffle]]). A focal point of the Unit 10 [[Rock_Shuffle|rock shuffle]] is the unique use of the [[Floor_Tom]] as a primary ride surf `Unit 10 - Chapter 2`
+- [[Floor_Tom_Notation]] — Floor Tom (Notation). In [[Drum_Set_Notation_Key]], the [[Floor_Tom]] is notated on [[The_Staff]] to indicate its specific role and sound with `Unit 1`
+- [[Focused_Roll_Practice]]. This structured [[Practice_Routine]] for [[Drum_Rolls]] emphasizes targeted development of [[Roll_Rudiments]] and their  `[[Drum_Technique_50|Drum Technique 50]]`
+- [[Foot_Tapping_for_Eighth_Note_Subdivision]] — Foot Tapping for [[Eighth_Note_Subdivision|Eighth Note Subdivision]]. [[Foot_Tapping_for_Eighth_Note_Subdivision]] is a fundamental and highly effective technique for drummers to internalize `Unit 2 Chapter 1`
 - [[Form_Assignment_Unit_7]] — Form Assignment (Unit 7). In Unit 7, alongside [[Groove_Assignment_Unit_7|groove assignments]], each student will also be assigned a specific musi `Unit 7 - Chapter 2`
-- [[Form_Orchestration_12-Bar_Blues]] — Form Orchestration (12-Bar Blues). In the context of a [[12-Bar Blues Open Form]], a common and effective way to mark the different sections (the [[Head_Mu `Unit 7 - Chapter 2`
-- [[Four-Bar_Bass_Drum_Pattern]]. A `[[Four-Bar Bass Drum Pattern]]` refers to a rhythmic sequence played on the `[[Bass Drum]]` that repeats every four m `Unit 4 - Chapter 1`
-- [[Four-on-the-Floor_Reggae]]. In contrast to the [[One-Drop_Groove]], the **Four-on-the-Floor** reggae groove features a bass drum pulse on every quar `READ2`
-- [[Four-Part_Counting]]. [[Four-Part Counting]] is a detailed [[Counting System]] used to precisely articulate and internalize [[Sixteenth Note]] `Drum Technique 50`
-- [[Four-Stroke_Ruff]]. The [[Four-Stroke Ruff]] is a drum rudiment that, like other ruffs, involves grace notes preceding a primary stroke. `Unit 4`
-- [[Four-Way_Coordination_Accented_Snare_and_Bass_Drum]] — Four-Way Coordination: Accented Snare and Bass Drum. This study focuses on establishing individual dynamic control and independence by pairing [[Snare Drum]] accents with sp `READ2`
-- [[Four_on_the_Floor_Groove_1]] — Four on the Floor (Groove #1). "Four on the Floor" (Groove #1) is a fundamental `[[Drum Groove]]` characterized by the `[[Bass Drum]]` playing on every `Unit 7 Chapter 3`
-- [[Four_Way_Coordination_Double_Permutations]] — Four-Way Coordination: Double Permutations. This advanced study focuses on combining **"double" 16th-note snare accents** with **"double" 16th-note bass drum permut `READ2`
-- [[Four_Way_Coordination_Paradiddle_Permutations]] — Four-Way Coordination: Paradiddle Permutations. This advanced coordination study applies [[Bass Drum Permutations]] to the four standard [[Paradiddle]] variations. `READ2`
-- [[Four_Way_Coordination_Triplet_Permutations]] — Four-Way Coordination: Triplet Bass Drum Permutations. This study focuses on developing independence between an alternating snare drum pattern and various bass drum permutatio `READ2`
-- [[Free_Stroke]]. The [[Free Stroke]] is a fundamental drumming technique that is synonymous with the [[Gladstone Technique]]. `Unit 1 - Chapter 2`
-- [[Freestanding Eighth Notes]]. [[Freestanding Eighth Notes]] refer to [[Eighth Notes]] that are not connected by a [[Beams (Notation)]]. `Unit 2 - Chapter 1`
-- [[French_Grip]]. The French Grip is a [[Matched Grip]] technique characterized by the palms facing directly towards each other in a verti `Unit 2 - Chapter 2`
+- [[Form_Orchestration_12-Bar_Blues]] — Form Orchestration (12-Bar [[Blues|Blues]]). In the context of a [[12-Bar_Blues_Open_Form]], a common and effective way to mark the different sections (the [[Head_Mu `Unit 7 - Chapter 2`
+- [[Four-Bar_Bass_Drum_Pattern]]. A `[[Four-Bar_Bass_Drum_Pattern]]` refers to a rhythmic sequence played on the `[[Bass_Drum]]` that repeats every four m `Unit 4 - Chapter 1`
+- [[Four-on-the-Floor_Reggae]] — Four-on-the-Floor [[Reggae|Reggae]]. In contrast to the [[One-Drop_Groove]], the **Four-on-the-Floor** [[Reggae|reggae]] [[Groove|groove]] features a [[Bass_ `READ2`
+- [[Four-Part_Counting]]. [[Four-Part_Counting]] is a detailed [[Counting_System]] used to precisely articulate and internalize [[Sixteenth_Note]] `[[Drum_Technique_50|Drum Technique 50]]`
+- [[Four-Stroke_Ruff]]. The [[Four-Stroke_Ruff]] is a drum rudiment that, like other ruffs, involves grace notes preceding a primary stroke. `Unit 4`
+- [[Four-Way_Coordination_Accented_Snare_and_Bass_Drum]] — Four-Way Coordination: Accented Snare and Bass Drum. This study focuses on establishing individual dynamic control and independence by pairing [[Snare_Drum]] [[Accents|accen `READ2`
+- [[Four_on_the_Floor_Groove_1]] — Four on the Floor ([[Groove|Groove]] #1). "Four on the Floor" ([[Groove|Groove]] #1) is a fundamental `[[Drum_Groove]]` characterized by the `[[Bass_Drum]]` playi `Unit 7 Chapter 3`
+- [[Four_Way_Coordination_Double_Permutations]] — Four-Way Coordination: Double Permutations. This advanced study focuses on combining **"double" 16th-note snare [[Accents|accents]]** with **"double" 16th-note [[Ba `READ2`
+- [[Four_Way_Coordination_Paradiddle_Permutations]] — Four-Way Coordination: Paradiddle Permutations. This advanced coordination study applies [[Bass_Drum_Permutations]] to the four standard [[Paradiddle]] variations. `READ2`
+- [[Four_Way_Coordination_Triplet_Permutations]] — Four-Way Coordination: Triplet [[Bass_Drum|Bass Drum]] Permutations. This study focuses on developing independence between an alternating [[Snare_Drum|snare drum]] pattern and various [[Bas `READ2`
+- [[Free_Stroke]]. The [[Free_Stroke]] is a fundamental drumming technique that is synonymous with the [[Gladstone_Technique]]. `Unit 1 - Chapter 2`
+- [[Freestanding_Eighth_Notes]] — Freestanding [[Eighth_Notes|Eighth Notes]]. [[Freestanding_Eighth_Notes]] refer to [[Eighth_Note]] that are not connected by a [[Beams_(Notation)]]. `Unit 2 - Chapter 1`
+- [[French_Grip]]. The French Grip is a [[Matched_Grip]] technique characterized by the palms facing directly towards each other in a verti `Unit 2 - Chapter 2`
 - [[Fulcrum]]. The fulcrum in drumming refers to the pivot point where the stick is held, allowing it to move freely while still being  `Uncategorized`
-- [[Fulcrum_(Drumming)]]. The fulcrum in drumming refers to the pivot point for the [[Drumstick]] within your grip. `Unit 1 - Chapter 1`
-- [[Funk-Rock (Drumming Style)]]. [[Funk-Rock]] is a drumming style introduced in Unit 8 of "[[Drum Performance 1 (Book)]]". `Unit 8`
-- [[Funk-Rock Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 8 中介紹的入門打擊樂風格。 `Unit 8`
+- [[Fulcrum_(Drumming)]] — [[Fulcrum|Fulcrum]] (Drumming). The [[Fulcrum|fulcrum]] in drumming refers to the pivot point for the [[Drumstick]] within your grip. `Unit 1 - Chapter 1`
+- [[Funk-Rock_Drumming]] — [[Funk|Funk]]-[[Rock|Rock]] Drumming. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 8 中介紹的入門打擊樂風格。 `Unit 8`
+- [[Funk]]. Funk is a rhythm-centric genre that rose to prominence in the mid-1960s and 1970s. `TECH1_5`
+- [[Funk_and_R&B_Drumming]] — [[Funk|Funk]] and R&B Drumming. **[[Funk|Funk]] and R&B (Rhythm and [[Blues|Blues]])** are genres centered on "The Pocket"—a deep, infectious [[Groove|g
+- [[Funk_Rock]] — Funk-Rock. Funk-Rock is a hybrid subgenre that emerged in the late 1960s, blending the instrumental combo and [[Loud_Amplification| `TECH1_2`
 ### G
-- [[German_Grip]]. The German Grip is a fundamental [[Matched Grip]] technique where the palms of both hands are held parallel to the playi `Unit 2 - Chapter 1`
-- [[Ghost_Notes]]. **Ghost Notes** (also known as "notes in parentheses" or "soft notes") are low-volume notes played on the snare drum to  `TECH1_2`
-- [[Ghost_Notes_Snare_Drum]] — Ghost Notes (Snare Drum). **Ghost Notes** (also known as notes at a *mezzo-piano* or *pianissimo* level) are low-volume notes played on the snare  `TECH1_2`
-- [[Ghost_Notes_Technique]] — Ghost Notes. Ghost notes (also known as "notes in parentheses" or "grace notes") are low-volume notes played on the [[Snare Drum]] th `TECH1_2`
-- [[Ghosting_the_Hi-Hat]]. **Ghosting the Hi-Hat** involves playing unaccented notes at a *pianissimo* volume between the primary accents of a groo `TECH1_2`
-- [[Gladstone_Technique]]. The [[Gladstone Technique]], also widely known as the [[Free Stroke]], is a foundational drumming technique centered on  `Unit 1 - Chapter 2`
-- [[Groove]]. A **Groove** is the sense of rhythmic "feel" or swing created by the interaction of the music played by a rhythm section `CORE`
-- [[Groove_#1_Four_on_the_Floor_Shuffle]] — Groove #1 Four on the Floor (Shuffle). This groove, designated as "Groove #1," is a "[[Four on the Floor]]" variation adapted for a [[Shuffle]] context. `Unit 7 Chapter 3`
-- [[Groove_#2_Syncopated_Shuffle]]. "Groove #2" is described as a "[[Syncopated]]" [[Shuffle]] groove. `Unit 7 Chapter 3`
-- [[Groove_3_Unit_6_A3]] — Groove 3 (Unit 6 A3). Groove 3, designated for the A3 section of a performance, is characterized by its specific articulation and rhythmic var `Unit 6 - Chapter 2`
-- [[Groove_4_Unit_6_A4]] — Groove 4 (Unit 6 A4). Groove 4, intended for the final A4 section, is a dynamic groove featuring a [[Two-Bar Pattern]] with a notable syncopat `Unit 6 - Chapter 2`
-- [[Groove_Assignment_Unit_7]] — Groove Assignment (Unit 7). In Unit 7, for the performance of the [[12-Bar Blues Open Form]], specific [[Drum Grooves|grooves]] will be assigned to  `Unit 7 - Chapter 2`
-- [[Groove_Hub_All_Together_IMG_0157]] — Groove Hub - All Together (IMG_0157). The "All Together" concept, as described in the source material, synthesizes specific [[Drum Performance]] techniques fo `Drum Performance`
-- [[Guitar_Introduction_Funk-Rock]] — Guitar Introduction (Funk-Rock). In the context of a [[Funk-Rock]] chart, a [[Guitar Introduction]] is a common structural element where the guitar plays `Unit 8 Chapter 1`
+- [[German_Grip]]. The German Grip is a fundamental [[Matched_Grip]] technique where the palms of both hands are held parallel to the playi `Unit 2 - Chapter 1`
+- [[Ghost_Notes]]. **Ghost Notes** (also known as "notes in parentheses" or "soft notes") are low-volume notes played on the [[Snare_Drum|s `TECH1_2`
+- [[Ghost_Notes_Snare_Drum]] — [[Ghost_Notes|Ghost Notes]] ([[Snare_Drum|Snare Drum]]). **[[Ghost_Notes|Ghost Notes]]** (also known as notes at a *mezzo-piano* or *pianissimo* level) are low-volume notes play `TECH1_2`
+- [[Ghost_Notes_Technique]] — [[Ghost_Notes|Ghost Notes]]. [[Ghost_Notes|Ghost notes]] (also known as "notes in parentheses" or "grace notes") are low-volume notes played on the [ `TECH1_2`
+- [[Ghosting_the_Hi-Hat]] — Ghosting the [[Hi-Hat|Hi-Hat]]. **Ghosting the [[Hi-Hat|Hi-Hat]]** involves playing unaccented notes at a *pianissimo* volume between the primary [[Acce `TECH1_2`
+- [[Gladstone_Technique]]. The [[Gladstone_Technique]], also widely known as the [[Free_Stroke]], is a foundational drumming technique centered on  `Unit 1 - Chapter 2`
+- [[Groove]]. A Groove is the repetitive rhythmic pattern that serves as the foundation for a song, defining its [[Pulse|pulse]], mome `READ1`
+- [[Groove_#1_Four_on_the_Floor_Shuffle]] — [[Groove|Groove]] #1 Four on the Floor (Shuffle). This [[Groove|groove]], designated as "[[Groove|Groove]] #1," is a "[[Four_on_the_Floor]]" variation adapted for a [[Shu `Unit 7 Chapter 3`
+- [[Groove_#2_Syncopated_Shuffle]] — [[Groove|Groove]] #2 Syncopated Shuffle. "[[Groove|Groove]] #2" is described as a "[[Syncopated]]" [[Shuffle]] [[Groove|groove]]. `Unit 7 Chapter 3`
+- [[Groove_3_Unit_6_A3]] — [[Groove|Groove]] 3 (Unit 6 A3). [[Groove|Groove]] 3, designated for the A3 section of a performance, is characterized by its specific articulation and r `Unit 6 - Chapter 2`
+- [[Groove_4_Unit_6_A4]] — [[Groove|Groove]] 4 (Unit 6 A4). [[Groove|Groove]] 4, intended for the final A4 section, is a dynamic [[Groove|groove]] featuring a [[Two-Bar_Pattern]] w `Unit 6 - Chapter 2`
+- [[Groove_Assignment_Unit_7]] — [[Groove|Groove]] Assignment (Unit 7). In Unit 7, for the performance of the [[12-Bar_Blues_Open_Form]], specific [[Drum_Grooves|grooves]] will be assigned to  `Unit 7 - Chapter 2`
+- [[Groove_Hub_All_Together_IMG_0157]] — Groove Hub - All Together (IMG_0157). The "All Together" concept, as described in the source material, synthesizes specific [[Drum_Performance]] techniques fo `Drum Performance`
+- [[Guitar_Introduction_Funk-Rock]] — Guitar Introduction ([[Funk|Funk]]-[[Rock|Rock]]). In the context of a [[Funk_Rock]] [[Chart|chart]], a [[Guitar_Introduction]] is a common structural element where the gu `Unit 8 Chapter 1`
 ### H
-- [[Hairta_(Drumming_Term)]]. "Hairta" is listed as a topic in Unit 10 of "[[Drum Technique 1 (MI Curriculum Series)]]". `Unit 10`
-- [[Half-Open_Hi-Hat]]. The **Half-Open Hi-Hat** (notated with the symbol **Ø**) instructs the drummer to play the hi-hats with slight pressure, `TECH1_2`
+- [[Hairta_(Drumming_Term)]]. "Hairta" is listed as a topic in Unit 10 of "[[Drum_Technique_1_(MI_Curriculum_Series)]]". `Unit 10`
+- [[Half-Open_Hi-Hat]] — Half-[[Open_Hi-Hat|Open Hi-Hat]]. The **Half-[[Open_Hi-Hat|Open Hi-Hat]]** (notated with the symbol **Ø**) instructs the drummer to play the hi-hats with  `TECH1_2`
 - [[Half_Note_Examples_Extended_Phrase]]. Extended phrases often utilize [[Dotted_Half_Note]] and [[Ties]] to create rhythmic patterns that span across multiple m `Unit 9 Chapter 2`
-- [[Half_Note_Triplets]] — Half-Note Triplets. Half-note triplets represent three equal notes played over the duration of a whole note (four quarter notes). `READ1`
-- [[Half_Time_Shuffle]] — Half-Time Shuffle. The Half-Time Shuffle is a sophisticated groove based on a [[Triplets|triplet]] subdivision where the [[Back-Beat]] occu `TECH1_2`
-- [[Half_Time_Shuffle_Feel]] — Half-Time Shuffle Feel. The **Half-Time Shuffle Feel** is a variation of the shuffle rhythm that places the [[Back-Beat]] on beats 2 and 4, dist `TECH1_2`
-- [[Hand-to-Hand_Triplets]]. [[Hand-to-Hand Triplets]] refer to a specific approach to playing [[Eighth-Note Triplet Study]] where the sticking natur `Unit 6 - Chapter 1`
-- [[Hand_Position_for_Jazz_Funk_Grooves]] — Hand Position for Jazz-Funk Grooves. In contemporary drumming, maintaining a static hand position for every [[Groove]] is often counterproductive to achievin `TECH1_2`
-- [[Hand_to_Hand_16th_Triplet_Reading]] — Hand-to-Hand 16th Triplet Reading. This technique involves playing a continuous stream of [[16th-Note Triplets]] (sextuplets) while accenting specific note `READ1`
+- [[Half_Note_Triplets]] — Half-Note [[Triplets|Triplets]]. Half-note [[Triplets|triplets]] represent three equal notes played over the [[Duration|duration]] of a whole note (four  `READ1`
+- [[Half_Time_Shuffle]] — Half-Time [[Shuffle|Shuffle]]. The Half-Time [[Shuffle|Shuffle]] is a sophisticated [[Groove|groove]] based on a [[Triplets|triplet]] [[Subdivision|sub `TECH1_2`
+- [[Half_Time_Shuffle_Feel]] — Half-Time [[Shuffle_Feel|Shuffle Feel]]. The **Half-Time [[Shuffle_Feel|Shuffle Feel]]** is a variation of the [[Shuffle|shuffle]] rhythm that places the [[Back- `TECH1_2`
+- [[Hand-to-Hand_Triplets]] — Hand-to-Hand [[Triplets|Triplets]]. [[Hand-to-Hand_Triplets]] refer to a specific approach to playing [[Eighth-Note_Triplet_Study]] where the sticking natur `Unit 6 - Chapter 1`
+- [[Hand_Position_for_Jazz_Funk_Grooves]] — Hand Position for [[Jazz|Jazz]]-[[Funk|Funk]] Grooves. In contemporary drumming, maintaining a static hand position for every [[Groove]] is often counterproductive to achievin `TECH1_2`
+- [[Hand_to_Hand_16th_Triplet_Reading]] — Hand-to-Hand 16th Triplet Reading. This technique involves playing a continuous stream of [[16th-Note_Triplets]] (sextuplets) while accenting specific note `READ1`
 - [[Hand_to_Hand_Drum_Set_Application]] — Hand-to-Hand Drum Set Application. Once the [[Hand_to_Hand_16th_Triplet_Reading]] is mastered on a single surface, the technique is expanded to the full dr `READ1`
-- [[Hand_to_Hand_Technique]] — Hand-to-Hand Technique (16th Notes). The **Hand-to-Hand Technique** is a systematic approach to playing [[Sixteenth Notes]] and [[Ensemble Figures]] using an `READ1`
-- [[Hand_to_Hand_Technique_16th_Notes]] — Hand-to-Hand Technique (16th Notes). The **Hand-to-Hand Technique** is a fundamental method for interpreting rhythmic figures where the hands maintain a cont `READ1`
+- [[Hand_to_Hand_Technique]] — Hand-to-Hand Technique (16th Notes). The **Hand-to-Hand Technique** is a systematic approach to playing [[16th_Notes]] and [[Ensemble_Figures]] using an "[[A `READ1`
+- [[Hand_to_Hand_Technique_16th_Notes]] — Hand-to-Hand Technique ([[16th_Notes|16th Notes]]). The **Hand-to-Hand Technique** is a fundamental method for interpreting rhythmic figures where the hands maintain a cont `READ1`
 - [[Hand_to_Hand_Triplet_Technique]] — Hand-to-Hand Triplet Technique. The **Hand-to-Hand Triplet Technique** applies the principle of continuous alternation to an eighth-note triplet grid. `READ1`
-- [[Hard Rock (Drumming Style)]]. [[Hard Rock]] is a drumming style introduced in Unit 2 of "[[Drum Performance 1 (Book)]]". `Unit 2`
-- [[Hard Rock Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 2 中介紹的入門打擊樂風格。此單元包含 [[Hard Rock Play-Along (Unit 2)]] 練習。 `Unit 2`
-- [[Hard-Surfaced Bass Drum Beater]]. 許多搖滾和流行樂鼓手選擇使用塑膠面或硬表面的 [[Bass Drum Beater]]。這種選擇能讓每個踏板擊打產生清晰的衝擊、細緻的衝擊力和起音，而非溫暖的「emmooph」聲。這是穿透激進人聲、失真吉他音色和強勁貝斯音箱的理想選擇。 `Chapter 2`
-- [[Hard_Rock_Drumming]]. Hard rock drumming is characterized by high-intensity performance, often requiring the execution of grooves at fast temp `READ2`
-- [[Head_and_Chorus_Combined_Usage]]. In [[Jazz Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the terms "[[Head_Music_Term|head]]" and "[[Choru `Unit 7 - Chapter 1`
-- [[Heel-Toe_Hi-Hat_Method]] — Heel/Toe Hi-Hat Method. The Heel/Toe Hi-Hat Method is a hi-hat stepping technique primarily used for stepping the hi-hat on beats 2 and 4, or ot `Unit 4 - Chapter 6`
-- [[Heel-Up_Bass_Drum_Heel_Position]]. The [[Heel-Up Bass Drum Heel Position]] is a critical ergonomic consideration for effective and comfortable [[Heel-Up Ba `Unit 5 - Chapter 1`
-- [[Heel-Up_Hi-Hat_Method]]. The [[Heel-Up Hi-Hat Method]] is the most widely used hi-hat stepping technique, offering the ability to play faster and `Unit 4 - Chapter 6`
-- [[Heel_Down_Bass_Drum_Technique]]. The Heel Down Bass Drum Technique is a fundamental foot technique where the heel remains on the ground or the base of th `Unit 3 - Chapter 4`
-- [[Heel_Down_Technique]]. The [[Heel Down Technique]] is a fundamental [[Bass Drum Technique]] where the drummer's heel remains on the ground or t `Unit 3 - Chapter 4`
-- [[Heel_Toe_Hi-Hat_Method]] — Heel/Toe Hi-Hat Method. The [[Heel-Toe_Hi-Hat_Method]] is a popular approach for operating the hi-hat pedal, primarily used for stepping the hi- `Unit 4 - Chapter 6`
-- [[Heel_Up_Bass_Drum_Technique]]. The Heel Up Bass Drum Technique is a widely used foot technique where the heel is slightly raised off the pedal board, t `Unit 3 - Chapter 4`
-- [[Heel_Up_Hi-Hat_Method]]. The Heel Up Hi-Hat Method is the most widely used hi-hat stepping technique, offering the ability to play faster and wit `Unit 4 - Chapter 6`
-- [[Heel_Up_Technique]]. The [[Heel Up Technique]] is a versatile [[Bass Drum Technique]] where the drummer's heel is slightly raised off the ped `Unit 3 - Chapter 4`
+- [[Hard-Surfaced_Bass_Drum_Beater]] — Hard-Surfaced [[Bass_Drum|Bass Drum]] Beater. 許多搖滾和流行樂鼓手選擇使用塑膠面或硬表面的 [[Bass_Drum_Beater]]。這種選擇能讓每個踏板擊打產生清晰的衝擊、細緻的衝擊力和起音，而非溫暖的「emmooph」聲。這是穿透激進人聲、失真吉他音色和強勁貝斯音箱的理想選擇。 `Chapter 2`
+- [[Hard_Rock_Drumming]] — Hard [[Rock|Rock]] Drumming. **Hard [[Rock|Rock]]** is a high-energy, riff-oriented subgenre characterized by heavy amplification, powerful backbeats
+- [[Head_and_Chorus_Combined_Usage]]. In [[Jazz_Terminology|jazz]] and [[Blues_Terminology|blues]] contexts, the terms "[[Head_Music_Term|head]]" and "[[Choru `Unit 7 - Chapter 1`
+- [[Heel-Up_Bass_Drum_Heel_Position]] — Heel-Up [[Bass_Drum|Bass Drum]] Heel Position. The [[Heel-Up_Bass_Drum_Heel_Position]] is a critical ergonomic consideration for effective and comfortable [[Heel-Up_Ba `Unit 5 - Chapter 1`
+- [[Heel_Down_Bass_Drum_Technique]] — Heel Down [[Bass_Drum_Technique|Bass Drum Technique]]. The Heel Down [[Bass_Drum_Technique|Bass Drum Technique]] is a fundamental foot technique where the heel remains on the  `Unit 3 - Chapter 4`
+- [[Heel_Down_Technique]]. The [[Heel_Down_Technique]] is a fundamental [[Bass_Drum_Technique]] where the drummer's heel remains on the ground or t `Unit 3 - Chapter 4`
+- [[Heel_Toe_Hi_Hat_Method]] — Heel-Toe Hi-Hat Method. The **Heel-Toe Hi-Hat Method** is a popular and ergonomic approach to operating the hi-hat pedal, primarily used for ste `READ1`
+- [[Heel_Up_Bass_Drum_Technique]] — Heel Up [[Bass_Drum_Technique|Bass Drum Technique]]. The Heel Up [[Bass_Drum_Technique|Bass Drum Technique]] is a widely used foot technique where the heel is slightly raise `Unit 3 - Chapter 4`
+- [[Heel_Up_Hi_Hat_Method]] — Heel-Up Hi-Hat Method. The **Heel-Up Hi-Hat Method** is the most widely used [[Hi-Hat_Stepping_Technique|hi-hat stepping technique]] in modern  `READ1`
+- [[Heel_Up_Technique]]. The [[Heel_Up_Technique]] is a versatile [[Bass_Drum_Technique]] where the drummer's heel is slightly raised off the ped `Unit 3 - Chapter 4`
 - [[Herta]] — Herta (Hairta). The **Herta** (spelled "Hairta" in some MI curricula) is a modern hybrid [[Rudiment]] that has become a staple of contem `READ1`
-- [[Hi-Hat Articulation (A Section)]]. The A section features a medium-loud, yet consistent, one-handed eighth-note [[Hi-Hat]] pattern with an accent on each q `Unit 2 - Chapter 2`
-- [[Hi-Hat Edge Strike Technique]]. 為了獲得均勻且中等音量的 [[Hi-Hat]] 聲音，應使用鼓棒的肩部（尖端下方）來擊打 [[Hi-Hat]] 鈸的邊緣（而非頂部）。這將產生非常厚實且動態受控的 [[Hi-Hat]] 音色。相比之下，降低 [[Hi-Hat]] 音量也能創 `Chapter 2`
-- [[Hi-Hat Sound Strategies]]. 八分音符的 [[Hi-Hat]] 模式應均勻且以中等音量演奏。為了達到這種聲音，你將使用鼓棒的肩部，即鼓棒尖端下方的位置，來擊打 [[Hi-Hat]] 鈸的邊緣（而非頂部）。 `Chapter 2`
-- [[Hi-Hat_Articulation_Letter_A]] — Hi-Hat Articulation (Letter A). For the 'A' section of a song, the hi-hat articulation is designed to provide a subtle yet consistent rhythmic foundatio `Unit 4 - Chapter 2`
-- [[Hi-Hat_Chunky_Shouldered_16ths]]. The [[Hi-Hat Chunky Shouldered 16ths]] technique is a specific approach to playing the [[Hi-Hat]] cymbals designed to cr `Drum Performance`
-- [[Hi-Hat_Cymbal_Spacing]]. [[Hi-Hat Cymbal Spacing]] refers to the distance between the top and bottom hi-hat cymbals when the pedal is in its open `Unit 4 - Chapter 6`
-- [[Hi-Hat_Opening]]. A `[[Hi-Hat Opening]]` is a drumming technique where the drummer briefly lifts their foot off the `[[Hi-Hat]]` pedal, al `Unit 4 - Chapter 1`
-- [[Hi-Hat_Opening_Technique_Letter_B]] — Hi-Hat Opening Technique (Letter B). A specific [[Hi-Hat_Opening_Technique_Letter_B]] is employed in the 'B' section to enhance its energetic and driving fee `Unit 4 - Chapter 2`
-- [[Hi-Hat_Shoulder_Strike_Edge]] — Hi-Hat Shoulder Strike (Edge). The [[Hi-Hat_Shoulder_Strike_Edge]] is a hi-hat technique where the shoulder of the drumstick (the part just below the t `Unit 4 - Chapter 2`
-- [[Hi-Hat_Stepping_Technique]]. Hi-hat stepping technique refers to the methods used to operate the [[Hi-Hat Pedal]] with the foot, primarily to create  `Unit 4 - Chapter 6`
-- [[Hi-Hat_Technique]]. [[Hi-Hat Technique]] encompasses the various methods and approaches used to play the [[Hi-Hat]] cymbals, involving both  `Unit 4`
-- [[Hi_Hat_Cymbal_Notation]] — Hi Hat Cymbal (Notation). In [[Drum Set Notation Key]], the [[Hi Hat Cymbal]] is a crucial element for rhythmic articulation and groove definition `Unit 1`
-- [[Hi_Hat_Foot_Permutations]] — Hi-Hat Foot Permutations. [[Hi_Hat_Foot_Permutations]] refer to various rhythmic patterns played with the hi-hat foot, often in conjunction with a `Unit 6 - Chapter 2`
-- [[Hi_Hat_Half_Note_Splash]] — Hi-Hat Half-Note Splash. The **Hi-Hat Half-Note Splash** is a coordination technique used to mimic the sound of a dedicated hand-held cymbal play `TECH1_2`
+- [[Hi-Hat]]. The Hi-Hat consists of a pair of cymbals mounted on a metal stand and controlled by a foot pedal. `READ1`
+- [[Hi-Hat_Articulation_(A_Section)]]. The A section features a medium-loud, yet consistent, one-handed eighth-note [[Hi-Hat]] pattern with an accent on each q `Unit 2 - Chapter 2`
+- [[Hi-Hat_Articulation_Letter_A]] — [[Hi-Hat|Hi-Hat]] Articulation (Letter A). For the 'A' section of a song, the [[Hi-Hat|hi-hat]] articulation is designed to provide a subtle yet consistent rhythmi `Unit 4 - Chapter 2`
+- [[Hi-Hat_Chunky_Shouldered_16ths]]. The [[Hi-Hat_Chunky_Shouldered_16ths]] technique is a specific approach to playing the [[Hi-Hat]] cymbals designed to cr `[[Drum_Performance|Drum Performance]]`
+- [[Hi-Hat_Cymbal_Spacing]] — [[Hi-Hat|Hi-Hat]] Cymbal Spacing. [[Hi-Hat_Cymbal_Spacing]] refers to the distance between the top and bottom [[Hi-Hat|hi-hat]] cymbals when the pedal is  `Unit 4 - Chapter 6`
+- [[Hi-Hat_Edge_Strike_Technique]]. 為了獲得均勻且中等音量的 [[Hi-Hat]] 聲音，應使用鼓棒的肩部（尖端下方）來擊打 [[Hi-Hat]] 鈸的邊緣（而非頂部）。這將產生非常厚實且動態受控的 [[Hi-Hat]] 音色。相比之下，降低 [[Hi-Hat]] 音量也能創 `Chapter 2`
+- [[Hi-Hat_Opening]]. A `[[Hi-Hat_Opening]]` is a drumming technique where the drummer briefly lifts their foot off the `[[Hi-Hat]]` pedal, al `Unit 4 - Chapter 1`
+- [[Hi-Hat_Opening_Technique_Letter_B]] — [[Hi-Hat_Opening|Hi-Hat Opening]] Technique (Letter B). A specific [[Hi-Hat_Opening_Technique_Letter_B]] is employed in the 'B' section to enhance its energetic and driving fee `Unit 4 - Chapter 2`
+- [[Hi-Hat_Shoulder_Strike_Edge]] — [[Hi-Hat|Hi-Hat]] Shoulder Strike (Edge). The [[Hi-Hat_Shoulder_Strike_Edge]] is a [[Hi-Hat_Technique|hi-hat technique]] where the shoulder of the [[Drumstick|dru `Unit 4 - Chapter 2`
+- [[Hi-Hat_Sound_Strategies]]. 八分音符的 [[Hi-Hat]] 模式應均勻且以中等音量演奏。為了達到這種聲音，你將使用鼓棒的肩部，即鼓棒尖端下方的位置，來擊打 [[Hi-Hat]] 鈸的邊緣（而非頂部）。 `Chapter 2`
+- [[Hi-Hat_Stepping_Technique]] — [[Hi-Hat|Hi-Hat]] Stepping Technique. [[Hi-Hat|Hi-hat]] stepping technique refers to the methods used to operate the [[Hi-Hat_Pedal]] with the foot, primarily `Unit 4 - Chapter 6`
+- [[Hi-Hat_Technique]]. [[Hi-Hat_Technique]] encompasses the various methods and approaches used to play the [[Hi-Hat]] cymbals, involving both 
+- [[Hi_Hat_Cymbal_Notation]] — Hi Hat Cymbal (Notation). In [[Drum_Set_Notation_Key]], the [[Hi_Hat_Cymbal]] is a crucial element for rhythmic articulation and [[Groove|groove]] `Unit 1`
+- [[Hi_Hat_Foot_Permutations]] — [[Hi-Hat|Hi-Hat]] Foot Permutations. [[Hi_Hat_Foot_Permutations]] refer to various rhythmic patterns played with the [[Hi-Hat|hi-hat]] foot, often in conjunc `Unit 6 - Chapter 2`
+- [[Hi_Hat_Half_Note_Splash]] — [[Hi-Hat|Hi-Hat]] Half-Note Splash. The **[[Hi-Hat|Hi-Hat]] Half-Note Splash** is a coordination technique used to mimic the sound of a dedicated hand-held  `TECH1_2`
 - [[Hip-Hop_Drumming]]. Modern **Hip-Hop Drumming** involves live drummers emulating the sounds and aesthetics of drum machines (like the MPC),  `TECH1_2`
 - [[Horn_Comping]]. Horn Comping is the art of accompanying horn sections by reinforcing their rhythmic figures and "setting up" their entra `TECH3_4`
-- [[Hybrid_Rudiments]]. Hybrid rudiments (also known as **Compound Rudiments**) are modern percussion figures created by combining two or more s `TECH3_4`
+- [[Hybrid_Rudiments]] — Hybrid [[Rudiments|Rudiments]]. Hybrid [[Rudiments|rudiments]] (also known as **Compound [[Rudiments|Rudiments]]**) are modern percussion figures create `TECH3_4`
 ### I
 - [[I_IV_V_Chord_Progression]] — I-IV-V Chord Progression. The [[I_IV_V_Chord_Progression]] is a fundamental harmonic structure in Western music, particularly central to the [[Blu `Unit 6 - Chapter 1`
-- [[Imaginary_Bar_Line_(Study_Aid)]]. The [[Imaginary Bar Line (Study Aid)]] is a mental visualization technique used to help drummers isolate and focus on th `Unit 3 - Chapter 1`
-- [[Implied_Metric_Modulation]]. **Implied Metric Modulation** is the practice of grouping a specific note value into odd-numbered phrases (such as group `TECH3_4`
-- [[Indie_Pop_Drumming]] — Indie-Pop Drumming. **Indie-Pop** is a melodic, angst-free counterpart to indie-rock, characterized by tightly constructed grooves and a "wa `TECH1_2`
+- [[Imaginary_Bar_Line_(Study_Aid)]] — Imaginary [[Bar_Line|Bar Line]] (Study Aid). The [[Imaginary_Bar_Line_(Study_Aid)]] is a mental visualization technique used to help drummers isolate and focus on th `Unit 3 - Chapter 1`
+- [[Implied_Metric_Modulation]]. **Implied Metric Modulation** is the practice of grouping a specific [[Note_Value|note value]] into odd-numbered phrases `TECH3_4`
+- [[Indie_Pop_Drumming]] — Indie-Pop Drumming. **Indie-Pop** is a melodic, angst-free counterpart to indie-[[Rock|rock]], characterized by tightly constructed grooves  `TECH1_2`
 - [[Injury_Prevention]] — Injury Prevention for Drummers. Injury prevention is a critical aspect of a drummer's long-term career and well-being. `Uncategorized`
-- [[Intro_Modern_Rock]] — Intro (Modern Rock). The `[[Intro_Modern_Rock]]` for this tune is a four-bar `[[Guitar]]` part designed to establish the `[[Feel]]` of the pi `Unit 9 Chapter 1`
-- [[Intro_Rock_Shuffle_Unit_10]] — Intro (Rock Shuffle - Unit 10). The introduction to the Unit 10 rock shuffle tune sets the mood and establishes the core groove. `Unit 10 - Chapter 1`
-- [[Intro_to_Country-Pop_Unit_5]] — Intro to Country-Pop (Unit 5). [[Unit 5]] introduces students to the [[Country-Pop Genre]], a significant musical development over the past decade. `Unit 5`
-- [[Intro_to_Funk-Rock]]. [[Funk-Rock]] is a dynamic and influential subgenre that emerged from the evolution of [[Rock]] music. `Unit 8 Chapter 1`
-- [[Intro_to_Modern_Rock]]. This chapter introduces drummers to the fundamentals of playing and reading in [[3_4_Time_Signature]] within the context `Unit 9 Chapter 1`
-- [[Intro_to_Shuffle_12-Bar_Blues_Unit_7]] — Intro to Shuffle 12-Bar Blues (Unit 7). Unit 7 introduces the [[Shuffle Feel]] within the context of a standard [[12-Bar Blues]] rhythm. `Unit 7 - Chapter 1`
-- [[Intro_to_Two-Handed_16ths]]. The "Intro to `[[Two-Handed 16ths]]`" explores a prevalent drumming style that emerged from the fusion of aggressive `[[ `Unit 4 - Chapter 1`
-- [[Inverted_Five-Stroke_Ruff]]. The [[Inverted Five-Stroke Ruff]] is a variation of the [[Standard Five-Stroke Ruff]] where the unaccented grace notes * `Unit 4 - Chapter 4`
-- [[Inverted_Four-Stroke_Ruff]]. The [[Inverted Four-Stroke Ruff]] is a more challenging variation of the [[Four-Stroke Ruff]]. `Unit 4 - Chapter 3`
-- [[Inverted_Seven-Stroke_Ruff]]. The [[Inverted Seven-Stroke Ruff]] is a variation of the [[Standard Seven-Stroke Ruff]] where the unaccented grace notes `Unit 4 - Chapter 5`
-- [[Inverted_Three-Stroke_Ruff]]. The [[Inverted Three-Stroke Ruff]] is a more challenging variation of the [[Three-Stroke Ruff]]. `Unit 4 - Chapter 2`
-- [[Inward (Inverted) Paradiddle]]. The [[Inward (Inverted) Paradiddle]] is one of the four basic [[Paradiddle]] variations, offering a distinct [[Sticking  `Unit 8: Single Paradiddle`
+- [[Intro_Modern_Rock]] — Intro (Modern [[Rock|Rock]]). The `[[Intro_Modern_Rock]]` for this tune is a four-bar `[[Guitar]]` part designed to establish the `[[Feel]]` of the pi `Unit 9 Chapter 1`
+- [[Intro_Rock_Shuffle_Unit_10]] — Intro ([[Rock|Rock]] [[Shuffle|Shuffle]] - Unit 10). The introduction to the Unit 10 [[Rock|rock]] [[Shuffle|shuffle]] tune sets the mood and establishes the core [[Groove|g `Unit 10 - Chapter 1`
+- [[Intro_to_Country-Pop_Unit_5]] — Intro to Country-Pop (Unit 5). [[Unit_5]] introduces students to the [[Country-Pop_Genre]], a significant musical development over the past decade. `Unit 5`
+- [[Intro_to_Funk-Rock]]. [[Funk_Rock]] is a dynamic and influential subgenre that emerged from the evolution of [[Rock]] music. `Unit 8 Chapter 1`
+- [[Intro_to_Modern_Rock]] — Intro to Modern [[Rock|Rock]]. This chapter introduces drummers to the fundamentals of playing and reading in [[3_4_Time_Signature]] within the context `Unit 9 Chapter 1`
+- [[Intro_to_Shuffle_12-Bar_Blues_Unit_7]] — Intro to [[Shuffle|Shuffle]] 12-Bar [[Blues|Blues]] (Unit 7). Unit 7 introduces the [[Shuffle_Feel]] within the context of a standard [[12-Bar_Blues]] rhythm. `Unit 7 - Chapter 1`
+- [[Intro_to_Two-Handed_16ths]] — Intro to [[Two-Handed_16ths|Two-Handed 16ths]]. The "Intro to `[[Two-Handed_16ths]]`" explores a prevalent drumming style that emerged from the fusion of aggressive `[[ `Unit 4 - Chapter 1`
+- [[Inverted_Five-Stroke_Ruff]] — Inverted [[Five-Stroke_Ruff|Five-Stroke Ruff]]. The [[Inverted_Five-Stroke_Ruff]] is a variation of the [[Standard_Five-Stroke_Ruff]] where the unaccented grace notes * `Unit 4 - Chapter 4`
+- [[Inverted_Four-Stroke_Ruff]]. The [[Inverted_Four-Stroke_Ruff]] is a more challenging variation of the [[Four-Stroke_Ruff]]. `Unit 4 - Chapter 3`
+- [[Inverted_Seven-Stroke_Ruff]] — Inverted [[Seven-Stroke_Ruff|Seven-Stroke Ruff]]. The [[Inverted_Seven-Stroke_Ruff]] is a variation of the [[Standard_Seven-Stroke_Ruff]] where the unaccented grace notes `Unit 4 - Chapter 5`
+- [[Inverted_Three-Stroke_Ruff]]. The [[Inverted_Three-Stroke_Ruff]] is a more challenging variation of the [[Three-Stroke_Ruff]]. `Unit 4 - Chapter 2`
+- [[Inward_(Inverted)_Paradiddle]]. The [[Inward_(Inverted)_Paradiddle]] is one of the four basic [[Paradiddle]] variations, offering a distinct [[Sticking_ `Unit 8: [[Single_Paradiddle|Single Paradiddle]]`
 ### J
-- [[Jazz_Balance_of_Sound]]. The "player's mix" in jazz is the inverse of pop and rock. `READ2`
-- [[Jazz_Drumming_Overview]]. Jazz emerged at the start of the 20th century, blending African rhythmic sensibilities with European harmonic structures `READ2`
-- [[Jazz_Ride_Cymbal_Technique]]. The ride cymbal is the foundation of jazz time-keeping. `READ2`
-- [[Jazz_Style_Triplet_Independence]]. This study focuses on developing [[Coordinated_Independence]] using eighth-note triplet phrasing, which is the foundatio `TECH3_4`
+- [[Jazz]]. Jazz is a sophisticated musical genre born at the beginning of the 20th century from the blending of rich African rhythm `TECH1_6`
+- [[Jazz_Balance_of_Sound]] — [[Jazz|Jazz]] Balance of Sound. The "player's mix" in [[Jazz|jazz]] is the inverse of pop and [[Rock|rock]]. `READ2`
+- [[Jazz_Drumming_Overview]] — [[Jazz|Jazz]] Drumming Overview. [[Jazz|Jazz]] emerged at the start of the 20th century, blending African rhythmic sensibilities with European harmonic s `READ2`
+- [[Jazz_Ride_Cymbal_Technique]] — [[Jazz|Jazz]] [[Ride_Cymbal_Technique|Ride Cymbal Technique]]. The [[Ride_Cymbal|ride cymbal]] is the foundation of [[Jazz|jazz]] time-keeping. `READ2`
+- [[Jazz_Style_Triplet_Independence]] — [[Jazz|Jazz]] Style Triplet Independence. This study focuses on developing [[Coordinated_Independence]] using eighth-note triplet [[Phrasing|phrasing]], which is  `TECH3_4`
 ### L
 - [[Lead_Sheet_Interpretation]] — Lead Sheet Interpretation (Drumset). A **Lead Sheet** is a skeletal sketch of a composition, typically providing the melody, chord structure, and form. `TECH1_2`
-- [[Leading Hand Alternation]]. [[Leading Hand Alternation]] refers to the ability to seamlessly switch which hand initiates a rhythmic pattern or phras
-- [[Left_Hand_Lead_Assigned_Sticking]] — Left Hand Lead (Assigned Sticking). In [[Assigned Sticking]], the concept of Left Hand Lead dictates that when playing a continuous stream of [[16th Note]]s `Unit 6 - Chapter 1`
-- [[Left_Hand_Lead_Double_Strokes]] — Left Hand Lead (Double Strokes). Left Hand Lead (Double Strokes) is a specific application of the [[Double_Strokes_Lead_Method]] where the left hand cons `Unit 6 - Chapter 2`
+- [[Leading_Hand_Alternation]]. [[Leading_Hand_Alternation]] refers to the ability to seamlessly switch which hand initiates a rhythmic pattern or phras
+- [[Left_Hand_Lead_Assigned_Sticking]] — Left Hand Lead (Assigned Sticking). In [[Assigned_Sticking]], the concept of Left Hand Lead dictates that when playing a continuous stream of [[16th_Note]]s `Unit 6 - Chapter 1`
+- [[Left_Hand_Lead_Double_Strokes]] — Left Hand Lead ([[Double_Strokes|Double Strokes]]). Left Hand Lead ([[Double_Strokes|Double Strokes]]) is a specific application of the [[Double_Strokes_Lead_Method]] where `Unit 6 - Chapter 2`
 - [[Lets_Play_One_Song_Study]] — Let's Play One: Song Study. "Let's Play One" (by Peter Retzlaff and Jim Rupp) focuses on [[Brush_Technique]] within a standard [[12_Bar_Blues]] form `TECH3_4`
-- [[Letter_A_Groove_Funk-Rock]] — Letter A Groove (Funk-Rock). The `[[Letter_A_Groove_Funk-Rock]]` is a highly `[[Syncopated]]` `[[Drum Groove]]` based on `[[Eighth Notes]]` and `[[Si `Unit 8 Chapter 2`
-- [[Letter_A_Rock_Shuffle_Unit_10]] — Letter A (Rock Shuffle - Unit 10). Letter A marks the first main section of the Unit 10 rock shuffle tune, following the [[Intro_Rock_Shuffle_Unit_10]]. `Unit 10 - Chapter 1`
-- [[Letter_A_Section_Drum_Articulations]]. The [[Letter A Section Drum Articulations]] refer to the specific drum sounds and dynamics recommended for the 'A' secti `Unit 4 - Chapter 2`
-- [[Letter_B_16th-Note_Ensemble_Figure]]. Within the `[[Letter_B_Groove_Funk-Rock]]`, this chart includes specific `[[Ensemble Figures]]` (often referred to as "h `Unit 8 Chapter 2`
-- [[Letter_B_Groove_Funk-Rock]] — Letter B Groove (Funk-Rock). The `[[Letter_B_Groove_Funk-Rock]]` is a two-bar `[[Musical Phrase]]` within the `[[Funk-Rock]]` chart, characterized by `Unit 8 Chapter 2`
-- [[Letter_B_Rock_Shuffle_Unit_10]] — Letter B (Rock Shuffle - Unit 10). Letter B is a significant section in the Unit 10 rock shuffle tune, following [[Letter_A_Rock_Shuffle_Unit_10]]. `Unit 10 - Chapter 1`
-- [[Letter_B_Section_Drum_Articulations]]. The [[Letter B Section Drum Articulations]] refer to the specific drum sounds and dynamics recommended for the 'B' secti `Unit 4 - Chapter 2`
-- [[Letter_C_Rock_Shuffle_Unit_10]] — Letter C (Rock Shuffle - Unit 10). Letter C is a distinct section within the [[Rock_Shuffle_Form_Unit_10]], appearing after the repeated [[Letter_B_Rock_Sh `Unit 10 - Chapter 1`
-- [[Letter_D_Rock_Shuffle_Unit_10]] — Letter D (Rock Shuffle - Unit 10). Letter D is the final section of the Unit 10 rock shuffle tune, appearing after the break at [[Letter_C_Rock_Shuffle_Uni `Unit 10 - Chapter 1`
+- [[Letter_A_Groove_Funk-Rock]] — Letter A [[Groove|Groove]] ([[Funk|Funk]]-[[Rock|Rock]]). The `[[Letter_A_Groove_Funk-Rock]]` is a highly `[[Syncopated]]` `[[Drum_Groove]]` based on `[[Eighth_Note]]` and `[[16t `Unit 8 Chapter 2`
+- [[Letter_A_Rock_Shuffle_Unit_10]] — Letter A ([[Rock|Rock]] [[Shuffle|Shuffle]] - Unit 10). Letter A marks the first main section of the Unit 10 [[Rock|rock]] [[Shuffle|shuffle]] tune, following the [[Intro_Rock_ `Unit 10 - Chapter 1`
+- [[Letter_A_Section_Drum_Articulations]] — Letter A Section Drum [[Articulations|Articulations]]. The [[Letter_A_Section_Drum_Articulations]] refer to the specific drum sounds and [[Dynamics|dynamics]] recommended for  `Unit 4 - Chapter 2`
+- [[Letter_B_16th-Note_Ensemble_Figure]]. Within the `[[Letter_B_Groove_Funk-Rock]]`, this [[Chart|chart]] includes specific `[[Ensemble_Figures]]` (often referre `Unit 8 Chapter 2`
+- [[Letter_B_Groove_Funk-Rock]] — Letter B [[Groove|Groove]] ([[Funk|Funk]]-[[Rock|Rock]]). The `[[Letter_B_Groove_Funk-Rock]]` is a two-bar `[[Musical_Phrase]]` within the `[[Funk_Rock]]` [[Chart|chart]], charac `Unit 8 Chapter 2`
+- [[Letter_B_Rock_Shuffle_Unit_10]] — Letter B ([[Rock|Rock]] [[Shuffle|Shuffle]] - Unit 10). Letter B is a significant section in the Unit 10 [[Rock|rock]] [[Shuffle|shuffle]] tune, following [[Letter_A_Rock_Shuff `Unit 10 - Chapter 1`
+- [[Letter_B_Section_Drum_Articulations]] — Letter B Section Drum [[Articulations|Articulations]]. The [[Letter_B_Section_Drum_Articulations]] refer to the specific drum sounds and [[Dynamics|dynamics]] recommended for  `Unit 4 - Chapter 2`
+- [[Letter_C_Rock_Shuffle_Unit_10]] — Letter C ([[Rock|Rock]] [[Shuffle|Shuffle]] - Unit 10). Letter C is a distinct section within the [[Rock_Shuffle_Form_Unit_10]], appearing after the repeated [[Letter_B_Rock_Sh `Unit 10 - Chapter 1`
+- [[Letter_D_Rock_Shuffle_Unit_10]] — Letter D ([[Rock|Rock]] [[Shuffle|Shuffle]] - Unit 10). Letter D is the final section of the Unit 10 [[Rock|rock]] [[Shuffle|shuffle]] tune, appearing after the break at [[Lett `Unit 10 - Chapter 1`
 - [[Linear_Drumming]]. **Linear Drumming** is a technique where no two limbs (hands or feet) strike the drums or cymbals at the same time. `MI_CURR`
-- [[Linear_Drumming_Concepts]]. **Linear Drumming** is defined by a texture where no two voices (limbs) sound simultaneously. `TECH3_4`
-- [[Linear_Fill]]. A **Linear Fill** is a drum set technique where no two notes are played simultaneously. `TECH3_4`
+- [[Linear_Drumming_Concepts]] — [[Linear_Drumming|Linear Drumming]] Concepts. **[[Linear_Drumming|Linear Drumming]]** is defined by a texture where no two voices (limbs) sound simultaneously. `TECH3_4`
+- [[Linear_Fill]] — Linear [[Fill|Fill]]. A **Linear [[Fill|Fill]]** is a drum set technique where no two notes are played simultaneously. `TECH3_4`
 - [[Linear_Hand_Foot_Development_16th]] — Linear Hand/Foot Development (16th Note). Linear Hand/Foot Development is a method of drumming where no two limbs play simultaneously. `READ2`
-- [[Linear_Hand_Foot_Development_Triplet]] — Linear Hand/Foot Development (Triplet). This is the second phase of [[Linear Drumming]] development, shifting the focus from 16th notes to [[Eighth-Note Triplet `READ2`
+- [[Linear_Hand_Foot_Development_Triplet]] — Linear Hand/Foot Development (Triplet). This is the second phase of [[Linear_Drumming]] development, shifting the focus from [[16th_Notes|16th notes]] to [[Eigh `READ2`
 - [[Linear_Hand_Foot_Mixed_Subdivisions]] — Linear Hand-Foot Mixed Subdivisions. Linear Hand-Foot Mixed Subdivisions involve the integration of [[16th_Note]] and [[Eighth_Note_Triplet]] patterns within `READ2`
-- [[Loud_Amplification]]. [[Loud Amplification]] refers to the use of electronic equipment (amplifiers, speakers) to significantly increase the vo `Unit 8 Chapter 1`
-- [[Low_Moeller]]. The Low Moeller is an advanced application of the [[Moeller Technique]], specifically adapted for faster tempos where th `Unit 3 - Chapter 1`
+- [[Loud_Amplification]]. [[Loud_Amplification]] refers to the use of electronic equipment (amplifiers, speakers) to significantly increase the vo `Unit 8 Chapter 1`
+- [[Low_Moeller]]. The Low Moeller is an advanced application of the [[Moeller_Technique]], specifically adapted for faster tempos where th `Unit 3 - Chapter 1`
 ### M
-- [[Marking a Song's Form]] — Marking a Song's Form (標記歌曲結構). 鼓手最重要的職責是演奏出具有穩定時間的絕佳律動（groove）。然而，這些特質不足以構成音樂。因此，鼓手還有另一個非常重要的職責：標記歌曲的結構。
+- [[Marking_a_Song's_Form]] — Marking a Song's Form (標記歌曲結構). 鼓手最重要的職責是演奏出具有穩定時間的絕佳律動（[[Groove|groove]]）。然而，這些特質不足以構成音樂。因此，鼓手還有另一個非常重要的職責：標記歌曲的結構。
 
-本質上，「標記結構」是勾勒（並引起注意）歌曲中每個不同樂段。這可以透過以下兩種方法之一（或 `Unit 2`
-- [[Marking_a_Songs_Form]] — Marking a Song's Form. [[Marking a Song's Form]] is the practice of using sonic and dynamic changes on the drum set to highlight and differenti `Unit 4 - Chapter 2`
-- [[Marking_the_Form_Jazz]] — Marking the Form (Jazz). A drummer's primary duty beyond keeping time is to outline the structure of the song for the listener and the band. `READ2`
+本質上，「標記結構」是勾勒（並引起注意）歌曲中每個不同樂段。這可以透 `Unit 2`
+- [[Marking_a_Songs_Form]] — [[Marking_a_Song's_Form|Marking a Song's Form]]. [[Marking_a_Song's_Form]] is the practice of using sonic and dynamic changes on the drum set to highlight and differenti `Unit 4 - Chapter 2`
+- [[Marking_the_Form_Jazz]] — Marking the Form ([[Jazz|Jazz]]). A drummer's primary duty beyond keeping time is to outline the structure of the song for the listener and the band. `READ2`
 - [[Martellato]]. **Martellato** (Italian for "hammered"), commonly referred to as a **"Roof Top Accent,"** is an articulation that indica `READ3`
-- [[Martellato_Articulation]]. **Martellato** (Italian for "hammered") is an articulation mark indicating that a note should be played with significant `READ3`
-- [[Master_Studies_Daily_Practice_Routine]]. This [[Daily Practice Routine]] is designed to systematically work through the challenging exercises presented in the [[ `Drum Technique 50`
+- [[Martellato_Articulation]] — [[Martellato|Martellato]] Articulation. **[[Martellato|Martellato]]** (Italian for "hammered") is an articulation mark indicating that a note should be played w `READ3`
+- [[Master_Studies_Daily_Practice_Routine]]. This [[Daily_Practice_Routine]] is designed to systematically work through the challenging exercises presented in the [[ `[[Drum_Technique_50|Drum Technique 50]]`
 - [[Matched_Grip]]. Matched Grip is a drumming technique where both hands hold the drumsticks in an identical manner. `Unit 2 - Chapter 3`
 - [[Measure]]. A **Measure** (or Bar) is a segment of time defined by a given number of beats. `CORE`
-- [[Measure_Music_Notation]] — Measure (Music Notation). A measure, also commonly referred to as a "bar," is a segment of time in [[Music Notation]] defined by [[Bar Line]]s on  `Unit 1`
+- [[Measure_Music_Notation]] — [[Measure|Measure]] (Music Notation). A [[Measure|measure]], also commonly referred to as a "bar," is a segment of time in [[Music_Notation]] defined by [[Bar `Unit 1`
 - [[Memorizing_Drumming_Terminology]]. A fundamental aspect of becoming a proficient drummer and musician is understanding and memorizing the specialized [[Ter `Uncategorized`
-- [[Meter]]. Meter can be understood as the fundamental pulse or "heartbeat" of a piece of music, providing its forward momentum. `Unit Chapter 1`
-- [[Metric_Modulation]]. **Metric Modulation** is a technique where a change in feel, meter, or tempo is derived from a specific note value encou `TECH1_2`
-- [[Mirror_Practice_for_Stick_Heights]]. [[Mirror Practice]] is a highly effective visual feedback technique used to refine [[Drum_Technique_50]], particularly f `Drum Technique 50`
-- [[Mixed_Meter]]. **Mixed Meter** (also known as **Changing Meters**) refers to music where the time signature fluctuates frequently. `TECH1_2`
-- [[Mixing Flags and Stems (Eighth Notes and Rests)]]. In drum notation, it is common to encounter a mixture of [[Flags (Notation)]] (on [[Freestanding Eighth Notes]]) and [[B `Unit 2 - Chapter 1`
-- [[Mixing_Sixteenth_Notes_and_Sixteenth_Rests]]. [[Mixing Sixteenth Notes and Sixteenth Rests]] is the practice of combining [[Sixteenth Note]]s and [[Sixteenth Rest]]s  `Unit 3 - Chapter 1`
-- [[Modern Rock (Drumming Style)]]. [[Modern Rock]] is a drumming style introduced in Unit 9 of "[[Drum Performance 1 (Book)]]". `Unit 9`
-- [[Modern Rock Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 9 中介紹的入門打擊樂風格。 `Unit 9`
-- [[Modern_Rock_Drumming]]. **Modern Rock** is a broad stylistic category describing the rock music format prevalent on commercial radio from the 19 `TECH1_2`
-- [[Moeller_Technique]]. The [[Moeller Technique]] is a highly influential and efficient drumming technique developed by Sanford "Gus" Moeller. `Unit 3`
-- [[Moeller_Up_Stroke]]. The Moeller Up Stroke is a crucial component of the [[Moeller Technique]], essentially functioning as a [[Taps_(Drumming `Unit 3 - Chapter 2`
-- [[Motown_Drumming_Style]]. The drumming style associated with [[Motown]] (and often [[Stax]]) is characterized by specific groove constructions des `READ2`
-- [[Multi-Rests]]. `[[Multi-Rests]]` are a common `[[Musical Notation]]` convention used to indicate multiple measures of `[[Rests]]` for a `Unit 9 Chapter 1`
-- [[Multiple-Bar Phrases (Drumming)]]. This concept refers to drum patterns, particularly bass drum patterns, that extend over several measures before repeatin `Unit 3 - Chapter 1`
-- [[Multiple-Bar_Phrases]]. [[Phrasing]] in drumming refers to the organization of rhythmic ideas into coherent musical statements, much like senten `Unit 4 - Chapter 1`
-- [[Multiple_Bar_Phrases]]. [[Multiple Bar Phrases]] refer to musical ideas or rhythmic patterns that extend coherently over several measures, rathe `Unit 4 - Chapter 1`
-- [[Multiple_Bar_Repeat_Signs]] — Multiple-Bar Repeat Signs. [[Multiple_Bar_Repeat_Signs]] are a common notation shorthand used in musical charts to indicate that a specific number  `Unit 6 - Chapter 1`
-- [[Multiple_Bounce_Stroke]]. The **Multiple Bounce Stroke** is the building block of the [[Closed Roll]]. `TECH3_4`
-- [[Multiple_Bounce_Technique]]. The **Multiple Bounce Technique** is the foundational mechanic for developing a smooth [[Closed Roll]] (also known as a  `TECH3_4`
+- [[Meter]]. Meter can be understood as the fundamental [[Pulse|pulse]] or "heartbeat" of a piece of music, providing its forward mom `Unit Chapter 1`
+- [[Metric_Modulation]]. **Metric Modulation** is a technique where a change in feel, [[Meter|meter]], or [[Tempo|tempo]] is derived from a speci `TECH1_2`
+- [[Metronome]]. A Metronome is a device or software that produces a steady, audible pulse (often called a "click"). `READ1`
+- [[Mirror_Practice_for_Stick_Heights]]. [[Mirror_Practice]] is a highly effective visual feedback technique used to refine [[Drum_Technique_50]], particularly f `Drum Technique 50`
+- [[Mixed_Meter]] — Mixed [[Meter|Meter]]. **Mixed [[Meter|Meter]]** (also known as **Changing Meters**) refers to music where the [[Time_Signature|time signature] `TECH1_2`
+- [[Mixing_Flags_and_Stems_(Eighth_Notes_and_Rests)]] — Mixing Flags and Stems ([[Eighth_Notes|Eighth Notes]] and Rests). In drum notation, it is common to encounter a mixture of [[Flags_(Notation)]] (on [[Freestanding_Eighth_Notes]]) and [[B `Unit 2 - Chapter 1`
+- [[Mixing_Sixteenth_Notes_and_Sixteenth_Rests]] — Mixing [[Sixteenth_Notes|Sixteenth Notes]] and Sixteenth [[Rests|Rests]]. [[Mixing_Sixteenth_Notes_and_Sixteenth_Rests]] is the practice of combining [[Sixteenth_Note]]s and [[Sixteenth_Rest]]s  `Unit 3 - Chapter 1`
+- [[Modern_Rock_Drumming]] — Modern [[Rock|Rock]] Drumming. **Modern [[Rock|Rock]]** is a broad term describing the radio-ready formats of the 1990s through the present.
+- [[Moeller_Technique]]. The [[Moeller_Technique]] is a highly influential and efficient drumming technique developed by Sanford "Gus" Moeller. `Unit 3`
+- [[Moeller_Up_Stroke]]. The Moeller Up Stroke is a crucial component of the [[Moeller_Technique]], essentially functioning as a [[Taps_(Drumming `Unit 3 - Chapter 2`
+- [[Motown_Drumming_Style]]. The drumming style associated with [[Motown]] (and often [[Stax]]) is characterized by specific [[Groove|groove]] constr `READ2`
+- [[Multi-Rests]]. `[[Multi-Rests]]` are a common `[[Musical_Notation]]` convention used to indicate multiple measures of `[[Rests]]` for a `Unit 9 Chapter 1`
+- [[Multiple-Bar_Phrases_(Drumming)]]. This concept refers to drum patterns, particularly [[Bass_Drum|bass drum]] patterns, that extend over several measures b `Unit 3 - Chapter 1`
+- [[Multiple_Bar_Phrases]]. In drumming, **Multiple Bar Phrases** refer to musical ideas or rhythmic patterns that extend coherently over several me `READ1`
+- [[Multiple_Bar_Repeat_Signs]] — Multiple-Bar [[Repeat_Signs|Repeat Signs]]. [[Multiple_Bar_Repeat_Signs]] are a common notation shorthand used in musical charts to indicate that a specific number  `Unit 6 - Chapter 1`
+- [[Multiple_Bounce_Stroke]]. The **Multiple Bounce Stroke** is the building block of the [[Closed_Roll]]. `TECH3_4`
+- [[Multiple_Bounce_Technique]]. The **Multiple Bounce Technique** is the foundational mechanic for developing a smooth [[Closed_Roll]] (also known as a  `TECH3_4`
 - [[Muscle_Memory_Drumming]] — Muscle Memory (Drumming). Muscle Memory, in the context of drumming, refers to a form of procedural memory stored in the brain that allows for the `Unit 6 - Chapter 1`
 - [[Music_Reading]]. Music reading is a fundamental skill for any professional musician, offering significant advantages in various musical c `Unit 1`
-- [[Musical_Note_Values]]. Musical note values represent the duration of a sound to be produced on an instrument. `Unit 5 - Chapter 1`
+- [[Musical_Note_Values]]. Musical note values represent the [[Duration|duration]] of a sound to be produced on an instrument. `Unit 5 - Chapter 1`
 - [[Musical_Rest_Values]]. Musical rest values represent periods of silence within a piece of music. `Unit 5 - Chapter 1`
-- [[Muting_Crash_Cymbal_with_Free_Hand]]. Muting a [[Crash Cymbal]] with your free hand is a technique used to abruptly cut off the cymbal's sustain, creating a s `Unit 5 - Chapter 2`
+- [[Muting_Crash_Cymbal_with_Free_Hand]]. Muting a [[Crash_Cymbal]] with your free hand is a technique used to abruptly cut off the cymbal's sustain, creating a s `Unit 5 - Chapter 2`
 ### N
-- [[New Groove]]. A "New Groove" refers to a distinct rhythmic pattern or feel introduced at a specific point in a song, often to mark a c `Uncategorized`
-- [[New Harmonic Structure]]. A "New Harmonic Structure" refers to a change in the underlying chord progression or key of a song at a specific point. `Uncategorized`
-- [[New_Orleans_Contemporary_Jazz_Sound]] — New_Orleans_Contemporary_Jazz_Sound. Achieving an authentic New Orleans contemporary jazz sound requires a departure from modern fusion or rock techniques, f `TECH1_2`
+- [[New_Groove]] — New [[Groove|Groove]]. A "New [[Groove|Groove]]" refers to a distinct rhythmic pattern or feel introduced at a specific point in a song, often  `Uncategorized`
+- [[New_Harmonic_Structure]]. A "New Harmonic Structure" refers to a change in the underlying chord progression or key of a song at a specific point. `Uncategorized`
+- [[New_Orleans_Contemporary_Jazz_Sound]] — New_Orleans_Contemporary_Jazz_Sound. Achieving an authentic New Orleans contemporary [[Jazz|jazz]] sound requires a departure from modern fusion or [[Rock|ro `TECH1_2`
 - [[New_Orleans_Second_Line]] — New Orleans Second Line (Drum Set). **Second Line** drumming is a unique style originating from New Orleans brass band traditions. `TECH1_2`
-- [[New_Orleans_Second_Line_Modern]] — New Orleans Second Line (Modern Interpretation). The modern application of **Second Line** drumming involves taking the traditional parade rhythms of New Orleans and ada `TECH1_2`
-- [[Non_Descript_Groove]] — Non-Descript Groove. A **Non-Descript Groove** is a conceptual approach to time-keeping where the drummer plays "time" without adhering to a  `MI_CURR`
-- [[Note_Head]]. A note head is a primary symbol in [[Music Notation]] that is written on [[The Staff]] (either on a line or in a space). `Unit 1`
-- [[Note_Length_Interpretation]]. In drum set notation, **Note Length** dictates the [[Orchestration]] and technique used to execute an [[Ensemble Figures `READ3`
-- [[Note_Subdivisions_in_2_4_Time]] — Note Subdivisions in 2/4 Time. Understanding how different [[Note Values]] subdivide within a [[Measure]] of [[2_4_Time_Signature]] is crucial for accu `Unit 10 Chapter 1`
-- [[Note_Subdivisions_in_3_4_Time]] — Note Subdivisions in 3/4 Time. Understanding how different [[Note Values]] subdivide within a [[Measure]] of [[3_4_Time_Signature]] is crucial for accu `Unit 10 Chapter 2`
-- [[Note_Value_Breakdown]]. [[Note Value Breakdown]] is a fundamental concept in music theory that systematically explains how different [[Rhythmic_ `Unit 3 - Chapter 1`
-- [[Note_Value_Review]]. Chapter 1 of Unit 7 provides a systematic review of fundamental [[Note Values]] and their symmetrical subdivisions, rein `Unit 7 - Chapter 1`
+- [[New_Orleans_Second_Line_Modern]] — [[New_Orleans_Second_Line|New Orleans Second Line]] (Modern Interpretation). The modern application of **Second Line** drumming involves taking the traditional parade rhythms of New Orleans and ada `TECH1_2`
+- [[Non_Descript_Groove]] — Non-Descript [[Groove|Groove]]. A **Non-Descript [[Groove|Groove]]** is a conceptual approach to time-keeping where the drummer plays "time" without adh `MI_CURR`
+- [[Note_Head]]. A note head is a primary symbol in [[Music_Notation]] that is written on [[The_Staff]] (either on a line or in a space). `Unit 1`
+- [[Note_Length_Interpretation]]. In drum set notation, **Note Length** dictates the [[Orchestration]] and technique used to execute an [[Ensemble_Figures `READ3`
+- [[Note_Subdivisions_in_2_4_Time]] — Note Subdivisions in 2/4 Time. Understanding how different [[Note_Values]] subdivide within a [[Measure]] of [[2_4_Time_Signature]] is crucial for accu `Unit 10 Chapter 1`
+- [[Note_Subdivisions_in_3_4_Time]] — Note Subdivisions in 3/4 Time. Understanding how different [[Note_Values]] subdivide within a [[Measure]] of [[3_4_Time_Signature]] is crucial for accu `Unit 10 Chapter 2`
+- [[Note_Value]]. A Note Value symbolizes the relative duration of a note. `READ1`
+- [[Note_Value_Breakdown]] — [[Note_Value|Note Value]] Breakdown. [[Note_Value_Breakdown]] is a fundamental concept in music theory that systematically explains how different [[Rhythmic_ `Unit 3 - Chapter 1`
+- [[Note_Value_Review]] — [[Note_Value|Note Value]] Review. Chapter 1 of Unit 7 provides a systematic review of fundamental [[Note_Values]] and their symmetrical subdivisions, rein `Unit 7 - Chapter 1`
 ### O
-- [[Odd_Meter]]. The term **Odd Meter** technically refers to any time signature where the top number is odd (3, 5, 7, 9, etc.). `TECH1_2`
-- [[Off the Head Stroke (Bass Drum)]] — Off the Head Stroke (Bass Drum) (低音鼓離頭擊打). 一種低音鼓擊打技巧，槌頭在每次擊打後「離開鼓面」（不埋入），即槌頭在每次擊打後都遠離鼓面。這使得鼓能產生更多共鳴，並有助於保持較低的音高。它是 [[Bass Drum Articulation (Open)]] 的關鍵組成部分，需要練習 [ `Unit 3`
-- [[Off_the_Head_Bass_Drum_Stroke]] — Off-the-Head Bass Drum Stroke. The **Off-the-Head** stroke (also known as "unburying the beater") is a technique where the beater is allowed to immedia `READ2`
-- [[Off_the_Head_Bass_Drum_Technique]] — Off-the-Head Bass Drum Technique. The "off-the-head" technique for the [[Bass Drum]] involves allowing the beater to rebound immediately after striking th `Unit 6 - Chapter 2`
-- [[One-Drop_Groove]]. The **One-Drop** is the most iconic rhythm in [[Reggae]] drumming, named after the song by Bob Marley and the Wailers. `READ2`
-- [[One-Handed 16ths (Technique)]]. [[One-Handed 16ths]] is a drumming technique introduced in Unit 3 of "[[Drum Performance 1 (Book)]]". `Unit 3`
-- [[One-Handed 16ths]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 3 中涵蓋的打擊樂技巧，專注於單手演奏 16 分音符。 `Unit 3`
-- [[Open_Hi-Hat]]. The [[Open Hi-Hat]] technique involves striking the [[Hi-Hat]] cymbals while they are partially or fully open, producing `Uncategorized`
-- [[Open_Non-Buried_Bass_Drum_Technique]]. The [[Open Non-Buried Bass Drum Technique]] involves striking the bass drum head with the beater and immediately allowin `Unit 4 - Chapter 1`
-- [[Opening_and_Closing_the_Hi-Hat]]. This technique involves using the hi-hat foot pedal to create a "bark" or sustained wash on specific subdivisions, typic `TECH1_2`
-- [[Orchestrating_Ensemble_Figures]]. When reading a drum chart, "orchestration" refers to the drummer's choice of which voices to use to execute written rhyt `READ2`
+- [[Odd_Meter]] — Odd [[Meter|Meter]]. The term **Odd [[Meter|Meter]]** technically refers to any [[Time_Signature|time signature]] where the top number is odd `TECH1_2`
+- [[Off_the_Head_Bass_Drum_Stroke]] — Off-the-Head [[Bass_Drum|Bass Drum]] Stroke. The **Off-the-Head** stroke (also known as "unburying the beater") is a technique where the beater is allowed to immedia `READ2`
+- [[Off_the_Head_Bass_Drum_Technique]] — Off-the-Head [[Bass_Drum_Technique|Bass Drum Technique]]. The "off-the-head" technique for the [[Bass_Drum]] involves allowing the beater to rebound immediately after striking th `Unit 6 - Chapter 2`
+- [[Off_the_Head_Stroke_(Bass_Drum)]] — Off the Head Stroke ([[Bass_Drum|Bass Drum]]) (低音鼓離頭擊打). 一種低音鼓擊打技巧，槌頭在每次擊打後「離開鼓面」（不埋入），即槌頭在每次擊打後都遠離鼓面。這使得鼓能產生更多共鳴，並有助於保持較低的音高。它是 [[Bass_Drum_Articulation_(Open)]] 的關鍵組成部分，需要練習 [ `Unit 3`
+- [[One-Drop_Groove]] — One-Drop [[Groove|Groove]]. The **One-Drop** is the most iconic rhythm in [[Reggae]] drumming, named after the song by Bob Marley and the Wailers. `READ2`
+- [[One-Handed_16ths]]. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 3 中涵蓋的打擊樂技巧，專注於單手演奏 16 分音符。 `Unit 3`
+- [[One-Handed_16ths_(Technique)]] — [[One-Handed_16ths|One-Handed 16ths]] (Technique). [[One-Handed_16ths]] is a drumming technique introduced in Unit 3 of "[[Drum_Performance_1_(Book)]]". `Unit 3`
+- [[Open_Hi-Hat]]. The [[Open_Hi-Hat]] technique involves striking the [[Hi-Hat]] cymbals while they are partially or fully open, producing `Uncategorized`
+- [[Open_Non-Buried_Bass_Drum_Technique]] — Open Non-Buried [[Bass_Drum_Technique|Bass Drum Technique]]. The [[Open_Non-Buried_Bass_Drum_Technique]] involves striking the [[Bass_Drum|bass drum]] head with the beater and immed `Unit 4 - Chapter 1`
+- [[Opening_and_Closing_the_Hi-Hat]] — Opening and Closing the [[Hi-Hat|Hi-Hat]]. This technique involves using the [[Hi-Hat|hi-hat]] foot pedal to create a "bark" or sustained wash on specific subdivis `TECH1_2`
+- [[Orchestrating_Ensemble_Figures]] — Orchestrating [[Ensemble_Figures|Ensemble Figures]]. When reading a drum [[Chart|chart]], "orchestration" refers to the drummer's choice of which voices to use to execute wr `READ2`
 - [[Ostinato_Based_Drum_Soloing]] — Ostinato-Based Drum Soloing. **Ostinato-Based Drum Soloing** is a compositional approach to the drum set where one or more limbs play a repeating rhy `TECH3_4`
 - [[Ostinato_Based_Reading]] — Ostinato-Based Reading. An **Ostinato** is a repeating rhythmic or melodic pattern. `READ1`
 - [[Ostinato_Reading_Technique]]. **Ostinato Reading** is a foundational coordination method where a student maintains a repetitive rhythmic pattern (the  `READ1`
-- [[Outward Paradiddle]]. The [[Outward Paradiddle]] is one of the four basic [[Paradiddle]] variations, presenting a distinct [[Sticking Patterns `Unit 8: Single Paradiddle`
-- [[Over_the_Bar_Groove_Technique]] — Over-the-Bar Groove Technique. **Over-the-Bar** playing refers to the use of repeated musical phrases—usually grouped in odd numbers or syncopated valu `TECH3_4`
-- [[Over_the_Bar_Phrasing]] — Over-the-Bar Phrasing. Over-the-bar phrasing occurs when a rhythmic motif or grouping (such as a [[Odd Groupings|grouping of three]]) does not  `TECH1_2`
+- [[Outward_Paradiddle]]. The [[Outward_Paradiddle]] is one of the four basic [[Paradiddle]] variations, presenting a distinct [[Sticking_Patterns `Unit 8: [[Single_Paradiddle|Single Paradiddle]]`
+- [[Over_the_Bar_Groove_Technique]] — Over-the-Bar [[Groove|Groove]] Technique. **Over-the-Bar** playing refers to the use of repeated musical phrases—usually grouped in odd numbers or syncopated valu `TECH3_4`
+- [[Over_the_Bar_Phrasing]] — Over-the-Bar [[Phrasing|Phrasing]]. Over-the-bar [[Phrasing|phrasing]] occurs when a rhythmic motif or grouping (such as a [[Odd_Groupings|grouping of three `TECH1_2`
 - [[Over_the_Bar_Rhythmic_Patterns]] — Over-the-Bar Rhythmic Patterns. To play **"Over the Bar"** means to execute a repeated musical phrase—usually grouped in an odd number of beats or subdi `READ1`
 ### P
 - [[Pad_Triggering_and_Loop_Management]]. Modern performance often requires the integration of electronic elements, such as starting and stopping loops or trigger `TECH1_2`
-- [[Paradiddle-diddle]]. The [[Paradiddle-diddle]] is a six-note drum rudiment that combines elements of the [[Single Paradiddle]] and [[Double S `Unit 8`
-- [[Paradiddle]]. The [[Paradiddle]] is one of the most fundamental and widely recognized drum rudiments, belonging to the [[Diddles_Rudim `Unit 4 - Chapter 1`
-- [[Paradiddle_Drumset_Mobility]]. The **Paradiddle** (RLRR LRLL) is uniquely suited for the drumset because it combines single and double strokes while na `READ2`
-- [[Partial_Beams]]. **Partial Beams** are a specific notation convention used in [[Sheet Music]] to clearly indicate the duration of [[16th  `Unit 4 - Chapter 2`
-- [[Particular_Guitar_Riff_and_Chord_Structure]]. In musical forms like the `[[ABAB 32-Bar Form]]`, sections are not only defined by a `[[Different Rhythm (or Groove)]]`  `Unit 4 - Chapter 1`
-- [[Pedal_Spring_Tension]]. **Pedal Spring Tension** refers to the adjustment of the recoil springs on a bass drum pedal. `MI_CURR`
+- [[Paradiddle-diddle]] — [[Paradiddle|Paradiddle]]-diddle. The [[Paradiddle-diddle]] is a six-note drum rudiment that combines elements of the [[Single_Paradiddle]] and [[Double_S `Unit 8`
+- [[Paradiddle]]. The [[Paradiddle]] is one of the most fundamental and widely recognized drum [[Rudiments|rudiments]], belonging to the [ `Unit 4 - Chapter 1`
+- [[Paradiddle_Drumset_Mobility]] — [[Paradiddle|Paradiddle]] [[Drumset_Mobility|Drumset Mobility]]. The **[[Paradiddle|Paradiddle]]** (RLRR LRLL) is uniquely suited for the drumset because it combines single and [[Double `READ2`
+- [[Partial_Beams]]. **Partial Beams** are a specific notation convention used in [[Sheet_Music]] to clearly indicate the [[Duration|duration `Unit 4 - Chapter 2`
+- [[Particular_Guitar_Riff_and_Chord_Structure]]. In musical forms like the `[[ABAB_32-Bar_Form]]`, sections are not only defined by a `[[Different_Rhythm_(or_Groove)]]`  `Unit 4 - Chapter 1`
+- [[Pedal_Spring_Tension]]. **Pedal Spring Tension** refers to the adjustment of the recoil springs on a [[Bass_Drum|bass drum]] pedal. `MI_CURR`
 - [[Percussion_Clef]]. The Percussion Clef, also referred to as the **Neutral Clef**, is a specialized [[Clef_Music_Notation|clef]] used in [[M `Unit 1`
 - [[Percussion_Emulation]] — Percussion Emulation on Drum Set. Percussion emulation is the art of using the standard drum set to replicate the textures and rhythms of a traditional pe `READ2`
-- [[Performance Notes and Sound]]. "[[Performance Notes and Sound]]" is a recurring section in each unit of "[[Drum Performance 1 (Book)]]", providing guid `Uncategorized`
-- [[Performance_Notes_and_Sound_Unit_8]] — Performance Notes and Sound (Unit 8). This section provides critical `[[Performance Notes]]` and guidance on achieving the correct `[[Drum Sound]]` for the `[ `Unit 8 Chapter 2`
+- [[Performance_Notes_and_Sound]]. "[[Performance_Notes_and_Sound]]" is a recurring section in each unit of "[[Drum_Performance_1_(Book)]]", providing guid `Uncategorized`
+- [[Performance_Notes_and_Sound_Unit_8]] — [[Performance_Notes_and_Sound|Performance Notes and Sound]] (Unit 8). This section provides critical `[[Performance_Notes]]` and guidance on achieving the correct `[[Drum_Sound]]` for the `[ `Unit 8 Chapter 2`
 - [[Performance_Notes_Unit_7]] — Performance Notes (Unit 7). These performance notes provide a review of key sound elements and introduce how grooves will be assigned and orchestrat `Unit 7 - Chapter 2`
-- [[Phrase_Integration_Methods]]. To bridge the gap between technical [[Sight Reading]] and musical performance, the curriculum utilizes five specific met `READ1`
-- [[Phrase_Interpretation]]. **Phrase Interpretation** (or Phrasing) is the art of deciding which notes in a sequence require a [[Set-up Fill]] and w `READ3`
-- [[Phrase_Lengths_in_12_Bar_Blues]] — Phrase Lengths in 12-Bar Blues. In the context of a [[12_Bar_Blues_Structure]], musical phrases can vary in length, even within a repeating 12-bar form. `Unit 6 - Chapter 1`
-- [[Phrasing_Drum_Set]] — Phrasing (Drum Set). **Phrasing** on the drum set is the application of rhythmic patterns across multiple surfaces (snare, toms, cymbals) to  `READ1`
-- [[Pivot_Bar]]. A **Pivot Bar** is a structural device in music where a single measure serves two functional roles simultaneously within `READ2`
-- [[Playing Accented and Un-accented Notes (Cymbal)]] — Playing Accented and Un-accented Notes (Cymbal) (鈸重音與非重音音符演奏). 在鈸上連續演奏重音和非重音音符的技巧：
-- 對於響亮（重音）音符，使用手腕 ([[Accented Note Technique (Cymbal)]])。
+- [[Phrase_Integration_Methods]]. To bridge the gap between technical [[Sight_Reading]] and musical performance, the curriculum utilizes five specific met `READ1`
+- [[Phrase_Interpretation]]. **Phrase Interpretation** (or [[Phrasing|Phrasing]]) is the art of deciding which notes in a sequence require a [[Set-up `READ3`
+- [[Phrase_Lengths_in_12_Bar_Blues]] — Phrase Lengths in 12-Bar [[Blues|Blues]]. In the context of a [[12_Bar_Blues_Structure]], musical phrases can vary in length, even within a repeating 12-bar form. `Unit 6 - Chapter 1`
+- [[Phrasing]]. Phrasing (or [[Phrase_Interpretation|Phrase Interpretation]]) relates to the manner in which individual notes of a parti `READ1`
+- [[Phrasing_Drum_Set]] — [[Phrasing|Phrasing]] (Drum Set). **[[Phrasing|Phrasing]]** on the drum set is the application of rhythmic patterns across multiple surfaces (snare, toms, `READ1`
+- [[Pivot_Bar]]. A **Pivot Bar** is a structural device in music where a single [[Measure|measure]] serves two functional roles simultane `READ2`
+- [[Playing_Accented_and_Un-accented_Notes_(Cymbal)]] — Playing Accented and Un-accented Notes (Cymbal) (鈸重音與非重音音符演奏). 在鈸上連續演奏重音和非重音音符的技巧：
+- 對於響亮（重音）音符，使用手腕 ([[Accented_Note_Technique_(Cymbal)]])。
 - 對於安靜（非重音）音符，使用手指（帶有部分手腕擊打）放下鼓棒 ([[Un-acc `Unit 2`
-- [[Playing Surface Switch]]. A "Playing Surface Switch" refers to the act of changing the primary drum or cymbal being used for time-keeping or groov `Unit 5 - Chapter 1`
-- [[Playing_Behind_the_Beat]]. Playing "behind the beat" (or "behind the click") is a stylistic choice used to create a relaxed, "fat," or "laid-back"  `TECH3_4`
-- [[Pop-Rock (Drumming Style)]]. [[Pop-Rock]] is a drumming style introduced in Unit 1 of "[[Drum Performance 1 (Book)]]". `Unit 1`
-- [[Pop-Rock Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 1 中介紹的入門打擊樂風格。 `Unit 1`
-- [[Pop-Rock_Drumming]]. Modern **Pop-Rock drumming** focuses on precise grooves, a definitive backbeat, and polished production. `TECH1_2`
-- [[Practical_Uses_of_Dotted_Notes]]. The application of [[Dotted Notes]] (and [[Ties]]) in musical notation is guided by three main factors:
+- [[Playing_Behind_the_Beat]] — Playing Behind the [[Beat|Beat]]. Playing "behind the [[Beat|beat]]" (or "behind the click") is a stylistic choice used to create a relaxed, "fat," or "la `TECH3_4`
+- [[Playing_Surface_Switch]]. A "Playing Surface Switch" refers to the act of changing the primary drum or cymbal being used for time-keeping or [[Gro `Unit 5 - Chapter 1`
+- [[Pop-Rock_Drumming]] — Pop-[[Rock|Rock]] Drumming. **Pop-[[Rock|Rock]]** is a broad genre focused on catchy melodies, [[Rock|rock]] instrumentation, and a precise, polishe
+- [[Practical_Uses_of_Dotted_Notes]]. The application of [[Dotted_Notes]] (and [[Ties]]) in musical notation is guided by three main factors:
 1. `Unit 9 Chapter 2`
-- [[Practice Suggestions (Drumming)]] — Practice Suggestions (Drumming) (打擊樂練習建議). 有效打擊樂練習的一般建議，包括：
-- 記住術語。
-- 使用節拍器練習圖表律動（例如，每天 20 分鐘，100 和 120 BPM）。
-- 每天跟隨伴奏音軌練習兩次。
-- 徹底閱讀課程。
-- 通過錄製自己來發展 [[Stylistically `Unit 2`
-- [[Practice_Suggestions]]. Effective practice is crucial for drumming development. `Uncategorized`
-- [[Practice_Suggestions_IMG_0556]] — Practice Suggestions (IMG_0556). Effective practice is crucial for developing [[Drum_Technique_50]]. `Drum Technique 50`
-- [[Practice_Suggestions_Unit_4]] — Practice Suggestions (Unit 4). This section provides comprehensive [[Practice]] guidelines for students in [[Unit 4]] to maximize their learning and sk `Unit 4`
-- [[Practice_Suggestions_Unit_6]] — Practice Suggestions (Unit 6). Effective practice is crucial for developing drumming skills. `Unit 6 - Chapter 3`
-- [[Practice_Suggestions_Unit_6_Chapter_3]] — Practice Suggestions (Unit 6 - Chapter 3). This section outlines homework assignments and general practice suggestions to reinforce the concepts covered in [[Unit  `Unit 6 - Chapter 3`
-- [[Practice_Suggestions_Unit_7]] — Practice Suggestions (Unit 7). These practice suggestions provide a structured approach to mastering the material in Unit 7, Chapter 3. `Unit 7 Chapter 3`
-- [[Practice_Suggestions_Unit_7_Shuffle]] — Practice Suggestions (Unit 7 Shuffle). Effective practice is key to mastering the concepts in Unit 7, particularly the [[Shuffle]] and [[12-Bar Blues]]. `Unit 7 Chapter 3`
-- [[Practice_Suggestions_Unit_8]] — Practice Suggestions (Unit 8). These `[[Practice Suggestions]]` for Unit 8, Chapter 3, emphasize a comprehensive approach to mastering `[[Funk-Rock]]`  `Unit 8 Chapter 3`
-- [[Practice_Suggestions_Unit_8_Funk-Rock]] — Practice Suggestions (Unit 8 Funk-Rock). Effective practice is crucial for mastering the concepts and techniques introduced in Unit 8, which focuses on [[Funk-Ro `Unit 8 Chapter 3`
-- [[Practicing_3_4_Time]] — Practicing 3/4 Time. Developing a strong `[[3/4 Time Feel]]` is crucial for drummers. `Unit 9 Chapter 1`
+- [[Practice_Suggestions]]. Effective practice is crucial for drumming development. `[READ1, READ2]`
+- [[Practice_Suggestions_IMG_0556]] — [[Practice_Suggestions|Practice Suggestions]] (IMG_0556). Effective practice is crucial for developing [[Drum_Technique_50]]. `Drum Technique 50`
+- [[Practice_Suggestions_Unit_4]] — [[Practice_Suggestions|Practice Suggestions]] (Unit 4). This section provides comprehensive [[Practice]] guidelines for students in [[Unit_4]] to maximize their learning and sk `Unit 4`
+- [[Practice_Suggestions_Unit_6]] — [[Practice_Suggestions|Practice Suggestions]] (Unit 6). Effective practice is crucial for developing drumming skills. `Unit 6 - Chapter 3`
+- [[Practice_Suggestions_Unit_6_Chapter_3]] — [[Practice_Suggestions|Practice Suggestions]] (Unit 6 - Chapter 3). This section outlines homework assignments and general [[Practice_Suggestions|practice suggestions]] to reinforce the co `Unit 6 - Chapter 3`
+- [[Practice_Suggestions_Unit_7]] — [[Practice_Suggestions|Practice Suggestions]] (Unit 7). These [[Practice_Suggestions|practice suggestions]] provide a structured approach to mastering the material in Unit 7, C `Unit 7 Chapter 3`
+- [[Practice_Suggestions_Unit_7_Shuffle]] — [[Practice_Suggestions|Practice Suggestions]] (Unit 7 Shuffle). Effective practice is key to mastering the concepts in Unit 7, particularly the [[Shuffle]] and [[12-Bar_Blues]]. `Unit 7 Chapter 3`
+- [[Practice_Suggestions_Unit_8]] — Practice Suggestions (Unit 8). These `[[Practice_Suggestions]]` for Unit 8, Chapter 3, emphasize a comprehensive approach to mastering `[[Funk_Rock]]`  `Unit 8 Chapter 3`
+- [[Practice_Suggestions_Unit_8_Funk-Rock]] — [[Practice_Suggestions|Practice Suggestions]] (Unit 8 [[Funk|Funk]]-[[Rock|Rock]]). Effective practice is crucial for mastering the concepts and techniques introduced in Unit 8, which focuses on [[Funk_Ro `Unit 8 Chapter 3`
+- [[Practicing_3_4_Time]] — Practicing 3/4 Time. Developing a strong `[[3/4_Time_Feel]]` is crucial for drummers. `Unit 9 Chapter 1`
 - [[Practicing_Grooves_with_Metronome]]. Practicing [[Groove]] with a [[Metronome]] is an essential discipline for developing solid [[Timing]], consistency, and  `Uncategorized`
 - [[Practicing_with_Play_Along_Tracks]] — Practicing with Play-Along Tracks. Playing along to pre-recorded tracks is an invaluable method for developing musicality, learning to interact with other  `Uncategorized`
 - [[Pre-Chorus]]. The "Pre-Chorus" is a distinct section in a song's structure that serves as a transitional bridge, specifically designed `Unit 5 - Chapter 1`
-- [[Prep_Notes]]. **Prep notes** are subtle, often unwritten (or lightly ghosted) [[Bass Drum]] hits used to stabilize the drummer's balan `READ3`
+- [[Prep_Notes]]. **Prep notes** are subtle, often unwritten (or lightly ghosted) [[Bass_Drum]] hits used to stabilize the drummer's balan `READ3`
 - [[Previous_Units_Lessons_Reminder]] — Previous Unit's Lessons Reminder. This section serves as a crucial reminder that all previously learned information and techniques from earlier units are  `Unit 4 - Chapter 1`
 - [[Progressive_Metal_Drumming]]. **Progressive Metal** (Prog Metal) is a sub-genre that fuses the intensity of heavy metal with the complexity of progres `TECH1_2`
-- [[Progressive_Metal_Foundations]]. Progressive Metal drumming requires a fusion of high-intensity execution and complex rhythmic architecture. `TECH1_2`
-- [[Punk-Pop_Drumming]]. **Punk-Pop** (or Pop-Punk) is a post-grunge sub-style of alternative rock. `READ2`
+- [[Progressive_Metal_Foundations]]. [[Progressive_Metal_Drumming|Progressive Metal drumming]] requires a fusion of high-intensity execution and complex rhyt `TECH1_2`
+- [[Pulse]]. Pulse is the "heartbeat" of a piece of music. `READ1`
+- [[Punk-Pop_Drumming]]. **Punk-Pop** (or Pop-Punk) is a post-grunge sub-style of alternative [[Rock|rock]]. `READ2`
 - [[Punk_Pop_Performance_Style]] — Punk-Pop Performance Style. The Punk-Pop style is characterized by high-energy, authoritative playing and clear structural shifts between song secti `READ2`
 ### Q
-- [[Quarter-Note_Triplets]]. [[Quarter-Note Triplets]] occur when a [[Quarter Note]] occupies the duration of two [[Eighth-Note Triplet Partials]]. `Unit 7 - Chapter 2`
-- [[Quarter_Note_Examples_Extended_Phrase]]. Similar to [[Half Note Examples Extended Phrase]], [[Dotted Quarter Note]]s can also form the basis of "over the bar" ph `Unit 9 Chapter 2`
-- [[Quarter_Note_Examples_Practical_Use]] — Quarter Note Examples (Practical Use). [[Dotted Quarter Note]]s, equivalent to three [[Eighth Note]]s (1.5 [[Beat]]s), are versatile tools for creating varied  `Unit 9 Chapter 2`
-- [[Quarter_Note_Triplets]] — Quarter-Note Triplets. Quarter-note triplets (also known as "half-note triplets" in some contexts, though technically three notes over the span `READ1`
-- [[Quarter_Notes]]. A **Quarter Note** (or crotchet) is a musical note played for one quarter of the duration of a [[Whole Note]]. `CORE`
-- [[Quarter_Notes_and_Eighth_Notes_Two-Bar_Phrases]] — Quarter Notes and Eighth Notes (Two-Bar Phrases). This topic focuses on developing fundamental [[Rhythm Reading]] skills by combining [[Quarter Notes]] and [[Eighth Notes `Unit 2 - Chapter 3`
+- [[Quarter_Note_Examples_Extended_Phrase]]. Similar to [[Half_Note_Examples_Extended_Phrase]], [[Dotted_Quarter_Note]]s can also form the basis of "over the bar" ph `Unit 9 Chapter 2`
+- [[Quarter_Note_Examples_Practical_Use]] — Quarter Note Examples (Practical Use). [[Dotted_Quarter_Note]]s, equivalent to three [[Eighth_Note]]s (1.5 [[Beat]]s), are versatile tools for creating varied  `Unit 9 Chapter 2`
+- [[Quarter_Note_Triplets]] — Quarter-Note [[Triplets|Triplets]]. Quarter-note [[Triplets|triplets]] (sometimes referred to as "half-note [[Triplets|triplets]]" in certain contexts, thou `READ1`
+- [[Quarter_Notes]]. A **Quarter Note** (or crotchet) is a musical note played for one quarter of the [[Duration|duration]] of a [[Whole_Note `CORE`
+- [[Quarter_Notes_and_Eighth_Notes_Two-Bar_Phrases]] — [[Quarter_Notes|Quarter Notes]] and [[Eighth_Notes|Eighth Notes]] (Two-Bar Phrases). This topic focuses on developing fundamental [[Rhythm_Reading]] skills by combining [[Quarter_Note]] and [[Eighth_Note]] `Unit 2 - Chapter 3`
 ### R
 - [[Rap-Metal_Drumming]]. Rap-Metal (or Nu-Metal) is a fusion style that emerged prominently in the 1990s and 2000s, combining the aggressive text `READ2`
-- [[RB_Drumming_Sound]] — R&B Drumming Sound. The classic R&B sound is characterized by a warm, blended texture where no single voice—[[Bass Drum]], [[Snare Drum]], o `READ2`
-- [[RB_Funk_Drumming]] — R&B 16th-Note Funk. R&B Funk is a sub-style of R&B that rose to prominence between the mid-1960s and mid-1970s. `TECH1_2`
+- [[RB_Drumming_Sound]] — R&B Drumming Sound. The classic R&B sound is characterized by a warm, blended texture where no single voice—[[Bass_Drum]], [[Snare_Drum]], o `READ2`
+- [[RB_Funk_Drumming]] — R&B 16th-Note [[Funk|Funk]]. R&B [[Funk|Funk]] is a sub-style of R&B that rose to prominence between the mid-1960s and mid-1970s. `TECH1_2`
 - [[RB_Pop_Ballad]] — R&B-Pop Ballad. The **R&B-Pop Ballad** is a foundational style in contemporary drumming, characterized by a deep pocket and specific tex `READ2`
 - [[RB_Pop_Ballad_Style]] — R&B-Pop Ballad Style. The R&B-Pop Ballad is a genre defined by romantic narratives, slow tempos, and a specific rhythmic "pocket." This curric `READ2`
-- [[Reading Drum Charts (Performance)]]. 在理解了演奏方法後，現在你知道每個樂段都是八小節長。這意味著你不必一直盯著樂譜，閱讀每一個時間斜線標記和重複記號。你應該能夠每四到五小節隨意地看一眼樂譜，以「檢查」並保持你的位置。這不僅有助於你專注於前面描述的「正確聲音」，還能讓你專注於你 `Chapter 2`
-- [[Rebound_Stroke]]. The [[Rebound Stroke]] refers to the natural phenomenon where a [[Drumstick]] bounces back after striking a drumhead or  `Unit 1 - Chapter 2`
+- [[Reading_Drum_Charts_(Performance)]]. 在理解了演奏方法後，現在你知道每個樂段都是八小節長。這意味著你不必一直盯著樂譜，閱讀每一個時間斜線標記和重複記號。你應該能夠每四到五小節隨意地看一眼樂譜，以「檢查」並保持你的位置。這不僅有助於你專注於前面描述的「正確聲音」，還能讓你專注於你 `Chapter 2`
+- [[Rebound_Stroke]]. The [[Rebound_Stroke]] refers to the natural phenomenon where a [[Drumstick]] bounces back after striking a drumhead or  `Unit 1 - Chapter 2`
 - [[Recording_for_Stylistic_Sound_Development]]. A crucial [[Practice]] suggestion for drummers is to record themselves in the practice room and during class. `Unit 4`
 - [[Recording_Practice_Sessions]]. Recording your practice sessions is a powerful tool for self-assessment and accelerating your progress as a drummer. `Uncategorized`
 - [[Recovery_Action]]. **Recovery Action** refers to the technical and mental process of returning to a stable [[Groove]] immediately after exe `READ3`
 - [[Reggae]]. **Reggae** is a genre developed in Jamaica during the late 1960s. `READ2`
-- [[Reggae_Balance_of_Sound]]. The "player's mix" for [[Reggae]] is a variation of the standard Pop-Rock balance, with specific adjustments for the sna `READ2`
-- [[Rehearsal Letters]] — Rehearsal Letters (排練字母). 在 [[Eight-Bar Phrase]] 中，每個額外的樂段（新的八小節樂句）都用字母（例如 A 或 B）標記。每個 [[Rehearsal Letters]] 代表歌曲的不同部分，也可以代表關鍵的音樂屬性，例如不同的結構。 `Unit One Chapter 1`
-- [[Rehearsal Mark]]. A "Rehearsal Mark" is a letter (e.g., A, B, C) or sometimes a number, placed prominently in sheet music to designate spe `Unit 5 - Chapter 1`
-- [[Rehearsal_Letters_II_Augmented_Rehearsal_Letters]] — Rehearsal Letters II (Augmented Rehearsal Letters). [[Rehearsal Letters]] are standard notation tools used to mark different sections of a song, aiding in communication dur `Unit 4 - Chapter 1`
-- [[Rehearsal_Letters_in_12_Bar_Blues]] — Rehearsal Letters in 12-Bar Blues. In musical charts, [[Rehearsal Letters]] (or numbers) are used to mark specific sections, aiding in navigation and commu `Unit 6 - Chapter 1`
-- [[Repeat Signs]] — Repeat Signs (重複記號). 為了避免重複書寫兩個相同的 [[Eight-Bar Phrase]]，可以使用開始和結束的 [[Repeat Signs]] 來標記相同樂句的額外使用。因此，當到達第八個小節時，你將立即「重複」（返回）到該樂句的第一個小節。 `Unit One Chapter 1`
-- [[Repeat_Sign]]. A repeat sign is a common symbol in [[Music Notation]] that indicates a section of music should be played again. `Unit 1`
-- [[Rest and Release (Bass Drum Technique)]] — Rest and Release (Bass Drum Technique) (低音鼓休息與釋放技巧). 一種低音鼓技巧，腳和槌頭在擊打之間都休息和釋放。這對於控制低音鼓槌頭、避免 [[Felt-Flutter (Bass Drum)]] 以及讓鼓完全共鳴至關重要，尤其是在執行 [[Off the Head Stroke (Bass Drum) `Unit 3`
-- [[Rest_Subdivisions_in_2_4_Time]] — Rest Subdivisions in 2/4 Time. Just as with [[Note Values]], understanding how different [[Rest Values]] subdivide within a [[Measure]] of [[2_4_Time_S `Unit 10 Chapter 1`
-- [[Rest_Subdivisions_in_3_4_Time]] — Rest Subdivisions in 3/4 Time. Just as with [[Note Values]], understanding how different [[Rest Values]] subdivide within a [[Measure]] of [[3_4_Time_S `Unit 10 Chapter 2`
-- [[Rests]]. While [[Note Value|note heads]] indicate when to play a rhythm or produce a sound, **Rests** indicate when there should  `Unit 1 Chapter 2`
-- [[Reverse Paradiddle]]. The [[Reverse Paradiddle]] is another fundamental variation of the [[Paradiddle]] [[Rudiment]], characterized by a [[Sti `Unit 8: Single Paradiddle`
-- [[Rhythmic Value Tree (Notes)]]. The [[Rhythmic Value Tree (Notes)]] illustrates the hierarchical relationship between different note durations, demonstr `Unit 2 - Chapter 1`
-- [[Rhythmic Value Tree (Rests)]]. Just as there is a hierarchy for note durations, there is a parallel [[Rhythmic Value Tree (Rests)]] that illustrates th `Unit 2 - Chapter 1`
+- [[Reggae_Balance_of_Sound]]. The "player's mix" for [[Reggae]] is a variation of the standard Pop-[[Rock|Rock]] balance, with specific adjustments fo `READ2`
+- [[Rehearsal_Letters]] — Rehearsal Letters (排練字母). 在 [[Eight-Bar_Phrase]] 中，每個額外的樂段（新的八小節樂句）都用字母（例如 A 或 B）標記。每個 [[Rehearsal_Letters]] 代表歌曲的不同部分，也可以代表關鍵的音樂屬性，例如不同的結構。 `Unit One Chapter 1`
+- [[Rehearsal_Letters_II_Augmented_Rehearsal_Letters]] — [[Rehearsal_Letters|Rehearsal Letters]] II (Augmented [[Rehearsal_Letters|Rehearsal Letters]]). [[Rehearsal_Letters]] are standard notation tools used to mark different sections of a song, aiding in communication dur `Unit 4 - Chapter 1`
+- [[Rehearsal_Letters_in_12_Bar_Blues]] — [[Rehearsal_Letters|Rehearsal Letters]] in 12-Bar [[Blues|Blues]]. In musical charts, [[Rehearsal_Letters]] (or numbers) are used to mark specific sections, aiding in navigation and commu `Unit 6 - Chapter 1`
+- [[Rehearsal_Mark]]. A "Rehearsal Mark" is a letter (e.g., A, B, C) or sometimes a number, placed prominently in sheet music to designate spe `Unit 5 - Chapter 1`
+- [[Repeat_Sign]]. A repeat sign is a common symbol in [[Music_Notation]] that indicates a section of music should be played again. `Unit 1`
+- [[Repeat_Signs]] — Repeat Signs (重複記號). 為了避免重複書寫兩個相同的 [[Eight-Bar_Phrase]]，可以使用開始和結束的 [[Repeat_Signs]] 來標記相同樂句的額外使用。因此，當到達第八個小節時，你將立即「重複」（返回）到該樂句的第一個小節。 `Unit One Chapter 1`
+- [[Rest_and_Release_(Bass_Drum_Technique)]] — Rest and Release ([[Bass_Drum_Technique|Bass Drum Technique]]) (低音鼓休息與釋放技巧). 一種低音鼓技巧，腳和槌頭在擊打之間都休息和釋放。這對於控制低音鼓槌頭、避免 [[Felt-Flutter_(Bass_Drum)]] 以及讓鼓完全共鳴至關重要，尤其是在執行 [[Off_the_Head_Stroke_(Bass_Drum) `Unit 3`
+- [[Rest_Subdivisions_in_2_4_Time]] — Rest Subdivisions in 2/4 Time. Just as with [[Note_Values]], understanding how different [[Rest_Values]] subdivide within a [[Measure]] of [[2_4_Time_S `Unit 10 Chapter 1`
+- [[Rest_Subdivisions_in_3_4_Time]] — Rest Subdivisions in 3/4 Time. Just as with [[Note_Values]], understanding how different [[Rest_Values]] subdivide within a [[Measure]] of [[3_4_Time_S `Unit 10 Chapter 2`
+- [[Rests]]. While [[Note_Value|note heads]] indicate when to play a rhythm or produce a sound, **Rests** indicate when there should  `Unit 1 Chapter 2`
+- [[Reverse_Paradiddle]]. The [[Reverse_Paradiddle]] is another fundamental variation of the [[Paradiddle]] [[Rudiment]], characterized by a [[Sti `Unit 8: Single Paradiddle`
+- [[Rhythm_Reading]]. Rhythm Reading is the study of interpreting and executing musical notation on the drum set. `TECH1_2`
 - [[Rhythmic_Abbreviations_32nd_Notes]] — Rhythmic Abbreviations (32nd Notes). In professional drum charts and hand-written scores, composers often use **rhythmic abbreviations** to simplify the appe `READ4`
 - [[Rhythmic_Illusion]]. A **Rhythmic Illusion** occurs when a drummer superimposes a rhythmic grouping over an existing template to create the a `TECH1_2`
-- [[Rhythmic_Orchestration]]. Rhythmic Orchestration is the process of moving rhythms originally written for a single surface (like the [[Snare Drum]] `READ1`
-- [[Rhythmic_Permutations]]. [[Rhythmic Permutations]] refer to the various combinations and arrangements of notes and rests within a given rhythmic  `Unit 3 - Chapter 1`
-- [[Rhythmic_Shifting]]. **Rhythmic Shifting** is the ability to transition fluidly between different subdivisions of the beat. `READ1`
-- [[Rhythmic_Textures]]. `[[Rhythmic Textures]]` describe the overall feel, density, and complexity created by the combination of all rhythmic el `Unit 4 - Chapter 1`
-- [[Rhythmic_Value_Tree_Notes]] — Rhythmic Value Tree: Notes. The **Rhythmic Value Tree** illustrates the hierarchical and proportional relationships between different [[Rhythmic Val `Unit 1 Chapter 2`
-- [[Rhythmic_Value_Tree_Rests]] — Rhythmic Value Tree: Rests. The **Rhythmic Value Tree for Rests** mirrors the structure of the [[Rhythmic_Value_Tree_Notes]], illustrating the hiera `Unit 1 Chapter 2`
-- [[Rhythmic_Values]]. Rhythmic values define the duration of musical sounds (notes) and silences (rests). `Unit 1 Chapter 2`
-- [[Ride Cymbal Quarter-Note Accents]] — Ride Cymbal Quarter-Note Accents (Ride 鈸四分音符重音). 在 [[The B Groove]] 等律動中使用的技巧，其中四分音符脈衝（第 1、2、3、4 拍）在 [[Ride Cymbal]] 的 Bell 上加重音，而其餘音符則在鈸的 Body 上演奏。這涉及 [[Accented Note T `Unit 2`
-- [[Ride_Cymbal_Notation]] — Ride Cymbal (Notation). In [[Drum Set Notation Key]], the [[Ride Cymbal]] is notated with a distinct symbol to differentiate it from drums and o `Unit 1`
-- [[Ride_Cymbal_Technique]]. The [[Ride Cymbal]] is used to control the "sonic space" of a song, particularly during choruses and bridges. `READ2`
-- [[Riding_on_a_Crash_Cymbal]]. **Riding on a crash cymbal** is a technique used primarily in high-energy music like [[Hard Rock Drumming]] and [[Punk-P `READ2`
-- [[Riding_the_Floor_Tom]]. **Riding the Floor Tom** is an orchestration technique where the floor tom replaces the hi-hat or ride cymbal as the pri `TECH1_2`
+- [[Rhythmic_Orchestration]]. Rhythmic Orchestration is the process of moving rhythms originally written for a single surface (like the [[Snare_Drum]] `READ1`
+- [[Rhythmic_Permutations]]. [[Rhythmic_Permutations]] refer to the various combinations and arrangements of notes and [[Rests|rests]] within a given `Unit 3 - Chapter 1`
+- [[Rhythmic_Shifting]]. **Rhythmic Shifting** is the ability to transition fluidly between different subdivisions of the [[Beat|beat]]. `READ1`
+- [[Rhythmic_Textures]]. `[[Rhythmic_Textures]]` describe the overall feel, density, and complexity created by the combination of all rhythmic el `Unit 4 - Chapter 1`
+- [[Rhythmic_Value_Tree_(Notes)]]. The [[Rhythmic_Value_Tree_(Notes)]] illustrates the hierarchical relationship between different note durations, demonstr `Unit 2 - Chapter 1`
+- [[Rhythmic_Value_Tree_(Rests)]]. Just as there is a hierarchy for note durations, there is a parallel [[Rhythmic_Value_Tree_(Rests)]] that illustrates th `Unit 2 - Chapter 1`
+- [[Rhythmic_Value_Tree_Notes]] — Rhythmic Value Tree: Notes. The **Rhythmic Value Tree** illustrates the hierarchical and proportional relationships between different [[Rhythmic_Val `Unit 1 Chapter 2`
+- [[Rhythmic_Value_Tree_Rests]] — Rhythmic Value Tree: [[Rests|Rests]]. The **Rhythmic Value Tree for [[Rests|Rests]]** mirrors the structure of the [[Rhythmic_Value_Tree_Notes]], illustrating `Unit 1 Chapter 2`
+- [[Rhythmic_Values]]. Rhythmic values define the [[Duration|duration]] of musical sounds (notes) and silences ([[Rests|rests]]). `Unit 1 Chapter 2`
+- [[Ride_Cymbal]]. The **Ride Cymbal** is one of the most critical components of the drum set, serving as the primary timekeeping surface f `[READ1, READ2]`
+- [[Ride_Cymbal_Notation]] — Ride Cymbal (Notation). In [[Drum_Set_Notation_Key]], the [[Ride_Cymbal]] is notated with a distinct symbol to differentiate it from drums and o `Unit 1`
+- [[Ride_Cymbal_Technique]]. The [[Ride_Cymbal]] is the primary time-keeping cymbal used to control the "sonic space" and "energy" of a song.
+- [[Riding_on_a_Crash_Cymbal]]. **Riding on a crash cymbal** is a technique used primarily in high-energy music like [[Hard_Rock_Drumming]] and [[Punk-P `READ2`
+- [[Riding_the_Floor_Tom]]. **Riding the Floor Tom** is an orchestration technique where the floor tom replaces the [[Hi-Hat|hi-hat]] or [[Ride_Cymb `TECH1_2`
 - [[Right_Hand_Lead_Application]] — Right-Hand Lead Application. **Right-Hand Lead** is a sticking system where the right hand remains the primary driver of the rhythm, particularly use `READ1`
-- [[Right_Hand_Lead_Assigned_Sticking]] — Right Hand Lead (Assigned Sticking). In [[Assigned Sticking]], the concept of Right Hand Lead dictates that when playing a continuous stream of [[16th Note]] `Unit 6 - Chapter 1`
-- [[Right_Hand_Lead_Double_Strokes]] — Right Hand Lead (Double Strokes). Right Hand Lead (Double Strokes) is a specific application of the [[Double_Strokes_Lead_Method]] where the right hand co `Unit 6 - Chapter 2`
-- [[Right_Hand_Lead_Rules_and_Anomalies]] — Right-Hand Lead Rules and Anomalies. While the basic [[Right_Hand_Lead_Technique_16th_Notes]] follows a strict grid, musical phrasing often requires adjustme `READ1`
-- [[Right_Hand_Lead_Technique_16th_Notes]] — Right-Hand Lead Technique (16th Notes). **Right-Hand Lead** (RHL) is a rhythmic interpretation system where the right hand is responsible for playing all writte `READ1`
-- [[Right_Hand_Lead_Technique_Triplets]] — Right-Hand Lead Technique (Triplets). The **Right-Hand Lead (RHL) Triplet Technique** is a method for interpreting triplet-based rhythms (or swung eighth note `READ1`
-- [[Rimshot Execution]]. [[Rimshot]] 是透過同時擊打鼓頭中心和鼓框來實現的。許多鼓手誤以為 [[Rimshot]] 是用粗魯的手臂動作演奏的，但事實並非如此。實際上，當擊打從手腕開始並由手指結束時，[[Rimshot]] 的聲音最響亮（也最有效）。
+- [[Right_Hand_Lead_Assigned_Sticking]] — Right Hand Lead (Assigned Sticking). In [[Assigned_Sticking]], the concept of Right Hand Lead dictates that when playing a continuous stream of [[16th_Note]] `Unit 6 - Chapter 1`
+- [[Right_Hand_Lead_Double_Strokes]] — Right Hand Lead ([[Double_Strokes|Double Strokes]]). Right Hand Lead ([[Double_Strokes|Double Strokes]]) is a specific application of the [[Double_Strokes_Lead_Method]] wher `Unit 6 - Chapter 2`
+- [[Right_Hand_Lead_Rules_and_Anomalies]] — Right-Hand Lead Rules and Anomalies. While the basic [[Right_Hand_Lead_Technique_16th_Notes]] follows a strict grid, musical [[Phrasing|phrasing]] often requ `READ1`
+- [[Right_Hand_Lead_Technique_16th_Notes]] — Right-Hand Lead Technique ([[16th_Notes|16th Notes]]). **Right-Hand Lead** (RHL) is a rhythmic interpretation system where the right hand is responsible for playing all writte `READ1`
+- [[Right_Hand_Lead_Technique_Triplets]] — Right-Hand Lead Technique ([[Triplets|Triplets]]). The **Right-Hand Lead (RHL) Triplet Technique** is a method for interpreting triplet-based rhythms (or swung [[Eighth_No `READ1`
+- [[Rimshot]]. A [[Rimshot]] is a powerful [[Snare_Drum]] articulation produced by striking the rim and the head of the drum simultaneo `Uncategorized`
+- [[Rimshot_Execution]]. [[Rimshot]] 是透過同時擊打鼓頭中心和鼓框來實現的。許多鼓手誤以為 [[Rimshot]] 是用粗魯的手臂動作演奏的，但事實並非如此。實際上，當擊打從手腕開始並由手指結束時，[[Rimshot]] 的聲音最響亮（也最有效）。
 執行 `Chapter 2`
-- [[Rimshot]]. A [[Rimshot]] is a powerful [[Snare Drum]] articulation produced by striking the rim and the head of the drum simultaneo `Uncategorized`
-- [[Rimshot_Technique]]. The [[Rimshot Technique]] is a snare drum articulation where the drumstick simultaneously strikes two points: the drumhe `Unit 4 - Chapter 2`
-- [[Rock 'n' Roll]] — Rock 'n' Roll (搖滾樂). 「[[Rock 'n' Roll]]」常被用作一個通用術語，但其聲音風格卻很少是可預測的。從早期搖滾樂手融合鄉村音樂和藍調音樂開始，其能量、反叛精神和抓耳的旋律就定義了搖滾樂。因此，從 [[Chuck Berry]] 敲擊的三和弦搖滾樂、[ `Unit 2 - Chapter 1`
-- [[Rock Shuffle (Drumming Style)]]. [[Rock Shuffle]] is a drumming style introduced in Unit 10 of "[[Drum Performance 1 (Book)]]". `Unit 10`
-- [[Rock Shuffle Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 10 中介紹的入門打擊樂風格。 `Unit 10`
-- [[Rock_Shuffle]]. The [[Shuffle]] is a versatile rhythmic feel that can be applied across many musical styles. `Unit 10 - Chapter 1`
-- [[Rock_Shuffle_Form_Unit_10]] — Rock Shuffle Form (Unit 10). The structure of the rock shuffle tune in Unit 10 is relatively consistent harmonically, meaning the focus for the drumm `Unit 10 - Chapter 1`
-- [[Roll_Applications_Ensemble_Figures]] — Roll Applications in Ensemble Figures. Rolls are a vital resource for creating [[Set-up_Fill]] and sustaining the sound of an ensemble figure. `READ3`
-- [[Roll_Check_Patterns]]. Roll Check Patterns are diagnostic exercises used to ensure that [[Double Stroke Roll]]s are perfectly metered and rhyth `READ2`
-- [[Roll_Variations]]. [[Drum Rolls]] are fundamental [[Drum Rudiments]] that create a sustained sound on a drum. `Drum Technique 50`
-- [[Rolls_Rudiment_Family]] — Rolls (Rudiment Family). The [[Rolls_Rudiment_Family]] is one of the five [[Rudiment Families]] and encompasses rudiments designed to create a su `Unit 4 - Chapter 1`
-- [[Rudiment_Families]]. All of the drum rudiments, which are fundamental building blocks of [[Rudimental Drumming]], are categorized into five d `Unit 4 - Chapter 1`
-- [[Rudimental_Drumming]]. [[Rudimental Drumming]] refers to the practice and study of drum rudiments, which are fundamental patterns and exercises `Unit 4`
-- [[Rudimental_Recall]]. [[Rudimental Recall]] is a learning strategy emphasized in drumming education for solidifying new information in both th `Unit 6 - Chapter 2`
+- [[Rimshot_Technique]] — [[Rimshot|Rimshot]] Technique. The [[Rimshot_Technique]] is a [[Snare_Drum_Articulation|snare drum articulation]] where the [[Drumstick|drumstick]] sim `Unit 4 - Chapter 2`
+- [[Rock]]. Rock (or "[[Rock_'n'_Roll|Rock 'n' Roll]]") is a generically used term for a vast and unpredictable musical movement. `TECH1_2`
+- [[Rock_'n'_Roll]] — [[Rock|Rock]] 'n' Roll (搖滾樂). 「[[Rock_'n'_Roll]]」常被用作一個通用術語，但其聲音風格卻很少是可預測的。從早期搖滾樂手融合鄉村音樂和藍調音樂開始，其能量、反叛精神和抓耳的旋律就定義了搖滾樂。因此，從 [[Chuck_Berry]] 敲擊的三和弦搖滾樂、[ `Unit 2 - Chapter 1`
+- [[Rock_Shuffle]] — [[Rock|Rock]] Shuffle. The [[Shuffle]] is a versatile rhythmic feel that can be applied across many musical styles. `Unit 10 - Chapter 1`
+- [[Rock_Shuffle_Drumming]] — [[Rock_Shuffle|Rock Shuffle]] Drumming. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 10 中介紹的入門打擊樂風格。 `Unit 10`
+- [[Rock_Shuffle_Form_Unit_10]] — [[Rock|Rock]] [[Shuffle|Shuffle]] Form (Unit 10). The structure of the [[Rock|rock]] [[Shuffle|shuffle]] tune in Unit 10 is relatively consistent harmonically, meaning th `Unit 10 - Chapter 1`
+- [[Roll_Applications_Ensemble_Figures]] — Roll Applications in [[Ensemble_Figures|Ensemble Figures]]. Rolls are a vital resource for creating [[Set-up_Fill]] and sustaining the sound of an ensemble figure. `READ3`
+- [[Roll_Check_Patterns]] — Roll [[Check_Patterns|Check Patterns]]. Roll [[Check_Patterns|Check Patterns]] are diagnostic exercises used to ensure that [[Double_Stroke_Roll]]s are perfectl `READ2`
+- [[Roll_Variations]]. [[Drum_Rolls]] are fundamental [[Drum_Rudiments]] that create a sustained sound on a drum. `[[Drum_Technique_50|Drum Technique 50]]`
+- [[Rolls_Rudiment_Family]] — Rolls (Rudiment Family). The [[Rolls_Rudiment_Family]] is one of the five [[Rudiment_Families]] and encompasses [[Rudiments|rudiments]] designed  `Unit 4 - Chapter 1`
+- [[Rudiment_Families]]. All of the drum [[Rudiments|rudiments]], which are fundamental building blocks of [[Rudimental_Drumming]], are categoriz `Unit 4 - Chapter 1`
+- [[Rudimental_Drumming]]. [[Rudimental_Drumming]] refers to the practice and study of drum [[Rudiments|rudiments]], which are fundamental patterns `Unit 4`
+- [[Rudimental_Recall]]. [[Rudimental_Recall]] is a learning strategy emphasized in drumming education for solidifying new information in both th `Unit 6 - Chapter 2`
+- [[Rudiments]]. A Drum Rudiment is a fundamental rhythmic pattern or sticking sequence used to build physical coordination, speed, and m `TECH1_4`
 - [[Ruff_Rudiment]] — Ruff (Rudiment). A **Ruff** (often referred to as a single-stroke roll variation) consists of a series of short, rapid notes leading into `READ2`
-- [[Ruffs_Rudiment_Family]] — Ruffs (Rudiment Family). The [[Ruffs_Rudiment_Family]] is one of the five [[Rudiment Families]] and consists of rudiments characterized by a shor `Unit 4 - Chapter 1`
+- [[Ruffs_Rudiment_Family]] — Ruffs (Rudiment Family). The [[Ruffs_Rudiment_Family]] is one of the five [[Rudiment_Families]] and consists of [[Rudiments|rudiments]] character `Unit 4 - Chapter 1`
 ### S
 - [[Samba_Drum_Set]] — Samba (Drum Set). The **Samba** is a high-energy dance rhythm from Brazil with African roots. `TECH1_2`
-- [[Seat_Height_(Drumming)]]. [[Seat Height (Drumming)]] refers to the vertical adjustment of the [[Drum Seat]] (throne) and is a fundamental aspect o `Unit 3`
-- [[Seat_Height_Drumming]] — Seat Height (Drumming). Proper [[Seat Height (Drumming)]] is a critical ergonomic factor that significantly impacts a drummer's comfort, techniq `Unit 3 - Chapter 5`
-- [[Seated_Balance_Technique_for_Hi-Hat_and_Bass_Drum]]. Proper [[Seated Balance]] is a foundational aspect of effective [[Drum_Technique_50]], particularly for optimizing [[Foo `Drum Technique 50`
-- [[Second-Finger_Fulcrum]]. The Second-Finger Fulcrum is an alternative to the traditional [[Thumb and Forefinger Fulcrum]] where the stick's pivot  `Unit 2 - Chapter 4`
-- [[Second_Ending_Fill_Unit_9]] — Second Ending Fill (Unit 9). A specific fill is provided for the [[B_Section_Endings_Unit_9|second ending]] of the B section, with suggested sticking `Unit 9 - Chapter 2`
+- [[Seat_Height_(Drumming)]]. [[Seat_Height_(Drumming)]] refers to the vertical adjustment of the [[Drum_Seat]] (throne) and is a fundamental aspect o `Unit 3`
+- [[Seat_Height_Drumming]] — Seat Height (Drumming). Proper [[Seat_Height_(Drumming)]] is a critical ergonomic factor that significantly impacts a drummer's comfort, techniq `Unit 3 - Chapter 5`
+- [[Seated_Balance_Technique_for_Hi-Hat_and_Bass_Drum]] — Seated Balance Technique for [[Hi-Hat|Hi-Hat]] and [[Bass_Drum|Bass Drum]]. Proper [[Seated_Balance]] is a foundational aspect of effective [[Drum_Technique_50]], particularly for optimizing [[Foo `Drum Technique 50`
+- [[Second-Finger_Fulcrum]] — Second-Finger [[Fulcrum|Fulcrum]]. The Second-Finger [[Fulcrum|Fulcrum]] is an alternative to the traditional [[Thumb_and_Forefinger_Fulcrum]] where the st `Unit 2 - Chapter 4`
+- [[Second_Ending_Fill_Unit_9]] — Second Ending [[Fill|Fill]] (Unit 9). A specific [[Fill|fill]] is provided for the [[B_Section_Endings_Unit_9|second ending]] of the B section, with suggested `Unit 9 - Chapter 2`
 - [[Sequential_Ties]]. **Sequential ties** refer to the practice of tying together more than two notes in a continuous chain. `Unit 8 Chapter 2`
-- [[Set-up_Fill]]. A **Set-up Fill** is a rhythmic interjection played by the drummer to signal an upcoming [[Ensemble Figures]] to the res `READ3`
-- [[Set_up_Fills]] — Set-up Fills. A **Set-up Fill** is a short rhythmic statement played by the drummer immediately preceding an [[Ensemble_Figure_Interpr `READ3`
-- [[Setting_Up_the_ah_of_a_Beat]] — Setting Up the "ah" of a Beat. Ensemble figures landing on the "ah" of a beat (the fourth 16th note) are technically referred to as **"pushes."** This  `READ3`
-- [[Setting_Up_the_e_of_a_Beat]] — Setting Up the "e" of a Beat. In [[Ensemble Figures]] reading, notes landing on the "e" of a beat (the second 16th note) require a clear **target beat `READ3`
+- [[Set-up_Fill]] — Set-up [[Fill|Fill]]. A **Set-up [[Fill|Fill]]** is a rhythmic interjection played by the drummer to signal an upcoming [[Ensemble_Figures]] t `READ3`
+- [[Setting_Up_the_ah_of_a_Beat]] — Setting Up the "ah" of a [[Beat|Beat]]. [[Ensemble_Figures|Ensemble figures]] landing on the "ah" of a [[Beat|beat]] (the fourth 16th note) are technically refe `READ3`
+- [[Setting_Up_the_e_of_a_Beat]] — Setting Up the "e" of a [[Beat|Beat]]. In [[Ensemble_Figures]] reading, notes landing on the "e" of a [[Beat|beat]] (the second 16th note) require a clear **[[ `READ3`
 - [[Setup_Cues]]. In an ensemble or big band setting, "Setup Cues" (or fundamental setups) are short drum figures used to signal upcoming  `TECH1_2`
-- [[Setup_Fills]]. **Setup Fills** (or "Lead-in Fills") are short rhythmic figures used to "telegraph" or forecast the arrival of [[Ensembl `TECH1_2`
-- [[Seven-Stroke_Roll]]. The [[Seven-Stroke Roll]] is a drum rudiment belonging to the [[Double Stroke Roll]] family. `Unit 7`
-- [[Seven-Stroke_Ruff]]. The [[Seven-Stroke Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" family. `Unit 4`
-- [[Seven-Stroke_Ruff_Combinations]]. The seven-stroke ruff is an extended version of the ruff rudiment, typically involving seven notes played in quick succe `Uncategorized`
-- [[Sextuplet_Linear_Fills]]. Building upon basic [[Linear Drumming]] combinations, **Sextuplet Linear Fills** utilize modular hand/foot patterns to c `TECH3_4`
+- [[Setup_Fills]]. A **Setup [[Fill|Fill]]** (also known as a "Lead-in [[Fill|Fill]]") is a short rhythmic statement played by the drummer  `[READ3, TECH1_2]`
+- [[Seven-Stroke_Roll]]. The [[Seven-Stroke_Roll]] is a drum rudiment belonging to the [[Double_Stroke_Roll]] family. `Unit 7`
+- [[Seven-Stroke_Ruff]]. The [[Seven-Stroke_Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" family. `Unit 4`
+- [[Seven-Stroke_Ruff_Combinations]] — [[Seven-Stroke_Ruff|Seven-Stroke Ruff]] Combinations. The [[Seven-Stroke_Ruff|seven-stroke ruff]] is an extended version of the [[Ruff_Rudiment|ruff rudiment]], typically inv `Uncategorized`
+- [[Sextuplet_Linear_Fills]]. Building upon basic [[Linear_Drumming]] combinations, **Sextuplet Linear Fills** utilize modular hand/foot patterns to c `TECH3_4`
 - [[Sextuplet_Turnarounds]]. **Turnarounds** are short, functional sticking sequences used to seamlessly transition between different modular pattern `TECH3_4`
-- [[Shared_Beams]]. **Shared Beams** refer to the practice of connecting different rhythmic values (typically [[Eighth Notes]] and [[16th No `Unit 4 - Chapter 2`
-- [[Short Re-Intro]]. A "Short Re-Intro" is a brief, often two-bar, musical section that serves as a transition back to an earlier part of the `Unit 5 - Chapter 1`
-- [[Short_Long_Orchestration_16th_Notes]] — Short/Long Orchestration (16th Notes). This orchestration method is designed to help drummers interpret [[Ensemble Figures]] based on 16th-note rhythms. `READ1`
-- [[Short_Note_Orchestration]]. When an [[Ensemble Figures]] is written as a **Short Note** (lasting one beat or less), the drummer must choose sound so `READ3`
-- [[Short_vs_Long_Note_Interpretation]]. In [[Ensemble Reading]], drummers must decide how to orchestrate rhythmic figures based on their duration. `READ1`
+- [[Shared_Beams]]. **Shared Beams** refer to the practice of connecting different [[Rhythmic_Values|rhythmic values]] (typically [[Eighth_N `Unit 4 - Chapter 2`
+- [[Short_Long_Orchestration_16th_Notes]] — Short/Long Orchestration ([[16th_Notes|16th Notes]]). This orchestration method is designed to help drummers interpret [[Ensemble_Figures]] based on 16th-note rhythms. `READ1`
+- [[Short_Note_Orchestration]]. When an [[Ensemble_Figures]] is written as a **Short Note** (lasting one [[Beat|beat]] or less), the drummer must choose `READ3`
+- [[Short_Re-Intro]]. A "Short Re-Intro" is a brief, often two-bar, musical section that serves as a transition back to an earlier part of the `Unit 5 - Chapter 1`
+- [[Short_vs_Long_Note_Interpretation]]. In [[Ensemble_Reading]], drummers must decide how to orchestrate rhythmic figures based on their [[Duration|duration]]. `READ1`
 - [[Shorthand_Indicators]]. **Shorthand indicators** are symbols or text instructions used in drum charts to keep the notation concise, particularly `READ3`
-- [[Shouldered_Hi-Hat_Technique]]. The **Shouldered Hi-Hat** technique is used to create a "chunky," aggressive, and thick tone, often required in dance-po `TECH1_2`
+- [[Shouldered_Hi-Hat_Technique]] — Shouldered [[Hi-Hat_Technique|Hi-Hat Technique]]. The **Shouldered [[Hi-Hat|Hi-Hat]]** technique is used to create a "chunky," aggressive, and thick tone, often required  `TECH1_2`
 - [[Shouldering_Technique]]. **Shouldering** is a cymbal striking technique used to create a full, "washy" sound and control overtones. `READ2`
-- [[Shuffle 12-Bar Blues (Drumming Style)]]. [[Shuffle 12-Bar Blues]] is a drumming style introduced in Unit 7 of "[[Drum Performance 1 (Book)]]". `Unit 7`
-- [[Shuffle 12-Bar Blues Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 7 中介紹的入門打擊樂風格，專注於 Shuffle 12 小節藍調。 `Unit 7`
-- [[Shuffle_Feel]]. The shuffle feel is a fundamental rhythmic concept, particularly prevalent in [[Blues Rhythm|blues]], [[Jazz Rhythm|jazz `Unit 7 - Chapter 1`
-- [[Side-Stick_Technique_in_Reading]]. The **Side-Stick** (also known as a cross-stick) is a technique where the tip of the drumstick rests on the drumhead whi `READ1`
-- [[Simple_Triplet_Snare_Fill_Unit_10]] — Simple Triplet Snare Fill (Unit 10). In the second ending of the Unit 10 rock shuffle, there is a straightforward triplet fill played on the [[Snare Drum]]. `Unit 10 - Chapter 2`
-- [[Single Paradiddle]]. The [[Single Paradiddle]] is the foundational and most widely recognized variation of the [[Paradiddle]] [[Rudiment]]. `Unit 8: Single Paradiddle`
-- [[Single-Bar Repeat Sign]]. A [[Single-Bar Repeat Sign]] is a common notation device used to indicate that the preceding measure should be repeated. `Unit 2 - Chapter 2`
-- [[Single-Bar Repeats]] — Single-Bar Repeats (單小節重複記號). 「單小節重複記號」是一個指示你必須重複特定小節（或拍子）的符號。它標記的是整個小節（所有四拍），而不是像時間斜線（time slashes）那樣標記拍子。通常，在樂句的開頭會有一個特定的記譜小節，然後會多次使用單小節重複記號。 `Unit 2`
-- [[Single_Paradiddle]]. The [[Single Paradiddle]] is one of the most fundamental and widely used drum rudiments. `Unit 8`
-- [[Single_Paradiddle_Inversions]]. The **Single Paradiddle** is a foundational [[Rudiment]] essential for developing fluid [[Stick Control]] and coordinati `TECH3_4`
+- [[Shuffle]]. A Shuffle is a triplet-based [[Groove|groove]], typically written in 4/4 time, that serves as a cornerstone of Blues, Ja `READ1`
+- [[Shuffle_12-Bar_Blues_(Drumming_Style)]] — [[Shuffle|Shuffle]] 12-Bar [[Blues|Blues]] (Drumming Style). [[Shuffle_12-Bar_Blues]] is a drumming style introduced in Unit 7 of "[[Drum_Performance_1_(Book)]]". `Unit 7`
+- [[Shuffle_12-Bar_Blues_Drumming]] — [[Shuffle|Shuffle]] 12-Bar [[Blues_Drumming|Blues Drumming]]. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 7 中介紹的入門打擊樂風格，專注於 [[Shuffle|Shuffle]] 12 小節藍調。 `Unit 7`
+- [[Shuffle_Feel]] — [[Shuffle|Shuffle]] Feel. The [[Shuffle|shuffle]] feel is a fundamental rhythmic concept, particularly prevalent in [[Blues_Rhythm|blues]], [[Jazz `Unit 7 - Chapter 1`
+- [[Side-Stick_Technique_in_Reading]]. The **Side-Stick** (also known as a cross-stick) is a technique where the tip of the [[Drumstick|drumstick]] [[Rests|res `READ1`
+- [[Sight_Reading]]. Sight reading is the fundamental skill of playing drum grooves and reading music rhythms simultaneously without prior pr `READ1`
+- [[Simple_Triplet_Snare_Fill_Unit_10]] — Simple Triplet Snare [[Fill|Fill]] (Unit 10). In the second ending of the Unit 10 [[Rock_Shuffle|rock shuffle]], there is a straightforward triplet [[Fill|fill]] play `Unit 10 - Chapter 2`
+- [[Single-Bar_Repeat_Sign]] — Single-Bar [[Repeat_Sign|Repeat Sign]]. A [[Single-Bar_Repeat_Sign]] is a common notation device used to indicate that the preceding [[Measure|measure]] should  `Unit 2 - Chapter 2`
+- [[Single-Bar_Repeats]] — Single-Bar Repeats (單小節重複記號). 「單小節重複記號」是一個指示你必須重複特定小節（或拍子）的符號。它標記的是整個小節（所有四拍），而不是像時間斜線（[[Time_Slashes|time slashes]]）那樣標記拍子。通常，在樂句的開頭會有一個特定的記譜小節，然後會多次 `Unit 2`
+- [[Single_Paradiddle]] — Single [[Paradiddle|Paradiddle]]. The **Single [[Paradiddle|Paradiddle]]** is one of the most fundamental and versatile [[Rudiments]] in drumming. `READ1`
+- [[Single_Paradiddle_Inversions]] — [[Single_Paradiddle|Single Paradiddle]] Inversions. The **[[Single_Paradiddle|Single Paradiddle]]** is a foundational [[Rudiment]] essential for developing fluid [[Stick_Co `TECH3_4`
 - [[Single_Stroke_Roll_Development]] — Single-Stroke Roll Development. Performing a smooth **Single-Stroke Roll** at varying lengths and tempos is one of the most challenging skills in percus `TECH3_4`
-- [[Six-Stroke_Roll]]. The [[Six-Stroke Roll]] is a versatile drum rudiment, often considered a variation of the [[Double Stroke Roll]] family, `Unit 7`
-- [[Six_Stroke_Roll]] — Six-Stroke Roll. The **Six-Stroke Roll** is a fundamental [[Rudiment]] consisting of four double strokes and two single strokes. `TECH3_4`
-- [[Six_Stroke_Roll_Variations]] — Six-Stroke Roll Variations. The **Six-Stroke Roll** is a cornerstone rudiment for modern drumset playing, offering a unique blend of doubles and acc `READ2`
-- [[Sixteen-Bar Phrase]]. 「十六小節樂句」是一種在大多數搖滾和流行音樂中常見的結構。顧名思義，這段樂句長達十六個小節（measures），並且除了第一個小節外，每個小節都標有時間斜線（time slashes）或 [[Single-Bar Repeats]]。此外， `Unit 2`
+- [[Six_Stroke_Roll]] — Six-Stroke Roll. The **Six-Stroke Roll** is a versatile and fundamental [[Rudiments|Rudiment]] consisting of six notes. `[TECH1, TECH3_4]`
+- [[Six_Stroke_Roll_Variations]] — Six-Stroke [[Roll_Variations|Roll Variations]]. The **Six-Stroke Roll** is a cornerstone rudiment for modern drumset playing, offering a unique blend of doubles and acc `READ2`
+- [[Sixteen-Bar_Phrase]]. 「十六小節樂句」是一種在大多數搖滾和流行音樂中常見的結構。顧名思義，這段樂句長達十六個小節（measures），並且除了第一個小節外，每個小節都標有時間斜線（[[Time_Slashes|time slashes]]）或 [[Single- `Unit 2`
 - [[Sixteenth_Note_Meters]] — Sixteenth Note-Based Meters. Sixteenth note-based meters, such as **5/16** and **7/16**, apply the same principles as eighth-note meters but use the  `TECH1_2`
-- [[Sixteenth_Note_Notation]]. [[Sixteenth Note Notation]] refers to the visual representation of a [[Sixteenth Note]] in musical scores. `Unit 3 - Chapter 1`
-- [[Sixteenth_Note_Triplet_Ostinato_RLL]] — 16th-Note Triplet Ostinato (RLL). This advanced ostinato pattern is designed to develop [[Left Hand]] ghost note execution and independence while reading  `READ1`
-- [[Sixteenth_Note_Triplets]] — Sixteenth-Note Triplets (Sextuplets). **Sixteenth-note triplets**, often referred to as **Sextuplets**, are created by dividing an [[Eighth_Note_Triplet]] int `READ1`
-- [[Sixteenth_Note_Value]]. The [[Sixteenth Note Value]] refers to the duration of a [[Sixteenth Note]] relative to the [[Time Signature]] and other `Unit 3 - Chapter 1`
-- [[Sixteenth_Notes]]. A **Sixteenth Note** (or semiquaver) is a musical note played for half the duration of an [[Eighth Note]]. `CORE`
-- [[Sixteenth_Notes_in_6-8]] — Sixteenth Notes in 6/8. In [[6/8 Time]], the introduction of [[Sixteenth Notes]] doubles the density of the standard eighth-note pulse. `READ1`
-- [[Sixteenth_Rests_in_6-8]] — Sixteenth Rests in 6/8. [[Sixteenth_Rest]] in [[6/8 Time]] carry the same rhythmic value as sixteenth notes but require specific notation standa `READ1`
-- [[Slightly_Loose_Hi-Hat]]. [[Slightly Loose Hi-Hat]] is an [[Articulations]] technique where the [[Hi-Hat]] cymbals are played with the foot pedal  `Unit 4 - Chapter 1`
-- [[Slightly_Loose_Hi-Hat_Letter_B]] — Slightly Loose Hi-Hat (Letter B). For the 'B' section of a song, the hi-hat articulation shifts to a [[Slightly_Loose_Hi-Hat_Letter_B]] pattern, designed  `Unit 4 - Chapter 2`
-- [[Slightly_Loose_Hi-Hat_Sound]]. A "slightly loose hi-hat" sound is achieved by releasing some pressure on the hi-hat foot pedal, allowing the cymbals to `Unit 4`
-- [[Sloshy Hi-Hat]]. "Sloshy Hi-Hat" describes a looser, more open sound produced on the [[Hi-Hat]] cymbals, typically achieved by releasing  `Unit 5 - Chapter 1`
-- [[Sloshy_Hi-Hat_Technique]]. The "sloshy" hi-hat is a staple of rock and [[Rap-Metal Drumming]], used to create a wall of sound and generate musical  `READ2`
-- [[Sloshy_Hi_Hat]] — Sloshy Hi-Hat. The **Sloshy Hi-Hat** (also known as Half-Open Hi-Hat) is an articulation used to create a thick, aggressive, and sustai `READ2`
-- [[Slow 12-Bar Blues (Drumming Style)]]. [[Slow 12-Bar Blues]] is a drumming style introduced in Unit 6 of "[[Drum Performance 1 (Book)]]". `Unit 6`
-- [[Slow 12-Bar Blues Drumming]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 6 中介紹的入門打擊樂風格，專注於慢速 12 小節藍調。 `Unit 6`
+- [[Sixteenth_Note_Notation]]. [[Sixteenth_Note_Notation]] refers to the visual representation of a [[Sixteenth_Note]] in musical scores. `Unit 3 - Chapter 1`
+- [[Sixteenth_Note_Triplet_Ostinato_RLL]] — 16th-Note Triplet Ostinato (RLL). This advanced ostinato pattern is designed to develop [[Left_Hand]] ghost note execution and independence while reading  `READ1`
+- [[Sixteenth_Note_Triplets]] — Sixteenth-Note [[Triplets|Triplets]] (Sextuplets). **Sixteenth-note [[Triplets|triplets]]**, often referred to as **Sextuplets**, are created by dividing an [[Eighth_Note_ `READ1`
+- [[Sixteenth_Note_Value]] — Sixteenth [[Note_Value|Note Value]]. The [[Sixteenth_Note_Value]] refers to the [[Duration|duration]] of a [[Sixteenth_Note]] relative to the [[Time_Signatur `Unit 3 - Chapter 1`
+- [[Sixteenth_Notes]]. A **Sixteenth Note** (or semiquaver) is a musical note played for half the [[Duration|duration]] of an [[Eighth_Note]]. `CORE`
+- [[Sixteenth_Notes_in_6-8]] — [[Sixteenth_Notes|Sixteenth Notes]] in 6/8. In [[6/8_Time]], the introduction of [[16th_Notes]] doubles the density of the standard eighth-note [[Pulse|pulse]]. `READ1`
+- [[Sixteenth_Rests_in_6-8]] — Sixteenth [[Rests|Rests]] in 6/8. [[Sixteenth_Rest]] in [[6/8_Time]] carry the same rhythmic value as [[Sixteenth_Notes|sixteenth notes]] but require spec `READ1`
+- [[Slightly_Loose_Hi-Hat]]. [[Slightly_Loose_Hi-Hat]] is an [[Articulations]] technique where the [[Hi-Hat]] cymbals are played with the foot pedal  `Unit 4 - Chapter 1`
+- [[Slightly_Loose_Hi-Hat_Letter_B]] — [[Slightly_Loose_Hi-Hat|Slightly Loose Hi-Hat]] (Letter B). For the 'B' section of a song, the [[Hi-Hat|hi-hat]] articulation shifts to a [[Slightly_Loose_Hi-Hat_Letter_B]] pattern `Unit 4 - Chapter 2`
+- [[Slightly_Loose_Hi-Hat_Sound]] — [[Slightly_Loose_Hi-Hat|Slightly Loose Hi-Hat]] Sound. A "[[Slightly_Loose_Hi-Hat|slightly loose hi-hat]]" sound is achieved by releasing some pressure on the [[Hi-Hat|hi-hat] `Unit 4`
+- [[Sloshy_Hi-Hat_Technique]] — Sloshy [[Hi-Hat_Technique|Hi-Hat Technique]]. The "sloshy" [[Hi-Hat|hi-hat]] is a staple of [[Rock|rock]] and [[Rap-Metal_Drumming]], used to create a wall of sound a `READ2`
+- [[Sloshy_Hi_Hat]] — Sloshy Hi-Hat. The **Sloshy Hi-Hat** (also known as the **[[Half-Open_Hi-Hat|Half-Open Hi-Hat]]**) is a specific articulation used to c `[READ2, TECH1]`
+- [[Slow_12-Bar_Blues_(Drumming_Style)]] — Slow 12-Bar [[Blues|Blues]] (Drumming Style). [[Slow_12-Bar_Blues]] is a drumming style introduced in Unit 6 of "[[Drum_Performance_1_(Book)]]". `Unit 6`
+- [[Slow_12-Bar_Blues_Drumming]] — Slow 12-Bar [[Blues_Drumming|Blues Drumming]]. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 6 中介紹的入門打擊樂風格，專注於慢速 12 小節藍調。 `Unit 6`
 - [[Slow_Swing_Subdivisions]]. type: topic
 book_id: TECH1_2
 source: [IMG_1148, IMG_1150, IMG_1151]
 unit: 6
-tags: [jazz, subdivision, slow-swing, timing `TECH1_2`
-- [[Snare Drum Sound Strategies]]. [[Snare Drum]] 應以非常一致、清脆且穿透的聲音演奏。此外，每次 [[Snare Drum]] 擊打都應是 [[Rimshot]]。 `Chapter 2`
-- [[Snare_Drum_Articulation]]. The placement of the stick on the snare drum head drastically alters the frequency response and "feel" of a groove, espe `READ2`
-- [[Snare_Drum_Articulation_Letter_A]] — Snare Drum Articulation (Letter A). For the 'A' section of a song, the snare drum should be played with a specific articulation to provide a consistent and  `Unit 4 - Chapter 2`
-- [[Snare_Drum_Center_Stroke_Non_Rimshot]] — Snare Drum Center Stroke (Non-Rimshot). The [[Snare_Drum_Center_Stroke_Non_Rimshot]] is a fundamental [[Snare Drum]] technique focused on producing a deep, open `Drum Performance`
-- [[Snare_Drum_Loud_on_2_and_4_Rock_Shuffle]] — Snare Drum Loud on 2 and 4 (Rock Shuffle). A key dynamic instruction for the Unit 10 rock shuffle is to play the [[Snare Drum]] loudly on beats 2 and 4. `Unit 10 - Chapter 2`
-- [[Snare_Drum_Notation]] — Snare Drum (Notation). In [[Drum Set Notation Key]], the [[Snare Drum]] is a central component, and its notation is crucial for conveying the p `Unit 1`
-- [[Snare_Drum_Pick-Up_Fill_Funk-Rock]] — Snare Drum Pick-Up Fill (Funk-Rock). During the `[[Guitar Introduction (Funk-Rock)]]`, the `[[Drums]]` lead into `[[Letter A]]` with a `[[Snare Drum Pick-Up  `Unit 8 Chapter 1`
-- [[Snare_Drum_Rim_Shot_Articulations]]. A **Rim Shot** is executed by striking the center of the drumhead and the rim simultaneously. `TECH1_2`
-- [[Snare_Floor_Tom_Bass_Drum_Accent_Beat_4]] — Snare, Floor Tom, Bass Drum Accent (Beat 4). This technique describes a specific accent or mini-fill used to punctuate the end of a phrase, particularly on beat four `Unit 5`
+tags: [[[Jazz|jazz]], [[Subdivision|subdivis `TECH1_2`
+- [[Snare_Drum]]. The Snare Drum is the primary rhythmic anchor of the drum kit. `READ1`
+- [[Snare_Drum_Articulation]] — [[Snare_Drum|Snare Drum]] Articulation. The placement of the stick on the [[Snare_Drum|snare drum]] head drastically alters the frequency response and "feel" of
+- [[Snare_Drum_Articulation_Letter_A]] — [[Snare_Drum_Articulation|Snare Drum Articulation]] (Letter A). For the 'A' section of a song, the [[Snare_Drum|snare drum]] should be played with a specific articulation to provide a  `Unit 4 - Chapter 2`
+- [[Snare_Drum_Center_Stroke_Non_Rimshot]] — Snare Drum Center Stroke (Non-Rimshot). The [[Snare_Drum_Center_Stroke_Non_Rimshot]] is a fundamental [[Snare_Drum]] technique focused on producing a deep, open `[[Drum_Performance|Drum Performance]]`
+- [[Snare_Drum_Loud_on_2_and_4_Rock_Shuffle]] — Snare Drum Loud on 2 and 4 ([[Rock_Shuffle|Rock Shuffle]]). A key dynamic instruction for the Unit 10 [[Rock_Shuffle|rock shuffle]] is to play the [[Snare_Drum]] loudly on beats 2  `Unit 10 - Chapter 2`
+- [[Snare_Drum_Notation]] — Snare Drum (Notation). In [[Drum_Set_Notation_Key]], the [[Snare_Drum]] is a central component, and its notation is crucial for conveying the p `Unit 1`
+- [[Snare_Drum_Pick-Up_Fill_Funk-Rock]] — [[Snare_Drum|Snare Drum]] Pick-Up [[Fill|Fill]] ([[Funk|Funk]]-[[Rock|Rock]]). During the `[[Guitar_Introduction_(Funk-Rock)]]`, the `[[Drums]]` lead into `[[Letter_A]]` with a `[[Snare_Drum_Pick-Up_ `Unit 8 Chapter 1`
+- [[Snare_Drum_Sound_Strategies]]. [[Snare_Drum]] 應以非常一致、清脆且穿透的聲音演奏。此外，每次 [[Snare_Drum]] 擊打都應是 [[Rimshot]]。 `Chapter 2`
+- [[Snare_Floor_Tom_Bass_Drum_Accent_Beat_4]] — Snare, Floor Tom, Bass Drum Accent ([[Beat|Beat]] 4). This technique describes a specific accent or mini-[[Fill|fill]] used to punctuate the end of a phrase, particularly on  `Unit 5`
 - [[Song_Intro]]. The "Intro" of a tune is typically a short musical phrase, usually four to eight bars in length, designed to establish t `Unit 5`
-- [[Soul-Funk_Drumming]]. **Soul-Funk** is a genre that prioritizes memorable melodies, funk instrumentation, and a definitive, swinging backbeat. `TECH1_2`
-- [[Soul_Jazz_Drumming]] — Soul-Jazz Drumming. Soul-Jazz emerged in the mid-1950s (notably with organist **Jimmy Smith**) as a reaction against the complex chord chang `TECH1_2`
+- [[Soul-Funk_Drumming]] — Soul-[[Funk|Funk]] Drumming. **Soul-[[Funk|Funk]]** is a genre that prioritizes memorable melodies, [[Funk|funk]] instrumentation, and a definitive,  `TECH1_2`
+- [[Soul_Jazz_Drumming]] — Soul-[[Jazz|Jazz]] Drumming. Soul-[[Jazz|Jazz]] emerged in the mid-1950s (notably with organist **Jimmy Smith**) as a reaction against the complex ch `TECH1_2`
+- [[Sound_Aesthetics_Synthesis]] — 音色美學語義合成 (Sound Aesthetics Synthesis). 在 Drum-LLM-Wiki 中，「音色 (Sound)」是連結「曲風 (Style)」與「技術 (Technique)」的關鍵橋樑。本頁面綜合探討如何透過打擊位置、器材選擇與動作控制，達成專業鼓手所需的特定音色美學。
+
+
+
+如何達成不同
 - [[Splashing_the_Hi_Hat]] — Splashing the Hi-Hat. Splashing the [[Hi-Hat]] with the foot is a technique used to create a "metallic pad" or a shimmering "sheen" of sound,  `TECH1_2`
 - [[Split_Doubles]]. **Split Doubles** is a conceptual and technical approach to playing [[Double_Stroke_Roll]] patterns within [[Odd_Note_Gr `TECH3_4`
 - [[Staccato]]. **Staccato** (Italian for "detached") is an articulation marking that instructs the drummer to play a note as short as p `READ3`
-- [[Staccato_vs_Tenuto_Interpretation]] — Staccato and Tenuto Articulations. In drum notation, articulations help the drummer interpret [[Ensemble Figures]] to match the phrasing of the horn sectio `TECH1_2`
-- [[Standard_Five-Stroke_Ruff]]. The [[Standard Five-Stroke Ruff]] is a foundational [[Drum Rudiment]] where the first four alternating strokes are unacc `Unit 4 - Chapter 4`
-- [[Standard_Four-Stroke_Ruff]]. The [[Standard Four-Stroke Ruff]] is a variation of the [[Four-Stroke Ruff]] where the rudiment consists of four alterna `Unit 4 - Chapter 3`
-- [[Standard_Seven-Stroke_Ruff]]. The [[Standard Seven-Stroke Ruff]] is a foundational [[Drum Rudiment]] where the first six alternating strokes are unacc `Unit 4 - Chapter 5`
-- [[Standard_Three-Stroke_Ruff]]. The [[Standard Three-Stroke Ruff]] is a variation of the [[Three-Stroke Ruff]] where the rudiment consists of three alte `Unit 4 - Chapter 2`
-- [[Stem_Music_Notation]] — Stem (Music Notation). A stem is a small, thin line connected to a [[Note Head]] in [[Music Notation]]. `Unit 1`
-- [[Stick_Height]]. [[Stick Height]] refers to the vertical distance a [[Drumstick]] travels before striking a drum and its resting position `Unit 1 - Chapter 2, Unit 1 - Chapter 3`
-- [[Stick_Shot]]. The stick shot is a specialized jazz articulation used for sharp, wood-toned accents during solos or transition fills. `READ2`
-- [[Sticking Patterns]]. [[Sticking Patterns]] refer to the specific sequence of right (R) and left (L) hand strokes used to execute a rhythmic p
-- [[Sticking_for_16th_Note_Ensemble_Figures]] — Sticking for 16th-Note Ensemble Figures. When executing [[Set-up Fill|Set-up Fills]] for 16th-note [[Ensemble Figures|Ensemble Figures]], sticking choices are di `READ3`
-- [[Sticking_Patterns]]. Sticking Patterns refer to the specific sequence of right (R) and left (L) hand strokes used to execute a given rhythm o `Unit 6 - Chapter 1, Unit 6 - Chapter 2`
-- [[Sticking_Techniques_General]] — Sticking Techniques (General). Sticking Techniques (General) refers to the broader array of methods and approaches drummers use to apply [[Sticking Pat `Unit 6 - Chapter 2`
+- [[Staccato_vs_Tenuto_Interpretation]] — [[Staccato|Staccato]] and [[Tenuto|Tenuto]] [[Articulations|Articulations]]. In drum notation, [[Articulations|articulations]] help the drummer interpret [[Ensemble_Figures]] to match the [[Phrasin `TECH1_2`
+- [[Standard_Five-Stroke_Ruff]] — Standard [[Five-Stroke_Ruff|Five-Stroke Ruff]]. The [[Standard_Five-Stroke_Ruff]] is a foundational [[Drum_Rudiment]] where the first four alternating strokes are unacc `Unit 4 - Chapter 4`
+- [[Standard_Four-Stroke_Ruff]]. The [[Standard_Four-Stroke_Ruff]] is a variation of the [[Four-Stroke_Ruff]] where the rudiment consists of four alterna `Unit 4 - Chapter 3`
+- [[Standard_Seven-Stroke_Ruff]] — Standard [[Seven-Stroke_Ruff|Seven-Stroke Ruff]]. The [[Standard_Seven-Stroke_Ruff]] is a foundational [[Drum_Rudiment]] where the first six alternating strokes are unacc `Unit 4 - Chapter 5`
+- [[Standard_Three-Stroke_Ruff]]. The [[Standard_Three-Stroke_Ruff]] is a variation of the [[Three-Stroke_Ruff]] where the rudiment consists of three alte `Unit 4 - Chapter 2`
+- [[Stem_Music_Notation]] — Stem (Music Notation). A stem is a small, thin line connected to a [[Note_Head]] in [[Music_Notation]]. `Unit 1`
+- [[Stick_Height]]. [[Stick_Height]] refers to the vertical distance a [[Drumstick]] travels before striking a drum and its resting position `Unit 1 - Chapter 2, Unit 1 - Chapter 3`
+- [[Stick_Shot]]. The stick shot is a specialized [[Jazz|jazz]] articulation used for sharp, wood-toned [[Accents|accents]] during solos o `READ2`
+- [[Sticking_for_16th_Note_Ensemble_Figures]] — Sticking for 16th-Note Ensemble Figures. When executing [[Set-up_Fill|Set-up Fills]] for 16th-note [[Ensemble_Figures|Ensemble Figures]], sticking choices are di `READ3`
+- [[Sticking_Patterns]]. **Sticking Patterns** refer to the specific sequence of right (R) and left (L) hand strokes used to execute a given rhyt `READ1`
+- [[Sticking_Techniques_General]] — Sticking Techniques (General). Sticking Techniques (General) refers to the broader array of methods and approaches drummers use to apply [[Sticking_Pat `Unit 6 - Chapter 2`
 - [[Stop_Time]] — Stop-Time. **Stop-Time** is a performance directive indicating that the rhythm section should cease playing a continuous [[Groove]] `TECH1_2`
-- [[Stylistically Correct Drum Sound]] — Stylistically Correct Drum Sound (風格正確的鼓聲). 指為特定打擊樂風格實現適當的聲音、感覺和形式的概念。這涉及 Hi-Hat、小鼓和低音鼓的特定發音，可以通過自我錄音和批判性聆聽來發展。例如，[[Bass Drum Articulation (Open)]] 對於某些聲音至關重要。 `Unit 2, Unit 3`
+- [[Style_Comparison_Matrix]] — 跨風格技術對照矩陣 (Style Comparison Matrix). 本節點將各個教材中分散的風格建議進行橫向合成，提供關於 **「不同曲風下，同一器材的處理差異」** 之快速參考。
+
+
+
+| 曲風 (Style) | 大鼓 (Bass Drum) | 小鼓 (Snare Drum) | Hi-Hat / R
+- [[Stylistically_Correct_Drum_Sound]] — Stylistically Correct Drum Sound (風格正確的鼓聲). 指為特定打擊樂風格實現適當的聲音、感覺和形式的概念。這涉及 [[Hi-Hat|Hi-Hat]]、小鼓和低音鼓的特定發音，可以通過自我錄音和批判性聆聽來發展。例如，[[Bass_Drum_Articulation_(Open)]] 對於某些聲 `Unit 2, Unit 3`
 - [[Stylistically_Correct_Notation]]. Notation is not just a mathematical representation of sound; it is a set of conventions that dictate the "feel" and "sou `TECH1_2`
 - [[Subdividing]]. [[Subdividing]] is a fundamental rhythmic practice technique that involves mentally (or vocally) counting or singing the `Unit 8 Chapter 2`
-- [[Subdivision]]. "Subdivision" is the act of mentally or physically dividing a beat into smaller, equal parts. `Unit 5 - Chapter 1`
-- [[Subdivision_Changes]]. Subdivision changes involve transitioning between different rhythmic "feels" (e.g., straight eighths to [[Eighth Note Tr `TECH1_2`
-- [[Suggested_Reading_and_Study_Drum_Reading]] — Suggested Reading and Study (Drum Reading). Developing strong [[Rhythm Reading]] skills is a continuous process that requires daily practice and exposure to diverse `Unit 10 - Chapter 2`
-- [[Swing_Eighth_Notes]]. In jazz and blues, eighth notes are rarely played "straight" (equal duration). `READ2`
+- [[Subdivision]]. Subdivision is the act of mentally or verbally dividing a main [[Beat|beat]] into smaller, equal parts. `READ1`
+- [[Subdivision_Changes]] — [[Subdivision|Subdivision]] Changes. [[Subdivision|Subdivision]] changes involve transitioning between different rhythmic "feels" (e.g., straight eighths to  `TECH1_2`
+- [[Suggested_Reading_and_Study_Drum_Reading]] — Suggested Reading and Study (Drum Reading). Developing strong [[Rhythm_Reading]] skills is a continuous process that requires daily practice and exposure to diverse `Unit 10 - Chapter 2`
+- [[Swing_Eighth_Notes]] — Swing [[Eighth_Notes|Eighth Notes]]. In [[Jazz|jazz]] and [[Blues|blues]], [[Eighth_Notes|eighth notes]] are rarely played "straight" (equal [[Duration|durat `READ2`
 - [[Swiss_Army_Triplet_Variations]]. The **Swiss Army Triplet** is a foundational [[Flams]] rudiment that is exceptionally useful for drum set application du `TECH3_4`
-- [[Swung_16th_Feel]]. The **Swung 16th Feel** is a rhythmic interpretation where 16th notes are performed with a triplet-based lilt rather tha `READ2`
-- [[Swung_16th_Notes]]. **Swung 16th notes** are a rhythmic feel widely utilized in modern Rock, Funk, and Hip-Hop. `READ1`
-- [[Swung_16th_Phrasing]]. **Swung 16th Phrasing** is a rhythmic feel where 16th notes are played with a "lilt" rather than as even divisions of th `TECH1_2`
-- [[Swung_Eighth_Note_Triplet_Placement]] — Swung Eighth-Note Triplet Placement. In a jazz or triplet-based setting, the rhythmic grid shifts from a binary (straight) feel to a ternary (swung) feel. `READ3`
-- [[Swung_Reggae_Ostinato]]. The **Swung Reggae Ostinato** is a coordination template used to practice reading rhythms against a consistent "one-drop `READ1`
+- [[Swung_16th_Feel]]. The **Swung 16th Feel** is a rhythmic interpretation where [[16th_Notes|16th notes]] are performed with a triplet-based  `READ2`
+- [[Swung_16th_Notes]]. **Swung 16th notes** are a rhythmic feel widely utilized in modern [[Rock|Rock]], [[Funk|Funk]], and Hip-Hop. `READ1`
+- [[Swung_16th_Phrasing]] — Swung 16th [[Phrasing|Phrasing]]. **Swung 16th [[Phrasing|Phrasing]]** is a rhythmic feel where [[16th_Notes|16th notes]] are played with a "lilt" rather  `TECH1_2`
+- [[Swung_Eighth_Note_Triplet_Placement]] — Swung Eighth-Note Triplet Placement. In a [[Jazz|jazz]] or triplet-based setting, the rhythmic grid shifts from a binary (straight) feel to a ternary (swung) `READ3`
+- [[Swung_Reggae_Ostinato]] — Swung [[Reggae|Reggae]] Ostinato. The **Swung [[Reggae|Reggae]] Ostinato** is a coordination template used to practice reading rhythms against a consisten `READ1`
 - [[Symmetrical_vs_Asymmetrical_Time_Signatures]] — Symmetrical vs. Asymmetrical Time Signatures. In percussion performance and reading, time signatures are categorized based on how their internal beats are divided and `TECH1_2`
-- [[Syncopated_Beats]]. `[[Syncopated Beats]]` refer to rhythms that emphasize the weak beats or off-beats of a measure, or that place accents o `Unit 4 - Chapter 1`
-- [[Syncopated_Funk-Rock_Groove_Letter_A]] — Syncopated Funk-Rock Groove (Letter A). This groove, found at "Letter A" in the [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]], is characterized by its highly [[Syncop `Unit 8 Chapter 2`
-- [[Syncopated_Funk-Rock_Groove_Letter_B]] — Syncopated Funk-Rock Groove (Letter B). The groove at "Letter B" in the [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]] is presented as a two-bar phrase, building on th `Unit 8 Chapter 2`
-- [[Syncopated_Groove_2]] — Syncopated Groove (Groove #2). "Syncopated Groove" (Groove #2) refers to a `[[Drum Groove]]` that emphasizes rhythms that fall *between* the main beats `Unit 7 Chapter 3`
-- [[Syncopated_Rhythms]]. **Syncopation** is a rhythmic device that involves placing accents or notes on normally weak beats or [[Upbeat]] (e.g.,  `Unit 8 Chapter 1`
-- [[Syncopated_Rhythms_16ths]] — Syncopated Rhythms: 16ths. When [[Sixteenth Notes]] are used to create [[Syncopated Rhythms]], the complexity increases, and the need for clear not `Unit 8 Chapter 1`
-- [[Syncopated_Rhythms_Quarters_and_Eighths]] — Syncopated Rhythms: Quarters and Eighths. When creating [[Syncopated Rhythms]] with [[Quarter Notes]] and [[Eighth Notes]], the emphasis shifts from the strong [[ `Unit 8 Chapter 1`
+- [[Syncopated_Beats]]. `[[Syncopated_Beats]]` refer to rhythms that emphasize the weak beats or off-beats of a [[Measure|measure]], or that pla `Unit 4 - Chapter 1`
+- [[Syncopated_Funk-Rock_Groove_Letter_A]] — Syncopated [[Funk|Funk]]-Rock [[Groove|Groove]] (Letter A). This [[Groove|groove]], found at "Letter A" in the [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]], is characterized by its high `Unit 8 Chapter 2`
+- [[Syncopated_Funk-Rock_Groove_Letter_B]] — Syncopated [[Funk|Funk]]-[[Rock|Rock]] [[Groove|Groove]] (Letter B). The [[Groove|groove]] at "Letter B" in the [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]] is presented as a two-bar phrase, bui `Unit 8 Chapter 2`
+- [[Syncopated_Groove_2]] — Syncopated [[Groove|Groove]] ([[Groove|Groove]] #2). "Syncopated [[Groove|Groove]]" ([[Groove|Groove]] #2) refers to a `[[Drum_Groove]]` that emphasizes rhythms that fall *b `Unit 7 Chapter 3`
+- [[Syncopated_Rhythms]]. **[[Syncopation|Syncopation]]** is a rhythmic device that involves placing [[Accents|accents]] or notes on normally weak `Unit 8 Chapter 1`
+- [[Syncopated_Rhythms_16ths]] — Syncopated Rhythms: 16ths. When [[16th_Notes]] are used to create [[Syncopated_Rhythms]], the complexity increases, and the need for clear notation `Unit 8 Chapter 1`
+- [[Syncopated_Rhythms_Quarters_and_Eighths]] — Syncopated Rhythms: Quarters and Eighths. When creating [[Syncopated_Rhythms]] with [[Quarter_Note]] and [[Eighth_Note]], the emphasis shifts from the strong [[Do `Unit 8 Chapter 1`
+- [[Syncopation]]. Syncopation is a rhythmic technique that emphasizes the weaker beats or upbeats (such as the "&s" and "ahs" of a [[Subdi `TECH1_2`
 ### T
 - [[Tacet]]. **Tacet** is a musical term derived from Latin, meaning "it is silent." In drum charts and percussion notation, it serve `TECH3_4`
-- [[Taps_(Drumming)]]. In drumming, "taps" refer to unaccented notes, which are played at a softer dynamic level compared to [[Accents (Drummin `Unit 3 - Chapter 2`
-- [[Taps_Drumming]] — Taps (Drumming). In drumming, a "tap" refers to an unaccented note, played softer and with less force than an [[Accents (Drumming)|accent `Unit 3 - Chapter 2`
-- [[Target_Beat]]. The **Target Beat** is the specific downbeat used to anchor and prepare an [[Ensemble Figures]] that occurs on an upbeat `READ3`
-- [[Target_Beats]]. In the context of [[Ensemble_Figure_Interpretation|Ensemble Reading]], a **Target Beat** is the exact rhythmic location  `READ3`
+- [[Taps_(Drumming)]]. In drumming, "taps" refer to unaccented notes, which are played at a softer dynamic level compared to [[Accents_(Drummin `Unit 3 - Chapter 2`
+- [[Taps_Drumming]] — Taps (Drumming). In drumming, a "tap" refers to an unaccented note, played softer and with less force than an [[Accents_(Drumming)|accent `Unit 3 - Chapter 2`
+- [[Target_Beat]] — Target [[Beat|Beat]]. The **Target [[Beat|Beat]]** is the specific downbeat used to anchor and prepare an [[Ensemble_Figures]] that occurs on  `READ3`
+- [[Target_Beats]]. In the context of [[Ensemble_Figure_Interpretation|Ensemble Reading]], a **[[Target_Beat|Target Beat]]** is the exact rh `READ3`
 - [[Technique_(Drumming)]]. In drumming, "technique" refers to the fundamental methods and skills used to handle the [[Drumstick]]s and operate the  `Unit 1 - Chapter 2`
-- [[Tempo Marking]] — Tempo Marking (速度標記). [[Tempo Marking]] 表示音樂的速度，以每分鐘拍數（BPM）表示。此外，這通常與特定的音符時值相關。例如，四分音符等於 120 BPM。 `Unit One Chapter 1`
-- [[Tempo]]. **Tempo** refers to the speed or pace of a given piece of music. `CORE`
-- [[Ten-Stroke_Roll]]. The [[Ten-Stroke Roll]] is a drum rudiment belonging to the [[Double Stroke Roll]] family. `Unit 7`
-- [[Tension_Management]]. **Tension Management** is the practice of maintaining physical relaxation while playing, which is critical for both inju `TECH1_2`
+- [[Tempo]]. Tempo refers to the pace or speed of a piece of music. `READ1`
+- [[Tempo_Marking]] — [[Tempo|Tempo]] Marking (速度標記). [[Tempo_Marking]] 表示音樂的速度，以每分鐘拍數（BPM）表示。此外，這通常與特定的音符時值相關。例如，四分音符等於 120 BPM。 `Unit One Chapter 1`
+- [[Ten-Stroke_Roll]]. The [[Ten-Stroke_Roll]] is a drum rudiment belonging to the [[Double_Stroke_Roll]] family. `Unit 7`
+- [[Tension_Management]]. **Tension Management** is the practice of maintaining physical relaxation while playing, which is critical for both [[In `TECH1_2`
 - [[Tenuto]]. **Tenuto** (Italian for "to hold") is an articulation marking that instructs the drummer to play a note for its full rhy `READ3`
-- [[The Count-Off]] — The Count-Off (數拍). [[The Count-Off]] 是「你將演奏的最重要的四個音符」。這四個數拍（伴隨鼓棒敲擊聲）為歌曲和接下來的幾分鐘設定了速度。因此，務必特別注意你的 [[The Count-Off]]，確保樂團的每個成員都能清楚辨識，並且速度穩定。要 `Unit One Chapter 1`
-- [[The Groove (Performance Notes)]]. 本章節描述了一種常見的打擊樂律動，其特點是緊湊且一致的單手八分音符 [[Hi-Hat]] 律動，搭配強勁的 [[Bass Drum]] 和 [[Snare Drum]] 反拍。儘管技術上演奏簡單，但要使其聽起來和感覺良好卻相當困難。演奏者必 `Chapter 2`
-- [[The_Count-Off]]. Often described as "the four most important notes that you will ever play," [[The Count-Off]] is the rhythmic cue given  `Unit 4 - Chapter 1`
-- [[The_Push]] — The Push (Rhythmic Anticipation). A **"Push"** occurs when an [[Ensemble Figures|Ensemble Figure]] is placed on the "ah" (the fourth partial) of a 16th-no `READ3`
-- [[The_Staff]]. The staff is the fundamental visual framework in [[Music Notation]] upon which musical symbols are written. `Unit 1`
-- [[Third_Ending]]. A `[[Third Ending]]` is a `[[Musical Form]]` tool used in `[[Musical Notation]]` to provide different conclusions to a r `Unit 9 Chapter 1`
-- [[Third_Ending_Fill_Unit_9]] — Third Ending Fill (Unit 9). The fill designated for the [[B_Section_Endings_Unit_9|third ending]] of the B section is designed to be played with alt `Unit 9 - Chapter 2`
-- [[Three-Stroke_Ruff]]. The [[Three-Stroke Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" family. `Unit 4`
+- [[The_Count-Off]]. Often described as **"the four most important notes you will ever play,"** the **Count-Off** (預備拍) is the rhythmic cue g `READ1`
+- [[The_Groove_(Performance_Notes)]] — The [[Groove|Groove]] (Performance Notes). 本章節描述了一種常見的打擊樂律動，其特點是緊湊且一致的單手八分音符 [[Hi-Hat]] 律動，搭配強勁的 [[Bass_Drum]] 和 [[Snare_Drum]] 反拍。儘管技術上演奏簡單，但要使其聽起來和感覺良好卻相當困難。演奏者必 `Chapter 2`
+- [[The_Push]] — The Push (Rhythmic Anticipation). A **"Push"** occurs when an [[Ensemble_Figures|Ensemble Figure]] is placed on the "ah" (the fourth partial) of a 16th-no `READ3`
+- [[The_Staff]]. The staff is the fundamental visual framework in [[Music_Notation]] upon which musical symbols are written. `Unit 1`
+- [[Third_Ending]]. A `[[Third_Ending]]` is a `[[Musical_Form]]` tool used in `[[Musical_Notation]]` to provide different conclusions to a r `Unit 9 Chapter 1`
+- [[Third_Ending_Fill_Unit_9]] — [[Third_Ending|Third Ending]] [[Fill|Fill]] (Unit 9). The [[Fill|fill]] designated for the [[B_Section_Endings_Unit_9|third ending]] of the B section is designed to be played `Unit 9 - Chapter 2`
+- [[Three-Stroke_Ruff]]. The [[Three-Stroke_Ruff]] is a drum rudiment belonging to the "Drag" or "Ruff" family. `Unit 4`
 - [[Thumb_and_Forefinger_Fulcrum]]. The Thumb and Forefinger Fulcrum is a common and foundational [[Fulcrum]] in drumming, where the stick's pivot point is  `Uncategorized`
-- [[Tied_16th_Notes]]. [[Ties]] are also used with [[Sixteenth Notes]] to extend their [[Duration]], particularly in complex [[Syncopated Rhyth `Unit 8 Chapter 1`
-- [[Tied_Eighth_Notes]]. [[Ties]] are commonly applied to [[Eighth Notes]] to extend their [[Duration]], often creating [[Syncopated Rhythms]] or `Unit 8 Chapter 1`
-- [[Tied_Quarter_Notes]]. [[Ties]] are frequently used with [[Quarter Notes]] to extend their [[Duration]], especially when a note needs to sustai `Unit 8 Chapter 1`
-- [[Tied_Quarter_Notes_2_3_Rule_Application]] — Tied Quarter Notes (2/3 Rule Application). The [[2_3_Rule]] often necessitates the use of [[Ties]] with [[Quarter Notes]] to maintain clarity in notation, particul `Unit 8 Chapter 1`
+- [[Tied_16th_Notes]]. [[Ties]] are also used with [[16th_Notes]] to extend their [[Duration]], particularly in complex [[Syncopated_Rhythms]]  `Unit 8 Chapter 1`
+- [[Tied_Eighth_Notes]] — Tied [[Eighth_Notes|Eighth Notes]]. [[Ties]] are commonly applied to [[Eighth_Note]] to extend their [[Duration]], often creating [[Syncopated_Rhythms]] or  `Unit 8 Chapter 1`
+- [[Tied_Quarter_Notes]] — Tied [[Quarter_Notes|Quarter Notes]]. [[Ties]] are frequently used with [[Quarter_Note]] to extend their [[Duration]], especially when a note needs to sustain `Unit 8 Chapter 1`
+- [[Tied_Quarter_Notes_2_3_Rule_Application]] — [[Tied_Quarter_Notes|Tied Quarter Notes]] (2/3 Rule Application). The [[2_3_Rule]] often necessitates the use of [[Ties]] with [[Quarter_Note]] to maintain clarity in notation, particula `Unit 8 Chapter 1`
 - [[Ties]]. A **tie** is a curved line connecting two notes of the same pitch, extending the [[Duration]] and [[Sustain]] of the fir `Unit 8 Chapter 1`
-- [[Ties_Underneath_Beams]]. **Ties underneath beams** refers to a notational practice where [[Ties]] are placed below [[Beamed Notes]], typically [[ `Unit 8 Chapter 2`
-- [[Tight Hi-Hat]]. "Tight Hi-Hat" describes a specific articulation and sound produced on the [[Hi-Hat]] cymbals. `Unit 5 - Chapter 1`
-- [[Tight_Hi-Hat_Sound]]. A "tight; thick hi-hat" sound refers to playing the hi-hat cymbals pressed firmly together, typically with the foot peda `Unit 4`
+- [[Ties_Underneath_Beams]]. **Ties underneath beams** refers to a notational practice where [[Ties]] are placed below [[Beamed_Notes]], typically [[ `Unit 8 Chapter 2`
+- [[Tight_Hi-Hat]]. "Tight Hi-Hat" describes a specific articulation and sound produced on the [[Hi-Hat]] cymbals. `Unit 5 - Chapter 1`
+- [[Tight_Hi-Hat_Sound]] — [[Tight_Hi-Hat|Tight Hi-Hat]] Sound. A "tight; thick [[Hi-Hat|hi-hat]]" sound refers to playing the [[Hi-Hat|hi-hat]] cymbals pressed firmly together, typica `Unit 4`
 - [[Tight_Thick_Hi-Hat]] — Tight, Thick Hi-Hat. [[Tight_Thick_Hi-Hat]] describes an [[Articulations]] technique where the [[Hi-Hat]] cymbals are pressed firmly together `Unit 4 - Chapter 1`
-- [[Time Slashes]] — Time Slashes (時間斜線). [[Time Slashes]] 不僅標記小節的拍子（例如：1、2、3 和 4），還表示鼓手正在演奏「時間」（grooves）。一旦 groove 被完整標記，[[Time Slashes]] 就會取代完整的音符記譜，用來標記 groove `Unit One Chapter 1`
-- [[Time_Signature]]. A **Time Signature** (or meter signature) is a notational convention used in Western musical notation to specify how man `CORE`
+- [[Time_Feel]]. Time Feel (or simply "Feel") refers to the underlying pulse and rhythmic character of a performance. `READ1`
+- [[Time_Signature]]. A Time Signature is a visual indicator that dictates the [[Meter|meter]] of a piece of music and the corresponding note  `READ1`
+- [[Time_Slashes]] — Time Slashes (時間斜線). [[Time_Slashes]] 不僅標記小節的拍子（例如：1、2、3 和 4），還表示鼓手正在演奏「時間」（grooves）。一旦 [[Groove|groove]] 被完整標記，[[Time_Slashes]] 就會取代完整的音符記譜， `Unit One Chapter 1`
 - [[Timekeeping_Figures]]. **Timekeeping figures** are rhythmic notations that indicate what other instrumentalists in the ensemble are playing. `READ3`
-- [[Tom_Tom_Notation]] — Tom Tom (Notation). In [[Drum Set Notation Key]], [[Tom Tom]]s are notated on [[The Staff]] to represent their distinct pitches and roles in `Unit 1`
-- [[Traditional_Grip]]. Traditional Grip is a unique drumming technique that breaks from the [[Matched Grip]] model by employing two distinct ha `Unit 2 - Chapter 3`
-- [[Treble_Clef]]. The Treble Clef, also known as the G Clef, is one of the most commonly used [[Clef_Music_Notation|clefs]] in [[Music Not `Unit 1`
-- [[Tribal_Drum_Groove]]. A "Tribal" groove in a modern drumming context refers to a feel that emphasizes [[Toms]] and percussive textures over th `TECH3_4`
-- [[Tricking_It_Out]]. "Tricking it Out" refers to the process of taking a basic groove and adding technical embellishments to increase its com `MI_CURR`
-- [[Triple_Paradiddle]]. The [[Triple Paradiddle]] is a further extension of the [[Single Paradiddle]], consisting of eight notes. `Unit 8`
-- [[Triplet-Based_Fill_Unit_10]] — Triplet-Based Fill (Unit 10). Another repeated fill occurs at the end of [[Letter_B_Rock_Shuffle_Unit_10]] and [[Letter_D_Rock_Shuffle_Unit_10]] in th `Unit 10 - Chapter 2`
-- [[Triplet_Fill_Ins]] — Triplet Fill-Ins. Triplet fill-ins are used to maintain momentum and "time feel" between [[Ensemble Figures]] in a swung or jazz context. `READ3`
+- [[Tom_Tom_Notation]] — Tom Tom (Notation). In [[Drum_Set_Notation_Key]], [[Tom_Tom]]s are notated on [[The_Staff]] to represent their distinct pitches and roles in `Unit 1`
+- [[Topics_Index]] — 全域主題索引 (Enriched Topics Index). **Karpathy Pattern**: 此索引為全庫節點提供「連結 + 一行摘要」，以便於 AI 代理快速檢索與語義導解。
+
+
+- [[12-Bar_Blues_Open_Form|12-Bar Blues Open Form]] — 
+- [[Traditional_Grip]]. Traditional Grip is a unique drumming technique that breaks from the [[Matched_Grip]] model by employing two distinct ha `Unit 2 - Chapter 3`
+- [[Treble_Clef]]. The Treble Clef, also known as the G Clef, is one of the most commonly used [[Clef_Music_Notation|clefs]] in [[Music_Not `Unit 1`
+- [[Tribal_Drum_Groove]] — Tribal Drum [[Groove|Groove]]. A "Tribal" [[Groove|groove]] in a modern drumming context refers to a feel that emphasizes [[Toms]] and percussive textu `TECH3_4`
+- [[Tricking_It_Out]]. "Tricking it Out" refers to the process of taking a basic [[Groove|groove]] and adding technical embellishments to incre `MI_CURR`
+- [[Triple_Paradiddle]] — Triple [[Paradiddle|Paradiddle]]. The [[Triple_Paradiddle]] is a further extension of the [[Single_Paradiddle]], consisting of eight notes. `Unit 8`
+- [[Triplet-Based_Fill_Unit_10]] — Triplet-Based [[Fill|Fill]] (Unit 10). Another repeated [[Fill|fill]] occurs at the end of [[Letter_B_Rock_Shuffle_Unit_10]] and [[Letter_D_Rock_Shuffle_Unit_1 `Unit 10 - Chapter 2`
+- [[Triplet_Fill_Ins]] — Triplet [[Fill|Fill]]-Ins. Triplet [[Fill|fill]]-ins are used to maintain momentum and "[[Time_Feel|time feel]]" between [[Ensemble_Figures]] in a  `READ3`
 - [[Triplet_Four_Way_Coordination]] — Triplet Four-Way Coordination. This concept focuses on developing independence between all four limbs using an **eighth-note triplet** foundation. `READ2`
-- [[Triplet_Partials]]. When a beat is divided into three equal parts to form a [[Triplets]], each of these three individual subdivisions is ref `Unit 7 - Chapter 2`
+- [[Triplet_Partials]]. When a [[Beat|beat]] is divided into three equal parts to form a [[Triplets]], each of these three individual subdivisio `Unit 7 - Chapter 2`
 - [[Triplets]]. [[Triplets]] are a fundamental rhythmic concept where a note is divided into three equal parts, occupying the same rhyth `Unit 7 - Chapter 2`
-- [[Tuplets_and_False_Notation]]. **Tuplets** (also known as "irrational groupings") are rhythms that involve an irregular division of a beat that is norm `READ1`
-- [[Two-Bar_Bass_Drum_Pattern]]. A `[[Two-Bar Bass Drum Pattern]]` is a rhythmic sequence played on the `[[Bass Drum]]` that repeats every two measures. `Unit 4 - Chapter 1`
-- [[Two-Handed 16ths (Technique)]]. [[Two-Handed 16ths]] is a drumming technique introduced in Unit 4 of "[[Drum Performance 1 (Book)]]". `Unit 4`
-- [[Two-Handed 16ths]]. 在 [[Musicians Institute Drum Performance 1]] 的 Unit 4 中涵蓋的打擊樂技巧，專注於雙手演奏 16 分音符。 `Unit 4`
-- [[Two-Handed_16th-Note_Groove]]. A `[[Two-Handed 16th-Note Groove]]` is a fundamental drumming technique where `[[16th Notes]]` are played continuously,  `Unit 4 - Chapter 1`
-- [[Two-Handed_16ths_Play-Along_Unit_4]]. This unit focuses on developing proficiency with [[Two-Handed 16th Notes]] in a [[Play-Along]] context, specifically wit `Unit 4`
+- [[Tuplets_and_False_Notation]]. **Tuplets** (also known as "irrational groupings") are rhythms that involve an irregular division of a [[Beat|beat]] tha `READ1`
+- [[Two-Bar_Bass_Drum_Pattern]]. A `[[Two-Bar_Bass_Drum_Pattern]]` is a rhythmic sequence played on the `[[Bass_Drum]]` that repeats every two measures. `Unit 4 - Chapter 1`
+- [[Two-Handed_16th-Note_Groove]] — Two-Handed 16th-Note [[Groove|Groove]]. A `[[Two-Handed_16th-Note_Groove]]` is a fundamental drumming technique where `[[16th_Notes]]` are played continuously,  `Unit 4 - Chapter 1`
+- [[Two-Handed_16ths]]. 在 [[Musicians_Institute_Drum_Performance_1]] 的 Unit 4 中涵蓋的打擊樂技巧，專注於雙手演奏 16 分音符。 `Unit 4`
+- [[Two-Handed_16ths_(Technique)]] — [[Two-Handed_16ths|Two-Handed 16ths]] (Technique). [[Two-Handed_16ths]] is a drumming technique introduced in Unit 4 of "[[Drum_Performance_1_(Book)]]". `Unit 4`
+- [[Two-Handed_16ths_Play-Along_Unit_4]] — [[Two-Handed_16ths|Two-Handed 16ths]] Play-Along Unit 4. This unit focuses on developing proficiency with [[Two-Handed_16th_Notes]] in a [[Play-Along]] context, specifically wit `Unit 4`
 ### U
-- [[Un-accented Hi-Hat Note Technique]]. To achieve a dynamically controlled, quieter un-accented sound on the [[Hi-Hat]]:
+- [[Un-accented_Hi-Hat_Note_Technique]] — Un-[[Accented_Hi-Hat_Note_Technique|accented Hi-Hat Note Technique]]. To achieve a dynamically controlled, quieter un-accented sound on the [[Hi-Hat]]:
 1. `Unit 2 - Chapter 2`
-- [[Un-accented Note Technique (Cymbal)]] — Un-accented Note Technique (Cymbal) (鈸非重音音符技巧). 在鈸上實現非重音聲音的技巧，使用鼓棒的尖端，在尖端下方一點，擊打鈸的 Body。由於需要在下拍擊打 Bell，因此尖端用於鈸的左手中心部分（Bell 的左側）。這是 [[Playing Accented and Un-accented No `Unit 2`
-- [[Unison_Foot_Phrasing]]. **Unison Foot Phrasing** is an advanced drumming technique where the bass drums (typically via [[Double Pedal]]) replica `MI_CURR`
-- [[Unit_2_Practice_Suggestions]]. Effective practice is key to mastering drumming techniques. `Unit 2 - Practice Suggestions`
-- [[Unit_3_-_Chapter_3]]. This chapter focuses on developing control and musicality with `[[One-Handed 16th-Note]]` patterns, primarily through `[ `Unit 3`
-- [[Unit_4_-_Chapter_1]]. This chapter, titled "Intro to `[[Two-Handed 16ths]]`," delves into the application of `[[16th Notes]]` using both hands `Unit 4`
-- [[Unit_4_Homework]]. This homework assignment focuses on reinforcing the concepts and techniques learned in Unit 4, particularly concerning [ `Unit 4 - On Your Own`
-- [[Unit_4_Practice_Suggestions]]. These suggestions provide a structured approach to practicing the material covered in Unit 4, focusing on [[Drum Rudimen `Unit 4 - On Your Own`
-- [[Unit_5_Homework]]. This homework assignment focuses on solidifying [[Bass Drum Technique]], particularly dynamic control, and continuing th `Unit 5 - On Your Own`
-- [[Unit_5_Practice_Suggestions]]. These suggestions provide a structured approach to practicing the material covered in Unit 5, with a strong emphasis on  `Unit 5 - On Your Own`
-- [[Unit_6_Chapter_3_Overview]]. This chapter focuses on advanced rhythmic reading exercises, primarily combining [[Sixteenth Notes]], [[Eighth Notes]],  `Unit 6 - Chapter 3`
-- [[Unit_7_Overview]] — Unit 7 Overview: Reading, Technique, Performance. Unit 7 marks a significant progression in rhythmic studies, bridging foundational [[Drum Reading]] with advanced [[Techn `Unit 7`
-- [[Unit_7_Performance_Review]]. This review summarizes the key elements for performing the [[12-Bar Blues Open Form]] in Unit 7, emphasizing the integra `Unit 7 - Chapter 2`
-- [[Unit_9_Practice_Suggestions]]. Effective practice is crucial for developing drumming skills. `Uncategorized`
-- [[Upbeat_Ensemble_Figures]]. Upbeat Ensemble Figures are rhythmic hits that occur on the "off-beats" or syncopated partials, most commonly the **"&"  `READ3`
+- [[Un-accented_Note_Technique_(Cymbal)]] — Un-accented Note Technique (Cymbal) (鈸非重音音符技巧). 在鈸上實現非重音聲音的技巧，使用鼓棒的尖端，在尖端下方一點，擊打鈸的 Body。由於需要在下拍擊打 Bell，因此尖端用於鈸的左手中心部分（Bell 的左側）。這是 [[Playing_Accented_and_Un-accented_No `Unit 2`
+- [[Unison_Foot_Phrasing]] — Unison Foot [[Phrasing|Phrasing]]. **Unison Foot [[Phrasing|Phrasing]]** is an advanced drumming technique where the bass drums (typically via [[Double_Ped `MI_CURR`
+- [[Upbeat_Ensemble_Figures]] — Upbeat [[Ensemble_Figures|Ensemble Figures]]. Upbeat [[Ensemble_Figures|Ensemble Figures]] are rhythmic hits that occur on the "off-beats" or syncopated partials, mos `READ3`
 - [[Upbeats_and_Downbeats]]. **Upbeats** and **Downbeats** are fundamental concepts in [[Rhythm]] that refer to the strong and weak pulses within a m `Unit 4 - Chapter 2`
-- [[Upstroke_Technique]]. The **Upstroke** is a fundamental motion used to conserve energy and prepare for subsequent [[Accents]]. `TECH3_4`
-- [[Uptempo_Jazz_Phrasing]]. Playing at fast tempos (e.g., $J = 240+$ BPM) requires a shift in both physical approach and musical philosophy. `TECH3_4`
-- [[Using_Entire_Leg_and_Foot_for_Bass_Drum_Stroke]]. [[Using Entire Leg and Foot for Bass Drum Stroke]] is a bass drum technique that emphasizes engaging the entire leg, fro `Unit 4 - Chapter 2`
+- [[Upstroke_Technique]]. The **Upstroke** is a fundamental motion used to conserve energy and prepare for subsequent [[Accents_Drumming]]. `TECH3_4`
+- [[Uptempo_Jazz_Phrasing]] — Uptempo [[Jazz|Jazz]] [[Phrasing|Phrasing]]. Playing at fast tempos (e.g., $J = 240+$ BPM) requires a shift in both physical approach and musical philosophy. `TECH3_4`
+- [[Using_Entire_Leg_and_Foot_for_Bass_Drum_Stroke]] — Using Entire Leg and Foot for [[Bass_Drum|Bass Drum]] Stroke. [[Using_Entire_Leg_and_Foot_for_Bass_Drum_Stroke]] is a [[Bass_Drum_Technique|bass drum technique]] that emphasizes enga `Unit 4 - Chapter 2`
 ### V
 - [[Vamp_Until_Cue]]. "Vamp until cue" is a performance instruction directing the musician to repeat a short, looped section (usually 2 or 4 b `READ2`
 - [[Velocity_and_Endurance]]. In professional drumming, **Velocity** and **Endurance** are two distinct but interdependent physical attributes develop `TECH3_4`
-- [[Verbal_Counting_(Rhythm)]]. [[Verbal Counting (Rhythm)]] is the practice of vocalizing rhythmic subdivisions and beat placements while reading or pe `Unit 3 - Chapter 1`
-- [[Verse (Song Section)]]. The "Verse" is a primary section of a song's [[Song Structure]] that typically carries the narrative or develops the lyr `Unit 5 - Chapter 1`
+- [[Verbal_Counting_(Rhythm)]]. [[Verbal_Counting_(Rhythm)]] is the practice of vocalizing rhythmic subdivisions and [[Beat|beat]] placements while read `Unit 3 - Chapter 1`
+- [[Verse_(Song_Section)]]. The "Verse" is a primary section of a song's [[Song_Structure]] that typically carries the narrative or develops the lyr `Unit 5 - Chapter 1`
 - [[Verse_Section_Letter_A]] — Verse Section (Letter A). In the context of a pop song, "Letter A" commonly refers to the [[Verse_Section_Letter_A]]. `Unit 5`
 ### W
-- [[Wrist_Technique_(German_Grip)]]. The [[German Grip]] primarily utilizes the wrist as the main driver for stick motion. `Unit 2 - Chapter 1`
+- [[Wrist_Technique_(German_Grip)]]. The [[German_Grip]] primarily utilizes the wrist as the main driver for stick motion. `Unit 2 - Chapter 1`
 - [[Wrist_Turn_Technique]]. The **Wrist Turn** is a fundamental mechanical approach in percussion where the stick's motion is generated entirely by  `TECH3_4`
-- [[Written-Out Drum Fill]]. A [[Written-Out Drum Fill]] occurs when a composer specifically writes out a drum fill in the musical chart, indicating  `Unit 2 - Chapter 1`
+- [[Written-Out_Drum_Fill]] — Written-Out [[Drum_Fill|Drum Fill]]. A [[Written-Out_Drum_Fill]] occurs when a composer specifically writes out a [[Drum_Fill|drum fill]] in the musical [[Ch `Unit 2 - Chapter 1`
 
 ---
 
-## Exercises (309 entries)
+## Exercises (308 entries)
 
 Drills, patterns, sticking exercises, and performance studies.
 
 ### 1
-- [[1-&-a_Grouping_Eighth_Note_Two_16th_Notes]] — 1-&-a Grouping (Eighth Note + Two 16th Notes). The **1-&-a Grouping** is a common rhythmic pattern within a single beat, combining an [[Eighth Note]] with two [[16th N `Unit 4 - Chapter 2`
-- [[1-e-&_Grouping_Two_16th_Notes_Eighth_Note]] — 1-e-& Grouping (Two 16th Notes + Eighth Note). The **1-e-& Grouping** is a common rhythmic pattern within a single beat, combining two [[16th Notes]] with an [[Eighth  `Unit 4 - Chapter 2`
-- [[1-e-a_Grouping_16th_Note_Eighth_Note_16th_Note]] — 1-e-a Grouping (16th Note + Eighth Note + 16th Note). The **1-e-a Grouping** is a common syncopated rhythmic pattern within a single beat, combining a [[16th Note]], an [[Eig `Unit 4 - Chapter 2`
-- [[12_Bar_Phrase_Eighth_Note_Triplets_and_Rests]] — 12-Bar Phrase (Eighth-Note Triplets and Rests). This exercise applies rhythmic reading skills to an extended [[12-Bar Phrase]], integrating [[Eighth Note Triplets]] and `Unit 7 Chapter 3`
+- [[1-&-a_Grouping_Eighth_Note_Two_16th_Notes]] — 1-&-a Grouping (Eighth Note + Two 16th Notes). The **1-&-a Grouping** is a common rhythmic pattern within a single beat, combining an [[Eighth_Note]] with two [[16th_N `Unit 4 - Chapter 2`
+- [[1-e-&_Grouping_Two_16th_Notes_Eighth_Note]] — 1-e-& Grouping (Two 16th Notes + Eighth Note). The **1-e-& Grouping** is a common rhythmic pattern within a single beat, combining two [[16th_Notes]] with an [[Eighth_ `Unit 4 - Chapter 2`
+- [[1-e-a_Grouping_16th_Note_Eighth_Note_16th_Note]] — 1-e-a Grouping (16th Note + Eighth Note + 16th Note). The **1-e-a Grouping** is a common syncopated rhythmic pattern within a single beat, combining a [[16th_Note]], an [[Eig `Unit 4 - Chapter 2`
+- [[12_Bar_Phrase_Eighth_Note_Triplets_and_Rests]] — 12-Bar Phrase (Eighth-Note Triplets and Rests). This exercise applies rhythmic reading skills to an extended [[12-Bar Phrase]], integrating [[Eighth_Note_Triplets]] and `Unit 7 Chapter 3`
 - [[16_Bar_2_4_Exercise]] — 16-Bar 2/4 Exercise. This comprehensive exercise presents a 16-bar rhythmic passage within the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[16th-Note_Ensemble_Figure_Funk-Rock]] — 16th-Note Ensemble Figure (Funk-Rock). An [[Ensemble Figures]] (or "hit") is a rhythmic accent played simultaneously by multiple instruments in a band. `Unit 8 Chapter 2`
+- [[16th-Note_Ensemble_Figure_Funk-Rock]] — 16th-Note Ensemble Figure (Funk-Rock). An [[Ensemble_Figures]] (or "hit") is a rhythmic accent played simultaneously by multiple instruments in a band. `Unit 8 Chapter 2`
 - [[16th-Note_Triplet_Fill]]. The **16th-note triplet fill** is a versatile rhythmic embellishment used across nearly all genres of music. `READ2`
-- [[16th_Eighth_Notes_One_Bar_Phrases]] — 16th and Eighth Notes (One Bar Phrases). This exercise type focuses on reading and performing continuous rhythmic patterns using only [[Sixteenth Notes]] and [[E `Unit 6 - Chapter 3`
-- [[16th_Eighth_Notes_with_16th_Eighth_Rests_One_Bar_Phrases]] — 16th and Eighth Notes with 16th and Eighth Rests (One Bar Phrases). This exercise type (M and N) further increases rhythmic complexity by combining [[Sixteenth Notes]] and [[Eighth Notes]] `Unit 6 - Chapter 3`
-- [[16th_Eighth_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th and Eighth Notes with 16th Rests (One Bar Phrases). This exercise type (K and L) combines [[Sixteenth Notes]] and [[Eighth Notes]] with the precision requirement of [[16th_ `Unit 6 - Chapter 3`
-- [[16th_Eighth_Notes_with_Eighth_Rests_One_Bar_Phrases]] — 16th and Eighth Notes with Eighth Rests (One Bar Phrases). This exercise type challenges drummers to read and perform rhythmic figures composed of [[Sixteenth Notes]] and [[Eighth `Unit 6 - Chapter 3`
-- [[16th_Eighth_Quarter_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th, Eighth and Quarter Notes with 16th Rests (One Bar Phrases). This comprehensive exercise type (Q through T) integrates all three primary note values ([[Sixteenth Notes]], [[Eighth N `Unit 6 - Chapter 3`
-- [[16th_Eighth_Quarter_Notes_with_Eighth_Rests_One_Bar_Phrases]] — 16th, Eighth and Quarter Notes with Eighth Rests (One Bar Phrases). This exercise type focuses on reading and performing rhythmic patterns that combine [[Sixteenth Notes]], [[Eighth Notes] `Unit 6 - Chapter 3`
-- [[16th_Eighth_Quarter_Notes_with_Quarter_Rests_One_Bar_Phrases]] — 16th, Eighth and Quarter Notes with Quarter Rests (One Bar Phrases). This exercise type introduces [[Quarter_Rest]] into rhythmic patterns that already combine [[Sixteenth Notes]], [[Eighth `Unit 6 - Chapter 3`
-- [[16th_Note_and_Rest_Application_in_2_4_Time]] — 16th Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Sixteenth Notes]], [[Sixteenth_Rest]], and [[Tied Sixteenth Notes]] within `Unit 10 Chapter 1`
-- [[16th_Notes_Eighth_Notes_and_Quarter_Notes_with_Eighth_Note_Rests_One-Bar_Phrases_Unit_4]] — 16th Notes, Eighth Notes, and Quarter Notes with Eighth Note Rests (One-Bar Phrases) (Unit 4). This exercise category focuses on integrating a full range of common rhythmic values—[[16th Notes]], [[Eighth Notes]], a `Unit 4 - Chapter 4`
-- [[16th_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th Notes with 16th Rests (One Bar Phrases). This exercise type, designated "A" within the "II" series, focuses exclusively on [[Sixteenth Notes]] and [[16th_Rest]]  `Unit 6 - Chapter 3`
-- [[16th_Notes_with_16th_Rests_Two_Bar_Phrases]] — 16th Notes with 16th Rests (Two Bar Phrases). This series of exercises (B through J) extends the focus on [[Sixteenth Notes]] and [[16th_Rest]] into two-bar phrases. `Unit 6 - Chapter 3`
-- [[16th_Notes_with_Half_and_Quarter_Rests_One-Bar_Phrases]] — 16th Notes with Half and Quarter Rests (One-Bar Phrases). This exercise category focuses on developing advanced [[Rhythm]] reading and playing skills by combining [[16th Notes]]  `Unit 4 - Chapter 4`
-- [[16th_Quarter_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th and Quarter Notes with 16th Rests (One Bar Phrases). This exercise type (O and P) combines [[Sixteenth Notes]] and [[Quarter Notes]] with [[16th_Rest]] within single-bar phr `Unit 6 - Chapter 3`
-- [[16ths_Four_Bar_Phrases_2_4]] — 16ths (Four-Bar Phrases) - 2/4. This exercise challenges drummers to perform [[Sixteenth Note]]s in extended four-bar phrases within the [[2_4_Time_Sign `Unit 10 - Chapter 3`
-- [[16ths_Four_Bar_Phrases_3_4]] — 16ths (Four-Bar Phrases) - 3/4. This exercise challenges drummers to perform [[Sixteenth Note]]s in extended four-bar phrases within the [[3_4_Time_Sign `Unit 10 - Chapter 3`
-- [[16ths_One_Bar_Phrases_2_4]] — 16ths (One-Bar Phrases) - 2/4. This exercise focuses on reading and executing [[Sixteenth Note]]s within one-bar phrases in the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[16ths_One_Bar_Phrases_3_4]] — 16ths (One-Bar Phrases) - 3/4. This exercise focuses on reading and executing [[Sixteenth Note]]s within one-bar phrases in the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[16ths_Two_Bar_Phrases_2_4]] — 16ths (Two-Bar Phrases) - 2/4. This exercise extends the practice of [[Sixteenth Note]]s into two-bar phrases within the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[16ths_Two_Bar_Phrases_3_4]] — 16ths (Two-Bar Phrases) - 3/4. This exercise extends the practice of [[Sixteenth Note]]s into two-bar phrases within the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[16ths_with_Ties_Four_Bar_Phrases_2_4]] — 16ths with Ties (Four-Bar Phrases) - 2/4. This exercise combines [[Ties]] with [[Sixteenth Note]]s in extended four-bar phrases within the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
-- [[16ths_with_Ties_Four_Bar_Phrases_3_4]] — 16ths with Ties (Four-Bar Phrases) - 3/4. This exercise combines [[Ties]] with [[Sixteenth Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[16th_Eighth_Notes_One_Bar_Phrases]] — 16th and Eighth Notes (One Bar Phrases). This exercise type focuses on reading and performing continuous rhythmic patterns using only [[16th_Notes]] and [[Eighth `Unit 6 - Chapter 3`
+- [[16th_Eighth_Notes_with_16th_Eighth_Rests_One_Bar_Phrases]] — 16th and Eighth Notes with 16th and Eighth Rests (One Bar Phrases). This exercise type (M and N) further increases rhythmic complexity by combining [[16th_Notes]] and [[Eighth_Note]] with  `Unit 6 - Chapter 3`
+- [[16th_Eighth_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th and Eighth Notes with 16th Rests (One Bar Phrases). This exercise type (K and L) combines [[16th_Notes]] and [[Eighth_Note]] with the precision requirement of [[16th_Rest]] `Unit 6 - Chapter 3`
+- [[16th_Eighth_Notes_with_Eighth_Rests_One_Bar_Phrases]] — 16th and Eighth Notes with Eighth Rests (One Bar Phrases). This exercise type challenges drummers to read and perform rhythmic figures composed of [[16th_Notes]] and [[Eighth_Note `Unit 6 - Chapter 3`
+- [[16th_Eighth_Quarter_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th, Eighth and Quarter Notes with 16th Rests (One Bar Phrases). This comprehensive exercise type (Q through T) integrates all three primary note values ([[16th_Notes]], [[Eighth_Note]] `Unit 6 - Chapter 3`
+- [[16th_Eighth_Quarter_Notes_with_Eighth_Rests_One_Bar_Phrases]] — 16th, Eighth and Quarter Notes with Eighth Rests (One Bar Phrases). This exercise type focuses on reading and performing rhythmic patterns that combine [[16th_Notes]], [[Eighth_Note]], and `Unit 6 - Chapter 3`
+- [[16th_Eighth_Quarter_Notes_with_Quarter_Rests_One_Bar_Phrases]] — 16th, Eighth and Quarter Notes with Quarter Rests (One Bar Phrases). This exercise type introduces [[Quarter_Rest]] into rhythmic patterns that already combine [[16th_Notes]], [[Eighth_Note `Unit 6 - Chapter 3`
+- [[16th_Note_and_Rest_Application_in_2_4_Time]] — 16th Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[16th_Notes]], [[Sixteenth_Rest]], and [[Tied Sixteenth Notes]] within the  `Unit 10 Chapter 1`
+- [[16th_Notes_Eighth_Notes_and_Quarter_Notes_with_Eighth_Note_Rests_One-Bar_Phrases_Unit_4]] — 16th Notes, Eighth Notes, and Quarter Notes with Eighth Note Rests (One-Bar Phrases) (Unit 4). This exercise category focuses on integrating a full range of common rhythmic values—[[16th_Notes]], [[Eighth_Note]], an `Unit 4 - Chapter 4`
+- [[16th_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th Notes with 16th Rests (One Bar Phrases). This exercise type, designated "A" within the "II" series, focuses exclusively on [[16th_Notes]] and [[16th_Rest]] withi `Unit 6 - Chapter 3`
+- [[16th_Notes_with_16th_Rests_Two_Bar_Phrases]] — 16th Notes with 16th Rests (Two Bar Phrases). This series of exercises (B through J) extends the focus on [[16th_Notes]] and [[16th_Rest]] into two-bar phrases. `Unit 6 - Chapter 3`
+- [[16th_Notes_with_Half_and_Quarter_Rests_One-Bar_Phrases]] — 16th Notes with Half and Quarter Rests (One-Bar Phrases). This exercise category focuses on developing advanced [[Rhythm]] reading and playing skills by combining [[16th_Notes]]  `Unit 4 - Chapter 4`
+- [[16th_Quarter_Notes_with_16th_Rests_One_Bar_Phrases]] — 16th and Quarter Notes with 16th Rests (One Bar Phrases). This exercise type (O and P) combines [[16th_Notes]] and [[Quarter_Note]] with [[16th_Rest]] within single-bar phrases. `Unit 6 - Chapter 3`
+- [[16ths_Four_Bar_Phrases_2_4]] — 16ths (Four-Bar Phrases) - 2/4. This exercise challenges drummers to perform [[Sixteenth_Note]]s in extended four-bar phrases within the [[2_4_Time_Sign `Unit 10 - Chapter 3`
+- [[16ths_Four_Bar_Phrases_3_4]] — 16ths (Four-Bar Phrases) - 3/4. This exercise challenges drummers to perform [[Sixteenth_Note]]s in extended four-bar phrases within the [[3_4_Time_Sign `Unit 10 - Chapter 3`
+- [[16ths_One_Bar_Phrases_2_4]] — 16ths (One-Bar Phrases) - 2/4. This exercise focuses on reading and executing [[Sixteenth_Note]]s within one-bar phrases in the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[16ths_One_Bar_Phrases_3_4]] — 16ths (One-Bar Phrases) - 3/4. This exercise focuses on reading and executing [[Sixteenth_Note]]s within one-bar phrases in the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[16ths_Two_Bar_Phrases_2_4]] — 16ths (Two-Bar Phrases) - 2/4. This exercise extends the practice of [[Sixteenth_Note]]s into two-bar phrases within the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[16ths_Two_Bar_Phrases_3_4]] — 16ths (Two-Bar Phrases) - 3/4. This exercise extends the practice of [[Sixteenth_Note]]s into two-bar phrases within the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[16ths_with_Ties_Four_Bar_Phrases_2_4]] — 16ths with Ties (Four-Bar Phrases) - 2/4. This exercise combines [[Ties]] with [[Sixteenth_Note]]s in extended four-bar phrases within the [[2_4_Time_Signature]]. `Unit 10 - Chapter 3`
+- [[16ths_with_Ties_Four_Bar_Phrases_3_4]] — 16ths with Ties (Four-Bar Phrases) - 3/4. This exercise combines [[Ties]] with [[Sixteenth_Note]]s in extended four-bar phrases within the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
 ### 3
 - [[3_4_16_Bar_Exercise]] — 3/4 16-Bar Exercise. This comprehensive exercise presents a 16-bar rhythmic passage within the [[3_4_Time_Signature]]. `Unit 10 - Chapter 3`
 ### 5
 - [[5-4_Modern_Rock_Groove]] — 5/4 Modern Rock Groove. While most rock music is centered in 4/4, the **5/4 Modern Rock Groove** applies standard rock vocabulary (heavy backbea `TECH3_4`
 ### A
-- [[A Section Groove (Unit 3)]]. This groove, featured as part of the [[AABA 32-Bar Form]] in Unit 3, utilizes a 16th-note hi-hat pattern. `Unit 3 - Chapter 1`
+- [[A Section Groove (Unit 3)]]. This groove, featured as part of the [[AABA_32-Bar_Form]] in Unit 3, utilizes a 16th-note hi-hat pattern. `Unit 3 - Chapter 1`
 - [[A1_12_Bar_Blues_Groove]] — A1 12-Bar Blues Groove. The A1 section of the [[12_Bar_Blues_Structure]] chart features a foundational [[Groove]] designed to establish the [[12 `Unit 6 - Chapter 2`
 - [[A2_12_Bar_Blues_Groove]] — A2 12-Bar Blues Groove. The A2 section of the [[12_Bar_Blues_Structure]] chart introduces a variation on the blues [[Groove]], shifting the prim `Unit 6 - Chapter 2`
-- [[A_Section_Snare_Drum_Pattern_Country_Pop]] — A Section Snare Drum Pattern (Country-Pop). In the A section of the [[Country_Pop_Play_Along_Chart_Unit_5]], bars 1-3 utilize a specific one-bar, [[16th Note]] [[Sn `Unit 5 - Chapter 2`
-- [[Accent_Studies_Master_Studies]] — Accent Studies (Master Studies). The "Accent Studies" section within [[Joe Morello Master Studies]] is a dedicated series of exercises designed to develo `Unit 3 - Chapter 3`
-- [[Angel_Track]] — Angel (Track). "Angel" is a complex composition by Conrad Schrenk, featured in [[Thomas Lang]]'s *Creative Control*. `MI_CURR`
-- [[Assigned_Sticking_Four_Notes_per_Beat]] — Assigned Sticking: Four Notes per Beat. This exercise applies the principles of [[Assigned Sticking]] to rhythms containing four notes per beat, which typically `Unit 6 - Chapter 1`
-- [[Assigned_Sticking_One_Note_per_Beat]] — Assigned Sticking: One Note per Beat. This exercise applies the principles of [[Assigned Sticking]] to rhythms where only one note occurs per beat, typically  `Unit 6 - Chapter 1`
-- [[Assigned_Sticking_Three_Notes_per_Beat]] — Assigned Sticking: Three Notes per Beat. This exercise applies the principles of [[Assigned Sticking]] to rhythms containing three notes per beat. `Unit 6 - Chapter 1`
-- [[Assigned_Sticking_Two_Notes_per_Beat]] — Assigned Sticking: Two Notes per Beat. This exercise applies the principles of [[Assigned Sticking]] to rhythms containing two notes per beat. `Unit 6 - Chapter 1`
+- [[A_Section_Snare_Drum_Pattern_Country_Pop]] — A Section Snare Drum Pattern (Country-Pop). In the A section of the [[Country_Pop_Play_Along_Chart_Unit_5]], bars 1-3 utilize a specific one-bar, [[16th_Note]] [[Sn `Unit 5 - Chapter 2`
+- [[Accent_Studies_Master_Studies]] — Accent Studies (Master Studies). The "Accent Studies" section within [[Joe_Morello_Master_Studies]] is a dedicated series of exercises designed to develo `Unit 3 - Chapter 3`
+- [[Angel_Track]] — Angel (Track). "Angel" is a complex composition by Conrad Schrenk, featured in [[Thomas_Lang]]'s *Creative Control*. `MI_CURR`
+- [[Assigned_Sticking_Four_Notes_per_Beat]] — Assigned Sticking: Four Notes per Beat. This exercise applies the principles of [[Assigned_Sticking]] to rhythms containing four notes per beat, which typically `Unit 6 - Chapter 1`
+- [[Assigned_Sticking_One_Note_per_Beat]] — Assigned Sticking: One Note per Beat. This exercise applies the principles of [[Assigned_Sticking]] to rhythms where only one note occurs per beat, typically  `Unit 6 - Chapter 1`
+- [[Assigned_Sticking_Three_Notes_per_Beat]] — Assigned Sticking: Three Notes per Beat. This exercise applies the principles of [[Assigned_Sticking]] to rhythms containing three notes per beat. `Unit 6 - Chapter 1`
+- [[Assigned_Sticking_Two_Notes_per_Beat]] — Assigned Sticking: Two Notes per Beat. This exercise applies the principles of [[Assigned_Sticking]] to rhythms containing two notes per beat. `Unit 6 - Chapter 1`
 ### B
-- [[B Section Groove (Unit 3)]]. This groove, featured as part of the [[AABA 32-Bar Form]] in Unit 3, provides a contrast to the [[A Section Groove (Unit `Unit 3 - Chapter 1`
+- [[B Section Groove (Unit 3)]]. This groove, featured as part of the [[AABA_32-Bar_Form]] in Unit 3, provides a contrast to the [[A Section Groove (Unit `Unit 3 - Chapter 1`
 - [[B_Section_Endings_Unit_9]] — B Section Endings (Unit 9). In the B section of this particular piece, the eighth bar of the section requires a different musical outcome each time  `Unit 9 - Chapter 2`
 - [[Bar_12_Fills_Unit_6]] — Bar 12 Fills (Unit 6). In the context of the provided chart, specific [[Drum_Fill]] are notated for bar 12 of each section (A1, A2, A3, A4). `Unit 6 - Chapter 2`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Exercise]]. This exercise is designed to develop precise [[Coordination]] and [[Independence]] between the [[Bass Drum]] and [[Hi-Ha `Drum Technique 50`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]]. [[Bass Drum and Hi-Hat Coordination Part 1]] is the initial installment of exercises designed to develop the independent `Unit 6`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_2]]. [[Bass Drum and Hi-Hat Coordination Part 2]] is the second installment of exercises designed to further develop the inde `Unit 7`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_3]]. [[Bass Drum and Hi-Hat Coordination Part 3]] is the third installment of exercises designed to further develop the indep `Unit 8`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_4]]. [[Bass Drum and Hi-Hat Coordination Part 4]] is the fourth installment of exercises designed to further develop the inde `Unit 9`
-- [[Bass_Drum_and_Hi-Hat_Coordination_Part_5]]. [[Bass Drum and Hi-Hat Coordination Part 5]] is the final installment of exercises designed to develop the independent a `Unit 10`
-- [[Bass_Drum_Dynamic_Control_Exercises]]. [[Bass Drum Dynamic Control Exercises]] are designed to develop the ability to play the bass drum with a wide range of d `Unit 5 - Chapter 1`
-- [[Bass_Drum_Syncopation_Exercise]]. The [[Bass Drum Syncopation Exercise]] is designed to develop a drummer's ability to play off-beat or [[Syncopated]] rhy `Drum Technique 50`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Exercise]]. This exercise is designed to develop precise [[Coordination]] and [[Independence]] between the [[Bass_Drum]] and [[Hi-Ha `Drum Technique 50`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]]. [[Bass_Drum_and_Hi-Hat_Coordination_Part_1]] is the initial installment of exercises designed to develop the independent `Unit 6`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_2]]. [[Bass_Drum_and_Hi-Hat_Coordination_Part_2]] is the second installment of exercises designed to further develop the inde `Unit 7`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_3]]. [[Bass_Drum_and_Hi-Hat_Coordination_Part_3]] is the third installment of exercises designed to further develop the indep `Unit 8`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_4]]. [[Bass_Drum_and_Hi-Hat_Coordination_Part_4]] is the fourth installment of exercises designed to further develop the inde `Unit 9`
+- [[Bass_Drum_and_Hi-Hat_Coordination_Part_5]]. [[Bass_Drum_and_Hi-Hat_Coordination_Part_5]] is the final installment of exercises designed to develop the independent a `Unit 10`
+- [[Bass_Drum_Dynamic_Control_Exercises]]. [[Bass_Drum_Dynamic_Control_Exercises]] are designed to develop the ability to play the bass drum with a wide range of d `Unit 5 - Chapter 1`
+- [[Bass_Drum_Syncopation_Exercise]]. The [[Bass_Drum_Syncopation_Exercise]] is designed to develop a drummer's ability to play off-beat or [[Syncopated]] rhy `Drum Technique 50`
 - [[Blushda]]. The **Blushda** is a popular hybrid rudiment that combines a [[Flams]] and a [[Drag]]. `READ2`
 - [[Bossa_Nova_Drumming_Pattern]]. The standard Bossa Nova groove is a two-bar [[Ostinato]] that requires independence between all four limbs. `READ2`
-- [[Burn_the_Bridge]]. "Burn the Bridge" is a funk composition by [[Jeff Salem]] that emphasizes [[Syncopation]] and pocket playing. `MI_CURR`
+- [[Burn_the_Bridge]]. "Burn the Bridge" is a funk composition by [[Jeff_Salem]] that emphasizes [[Syncopation]] and pocket playing. `MI_CURR`
 ### C
-- [[Chart_Analysis_More_and_Four]] — Chart Analysis: "More and Four". "More and Four" is a performance piece designed to test the interpretation of [[Articulation Interpretation|Articulation `READ3`
-- [[Check_Patterns]]. [[Check Patterns]] are rhythmic exercises or sequences designed to test and reinforce a drummer's internal clock, rhythm `Unit 8`
-- [[Coda_Ensemble_Figure_Country_Pop]] — Coda Ensemble Figure (Country-Pop). The [[Coda]] section of the [[Country_Pop_Play_Along_Chart_Unit_5]] includes an [[Ensemble Figures]] within bars 4 and 5 `Unit 5 - Chapter 2`
+- [[Chart_Analysis_More_and_Four]] — Chart Analysis: "More and Four". "More and Four" is a performance piece designed to test the interpretation of [[Articulation_Interpretation|Articulation `READ3`
+- [[Check_Patterns]]. [[Check_Patterns]] are rhythmic exercises or sequences designed to test and reinforce a drummer's internal clock, rhythm `Unit 8`
+- [[Coda_Ensemble_Figure_Country_Pop]] — Coda Ensemble Figure (Country-Pop). The [[Coda]] section of the [[Country_Pop_Play_Along_Chart_Unit_5]] includes an [[Ensemble_Figures]] within bars 4 and 5 `Unit 5 - Chapter 2`
 - [[Combination Exercises (Paradiddle)]]. [[Combination Exercises]] involving [[Paradiddle]]s are crucial for developing advanced coordination, fluidity, and musi `Unit 8: Single Paradiddle`
 - [[Country_Pop_Play_Along_Chart_Unit_5]] — Country-Pop Play-Along Chart (Unit 5). This entry refers to the full drum chart for the "Country-Pop Play-Along" exercise in Unit 5, Chapter 3. `Unit 5 - Chapter 3`
-- [[Cut_Time_Modulation]] — 4/4 to Cut Time Modulation (Funk to Samba). This modulation transitions from a 16th-note **Funk Feel** in [[4/4 Time]] to a **Samba** in [[Cut Time]] ($2/2$). `TECH1_2`
+- [[Cut_Time_Modulation]] — 4/4 to Cut Time Modulation (Funk to Samba). This modulation transitions from a 16th-note **Funk Feel** in [[4/4 Time]] to a **Samba** in [[Cut_Time]] ($2/2$). `TECH1_2`
 ### D
 - [[Dotted-Half-Note_Click_3_4_Time]] — Dotted-Half-Note Click (3/4 Time). This is `[[Method 2]]` for `[[Practicing_3_4_Time]]` using a `[[Metronome]]`. `Unit 9 Chapter 1`
-- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_I]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise I. This exercise focuses on reading and performing rhythms that incorporate [[Dotted Eighth Note]]s and [[Dotted Eighth Res `Unit 9 Chapter 3`
-- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_J]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise J. This exercise provides further practice in reading and performing rhythms featuring [[Dotted Eighth Note]]s and [[Dotted `Unit 9 Chapter 3`
-- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_K]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise K. This exercise offers additional opportunities to practice reading and performing rhythms featuring [[Dotted Eighth Note] `Unit 9 Chapter 3`
-- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_L]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise L. This exercise provides comprehensive practice with [[Dotted Eighth Note]]s and [[Dotted Eighth Rest]]s in one-bar phrase `Unit 9 Chapter 3`
-- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_M]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise M. This exercise offers a final set of challenges for reading and performing rhythms featuring [[Dotted Eighth Note]]s and  `Unit 9 Chapter 3`
+- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_I]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise I. This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Eighth_Note]]s and [[Dotted Eighth Res `Unit 9 Chapter 3`
+- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_J]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise J. This exercise provides further practice in reading and performing rhythms featuring [[Dotted_Eighth_Note]]s and [[Dotted `Unit 9 Chapter 3`
+- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_K]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise K. This exercise offers additional opportunities to practice reading and performing rhythms featuring [[Dotted_Eighth_Note] `Unit 9 Chapter 3`
+- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_L]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise L. This exercise provides comprehensive practice with [[Dotted_Eighth_Note]]s and [[Dotted Eighth Rest]]s in one-bar phrase `Unit 9 Chapter 3`
+- [[Dotted_Eighth_Notes_and_Rests_One_Bar_Phrases_Exercise_M]] — Dotted Eighth Notes and Rests (One Bar Phrases) - Exercise M. This exercise offers a final set of challenges for reading and performing rhythms featuring [[Dotted_Eighth_Note]]s and  `Unit 9 Chapter 3`
 - [[Dotted_Eighth_Over_the_Bar_Exercise]] — Dotted Eighth Over-the-Bar Exercise. This exercise applies the [[Over_the_Bar_Groove_Technique]] using a three-16th-note grouping (dotted eighth value) distr `TECH3_4`
-- [[Dotted_Eighths_with_Ties_Four_Bar_Phrases_2_4]] — Dotted Eighths with Ties (Four-Bar Phrases) - 2/4. This exercise combines [[Dotted Eighth Note]]s with [[Ties]] in extended four-bar phrases within the [[2_4_Time_Signatur `Unit 10 - Chapter 3`
-- [[Dotted_Eighths_with_Ties_Four_Bar_Phrases_3_4]] — Dotted Eighths with Ties (Four-Bar Phrases) - 3/4. This exercise combines [[Dotted Eighth Note]]s with [[Ties]] in extended four-bar phrases within the [[3_4_Time_Signatur `Unit 10 - Chapter 3`
-- [[Dotted_Half_Notes_and_Dotted_Quarter_Notes_One_Bar_Phrases_Exercise_A]] — Dotted Half Notes and Dotted Quarter Notes (One Bar Phrases) - Exercise A. This exercise focuses on reading and performing rhythms that incorporate [[Dotted Half Note]]s and [[Dotted Quarter Note `Unit 9 Chapter 3`
+- [[Dotted_Eighths_with_Ties_Four_Bar_Phrases_2_4]] — Dotted Eighths with Ties (Four-Bar Phrases) - 2/4. This exercise combines [[Dotted_Eighth_Note]]s with [[Ties]] in extended four-bar phrases within the [[2_4_Time_Signatur `Unit 10 - Chapter 3`
+- [[Dotted_Eighths_with_Ties_Four_Bar_Phrases_3_4]] — Dotted Eighths with Ties (Four-Bar Phrases) - 3/4. This exercise combines [[Dotted_Eighth_Note]]s with [[Ties]] in extended four-bar phrases within the [[3_4_Time_Signatur `Unit 10 - Chapter 3`
+- [[Dotted_Half_Notes_and_Dotted_Quarter_Notes_One_Bar_Phrases_Exercise_A]] — Dotted Half Notes and Dotted Quarter Notes (One Bar Phrases) - Exercise A. This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Half_Note]]s and [[Dotted_Quarter_Note `Unit 9 Chapter 3`
 - [[Dotted_Half_Rests_and_Dotted_Quarter_Rests_One_Bar_Phrases_Exercise_G]] — Dotted Half Rests and Dotted Quarter Rests (One Bar Phrases) - Exercise G. This exercise focuses on reading and accurately observing [[Dotted Half Rest]]s and [[Dotted Quarter Rest]]s within sing `Unit 9 Chapter 3`
-- [[Dotted_Quarter_Notes_and_Rests_Two_Bar_Phrases_Exercise_H]] — Dotted Quarter Notes and Rests (Two Bar Phrases) - Exercise H. This exercise combines [[Dotted Quarter Note]]s with [[Dotted Quarter Rest]]s (and potentially other quarter notes/rests `Unit 9 Chapter 3`
-- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_B]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise B. This exercise provides practice in reading and performing rhythms composed primarily of [[Dotted Quarter Note]]s within  `Unit 9 Chapter 3`
-- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_C]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise C. This exercise offers further practice in reading and performing rhythms featuring [[Dotted Quarter Note]]s within two-ba `Unit 9 Chapter 3`
-- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_D]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise D. This exercise provides additional practice with [[Dotted Quarter Note]]s in two-bar phrases, focusing on varied rhythmic `Unit 9 Chapter 3`
-- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_E]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise E. This exercise offers further opportunities to practice reading and performing rhythms featuring [[Dotted Quarter Note]]s `Unit 9 Chapter 3`
-- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_F]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise F. This exercise provides comprehensive practice with [[Dotted Quarter Note]]s in two-bar phrases, presenting various rhyth `Unit 9 Chapter 3`
-- [[Dotted_Quarters_and_Eighths_Four_Bar_Phrases_2_4]] — Dotted Quarters and Eighths (Four-Bar Phrases) - 2/4. Building on the previous exercise, this section presents [[Dotted Quarter Note]]s and [[Eighth Note]]s in extended four- `Unit 10 - Chapter 3`
-- [[Dotted_Quarters_and_Eighths_Two_Bar_Phrases_2_4]] — Dotted Quarters and Eighths (Two-Bar Phrases) - 2/4. This exercise introduces [[Dotted Quarter Note]]s in combination with [[Eighth Note]]s within two-bar phrases in the [[2 `Unit 10 - Chapter 3`
-- [[Dotted_Quarters_and_Eighths_with_Ties_Four_Bar_Phrases_2_4]] — Dotted Quarters and Eighths with Ties (Four-Bar Phrases) - 2/4. This exercise introduces [[Ties]] in conjunction with [[Dotted Quarter Note]]s and [[Eighth Note]]s within four-bar phra `Unit 10 - Chapter 3`
-- [[Dotted_Quarters_with_Eighths_and_Ties_Two_Bar_Phrases_3_4]] — Dotted Quarters with Eighths and Ties (Two-Bar Phrases) - 3/4. This exercise introduces [[Ties]] in conjunction with [[Dotted Quarter Note]]s and [[Eighth Note]]s within two-bar phras `Unit 10 - Chapter 3`
-- [[Dotted_Quarters_with_Eighths_Four_Bar_Phrases_3_4]] — Dotted Quarters with Eighths (Four-Bar Phrases) - 3/4. Building on the previous exercise, this section presents [[Dotted Quarter Note]]s and [[Eighth Note]]s in extended four- `Unit 10 - Chapter 3`
-- [[Dotted_Quarters_with_Eighths_Two_Bar_Phrases_3_4]] — Dotted Quarters with Eighths (Two-Bar Phrases) - 3/4. This exercise introduces [[Dotted Quarter Note]]s in combination with [[Eighth Note]]s within two-bar phrases in the [[3 `Unit 10 - Chapter 3`
+- [[Dotted_Quarter_Notes_and_Rests_Two_Bar_Phrases_Exercise_H]] — Dotted Quarter Notes and Rests (Two Bar Phrases) - Exercise H. This exercise combines [[Dotted_Quarter_Note]]s with [[Dotted Quarter Rest]]s (and potentially other quarter notes/rests `Unit 9 Chapter 3`
+- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_B]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise B. This exercise provides practice in reading and performing rhythms composed primarily of [[Dotted_Quarter_Note]]s within  `Unit 9 Chapter 3`
+- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_C]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise C. This exercise offers further practice in reading and performing rhythms featuring [[Dotted_Quarter_Note]]s within two-ba `Unit 9 Chapter 3`
+- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_D]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise D. This exercise provides additional practice with [[Dotted_Quarter_Note]]s in two-bar phrases, focusing on varied rhythmic `Unit 9 Chapter 3`
+- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_E]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise E. This exercise offers further opportunities to practice reading and performing rhythms featuring [[Dotted_Quarter_Note]]s `Unit 9 Chapter 3`
+- [[Dotted_Quarter_Notes_Two_Bar_Phrases_Exercise_F]] — Dotted Quarter Notes (Two Bar Phrases) - Exercise F. This exercise provides comprehensive practice with [[Dotted_Quarter_Note]]s in two-bar phrases, presenting various rhyth `Unit 9 Chapter 3`
+- [[Dotted_Quarters_and_Eighths_Four_Bar_Phrases_2_4]] — Dotted Quarters and Eighths (Four-Bar Phrases) - 2/4. Building on the previous exercise, this section presents [[Dotted_Quarter_Note]]s and [[Eighth_Note]]s in extended four- `Unit 10 - Chapter 3`
+- [[Dotted_Quarters_and_Eighths_Two_Bar_Phrases_2_4]] — Dotted Quarters and Eighths (Two-Bar Phrases) - 2/4. This exercise introduces [[Dotted_Quarter_Note]]s in combination with [[Eighth_Note]]s within two-bar phrases in the [[2 `Unit 10 - Chapter 3`
+- [[Dotted_Quarters_and_Eighths_with_Ties_Four_Bar_Phrases_2_4]] — Dotted Quarters and Eighths with Ties (Four-Bar Phrases) - 2/4. This exercise introduces [[Ties]] in conjunction with [[Dotted_Quarter_Note]]s and [[Eighth_Note]]s within four-bar phra `Unit 10 - Chapter 3`
+- [[Dotted_Quarters_with_Eighths_and_Ties_Two_Bar_Phrases_3_4]] — Dotted Quarters with Eighths and Ties (Two-Bar Phrases) - 3/4. This exercise introduces [[Ties]] in conjunction with [[Dotted_Quarter_Note]]s and [[Eighth_Note]]s within two-bar phras `Unit 10 - Chapter 3`
+- [[Dotted_Quarters_with_Eighths_Four_Bar_Phrases_3_4]] — Dotted Quarters with Eighths (Four-Bar Phrases) - 3/4. Building on the previous exercise, this section presents [[Dotted_Quarter_Note]]s and [[Eighth_Note]]s in extended four- `Unit 10 - Chapter 3`
+- [[Dotted_Quarters_with_Eighths_Two_Bar_Phrases_3_4]] — Dotted Quarters with Eighths (Two-Bar Phrases) - 3/4. This exercise introduces [[Dotted_Quarter_Note]]s in combination with [[Eighth_Note]]s within two-bar phrases in the [[3 `Unit 10 - Chapter 3`
 - [[Double_Paradiddle_Double_Pedal]] — Double Paradiddle (Double Pedal). Applying the **Double Paradiddle** [[Rudiment]] to the feet is a specialized coordination exercise used to build dexteri `MI_CURR`
 - [[Double_Paradiddle_Mobility]] — Double Paradiddle Drumset Mobility. The **Double Paradiddle** (`R L R L R R / L R L R L L`) extends the standard paradiddle by adding an extra pair of singl `READ2`
 - [[Double_Stroke_Roll_Ostinato_Study]]. This exercise series integrates standard [[Rudimental_Rolls]] with a fixed [[Four_Way_Coordination]] ostinato. `TECH3_4`
 - [[Drag_Paradiddle_2]] — Drag Paradiddle #2. The **Drag Paradiddle #2** is an advanced variation of the standard [[Paradiddle]] that incorporates two consecutive [[D `READ2`
-- [[Drum_Reading_Exercise_16ths_(Four-Bar_Phrases)_-_D]] — Drum Reading Exercise: 16ths (Four-Bar Phrases) - D. This exercise, labeled 'D' within its unit, focuses on reading and performing rhythms composed primarily of [[Sixteenth  `Unit 10 - Chapter 3`
-- [[Drum_Reading_Exercise_16ths_(Four-Bar_Phrases)_-_E]] — Drum Reading Exercise: 16ths (Four-Bar Phrases) - E. This exercise, labeled 'E' within its unit, focuses on reading and performing rhythms composed primarily of [[Sixteenth  `Unit 10 - Chapter 3`
-- [[Drum_Reading_Exercise_16ths_with_Ties_(Four-Bar_Phrases)]] — Drum Reading Exercise: 16ths with Ties (Four-Bar_Phrases). This exercise focuses on reading and performing rhythms that combine [[Sixteenth Notes]] with [[Ties (Music)]] within a  `Unit 10 - Chapter 3`
+- [[Drum_Reading_Exercise_16ths_(Four-Bar_Phrases)_-_D]] — Drum Reading Exercise: 16ths (Four-Bar Phrases) - D. This exercise, labeled 'D' within its unit, focuses on reading and performing rhythms composed primarily of [[16th_Notes `Unit 10 - Chapter 3`
+- [[Drum_Reading_Exercise_16ths_(Four-Bar_Phrases)_-_E]] — Drum Reading Exercise: 16ths (Four-Bar Phrases) - E. This exercise, labeled 'E' within its unit, focuses on reading and performing rhythms composed primarily of [[16th_Notes `Unit 10 - Chapter 3`
+- [[Drum_Reading_Exercise_16ths_with_Ties_(Four-Bar_Phrases)]] — Drum Reading Exercise: 16ths with Ties (Four-Bar_Phrases). This exercise focuses on reading and performing rhythms that combine [[16th_Notes]] with [[Ties (Music)]] within a four- `Unit 10 - Chapter 3`
 - [[Drum_Reading_Exercise_4-4_16-Bar_Exercise]] — Drum Reading Exercise: 4/4 16-Bar Exercise. This exercise is a longer-form drum reading piece, spanning 16 bars in [[4-4_Time_Signature]]. `Unit 10 - Chapter 3`
 - [[Drum_Reading_Exercise_Dotted_Eighths_(Four-Bar_Phrases)]] — Drum Reading Exercise: Dotted Eighths (Four-Bar_Phrases). This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Eighth_Note]] within a four-bar phrase `Unit 10 - Chapter 3`
 - [[Drum_Reading_Exercise_Dotted_Quarters_(Four-Bar_Phrases)]] — Drum Reading Exercise: Dotted Quarters (Four-Bar Phrases). This exercise focuses on reading and performing rhythms that incorporate [[Dotted_Quarter_Note]] within a four-bar phras `Unit 10 - Chapter 3`
-- [[Drum_Reading_Exercise_Eighth_Triplets_with_Ties_(Four-Bar_Phrases)]] — Drum Reading Exercise: Eighth Triplets with Ties (Four-Bar Phrases). This exercise focuses on reading and performing rhythms that combine [[Eighth Note Triplets]] with [[Ties (Music)]] with `Unit 10 - Chapter 3`
-- [[Drum_Reading_Exercise_Quarters_with_Ties_(Four-Bar_Phrases)]] — Drum Reading Exercise: Quarters with Ties (Four-Bar Phrases). This exercise focuses on reading and performing rhythms that incorporate [[Quarter Notes]] connected by [[Ties (Music)]] `Unit 10 - Chapter 3`
-- [[Drum_Reading_Exercise_Triplet_Eighths_(Four-Bar_Phrases)]] — Drum Reading Exercise: Triplet Eighths (Four-Bar Phrases). This exercise focuses on reading and performing rhythms composed of [[Eighth Note Triplets]] within a four-bar phrase st `Unit 10 - Chapter 3`
-- [[Drum_Set_Orchestration_32nd_Notes]] — Drum Set Orchestration (32nd Notes). Once the concept of [[32nd Note Interpretation]] is mastered on the snare drum, it should be orchestrated across the dru `READ4`
+- [[Drum_Reading_Exercise_Eighth_Triplets_with_Ties_(Four-Bar_Phrases)]] — Drum Reading Exercise: Eighth Triplets with Ties (Four-Bar Phrases). This exercise focuses on reading and performing rhythms that combine [[Eighth_Note_Triplets]] with [[Ties (Music)]] with `Unit 10 - Chapter 3`
+- [[Drum_Reading_Exercise_Quarters_with_Ties_(Four-Bar_Phrases)]] — Drum Reading Exercise: Quarters with Ties (Four-Bar Phrases). This exercise focuses on reading and performing rhythms that incorporate [[Quarter_Note]] connected by [[Ties (Music)]]  `Unit 10 - Chapter 3`
+- [[Drum_Reading_Exercise_Triplet_Eighths_(Four-Bar_Phrases)]] — Drum Reading Exercise: Triplet Eighths (Four-Bar Phrases). This exercise focuses on reading and performing rhythms composed of [[Eighth_Note_Triplets]] within a four-bar phrase st `Unit 10 - Chapter 3`
+- [[Drum_Set_Orchestration_32nd_Notes]] — Drum Set Orchestration (32nd Notes). Once the concept of [[32nd_Note_Interpretation]] is mastered on the snare drum, it should be orchestrated across the dru `READ4`
 - [[Drumset_Mobility_Double_Strokes]] — Drumset Mobility: Double Strokes. While previous mobility exercises focused on single strokes, this unit explores the application of [[Double_Strokes]] (d `READ2`
 - [[Drumset_Mobility_Mixed_Note_Values]] — Drumset Mobility: Mixed Note Values. This exercise series focuses on the "rhythmic architecture" of the drumset, specifically the ability to transition betwe `READ2`
-- [[Dynamic_Bass_Drum_Exercises]]. These exercises are specifically designed to help drummers explore and develop complete control over the [[Heel Down Bas `Unit 3 - Chapter 4`
+- [[Dynamic_Bass_Drum_Exercises]]. These exercises are specifically designed to help drummers explore and develop complete control over the [[Heel_Down_Bas `Unit 3 - Chapter 4`
 ### E
-- [[Eight-Bar Phrases (Rhythm Reading)]]. [[Eight-Bar Phrase]] represent a significant step up in complexity and musicality within [[Rhythm Reading]] exercises. `Unit 1 Chapter 3`
+- [[Eight-Bar Phrases (Rhythm Reading)]]. [[Eight-Bar_Phrase]] represent a significant step up in complexity and musicality within [[Rhythm_Reading]] exercises. `Unit 1 Chapter 3`
 - [[Eight_Stroke_Roll]] — Eight-Stroke Roll. The **Eight-Stroke Roll** is a truncated [[Double_Stroke_Roll]] variation that traditionally terminates with two single- `TECH3_4`
-- [[Eighth-Note_Triplet_Study]]. An [[Eighth-Note Triplet Study]] is an exercise designed to develop a drummer's ability to accurately read, feel, and pl `Unit 6`
-- [[Eighth-Note_Triplets_and_Eighth-Note_Rests_One_Bar_Phrases]] — Eighth-Note Triplets and Eighth-Note Rests (One-Bar Phrases). This exercise type (A) from Unit 7, Chapter 3, focuses on reading and performing various combinations of [[Eighth-Note T `Unit 7 - Chapter 3`
-- [[Eighth-Note_Triplets_and_Eighth-Note_Rests_Two_Bar_Phrases]] — Eighth-Note Triplets and Eighth-Note Rests (Two-Bar Phrases). This extensive series of exercises (B through M) from Unit 7, Chapter 3, expands on the concepts of [[Eighth-Note Triple `Unit 7 - Chapter 3`
+- [[Eighth-Note_Triplet_Study]]. An [[Eighth-Note_Triplet_Study]] is an exercise designed to develop a drummer's ability to accurately read, feel, and pl `Unit 6`
+- [[Eighth-Note_Triplets_and_Eighth-Note_Rests_One_Bar_Phrases]] — Eighth-Note Triplets and Eighth-Note Rests (One-Bar Phrases). This exercise type (A) from Unit 7, Chapter 3, focuses on reading and performing various combinations of [[Eighth_Note_T `Unit 7 - Chapter 3`
 - [[Eighth-to-16th-Note_Exercise_(Ex._1.17)]]. This exercise, referenced from Unit 1, is a foundational drill designed to develop stick control, dynamic contrast, and  `Unit 1 (referenced)`
-- [[Eighth_and_16th_Notes_with_Eighth_Rests_One-Bar_Phrases_Shared_Beams]] — Eighth and 16th Notes with Eighth Rests (One-Bar Phrases) (Shared Beams). This exercise category focuses on reading and performing rhythmic patterns that combine [[Eighth Notes]], [[16th Notes]] `Unit 4 - Chapter 4`
-- [[Eighth_Note_and_Rest_Application_in_2_4_Time]] — Eighth Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Eighth Notes]], [[Eighth Rests]], [[Tied Eighth Notes]], and [[Dotted Eigh `Unit 10 Chapter 1`
-- [[Eighth_Note_and_Rest_Application_in_3_4_Time]] — Eighth Note and Rest Application in 3/4 Time. This exercise focuses on the application of [[Eighth Notes]], [[Eighth Rests]], [[Tied Eighth Notes]], and [[Dotted Eigh `Unit 10 Chapter 2`
-- [[Eighth_Note_Triplet_Accent_Studies]] — Eighth-Note Triplet Accent Studies. Developing control over [[Eighth-Note Triplets]] involves shifting accents across the three subdivisions (1-trip-let). `TECH3_4`
-- [[Eighth_Note_Triplets_and_Eighth_Note_Rests_Two_Bar_Phrases]] — Eighth-Note Triplets and Eighth-Note Rests (Two-Bar Phrases). This exercise focuses on developing proficiency in reading and accurately performing [[Eighth Note Triplets]] and [[Eigh `Unit 7 Chapter 3`
-- [[Eighth_Note_Triplets_Mixed_with_Quarter_Notes_Eighth_Notes_and_16th_Notes_Two_Bar_Phrases]] — Eighth-Note Triplets Mixed with Quarter Notes, Eighth Notes and 16th Notes (Two-Bar Phrases). This exercise challenges drummers to read and perform [[Eighth Note Triplets]] alongside other common rhythmic subdivisi `Unit 7 Chapter 3`
-- [[Eighth_Notes_with_Eighth_Rests_(Eight-Bar_Phrases)]]. This advanced exercise category involves reading and performing [[Eighth Notes]] and [[Eighth Rests]] over extended eigh `Unit 2 - Chapter 3`
-- [[Eighth_Notes_with_Eighth_Rests_(Four-Bar_Phrases)]]. This exercise category extends the practice of reading and performing [[Eighth Notes]] and [[Eighth Rests]] into longer, `Unit 2 - Chapter 3`
-- [[Eighth_Notes_with_Eighth_Rests_(Two-Bar_Phrases)]]. This exercise category focuses on developing proficiency in reading and performing [[Eighth Notes]] and [[Eighth Rests]] `Unit 2 - Chapter 3`
+- [[Eighth_and_16th_Notes_with_Eighth_Rests_One-Bar_Phrases_Shared_Beams]] — Eighth and 16th Notes with Eighth Rests (One-Bar Phrases) (Shared Beams). This exercise category focuses on reading and performing rhythmic patterns that combine [[Eighth_Note]], [[16th_Notes]], `Unit 4 - Chapter 4`
+- [[Eighth_Note_and_Rest_Application_in_2_4_Time]] — Eighth Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Eighth_Note]], [[Eighth Rests]], [[Tied_Eighth_Notes]], and [[Dotted_Eight `Unit 10 Chapter 1`
+- [[Eighth_Note_and_Rest_Application_in_3_4_Time]] — Eighth Note and Rest Application in 3/4 Time. This exercise focuses on the application of [[Eighth_Note]], [[Eighth Rests]], [[Tied_Eighth_Notes]], and [[Dotted_Eight `Unit 10 Chapter 2`
+- [[Eighth_Note_Triplet_Accent_Studies]] — Eighth-Note Triplet Accent Studies. Developing control over [[Eighth_Note_Triplets]] involves shifting accents across the three subdivisions (1-trip-let). `TECH3_4`
+- [[Eighth_Note_Triplets_and_Eighth_Note_Rests_Two_Bar_Phrases]] — Eighth-Note Triplets and Eighth-Note Rests (Two-Bar Phrases). This exercise focuses on developing proficiency in reading and accurately performing [[Eighth_Note_Triplets]] and [[Eigh `Unit 7 Chapter 3`
+- [[Eighth_Note_Triplets_Mixed_with_Quarter_Notes_Eighth_Notes_and_16th_Notes_Two_Bar_Phrases]] — Eighth-Note Triplets Mixed with Quarter Notes, Eighth Notes and 16th Notes (Two-Bar Phrases). This exercise challenges drummers to read and perform [[Eighth_Note_Triplets]] alongside other common rhythmic subdivisi `Unit 7 Chapter 3`
+- [[Eighth_Notes_with_Eighth_Rests_(Eight-Bar_Phrases)]]. This advanced exercise category involves reading and performing [[Eighth_Note]] and [[Eighth Rests]] over extended eight `Unit 2 - Chapter 3`
+- [[Eighth_Notes_with_Eighth_Rests_(Four-Bar_Phrases)]]. This exercise category extends the practice of reading and performing [[Eighth_Note]] and [[Eighth Rests]] into longer,  `Unit 2 - Chapter 3`
+- [[Eighth_Notes_with_Eighth_Rests_(Two-Bar_Phrases)]]. This exercise category focuses on developing proficiency in reading and performing [[Eighth_Note]] and [[Eighth Rests]]  `Unit 2 - Chapter 3`
 - [[Eighth_to_Quarter_Modulation]] — Eighth Note to Quarter Note Modulation (Ballad to Reggae). This modulation involves a transition from a **Rock Ballad** (80 BPM) to a **Reggae Groove**. `TECH1_2`
 - [[Eleven_Stroke_Roll]] — Eleven-Stroke Roll. The **Eleven-Stroke Roll** is a unique member of the [[Double_Stroke_Roll]] family because it does **not** naturally alt `TECH3_4`
-- [[Ending_Repeated_Figure_Country_Pop]] — Ending Repeated Figure (Country-Pop). The very end of the [[Country_Pop_Play_Along_Chart_Unit_5]] utilizes a repeated [[Ensemble Figures]] to conclude the tun `Unit 5 - Chapter 2`
-- [[Ensemble_Figure_Country_Pop_A_Section]] — Ensemble Figure (Country-Pop A Section). This [[Ensemble Figures]] appears on bars 4 and 8 of the A section in the [[Country_Pop_Play_Along_Chart_Unit_5]]. `Unit 5 - Chapter 2`
-- [[Ensemble_Figure_Country_Pop_B_Section_Second_Ending]] — Ensemble Figure (Country-Pop B Section Second Ending). The second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]] features a dramatic [[Ensemble Figures `Unit 5 - Chapter 2`
+- [[Ending_Repeated_Figure_Country_Pop]] — Ending Repeated Figure (Country-Pop). The very end of the [[Country_Pop_Play_Along_Chart_Unit_5]] utilizes a repeated [[Ensemble_Figures]] to conclude the tun `Unit 5 - Chapter 2`
+- [[Ensemble_Figure_Country_Pop_A_Section]] — Ensemble Figure (Country-Pop A Section). This [[Ensemble_Figures]] appears on bars 4 and 8 of the A section in the [[Country_Pop_Play_Along_Chart_Unit_5]]. `Unit 5 - Chapter 2`
+- [[Ensemble_Figure_Country_Pop_B_Section_Second_Ending]] — Ensemble Figure (Country-Pop B Section Second Ending). The second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]] features a dramatic [[Ensemble_Figures `Unit 5 - Chapter 2`
 - [[Ensemble_Figures_Bar_12_Unit_7]] — Ensemble Figures (Bar 12, Unit 7). In musical charts, [[Ensemble Performance|ensemble figures]] are rhythmic patterns played by the entire band in unison. `Unit 7 - Chapter 2`
 - [[Ensemble_Figures_Coda_Unit_7]] — Ensemble Figures (Coda, Unit 7). [[Ensemble Performance|Ensemble figures]] are rhythmic patterns played by the entire band in unison, and they are partic `Unit 7 - Chapter 2`
-- [[Ex_3.20]]. `Ex 3.20` is a specific exercise within the `[[One-Handed 16ths Play-Along]]` chapter, designed to apply `[[One-Handed 1 `Unit 3 - Chapter 3`
-- [[Ex_4.1]]. `Ex 4.1` is a specific exercise illustrating an 'A' section `[[Two-Handed 16th-Note Groove]]` within the context of `[[I `Unit 4 - Chapter 1`
-- [[Ex_4.10_Standard_Five-Stroke_Ruff_Accents]]. This exercise builds upon the [[Standard Five-Stroke Ruff]] by shifting the placement of the accents within a rhythmic c `Unit 4 - Chapter 4`
-- [[Ex_4.11_Inverted_Five-Stroke_Ruff]]. This exercise introduces the [[Inverted Five-Stroke Ruff]], where the accented stroke precedes the four unaccented grace `Unit 4 - Chapter 4`
-- [[Ex_4.12_Inverted_Five-Stroke_Ruff_Accents]]. This exercise applies the [[Inverted Five-Stroke Ruff]] within a rhythmic context where the overall accents of the phras `Unit 4 - Chapter 4`
-- [[Ex_4.13_Standard_Seven-Stroke_Ruff]]. This exercise focuses on the fundamental execution of the [[Standard Seven-Stroke Ruff]]. `Unit 4 - Chapter 5`
-- [[Ex_4.14_Standard_Seven-Stroke_Ruff_Accents]]. This exercise builds upon the [[Standard Seven-Stroke Ruff]] by shifting the placement of the accents within a rhythmic  `Unit 4 - Chapter 5`
-- [[Ex_4.15_Inverted_Seven-Stroke_Ruff]]. This exercise introduces the [[Inverted Seven-Stroke Ruff]], where the accented stroke precedes the six unaccented grace `Unit 4 - Chapter 5`
-- [[Ex_4.16_Inverted_Seven-Stroke_Ruff_Accents]]. This exercise applies the [[Inverted Seven-Stroke Ruff]] within a rhythmic context where the overall accents of the phra `Unit 4 - Chapter 5`
+- [[Ex_3.20]]. `Ex 3.20` is a specific exercise within the `[[One-Handed_16ths_Play-Along]]` chapter, designed to apply `[[One-Handed 1 `Unit 3 - Chapter 3`
+- [[Ex_4.1]]. `Ex 4.1` is a specific exercise illustrating an 'A' section `[[Two-Handed_16th-Note_Groove]]` within the context of `[[I `Unit 4 - Chapter 1`
+- [[Ex_4.10_Standard_Five-Stroke_Ruff_Accents]]. This exercise builds upon the [[Standard_Five-Stroke_Ruff]] by shifting the placement of the accents within a rhythmic c `Unit 4 - Chapter 4`
+- [[Ex_4.11_Inverted_Five-Stroke_Ruff]]. This exercise introduces the [[Inverted_Five-Stroke_Ruff]], where the accented stroke precedes the four unaccented grace `Unit 4 - Chapter 4`
+- [[Ex_4.12_Inverted_Five-Stroke_Ruff_Accents]]. This exercise applies the [[Inverted_Five-Stroke_Ruff]] within a rhythmic context where the overall accents of the phras `Unit 4 - Chapter 4`
+- [[Ex_4.13_Standard_Seven-Stroke_Ruff]]. This exercise focuses on the fundamental execution of the [[Standard_Seven-Stroke_Ruff]]. `Unit 4 - Chapter 5`
+- [[Ex_4.14_Standard_Seven-Stroke_Ruff_Accents]]. This exercise builds upon the [[Standard_Seven-Stroke_Ruff]] by shifting the placement of the accents within a rhythmic  `Unit 4 - Chapter 5`
+- [[Ex_4.15_Inverted_Seven-Stroke_Ruff]]. This exercise introduces the [[Inverted_Seven-Stroke_Ruff]], where the accented stroke precedes the six unaccented grace `Unit 4 - Chapter 5`
+- [[Ex_4.16_Inverted_Seven-Stroke_Ruff_Accents]]. This exercise applies the [[Inverted_Seven-Stroke_Ruff]] within a rhythmic context where the overall accents of the phra `Unit 4 - Chapter 5`
 - [[Ex_4.18_Hard_Rock_Groove]]. This exercise, designated as Ex 4.18, is a [[Hard Rock]] groove focusing on [[Two-Handed 16th Notes]] on the hi-hat. `Unit 4`
-- [[Ex_4.2]]. `Ex 4.2` is a specific exercise illustrating a 'B' section `[[Two-Handed 16th-Note Groove]]` within the context of `[[In `Unit 4 - Chapter 1`
-- [[Ex_4.3]]. `Ex 4.3` is an exercise that demonstrates the complete `[[ABAB 32-Bar Form]]` by combining the 'A' section `[[Two-Handed `Unit 4 - Chapter 1`
-- [[Ex_4.9_Standard_Five-Stroke_Ruff_Practice]]. This exercise focuses on the fundamental execution of the [[Standard Five-Stroke Ruff]]. `Unit 4 - Chapter 4`
-- [[Ex_5.1_Country_Pop_Intro]]. This exercise, Ex 5.1, focuses on the [[Song Intro]] for a [[Country-Pop Genre]] tune at a tempo of J=98 BPM. `Unit 5`
-- [[Ex_5.2_Country_Pop_Verse_Groove]]. Ex 5.2 presents a specific [[Groove]] for the [[Verse_Section_Letter_A]] of a [[Country-Pop Genre]] song. `Unit 5`
-- [[Ex_5.3_Bass_Drum_Dynamic_Control]]. This is the first in a series of [[Bass Drum Dynamic Control Exercises]] designed to develop a wide dynamic range on the `Unit 5 - Chapter 1`
-- [[Ex_5.4_Bass_Drum_Dynamic_Control]]. This exercise is part of the [[Bass Drum Dynamic Control Exercises]] series, building upon the foundational concepts int `Unit 5 - Chapter 1`
-- [[Ex_5.5_Bass_Drum_Dynamic_Control]]. This exercise is a continuation of the [[Bass Drum Dynamic Control Exercises]] series, further challenging the drummer's `Unit 5 - Chapter 1`
-- [[Ex_5.6_Bass_Drum_Dynamic_Control]]. This exercise is part of the advanced [[Bass Drum Dynamic Control Exercises]] series, pushing the drummer to maintain a  `Unit 5 - Chapter 1`
-- [[Ex_5.7_Bass_Drum_Dynamic_Control]]. This is the final exercise in the initial series of [[Bass Drum Dynamic Control Exercises]], representing the culminatio `Unit 5 - Chapter 1`
-- [[Ex_6.10_Eighth-Note_Triplet_Sticking]]. [[Ex 6.10 Eighth-Note Triplet Sticking]] is another exercise in the [[Eighth-Note Triplet Study]], continuing the progre `Unit 6 - Chapter 1`
-- [[Ex_6.11_Eighth-Note_Triplet_Sticking]]. [[Ex 6.11 Eighth-Note Triplet Sticking]] is the final exercise in the initial series of the [[Eighth-Note Triplet Study] `Unit 6 - Chapter 1`
-- [[Ex_6.12_Three-Stroke_Ruff_Combination]]. [[Ex 6.12 Three-Stroke Ruff Combination]] is the first in a series of exercises designed for [[Rudimental Recall]] of th `Unit 6 - Chapter 2`
-- [[Ex_6.13_Three-Stroke_Ruff_Combination]]. [[Ex 6.13 Three-Stroke Ruff Combination]] is part of the [[Rudimental Recall]] series for the [[Three-Stroke Ruff]], lik `Unit 6 - Chapter 2`
-- [[Ex_6.14_Three-Stroke_Ruff_Combination]]. [[Ex 6.14 Three-Stroke Ruff Combination]] is another exercise in the [[Rudimental Recall]] series for the [[Three-Stroke `Unit 6 - Chapter 2`
+- [[Ex_4.2]]. `Ex 4.2` is a specific exercise illustrating a 'B' section `[[Two-Handed_16th-Note_Groove]]` within the context of `[[In `Unit 4 - Chapter 1`
+- [[Ex_4.3]]. `Ex 4.3` is an exercise that demonstrates the complete `[[ABAB_32-Bar_Form]]` by combining the 'A' section `[[Two-Handed `Unit 4 - Chapter 1`
+- [[Ex_4.9_Standard_Five-Stroke_Ruff_Practice]]. This exercise focuses on the fundamental execution of the [[Standard_Five-Stroke_Ruff]]. `Unit 4 - Chapter 4`
+- [[Ex_5.1_Country_Pop_Intro]]. This exercise, Ex 5.1, focuses on the [[Song_Intro]] for a [[Country-Pop_Genre]] tune at a tempo of J=98 BPM. `Unit 5`
+- [[Ex_5.2_Country_Pop_Verse_Groove]]. Ex 5.2 presents a specific [[Groove]] for the [[Verse_Section_Letter_A]] of a [[Country-Pop_Genre]] song. `Unit 5`
+- [[Ex_5.3_Bass_Drum_Dynamic_Control]]. This is the first in a series of [[Bass_Drum_Dynamic_Control_Exercises]] designed to develop a wide dynamic range on the `Unit 5 - Chapter 1`
+- [[Ex_5.4_Bass_Drum_Dynamic_Control]]. This exercise is part of the [[Bass_Drum_Dynamic_Control_Exercises]] series, building upon the foundational concepts int `Unit 5 - Chapter 1`
+- [[Ex_5.5_Bass_Drum_Dynamic_Control]]. This exercise is a continuation of the [[Bass_Drum_Dynamic_Control_Exercises]] series, further challenging the drummer's `Unit 5 - Chapter 1`
+- [[Ex_5.6_Bass_Drum_Dynamic_Control]]. This exercise is part of the advanced [[Bass_Drum_Dynamic_Control_Exercises]] series, pushing the drummer to maintain a  `Unit 5 - Chapter 1`
+- [[Ex_5.7_Bass_Drum_Dynamic_Control]]. This is the final exercise in the initial series of [[Bass_Drum_Dynamic_Control_Exercises]], representing the culminatio `Unit 5 - Chapter 1`
+- [[Ex_6.10_Eighth-Note_Triplet_Sticking]]. [[Ex_6.10_Eighth-Note_Triplet_Sticking]] is another exercise in the [[Eighth-Note_Triplet_Study]], continuing the progre `Unit 6 - Chapter 1`
+- [[Ex_6.11_Eighth-Note_Triplet_Sticking]]. [[Ex_6.11_Eighth-Note_Triplet_Sticking]] is the final exercise in the initial series of the [[Eighth-Note_Triplet_Study] `Unit 6 - Chapter 1`
+- [[Ex_6.12_Three-Stroke_Ruff_Combination]]. [[Ex_6.12_Three-Stroke_Ruff_Combination]] is the first in a series of exercises designed for [[Rudimental_Recall]] of th `Unit 6 - Chapter 2`
+- [[Ex_6.13_Three-Stroke_Ruff_Combination]]. [[Ex_6.13_Three-Stroke_Ruff_Combination]] is part of the [[Rudimental_Recall]] series for the [[Three-Stroke_Ruff]], lik `Unit 6 - Chapter 2`
+- [[Ex_6.14_Three-Stroke_Ruff_Combination]]. [[Ex_6.14_Three-Stroke_Ruff_Combination]] is another exercise in the [[Rudimental_Recall]] series for the [[Three-Stroke `Unit 6 - Chapter 2`
 - [[Ex_6.15_Three-Stroke_Ruff_Combination]]. type: exercise
 source: IMG_0545
 unit: Unit 6 - Chapter 2
 tags: [exercise, rudiment, ruff, three-stroke ruff, combination `Unit 6 - Chapter 2`
-- [[Ex_6.16_Four-Stroke_Ruff_Combination]]. [[Ex 6.16 Four-Stroke Ruff Combination]] is the first in a series of exercises designed for [[Rudimental Recall]] of the `Unit 6 - Chapter 2`
-- [[Ex_6.17_Four-Stroke_Ruff_Combination]]. [[Ex 6.17 Four-Stroke Ruff Combination]] is the second and final exercise in the [[Rudimental Recall]] series for the [[ `Unit 6 - Chapter 2`
-- [[Ex_6.1_Eighth-Note_Triplet_Sticking]]. [[Ex 6.1 Eighth-Note Triplet Sticking]] is the first exercise in the [[Eighth-Note Triplet Study]], designed to introduc `Unit 6 - Chapter 1`
-- [[Ex_6.2_Eighth-Note_Triplet_Sticking]]. [[Ex 6.2 Eighth-Note Triplet Sticking]] is a continuation of the [[Eighth-Note Triplet Study]], building upon the founda `Unit 6 - Chapter 1`
-- [[Ex_6.3_Eighth-Note_Triplet_Sticking]]. [[Ex 6.3 Eighth-Note Triplet Sticking]] is another exercise within the [[Eighth-Note Triplet Study]], likely introducing `Unit 6 - Chapter 1`
-- [[Ex_6.4_Eighth-Note_Triplet_Sticking]]. [[Ex 6.4 Eighth-Note Triplet Sticking]] is part of the [[Eighth-Note Triplet Study]], designed to further explore differ `Unit 6 - Chapter 1`
-- [[Ex_6.5_Eighth-Note_Triplet_Sticking]]. [[Ex 6.5 Eighth-Note Triplet Sticking]] is another exercise in the [[Eighth-Note Triplet Study]], likely introducing a m `Unit 6 - Chapter 1`
-- [[Ex_6.6_Eighth-Note_Triplet_Sticking]]. [[Ex 6.6 Eighth-Note Triplet Sticking]] is another exercise in the [[Eighth-Note Triplet Study]], continuing the explora `Unit 6 - Chapter 1`
-- [[Ex_6.7_Eighth-Note_Triplet_Sticking]]. [[Ex 6.7 Eighth-Note Triplet Sticking]] is part of the [[Eighth-Note Triplet Study]], designed to further challenge the  `Unit 6 - Chapter 1`
-- [[Ex_6.8_Eighth-Note_Triplet_Sticking]]. [[Ex 6.8 Eighth-Note Triplet Sticking]] is another exercise in the [[Eighth-Note Triplet Study]], continuing the progres `Unit 6 - Chapter 1`
-- [[Ex_6.9_Eighth-Note_Triplet_Sticking]]. [[Ex 6.9 Eighth-Note Triplet Sticking]] is part of the [[Eighth-Note Triplet Study]], designed to further challenge the  `Unit 6 - Chapter 1`
+- [[Ex_6.16_Four-Stroke_Ruff_Combination]]. [[Ex_6.16_Four-Stroke_Ruff_Combination]] is the first in a series of exercises designed for [[Rudimental_Recall]] of the `Unit 6 - Chapter 2`
+- [[Ex_6.17_Four-Stroke_Ruff_Combination]]. [[Ex_6.17_Four-Stroke_Ruff_Combination]] is the second and final exercise in the [[Rudimental_Recall]] series for the [[ `Unit 6 - Chapter 2`
+- [[Ex_6.1_Eighth-Note_Triplet_Sticking]]. [[Ex_6.1_Eighth-Note_Triplet_Sticking]] is the first exercise in the [[Eighth-Note_Triplet_Study]], designed to introduc `Unit 6 - Chapter 1`
+- [[Ex_6.2_Eighth-Note_Triplet_Sticking]]. [[Ex_6.2_Eighth-Note_Triplet_Sticking]] is a continuation of the [[Eighth-Note_Triplet_Study]], building upon the founda `Unit 6 - Chapter 1`
+- [[Ex_6.3_Eighth-Note_Triplet_Sticking]]. [[Ex_6.3_Eighth-Note_Triplet_Sticking]] is another exercise within the [[Eighth-Note_Triplet_Study]], likely introducing `Unit 6 - Chapter 1`
+- [[Ex_6.4_Eighth-Note_Triplet_Sticking]]. [[Ex_6.4_Eighth-Note_Triplet_Sticking]] is part of the [[Eighth-Note_Triplet_Study]], designed to further explore differ `Unit 6 - Chapter 1`
+- [[Ex_6.5_Eighth-Note_Triplet_Sticking]]. [[Ex_6.5_Eighth-Note_Triplet_Sticking]] is another exercise in the [[Eighth-Note_Triplet_Study]], likely introducing a m `Unit 6 - Chapter 1`
+- [[Ex_6.6_Eighth-Note_Triplet_Sticking]]. [[Ex_6.6_Eighth-Note_Triplet_Sticking]] is another exercise in the [[Eighth-Note_Triplet_Study]], continuing the explora `Unit 6 - Chapter 1`
+- [[Ex_6.7_Eighth-Note_Triplet_Sticking]]. [[Ex_6.7_Eighth-Note_Triplet_Sticking]] is part of the [[Eighth-Note_Triplet_Study]], designed to further challenge the  `Unit 6 - Chapter 1`
+- [[Ex_6.8_Eighth-Note_Triplet_Sticking]]. [[Ex_6.8_Eighth-Note_Triplet_Sticking]] is another exercise in the [[Eighth-Note_Triplet_Study]], continuing the progres `Unit 6 - Chapter 1`
+- [[Ex_6.9_Eighth-Note_Triplet_Sticking]]. [[Ex_6.9_Eighth-Note_Triplet_Sticking]] is part of the [[Eighth-Note_Triplet_Study]], designed to further challenge the  `Unit 6 - Chapter 1`
 - [[Exercise_3.17_Snare_Drum_Center_Stroke]] — Exercise 3.17 (Snare Drum Center Stroke). **Purpose**: [[Exercise_3.17_Snare_Drum_Center_Stroke]] is designed to develop precision, consistency, and control in ex `Drum Performance`
 - [[Exercise_3.18_Hi-Hat_Chunky_16ths]] — Exercise 3.18 (Hi-Hat Chunky 16ths). **Purpose**: [[Exercise_3.18_Hi-Hat_Chunky_16ths]] is designed to develop the specific technique and articulation requir `Drum Performance`
 - [[Exercise_3.19_Hi-Hat_Chunky_16ths_Groove]] — Exercise 3.19 (Hi-Hat Chunky 16ths Groove). **Purpose**: [[Exercise_3.19_Hi-Hat_Chunky_16ths_Groove]] builds upon the foundational [[Exercise_3.18_Hi-Hat_Chunky_16t `Drum Performance`
-- [[Exercise_4_17_32_Bar_Swung_Reading]] — Exercise 4.17: 32-Bar Swung Reading. This exercise focuses on the independence required to maintain a [[Swung 16th Notes]] feel while reading syncopated rhyt `READ1`
-- [[Exercise_A_Beamed_and_Freestanding_Eighth_Notes_with_Eighth_Rests_One-Bar_Phrases]] — Exercise A: Beamed and Freestanding Eighth Notes with Eighth Rests (One-Bar Phrases). This exercise, labeled 'A' within the [[Eighth Note and Eighth Rest Exercises]] category, focuses on reading and perform `Uncategorized`
+- [[Exercise_4_17_32_Bar_Swung_Reading]] — Exercise 4.17: 32-Bar Swung Reading. This exercise focuses on the independence required to maintain a [[Swung_16th_Notes]] feel while reading syncopated rhyt `READ1`
+- [[Exercise_A_Beamed_and_Freestanding_Eighth_Notes_with_Eighth_Rests_One-Bar_Phrases]] — Exercise A: Beamed and Freestanding Eighth Notes with Eighth Rests (One-Bar Phrases). This exercise, labeled 'A' within the [[Eighth_Note_and_Eighth_Rest_Exercises]] category, focuses on reading and perform `Uncategorized`
 - [[Exercise_F_Quarter_Notes_and_Eighth_Notes_Two-Bar_Phrases]] — Exercise F: Quarter Notes and Eighth Notes (Two-Bar Phrases). This entry refers to a specific exercise, labeled 'F', designed to practice [[Quarter_Notes_and_Eighth_Notes_Two-Bar_Phr `Unit 2 - Chapter 3`
 - [[Exercise_G_Quarter_Notes_and_Eighth_Notes_Two-Bar_Phrases]] — Exercise G: Quarter Notes and Eighth Notes (Two-Bar Phrases). This entry refers to a specific exercise, labeled 'G', designed to practice [[Quarter_Notes_and_Eighth_Notes_Two-Bar_Phr `Unit 2 - Chapter 3`
 - [[Exercise_H_Quarter_Notes_and_Eighth_Notes_Two-Bar_Phrases]] — Exercise H: Quarter Notes and Eighth Notes (Two-Bar Phrases). This entry refers to a specific exercise, labeled 'H', designed to practice [[Quarter_Notes_and_Eighth_Notes_Two-Bar_Phr `Unit 2 - Chapter 3`
@@ -1018,37 +1007,37 @@ tags: [exercise, rudiment, ruff, three-stroke ruff, combination `Unit 6 - Chapte
 - [[Exercise_N_Quarter_Notes_and_Eighth_Notes_Two-Bar_Phrases]] — Exercise N: Quarter Notes and Eighth Notes (Two-Bar Phrases). This entry refers to a specific exercise, labeled 'N', designed to practice [[Quarter_Notes_and_Eighth_Notes_Two-Bar_Phr `Unit 2 - Chapter 3`
 ### F
 - [[Fifteen_Stroke_Roll]] — Fifteen-Stroke Roll. The **Fifteen-Stroke Roll** is a long-duration rudiment that, like the eleven-stroke roll, does **not** naturally altern `TECH3_4`
-- [[Five-Stroke_Ruff_Wrist_Isolation]]. This exercise is designed to isolate and strengthen individual wrist control while playing the [[Five-Stroke Ruff]]. `Unit 4 - Chapter 4`
+- [[Five-Stroke_Ruff_Wrist_Isolation]]. This exercise is designed to isolate and strengthen individual wrist control while playing the [[Five-Stroke_Ruff]]. `Unit 4 - Chapter 4`
 - [[Flam_Drag_Variations]]. These hybrid rudiments combine the [[Flams]] and the [[Drag]], requiring high-level finger control and wrist isolation. `READ2`
-- [[Flam_Rudiments]]. Flam rudiments integrate the [[Flam Technique]] into various rhythmic patterns and sticking permutations. `READ2`
-- [[Four-Bar Phrases (Rhythm Reading)]]. [[Four-Bar Phrases]] in [[Rhythm Reading]] exercises extend the rhythmic concepts learned in shorter phrases (like [[Two `Unit 1 Chapter 3`
-- [[Four-Bar_Bass_Drum_Pattern]]. A [[Four-Bar Bass Drum Pattern]] is an example of a [[Multiple-Bar Phrases]] where the [[Bass Drum]] part repeats every  `Unit 4 - Chapter 1`
-- [[Four-Stroke_Ruff_Combinations]]. [[Four-Stroke Ruff Combinations]] are exercises designed to apply the [[Four-Stroke Ruff]] in various patterns and seque `Unit 6 - Chapter 2`
-- [[Four_Bar_Phrases_Eighth_Note_Triplets_and_Rests]] — Four-Bar Phrases (Eighth-Note Triplets and Rests). This exercise extends rhythmic reading skills to [[Four-Bar Phrases]], incorporating [[Eighth Note Triplets]] and variou `Unit 7 Chapter 3`
+- [[Flam_Rudiments]]. Flam rudiments integrate the [[Flam_Technique]] into various rhythmic patterns and sticking permutations. `READ2`
+- [[Four-Bar Phrases (Rhythm Reading)]]. [[Four-Bar Phrases]] in [[Rhythm_Reading]] exercises extend the rhythmic concepts learned in shorter phrases (like [[Two `Unit 1 Chapter 3`
+- [[Four-Bar_Bass_Drum_Pattern]]. A [[Four-Bar_Bass_Drum_Pattern]] is an example of a [[Multiple_Bar_Phrases]] where the [[Bass_Drum]] part repeats every  `Unit 4 - Chapter 1`
+- [[Four-Stroke_Ruff_Combinations]]. [[Four-Stroke_Ruff_Combinations]] are exercises designed to apply the [[Four-Stroke_Ruff]] in various patterns and seque `Unit 6 - Chapter 2`
+- [[Four_Bar_Phrases_Eighth_Note_Triplets_and_Rests]] — Four-Bar Phrases (Eighth-Note Triplets and Rests). This exercise extends rhythmic reading skills to [[Four-Bar Phrases]], incorporating [[Eighth_Note_Triplets]] and variou `Unit 7 Chapter 3`
 - [[Four_Beat_Fill_Country_Pop_Pre_Chorus_Bar_4]] — Four-Beat Fill (Country-Pop Pre-Chorus Bar 4). Bar 4 of the pre-chorus in the [[Country_Pop_Play_Along_Chart_Unit_5]] offers an opportunity to create your own four-bea `Unit 5 - Chapter 2`
 - [[Funk-Rock_Play-Along_Unit_8]] — Funk-Rock Play-Along (Unit 8). This `[[Funk-Rock Play-Along]]` is the culminating exercise for Unit 8, Chapter 3, designed to integrate all the `[[Groo `Unit 8 Chapter 3`
-- [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]] — Funk-Rock Play-Along (Unit 8 Ex 8.13). This exercise, "Ex 8.13," is a full [[Funk-Rock]] play-along designed to integrate all the concepts and grooves learned  `Unit 8 Chapter 3`
+- [[Funk-Rock_Play-Along_Unit_8_Ex_8.13]] — Funk-Rock Play-Along (Unit 8 Ex 8.13). This exercise, "Ex 8.13," is a full [[Funk_Rock]] play-along designed to integrate all the concepts and grooves learned  `Unit 8 Chapter 3`
 ### G
 - [[Groupings_of_Five_Over_the_Bar]] — Groupings of Five (Over-the-Bar). Groupings of five are more complex than groupings of three because they take longer to resolve back to the "1" of a meas `READ1`
 - [[Groupings_of_Three_Over_the_Bar]] — Groupings of Three (Over-the-Bar). This exercise focuses on patterns that repeat every three units of a specific subdivision, creating a cross-rhythm again `READ1`
-- [[Groups_of_One_16th_Note_and_Three_16th_Rests]]. This exercise category focuses on developing precise [[16th Notes]] placement and understanding of [[Rests]]. `Unit 3 - Chapter 1`
-- [[Groups_of_Three_Sixteenth_Notes_and_One_Sixteenth_Rest]]. This category of rhythmic exercises focuses on patterns where three [[Sixteenth Note]]s are combined with one [[Sixteent `Unit 3 - Chapter 1`
-- [[Groups_of_Two_Sixteenth_Notes_and_Two_Sixteenth_Rests]]. This category of rhythmic exercises focuses on patterns where two [[Sixteenth Note]]s are combined with two [[Sixteenth  `Unit 3 - Chapter 1`
+- [[Groups_of_One_16th_Note_and_Three_16th_Rests]]. This exercise category focuses on developing precise [[16th_Notes]] placement and understanding of [[Rests]]. `Unit 3 - Chapter 1`
+- [[Groups_of_Three_Sixteenth_Notes_and_One_Sixteenth_Rest]]. This category of rhythmic exercises focuses on patterns where three [[Sixteenth_Note]]s are combined with one [[Sixteent `Unit 3 - Chapter 1`
+- [[Groups_of_Two_Sixteenth_Notes_and_Two_Sixteenth_Rests]]. This category of rhythmic exercises focuses on patterns where two [[Sixteenth_Note]]s are combined with two [[Sixteenth_ `Unit 3 - Chapter 1`
 ### H
 - [[Half_Note_and_Rest_Application_in_2_4_Time]] — Half Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Half_Note]], [[Half_Rest]], and [[Tied Half Notes]] within the [[2_4_Time_ `Unit 10 Chapter 1`
-- [[Half_Note_and_Rest_Application_in_3_4_Time]] — Half Note and Rest Application in 3/4 Time. This exercise focuses on the application of [[Half_Note]], [[Half_Rest]], [[Tied Half Notes]], and [[Dotted Half Note]]s `Unit 10 Chapter 2`
-- [[Half_Notes_and_Quarter_Notes_with_Accompanying_Rests_(Advanced_Exercises)]]. This section presents more complex rhythmic exercises, building upon the foundational understanding of [[Half Note]]s, [ `Unit 1 Chapter 3`
-- [[Half_Quarters_and_Eighths_Four_Bar_Phrases_4_4]] — Half, Quarters and Eighths (Four-Bar Phrases) - 4/4. This exercise focuses on fundamental [[Rhythm Reading]] within the [[4-4_Time_Signature]], utilizing combinations of [[H `Unit 10 - Chapter 3`
-- [[Half_Quarters_and_Eighths_One_Bar_Phrases_2_4]] — Half, Quarters and Eighths (One-Bar Phrases) - 2/4. This exercise focuses on fundamental [[Rhythm Reading]] within the [[2_4_Time_Signature]], utilizing combinations of [[H `Unit 10 - Chapter 3`
-- [[Half_Syncopated_Quarters_and_Eighths_Four_Bar_Phrases_4_4]] — Half, Syncopated Quarters and Eighths (Four-Bar Phrases) - 4/4. This exercise introduces [[Syncopation]] in combination with [[Half Note]]s, [[Quarter Note]]s, and [[Eighth Note]]s wit `Unit 10 - Chapter 3`
+- [[Half_Note_and_Rest_Application_in_3_4_Time]] — Half Note and Rest Application in 3/4 Time. This exercise focuses on the application of [[Half_Note]], [[Half_Rest]], [[Tied Half Notes]], and [[Dotted_Half_Note]]s `Unit 10 Chapter 2`
+- [[Half_Notes_and_Quarter_Notes_with_Accompanying_Rests_(Advanced_Exercises)]]. This section presents more complex rhythmic exercises, building upon the foundational understanding of [[Half_Note]]s, [ `Unit 1 Chapter 3`
+- [[Half_Quarters_and_Eighths_Four_Bar_Phrases_4_4]] — Half, Quarters and Eighths (Four-Bar Phrases) - 4/4. This exercise focuses on fundamental [[Rhythm_Reading]] within the [[4-4_Time_Signature]], utilizing combinations of [[H `Unit 10 - Chapter 3`
+- [[Half_Quarters_and_Eighths_One_Bar_Phrases_2_4]] — Half, Quarters and Eighths (One-Bar Phrases) - 2/4. This exercise focuses on fundamental [[Rhythm_Reading]] within the [[2_4_Time_Signature]], utilizing combinations of [[H `Unit 10 - Chapter 3`
+- [[Half_Syncopated_Quarters_and_Eighths_Four_Bar_Phrases_4_4]] — Half, Syncopated Quarters and Eighths (Four-Bar Phrases) - 4/4. This exercise introduces [[Syncopation]] in combination with [[Half_Note]]s, [[Quarter_Note]]s, and [[Eighth_Note]]s wit `Unit 10 - Chapter 3`
 - [[Hand-Foot_Patterns]]. Hand-foot patterns are the building blocks of modern "Gospel Chops" and solo vocabulary. `TECH3_4`
 - [[Hand_Foot_Paradiddle_Combinations]] — Hand-Foot Paradiddle Combinations. This advanced technical concept involves the integration of [[Paradiddle Inversions]] with specific **hand-foot patterns `TECH3_4`
-- [[Hard Rock Play-Along (Unit 2)]]. Unit 2 中針對 [[Hard Rock Drumming]] 的練習，包含數拍和帶有 [[Medium Hi-Hat w/Quarter-Note Accents]] 和 [[Ride Cymbal Quarter-Note Acce `Unit 2`
+- [[Hard Rock Play-Along (Unit 2)]]. Unit 2 中針對 [[Hard_Rock_Drumming]] 的練習，包含數拍和帶有 [[Medium Hi-Hat w/Quarter-Note Accents]] 和 [[Ride Cymbal Quarter-Note Acce `Unit 2`
 - [[Home_Base_Motion]]. **Home Base Motion** is a specialized [[Drumset_Mobility]] concept designed to exhaust every possible drum-to-drum combi `READ2`
-- [[Homework_Assignments_IMG_0556]] — Homework Assignments (IMG_0556). This section outlines the required homework for the current lesson in [[Drum Technique 50]]. `Drum Technique 50`
+- [[Homework_Assignments_IMG_0556]] — Homework Assignments (IMG_0556). This section outlines the required homework for the current lesson in [[Drum_Technique_50]]. `Drum Technique 50`
 ### I
-- [[Inverted_Five-Stroke_Ruff_Hand_Isolation]]. This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted Five-Stroke Ruf `Unit 4 - Chapter 4`
-- [[Inverted_Seven-Stroke_Ruff_Hand_Isolation]]. This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted Seven-Stroke Ru `Unit 4 - Chapter 5`
+- [[Inverted_Five-Stroke_Ruff_Hand_Isolation]]. This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted_Five-Stroke_Ruf `Unit 4 - Chapter 4`
+- [[Inverted_Seven-Stroke_Ruff_Hand_Isolation]]. This exercise is designed to isolate and strengthen individual hand control while playing the [[Inverted_Seven-Stroke_Ru `Unit 4 - Chapter 5`
 - [[Inward_Paradiddle]]. The **Inward Paradiddle** (also known as the **Inverted Paradiddle**) uses the sticking:
 `R L L R L R R L`
 
@@ -1056,25 +1045,25 @@ tags: [exercise, rudiment, ruff, three-stroke ruff, combination `Unit 6 - Chapte
 Unlike the  `READ2`
 ### M
 - [[Martellato_Interpretation]]. **Martellato** (often referred to as a "rooftop" accent) indicates a note that is both accented and short—"short and fat `READ3`
-- [[Master_Studies_Exercises_13-24]]. This specific set of exercises, found on pages 14 and 15 of the [[Master_Studies_Book]] by [[Joe Morello]], focuses on d `Drum Technique 50`
-- [[Master_Studies_Triplet_Exercises]]. The [[Master Studies Triplet Exercises]] refer to a specific set of exercises (1-12 on pages 13 and 14) from the renowne `Unit 6 - Chapter 1`
+- [[Master_Studies_Exercises_13-24]]. This specific set of exercises, found on pages 14 and 15 of the [[Master_Studies_Book]] by [[Joe_Morello]], focuses on d `Drum Technique 50`
+- [[Master_Studies_Triplet_Exercises]]. The [[Master_Studies_Triplet_Exercises]] refer to a specific set of exercises (1-12 on pages 13 and 14) from the renowne `Unit 6 - Chapter 1`
 - [[Metalicious]]. "Metalicious" is a high-intensity [[Metal]] drum study written by Steve Kilgallon. `TECH3_4`
 - [[Metronome_Practice_Unit_4]] — Metronome Practice (Unit 4). A core component of [[Practice_Suggestions_Unit_4]] is dedicated [[Metronome]] practice. `Unit 4`
-- [[Mixed_Rhythmic_Reading]]. **Mixed Rhythmic Reading** involves interpreting notation that combines [[Eighth Notes]], [[Triplets]], and [[Sixteenth  `READ1`
+- [[Mixed_Rhythmic_Reading]]. **Mixed Rhythmic Reading** involves interpreting notation that combines [[Eighth_Note]], [[Triplets]], and [[16th_Notes] `READ1`
 - [[MmmPick_It_Up_A_Little]]. "MmmPick It Up A Little" is a technical study in [[Medium Swing]] performance, structured as a standard [[12-Bar Blues]] `TECH3_4`
-- [[Montuno_Track]] — Montuno (Track). "Montuno" is a medium-tempo Latin tune (specifically a [[Mambo]]) written by [[Jimmy Branly]]. `MI_CURR`
+- [[Montuno_Track]] — Montuno (Track). "Montuno" is a medium-tempo Latin tune (specifically a [[Mambo]]) written by [[Jimmy_Branly]]. `MI_CURR`
 ### N
 - [[Nanigo]] — Nanigo (Drumset Afro-Cuban 6/8). The **Nanigo** is the standard drumset orchestration of the [[Afro_Cuban_6_8]] folkloric rhythm. `TECH1_2`
 - [[Nine_Stroke_Roll]] — Nine-Stroke Roll. The **Nine-Stroke Roll** is an essential rudiment found extensively in orchestral, rudimental, and drumset literature. `TECH3_4`
 ### O
-- [[One-Handed_16ths_Play-Along]]. The "One-Handed 16ths Play-Along" is an exercise designed to develop consistent execution of `[[16th Notes]]` using a si `Unit 3 - Chapter 3`
+- [[One-Handed_16ths_Play-Along]]. The "One-Handed 16ths Play-Along" is an exercise designed to develop consistent execution of `[[16th_Notes]]` using a si `Unit 3 - Chapter 3`
 - [[One_Beat_Fill_Country_Pop_A_Section_Bar_8]] — One-Beat Fill (Country-Pop A Section Bar 8). A crucial one-beat [[Fill]] is placed on the eighth bar of the A section in the [[Country_Pop_Play_Along_Chart_Unit_5]]. `Unit 5 - Chapter 2`
 - [[Ostinato_Reading]] — Ostinato Reading Exercise. This exercise focuses on developing **four-way independence** by maintaining a repetitive hand pattern (**Ostinato**) wh `READ1`
 - [[Ostinato_Reading_Technique]]. The **Ostinato Reading Exercise** is designed to develop four-way independence by maintaining a fixed pattern in the han `READ1`
 ### P
-- [[Paradiddle_Bass_Drum_Permutations]]. This concept involves applying various [[Bass Drum]] patterns against the four primary [[Paradiddle]] inversions. `READ2`
+- [[Paradiddle_Bass_Drum_Permutations]]. This concept involves applying various [[Bass_Drum]] patterns against the four primary [[Paradiddle]] inversions. `READ2`
 - [[Paradiddle_diddle_Mobility]] — Paradiddle-diddle Drumset Mobility. The **Paradiddle-diddle** (`R L R R L L`) is a six-note rudiment that does **not** alternate hands. `READ2`
-- [[Paradiddle_Drumset_Orchestration]]. Applying the [[Single Paradiddle Inversions]] to the drumset transforms a technical exercise into a musical tool. `TECH3_4`
+- [[Paradiddle_Drumset_Orchestration]]. Applying the [[Single_Paradiddle_Inversions]] to the drumset transforms a technical exercise into a musical tool. `TECH3_4`
 - [[Paradiddle_Inversions_Orchestration]] — Paradiddle Inversions: Orchestration. Mastering [[Paradiddle Inversions]] on the drum set allows for fluid movement and complex-sounding fills that are based  `TECH3_4`
 - [[Paradiddle_Pyramid]]. The **Paradiddle Pyramid** is an advanced coordination exercise that cycles through different lengths of paradiddle rudi `TECH3_4`
 - [[Paradiddle_Pyramid_Inversions]]. The **Paradiddle Pyramid** is a structured exercise that cycles through [[Single_Paradiddle]], [[Double_Paradiddle]], an `TECH3_4`
@@ -1090,68 +1079,68 @@ Unlike the  `READ2`
 *   **記憶術語**：熟記 [[Chapter 1]] 中的所有術語。
 *   **聆聽範例**：聆聽練習 Ex. `Unit 2 - Chapter 1`
 - [[Practice_Suggestions_Drum_Performance]] — Practice Suggestions (Drum Performance). Effective practice is crucial for developing as a drummer. `Uncategorized`
-- [[Progressive_Paradiddle_Accents]]. [[Progressive Paradiddle Accents]] are exercises designed to develop dynamic control and rhythmic variation within [[Par `Unit 9`
+- [[Progressive_Paradiddle_Accents]]. [[Progressive_Paradiddle_Accents]] are exercises designed to develop dynamic control and rhythmic variation within [[Par `Unit 9`
 ### Q
 - [[Quarter-Note_Click_3_4_Time]] — Quarter-Note Click (3/4 Time). This is `[[Method 1]]` for `[[Practicing_3_4_Time]]` using a `[[Metronome]]`. `Unit 9 Chapter 1`
 - [[Quarter_Eighth_and_16th_Notes_No_Rests_One-Bar_Phrases]] — Quarter, Eighth, and 16th Notes, No Rests (One-Bar Phrases). This exercise category focuses on reading and performing continuous rhythmic patterns within single-measure phrases, uti `Unit 4 - Chapter 4`
-- [[Quarter_Eighth_and_16th_Notes_with_Quarter_Rests_One-Bar_Phrases]] — Quarter, Eighth, and 16th Notes with Quarter Rests (One-Bar Phrases). This exercise category integrates [[Quarter Notes]], [[Eighth Notes]], and [[16th Notes]] with [[Quarter_Rest]] within s `Unit 4 - Chapter 4`
-- [[Quarter_Note_and_Rest_Application_in_2_4_Time]] — Quarter Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Quarter Notes]], [[Quarter_Rest]], [[Tied Quarter Notes]], and [[Dotted Qu `Unit 10 Chapter 1`
-- [[Quarter_Note_and_Rest_Application_in_3_4_Time]] — Quarter Note and Rest Application in 3/4 Time. This exercise focuses on the application of [[Quarter Notes]], [[Quarter_Rest]], [[Tied Quarter Notes]], and [[Dotted Qu `Unit 10 Chapter 2`
-- [[Quarter_Notes_and_Eighth_Notes_with_Eighth_Rests_One-Bar_Phrases]] — Quarter Notes and Eighth Notes with Eighth Rests (One-Bar Phrases). This exercise category focuses on developing fundamental [[Rhythm]] reading and playing skills using [[Quarter Notes]],  `Unit 3 - Chapter 3`
-- [[Quarter_Notes_and_Eighth_Notes_with_Eighth_Rests_Two-Bar_Phrases]] — Quarter Notes and Eighth Notes with Eighth Rests (Two-Bar Phrases). This exercise category builds upon one-bar rhythmic studies by extending patterns over two-bar phrases, using [[Quarter  `Unit 3 - Chapter 3`
+- [[Quarter_Eighth_and_16th_Notes_with_Quarter_Rests_One-Bar_Phrases]] — Quarter, Eighth, and 16th Notes with Quarter Rests (One-Bar Phrases). This exercise category integrates [[Quarter_Note]], [[Eighth_Note]], and [[16th_Notes]] with [[Quarter_Rest]] within sin `Unit 4 - Chapter 4`
+- [[Quarter_Note_and_Rest_Application_in_2_4_Time]] — Quarter Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Quarter_Note]], [[Quarter_Rest]], [[Tied_Quarter_Notes]], and [[Dotted_Qua `Unit 10 Chapter 1`
+- [[Quarter_Note_and_Rest_Application_in_3_4_Time]] — Quarter Note and Rest Application in 3/4 Time. This exercise focuses on the application of [[Quarter_Note]], [[Quarter_Rest]], [[Tied_Quarter_Notes]], and [[Dotted_Qua `Unit 10 Chapter 2`
+- [[Quarter_Notes_and_Eighth_Notes_with_Eighth_Rests_One-Bar_Phrases]] — Quarter Notes and Eighth Notes with Eighth Rests (One-Bar Phrases). This exercise category focuses on developing fundamental [[Rhythm]] reading and playing skills using [[Quarter_Note]], [ `Unit 3 - Chapter 3`
+- [[Quarter_Notes_and_Eighth_Notes_with_Eighth_Rests_Two-Bar_Phrases]] — Quarter Notes and Eighth Notes with Eighth Rests (Two-Bar Phrases). This exercise category builds upon one-bar rhythmic studies by extending patterns over two-bar phrases, using [[Quarter_ `Unit 3 - Chapter 3`
 - [[Quarter_Notes_and_Eighth_Notes_with_Half_Quarter_and_Eighth_Rests_One-Bar_Phrases]] — Quarter Notes and Eighth Notes with Half, Quarter and Eighth Rests (One-Bar Phrases). This exercise category expands upon basic [[Rhythm]] reading by incorporating a wider variety of [[Rests]] alongside [[Q `Unit 3 - Chapter 3`
 - [[Quarter_Notes_and_Eighth_Notes_with_Half_Quarter_and_Eighth_Rests_Two-Bar_Phrases]] — Quarter Notes and Eighth Notes with Half, Quarter and Eighth Rests (Two-Bar Phrases). This exercise category further develops rhythmic reading and performance skills by extending patterns over two-bar phras `Unit 3 - Chapter 3`
-- [[Quarters_and_Eighths_Four_Bar_Phrases_2_4]] — Quarters and Eighths (Four-Bar Phrases) - 2/4. This exercise expands on basic [[Rhythm Reading]] by presenting combinations of [[Quarter Note]]s and [[Eighth Note]]s i `Unit 10 - Chapter 3`
-- [[Quarters_and_Eighths_Four_Bar_Phrases_3_4]] — Quarters and Eighths (Four-Bar Phrases) - 3/4. This exercise further extends the practice of [[Quarter Note]]s and [[Eighth Note]]s into four-bar phrases within the [[ `Unit 10 - Chapter 3`
-- [[Quarters_and_Eighths_One_Bar_Phrases_3_4]] — Quarters and Eighths (One-Bar Phrases) - 3/4. This exercise focuses on fundamental [[Rhythm Reading]] within the [[3_4_Time_Signature]], utilizing combinations of [[Q `Unit 10 - Chapter 3`
-- [[Quarters_and_Eighths_Two_Bar_Phrases_3_4]] — Quarters and Eighths (Two-Bar Phrases) - 3/4. This exercise expands on basic [[Rhythm Reading]] by presenting combinations of [[Quarter Note]]s and [[Eighth Note]]s i `Unit 10 - Chapter 3`
+- [[Quarters_and_Eighths_Four_Bar_Phrases_2_4]] — Quarters and Eighths (Four-Bar Phrases) - 2/4. This exercise expands on basic [[Rhythm_Reading]] by presenting combinations of [[Quarter_Note]]s and [[Eighth_Note]]s i `Unit 10 - Chapter 3`
+- [[Quarters_and_Eighths_Four_Bar_Phrases_3_4]] — Quarters and Eighths (Four-Bar Phrases) - 3/4. This exercise further extends the practice of [[Quarter_Note]]s and [[Eighth_Note]]s into four-bar phrases within the [[ `Unit 10 - Chapter 3`
+- [[Quarters_and_Eighths_One_Bar_Phrases_3_4]] — Quarters and Eighths (One-Bar Phrases) - 3/4. This exercise focuses on fundamental [[Rhythm_Reading]] within the [[3_4_Time_Signature]], utilizing combinations of [[Q `Unit 10 - Chapter 3`
+- [[Quarters_and_Eighths_Two_Bar_Phrases_3_4]] — Quarters and Eighths (Two-Bar Phrases) - 3/4. This exercise expands on basic [[Rhythm_Reading]] by presenting combinations of [[Quarter_Note]]s and [[Eighth_Note]]s i `Unit 10 - Chapter 3`
 ### R
 - [[Rap_Metal_Play_Along]] — Rap-Metal Play-Along (Alt Rock 102). This performance unit focuses on the **Rap-Metal** genre, specifically targeting the transition between different hi-hat `READ2`
 - [[Ratamacue_Variations]]. The Ratamacue family expands upon the basic [[Drag]] by adding triplet-based single strokes. `READ2`
 - [[Raven]]. "Raven" is an advanced progressive track performed by [[Todd_Sucherman]] (originally by The Falling Wallendas). `MI_CURR`
 - [[Re_Intro_Ensemble_Figure_Country_Pop]] — Re-Intro Ensemble Figure (Country-Pop). Following the second ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]], there are two bars that fun `Unit 5 - Chapter 2`
 - [[Red_Sixteen]]. **"Red Sixteen"** is a technical drum set chart found in [[Drum_Reading]], focusing on [[RB_Funk_Drumming]] concepts. `READ3`
-- [[Reggae_Fill_Double_Stops]] — Reggae Fill Orchestration (Double Stops). In a [[Swung Reggae Ostinato]] context, fills are often orchestrated using **Double Stops**—striking two different drum  `READ1`
+- [[Reggae_Fill_Double_Stops]] — Reggae Fill Orchestration (Double Stops). In a [[Swung_Reggae_Ostinato]] context, fills are often orchestrated using **Double Stops**—striking two different drum  `READ1`
 - [[Rhythmic_Exercises_Unit_5_Chapter_4]] — Rhythmic Exercises: Unit 5, Chapter 4. This chapter presents a series of one-bar rhythmic exercises designed to reinforce the understanding and performance of  `Unit 5 - Chapter 4`
-- [[Rhythmic_Exercises_Unit_6_Chapter_3]] — Rhythmic Exercises: Unit 6, Chapter 3. This chapter presents a comprehensive set of one-bar rhythmic exercises designed to reinforce [[Musical Note Values]], [ `Unit 6 - Chapter 3`
+- [[Rhythmic_Exercises_Unit_6_Chapter_3]] — Rhythmic Exercises: Unit 6, Chapter 3. This chapter presents a comprehensive set of one-bar rhythmic exercises designed to reinforce [[Musical_Note_Values]], [ `Unit 6 - Chapter 3`
 - [[Right_Hand_Lead_Orchestration_Toms]] — Right-Hand Lead Orchestration (Toms). This exercise applies [[Right_Hand_Lead_Application]] to the drum set by moving specific notes of a rhythmic pattern to  `READ1`
 - [[Rudimental_Recall_Rolls]] — Rudimental Recall: Rolls. [[Rudimental_Recall_Rolls]] refers to a practice segment or exercise dedicated to reviewing and reinforcing proficiency  `Unit 9`
 - [[Rudimental_Recall_Ruffs]] — Rudimental Recall: Ruffs. [[Rudimental_Recall_Ruffs]] refers to a practice segment or exercise dedicated to reviewing and reinforcing proficiency  `Unit 6`
 - [[Rudimental_Roll_Recall]] — Rudimental Recall: Rolls. This module focuses on solidifying the execution of various short and long rolls using different note values and unexpec `READ1`
 ### S
-- [[Saturday_Night_in_Memphis]]. "Saturday Night in Memphis" is a funk-based performance piece written by [[Jeff Salem]], Josh Harris, and Dave DiMarco. `MI_CURR`
-- [[Seven-Stroke_Ruff_Wrist_Isolation]]. This exercise is designed to isolate and strengthen individual wrist control while playing the [[Seven-Stroke Ruff]]. `Unit 4 - Chapter 5`
+- [[Saturday_Night_in_Memphis]]. "Saturday Night in Memphis" is a funk-based performance piece written by [[Jeff_Salem]], Josh Harris, and Dave DiMarco. `MI_CURR`
+- [[Seven-Stroke_Ruff_Wrist_Isolation]]. This exercise is designed to isolate and strengthen individual wrist control while playing the [[Seven-Stroke_Ruff]]. `Unit 4 - Chapter 5`
 - [[Shuffle_12-Bar_Blues_Play-Along_Unit_7_Ex_7.11]] — Shuffle 12-Bar Blues Play-Along (Unit 7 Ex 7.11). This exercise focuses on applying [[Shuffle]] grooves within a standard [[12-Bar Blues]] progression. `Unit 7 Chapter 3`
-- [[Six_Stroke_Roll_Accent_Displacement]] — Six-Stroke Roll Accent Displacement. This exercise involves moving accents through every partial of the [[Six-Stroke Roll]] to develop extreme control over [ `TECH3_4`
+- [[Six_Stroke_Roll_Accent_Displacement]] — Six-Stroke Roll Accent Displacement. This exercise involves moving accents through every partial of the [[Six_Stroke_Roll]] to develop extreme control over [ `TECH3_4`
 - [[Six_Stroke_Roll_Mobility]] — Six-Stroke Roll Drumset Mobility. Applying the [[Six_Stroke_Roll_Variations]] to the drumset requires a systematic approach to orchestration. `READ2`
-- [[Sixteenth_Note_Rest_Application_Ex_10.16]] — Sixteenth Note/Rest Application (Ex 10.16). This exercise is designed to enhance your ability to read and accurately perform various combinations of [[Sixteenth Not `Unit 10 - Chapter 2`
+- [[Sixteenth_Note_Rest_Application_Ex_10.16]] — Sixteenth Note/Rest Application (Ex 10.16). This exercise is designed to enhance your ability to read and accurately perform various combinations of [[Sixteenth_Not `Unit 10 - Chapter 2`
 - [[Slow_12-Bar_Blues_Play-Along_Unit_6]] — Slow 12-Bar Blues Play-Along (Unit 6). This section introduces a [[Play-Along Tracks|play-along]] exercise focused on a slow [[12-Bar Blues]] form. `Unit 6 - Chapter 3`
-- [[Snare_Drum_Pick-Up_Fill_Funk-Rock]] — Snare Drum Pick-Up Fill (Funk-Rock). A [[Snare Drum Pick-Up Fill]] is a short rhythmic phrase played on the [[Snare Drum]] that leads into a new section of m `Unit 8 Chapter 1`
+- [[Snare_Drum_Pick-Up_Fill_Funk-Rock]] — Snare Drum Pick-Up Fill (Funk-Rock). A [[Snare Drum Pick-Up Fill]] is a short rhythmic phrase played on the [[Snare_Drum]] that leads into a new section of m `Unit 8 Chapter 1`
 - [[Soca_Beat]]. The Soca (Soul of Calypso) beat is a high-energy "island" groove characterized by its driving, four-on-the-floor feel. `READ2`
 - [[Stab_Track]] — Stab (Track). "Stab" is a funk-oriented track by Jeff Salem, Josh Harris, and Dave DiMarco. `MI_CURR`
-- [[Staccato_Interpretation]]. When interpreting **Staccato** markings in an [[Ensemble Figures]] context, the goal is brevity and precision. `READ3`
+- [[Staccato_Interpretation]]. When interpreting **Staccato** markings in an [[Ensemble_Figures]] context, the goal is brevity and precision. `READ3`
 - [[Swiss_Army_Triplet_Set_Application]] — Swiss Army Triplet: Drum Set Application. Applying the [[Swiss Army Triplet]] to the drum set involves breaking the rudiment down into its component parts to crea `TECH3_4`
 - [[Syncopated Bass Drum (A9)]]. The "Syncopated Bass Drum (A9)" refers to a specific one-bar bass drum pattern incorporated into the [[A9 (Rehearsal Mar `Unit 5 - Chapter 1`
 - [[Syncopated Snare Drum (B Section)]]. The "Syncopated Snare Drum (B Section)" refers to a specific snare drum hit that occurs off the main beat within the [[L `Unit 5 - Chapter 1`
 ### T
 - [[Technique_Control_Exercises_(Grips)]]. This collection of exercises (Ex 2.14 - Ex 2.27) is designed to develop fundamental stick control and dynamic precision  `Unit 2 - Chapter 5`
 - [[Technique_Control_Exercises_(Unit_2)]]. This set of exercises is designed to develop fundamental stick control and reinforce proper grip mechanics across variou `Unit 2 - Chapter 5`
-- [[Technique_Control_Exercises_(Unit_3)]]. This set of exercises is designed to integrate various [[Accents (Drumming)]], [[Taps (Drumming)]], and [[Moeller Up Str `Unit 3 - Chapter 3`
-- [[Technique_Control_Exercises_Moeller]] — Technique Control Exercises (Moeller). These exercises are designed to demonstrate and develop the practical application of various [[Accents (Drumming)|accent `Unit 3 - Chapter 3`
+- [[Technique_Control_Exercises_(Unit_3)]]. This set of exercises is designed to integrate various [[Accents_(Drumming)]], [[Taps_(Drumming)]], and [[Moeller_Up_Str `Unit 3 - Chapter 3`
+- [[Technique_Control_Exercises_Moeller]] — Technique Control Exercises (Moeller). These exercises are designed to demonstrate and develop the practical application of various [[Accents_(Drumming)|accent `Unit 3 - Chapter 3`
 - [[Tenuto_Interpretation]]. **Tenuto** markings indicate that a note should be held for its full value. `READ3`
 - [[The A Groove]] — The A Groove (Eighth-Note Rock Groove). "The A Groove" is an eighth-note rock groove found within Letter A of the chart, widely used in popular recordings. `Unit 2 - Chapter 2`
-- [[The B Groove]]. 在 Unit 2 中介紹的一種八分音符搖滾律動，其特色是不同的低音鼓模式，並使用 [[Ride Cymbal]] 而非 Hi-Hat。它在鈸的 Bell 上使用 [[Quarter-Note Accents]]，同時 Hi-Hat 腳在所有 `Unit 2`
+- [[The B Groove]]. 在 Unit 2 中介紹的一種八分音符搖滾律動，其特色是不同的低音鼓模式，並使用 [[Ride_Cymbal]] 而非 Hi-Hat。它在鈸的 Bell 上使用 [[Quarter-Note Accents]]，同時 Hi-Hat 腳在所有 `Unit 2`
 - [[Thirteen_Stroke_Roll]] — Thirteen-Stroke Roll. The **Thirteen-Stroke Roll** is an alternating rudiment that provides a longer duration of sustain than the nine-stroke  `TECH3_4`
-- [[Three-Stroke_Ruff_Combinations]]. [[Three-Stroke Ruff Combinations]] are exercises designed to apply the [[Three-Stroke Ruff]] in various patterns and seq `Unit 6 - Chapter 2`
-- [[Tied_Eighth_Notes_and_16th_Notes_One_Bar_Phrases_Exercise_H]] — Tied Eighth Notes and 16th Notes (One-Bar Phrases) - Exercise H. This exercise introduces [[Ties]] that connect [[Eighth Notes]] and [[Sixteenth Notes]] within one-bar phrases. `Unit 8 Chapter 3`
-- [[Tied_Eighth_Notes_One_Bar_Phrases_Exercise_E]] — Tied Eighth Notes (One-Bar Phrases) - Exercise E. This exercise focuses on reading and performing [[Ties]] specifically applied to [[Eighth Notes]] within one-bar phrases `Unit 8 Chapter 3`
-- [[Tied_Half_Notes_and_Quarter_Notes_Two_Bar_Phrases_Exercise_B]] — Tied Half Notes and Quarter Notes (Two-Bar Phrases) - Exercise B. This exercise specifically targets the reading and performance of [[Ties]] involving [[Half_Note]] and [[Quarter Notes]] `Unit 8 Chapter 3`
-- [[Tied_Half_Notes_and_Quarter_Notes_Two_Bar_Phrases_Exercise_C]] — Tied Half Notes and Quarter Notes (Two-Bar Phrases) - Exercise C. This exercise provides further practice in reading and performing [[Ties]] that connect [[Half_Note]] and [[Quarter Note `Unit 8 Chapter 3`
-- [[Tied_Quarter_Notes_and_Eighth_Notes_One_Bar_Phrases_Exercise_F]] — Tied Quarter Notes and Eighth Notes (One-Bar Phrases) - Exercise F. This exercise combines [[Ties]] with both [[Quarter Notes]] and [[Eighth Notes]] within one-bar phrases. `Unit 8 Chapter 3`
-- [[Tied_Quarter_Notes_and_Eighth_Notes_One_Bar_Phrases_Exercise_G]] — Tied Quarter Notes and Eighth Notes (One-Bar Phrases) - Exercise G. This exercise offers additional practice in reading and performing [[Ties]] that connect [[Quarter Notes]] and [[Eighth  `Unit 8 Chapter 3`
-- [[Tied_Whole_Notes_Half_Notes_and_Quarter_Notes_Four_Bar_Phrases_Exercise_D]] — Tied Whole Notes, Half Notes and Quarter Notes (Four-Bar Phrases) - Exercise D. This exercise expands on previous concepts by incorporating [[Ties]] with [[Whole_Note]], [[Half_Note]], and [[Quarter N `Unit 8 Chapter 3`
+- [[Three-Stroke_Ruff_Combinations]]. [[Three-Stroke_Ruff_Combinations]] are exercises designed to apply the [[Three-Stroke_Ruff]] in various patterns and seq `Unit 6 - Chapter 2`
+- [[Tied_Eighth_Notes_and_16th_Notes_One_Bar_Phrases_Exercise_H]] — Tied Eighth Notes and 16th Notes (One-Bar Phrases) - Exercise H. This exercise introduces [[Ties]] that connect [[Eighth_Note]] and [[16th_Notes]] within one-bar phrases. `Unit 8 Chapter 3`
+- [[Tied_Eighth_Notes_One_Bar_Phrases_Exercise_E]] — Tied Eighth Notes (One-Bar Phrases) - Exercise E. This exercise focuses on reading and performing [[Ties]] specifically applied to [[Eighth_Note]] within one-bar phrases. `Unit 8 Chapter 3`
+- [[Tied_Half_Notes_and_Quarter_Notes_Two_Bar_Phrases_Exercise_B]] — Tied Half Notes and Quarter Notes (Two-Bar Phrases) - Exercise B. This exercise specifically targets the reading and performance of [[Ties]] involving [[Half_Note]] and [[Quarter_Note]]  `Unit 8 Chapter 3`
+- [[Tied_Half_Notes_and_Quarter_Notes_Two_Bar_Phrases_Exercise_C]] — Tied Half Notes and Quarter Notes (Two-Bar Phrases) - Exercise C. This exercise provides further practice in reading and performing [[Ties]] that connect [[Half_Note]] and [[Quarter_Note `Unit 8 Chapter 3`
+- [[Tied_Quarter_Notes_and_Eighth_Notes_One_Bar_Phrases_Exercise_F]] — Tied Quarter Notes and Eighth Notes (One-Bar Phrases) - Exercise F. This exercise combines [[Ties]] with both [[Quarter_Note]] and [[Eighth_Note]] within one-bar phrases. `Unit 8 Chapter 3`
+- [[Tied_Quarter_Notes_and_Eighth_Notes_One_Bar_Phrases_Exercise_G]] — Tied Quarter Notes and Eighth Notes (One-Bar Phrases) - Exercise G. This exercise offers additional practice in reading and performing [[Ties]] that connect [[Quarter_Note]] and [[Eighth_N `Unit 8 Chapter 3`
+- [[Tied_Whole_Notes_Half_Notes_and_Quarter_Notes_Four_Bar_Phrases_Exercise_D]] — Tied Whole Notes, Half Notes and Quarter Notes (Four-Bar Phrases) - Exercise D. This exercise expands on previous concepts by incorporating [[Ties]] with [[Whole_Note]], [[Half_Note]], and [[Quarter_N `Unit 8 Chapter 3`
 - [[Tied_Whole_Notes_Half_Notes_and_Quarter_Notes_One_and_Two_Bar_Phrases_Exercise_A]] — Tied Whole Notes, Half Notes and Quarter Notes (One- and Two-Bar Phrases) - Exercise A. This exercise focuses on reading and performing rhythms that incorporate [[Ties]] with [[Whole_Note]], [[Half_Note]], an `Unit 8 Chapter 3`
-- [[Triplet_Eighth_Note_and_Rest_Application_in_2_4_Time]] — Triplet Eighth Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Eighth Note Triplets]], [[Eighth Rest Triplets]], and [[Tied Eighth Note T `Unit 10 Chapter 1`
+- [[Triplet_Eighth_Note_and_Rest_Application_in_2_4_Time]] — Triplet Eighth Note and Rest Application in 2/4 Time. This exercise focuses on the application of [[Eighth_Note_Triplets]], [[Eighth Rest Triplets]], and [[Tied Eighth Note T `Unit 10 Chapter 1`
 - [[Triplet_Eighth_Note_Rest_Application_Ex_10.15]] — Triplet Eighth Note/Rest Application (Ex 10.15). This exercise focuses on developing proficiency in reading and executing various combinations of [[Triplet Eighth Note]] `Unit 10 - Chapter 2`
 - [[Triplet_Eighths_Four_Bar_Phrases_2_4]] — Triplet Eighths (Four-Bar Phrases) - 2/4. This exercise challenges drummers to perform [[Triplet Eighth Note]]s in extended four-bar phrases within the [[2_4_Time `Unit 10 - Chapter 3`
 - [[Triplet_Eighths_Four_Bar_Phrases_3_4]] — Triplet Eighths (Four-Bar Phrases) - 3/4. This exercise challenges drummers to perform [[Triplet Eighth Note]]s in extended four-bar phrases within the [[3_4_Time `Unit 10 - Chapter 3`
@@ -1162,8 +1151,8 @@ Unlike the  `READ2`
 - [[Triplet_Eighths_with_Ties_Four_Bar_Phrases_2_4]] — Triplet Eighths with Ties (Four-Bar Phrases) - 2/4. This exercise integrates [[Ties]] with [[Triplet Eighth Note]]s in extended four-bar phrases within the [[2_4_Time_Signa `Unit 10 - Chapter 3`
 - [[Triplet_Eighths_with_Ties_Four_Bar_Phrases_3_4]] — Triplet Eighths with Ties (Four-Bar Phrases) - 3/4. This exercise integrates [[Ties]] with [[Triplet Eighth Note]]s in extended four-bar phrases within the [[3_4_Time_Signa `Unit 10 - Chapter 3`
 - [[Triplet_Note_Placement]] — Triplet Note Placement Exercise. This technical exercise (Ex 2.10) is designed to develop precision and [[Limb Independence]] within a triplet subdivisio `READ1`
-- [[Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)]]. These exercises focus on developing fundamental [[Rhythm Reading]] skills by combining basic [[Rhythmic Duration]]s and  `Unit 1 Chapter 3`
-- [[Two-Bar_Bass_Drum_Pattern]]. A [[Two-Bar Bass Drum Pattern]] is a common example of a [[Multiple-Bar Phrases]] where the [[Bass Drum]] part repeats e `Unit 4 - Chapter 1`
+- [[Two-Bar Phrases (Half Notes, Half Rests, Quarter Notes and Quarter Rests)]]. These exercises focus on developing fundamental [[Rhythm_Reading]] skills by combining basic [[Rhythmic Duration]]s and  `Unit 1 Chapter 3`
+- [[Two-Bar_Bass_Drum_Pattern]]. A [[Two-Bar_Bass_Drum_Pattern]] is a common example of a [[Multiple_Bar_Phrases]] where the [[Bass_Drum]] part repeats e `Unit 4 - Chapter 1`
 - [[Two-Handed_16th-Note_Groove]]. The **Two-Handed 16th-Note Groove** is a technique where both hands alternate (RLRL) on the hi-hat to execute rapid 16th `TECH1_2`
 - [[Two_Bar_Phrases_with_Added_Quarter_Eighth_and_16th_Rests]] — Two-Bar Phrases with Added Quarter, Eighth and 16th Rests. This exercise focuses on enhancing a drummer's proficiency in accurately reading and observing various [[Rests]], specif `Unit 7 Chapter 3`
 - [[Two_Beat_Fill_Country_Pop_B_Section_First_Ending]] — Two-Beat Fill (Country-Pop B Section First Ending). Within the first ending of the B section in the [[Country_Pop_Play_Along_Chart_Unit_5]], there is a direction to play a  `Unit 5 - Chapter 2`
@@ -1172,46 +1161,46 @@ Unlike the  `READ2`
 - [[Unit_2_Homework]]. This homework assignment is designed to reinforce the concepts and techniques covered in Unit 2, ensuring a comprehensiv `Unit 2 - Homework`
 - [[Unit_9_Play-Along_One_Two_Three]] — Unit 9 Play-Along "One" "Two" "Three". This entry refers to the full drum chart for Unit 9, Chapter 3, titled "One" "Two" "Three." It represents the culminatio `Unit 9 - Chapter 3`
 ### W
-- [[Whole Note, Half Note and Quarter Note Combination Exercises]]. These exercises represent a progression in [[Rhythm Reading]] complexity, combining the three most fundamental [[Rhythmi `Unit 1 Chapter 3`
-- [[Whole_Notes_Half_Notes_and_Quarter_Notes_with_Accompanying_Rests_(Exercises)]] — Whole Notes, Half Notes and Quarter Notes with Accompanying Rests (Exercises). This set of exercises focuses on developing proficiency with the fundamental [[Rhythmic Values]] of [[Whole Note]]s, [[H `Unit 1 Chapter 3`
+- [[Whole Note, Half Note and Quarter Note Combination Exercises]]. These exercises represent a progression in [[Rhythm_Reading]] complexity, combining the three most fundamental [[Rhythmi `Unit 1 Chapter 3`
+- [[Whole_Notes_Half_Notes_and_Quarter_Notes_with_Accompanying_Rests_(Exercises)]] — Whole Notes, Half Notes and Quarter Notes with Accompanying Rests (Exercises). This set of exercises focuses on developing proficiency with the fundamental [[Rhythmic_Values]] of [[Whole_Note]]s, [[H `Unit 1 Chapter 3`
 - [[Wilcoxon_Solo_No_15]] — Wilcoxon Solo No. 15. 15 by [[Charley Wilcoxon]] introduces the challenge of performing complex rudiments within [[6/8 Time]]. `READ2`
-- [[Wilcoxon_Solo_No_29]] — Wilcoxon Solo No. 29. 29 is a technical study by [[Charley Wilcoxon]] focused on the integration of [[Double Stroke Roll]] variations within a `READ2`
+- [[Wilcoxon_Solo_No_29]] — Wilcoxon Solo No. 29. 29 is a technical study by [[Charley Wilcoxon]] focused on the integration of [[Double_Stroke_Roll]] variations within a `READ2`
 
 ---
 
-## Entities (125 entries)
+## Entities (121 entries)
 
 Instruments, authors, brands, notation symbols, and named concepts.
 
 ### 1
-- [[1-Beat_Fill]]. A [[1-Beat Fill]] is a short [[Drum_Fill]] that occupies the duration of a single beat. `Unit 4 - Chapter 1`
-- [[16th_Note]]. A 16th Note is a [[Musical Note Values]] representing one-sixteenth the duration of a [[Whole Note]], or half the durati `Unit 5 - Chapter 1`
-- [[16th_Rest]]. A 16th Rest is a [[Musical Rest Values]] representing a period of silence equal in duration to a [[16th Note]]. `Unit 5 - Chapter 1`
+- [[1-Beat_Fill]]. A [[1-Beat_Fill]] is a short [[Drum_Fill]] that occupies the duration of a single beat. `Unit 4 - Chapter 1`
+- [[16th_Note]]. A 16th Note is a [[Musical_Note_Values]] representing one-sixteenth the duration of a [[Whole_Note]], or half the durati `Unit 5 - Chapter 1`
+- [[16th_Rest]]. A 16th Rest is a [[Musical_Rest_Values]] representing a period of silence equal in duration to a [[16th_Note]]. `Unit 5 - Chapter 1`
 ### 2
-- [[2-Beat_Fill]]. A [[2-Beat Fill]] is a [[Drum_Fill]] that spans two beats. `Unit 4 - Chapter 1`
+- [[2-Beat_Fill]]. A [[2-Beat_Fill]] is a [[Drum_Fill]] that spans two beats. `Unit 4 - Chapter 1`
 ### 3
-- [[3-Beat_Fill]]. A [[3-Beat Fill]] is a [[Drum_Fill]] that occupies three beats. `Unit 4 - Chapter 1`
+- [[3-Beat_Fill]]. A [[3-Beat_Fill]] is a [[Drum_Fill]] that occupies three beats. `Unit 4 - Chapter 1`
 ### 4
-- [[4-4_Time_Signature]] — 4/4 Time Signature. The [[4-4_Time_Signature]] is the most common [[Time Signature]] in Western music, often referred to as "common time." I `Uncategorized`
-- [[4-Beat_Fill]]. A [[4-Beat Fill]] is a [[Drum_Fill]] that spans the entire measure (in common time). `Unit 4 - Chapter 1`
+- [[4-4_Time_Signature]] — 4/4 Time Signature. The [[4-4_Time_Signature]] is the most common [[Time_Signature]] in Western music, often referred to as "common time." I `Uncategorized`
+- [[4-Beat_Fill]]. A [[4-Beat_Fill]] is a [[Drum_Fill]] that spans the entire measure (in common time). `Unit 4 - Chapter 1`
 ### 6
 - [[6_8_Clave]] — 6/8 Clave. The **6/8 Clave** is the rhythmic "key" (Spanish: *clave*) for [[Afro_Cuban_6_8]] music. `TECH1_2`
 ### A
 - [[A9 (Rehearsal Mark)]]. A9 is a specific [[Rehearsal Mark]] used to designate a particular section of a song. `Unit 5 - Chapter 1`
 - [[ABAB_32_Bar_Form]]. The ABAB 32 Bar Form is a traditional and widely used [[Song Form]] in popular music, often found in jazz standards, pop `Uncategorized`
-- [[Accents]] — Accents (重音). [[Accents]] 是一個符號，表示某個音符應該比其他音符演奏得更響亮。因此，它被「強調」。這種演奏（和力度）細節由一個橫向的三角形標示，如 Ex 2.5 所示。 `Unit 2 - Chapter 1`
+- [[Accents]] — Accents (重音). [[Accents_Drumming]] 是一個符號，表示某個音符應該比其他音符演奏得更響亮。因此，它被「強調」。這種演奏（和力度）細節由一個橫向的三角形標示，如 Ex 2.5 所示。 `Unit 2 - Chapter 1`
 - [[Al_Jackson_Jr]] — Al Jackson Jr.. **Al Jackson Jr.** was the primary drummer for the [[Stax]] record label and a founding member of **Booker T. `READ2`
 ### B
-- [[Bass_Drum]]. The bass drum (also known as the kick drum) is the largest drum in a [[Drum Kit]], typically played with a [[Bass Drum P `Uncategorized`
-- [[Bass_Drum_Pedal]]. The bass drum pedal is a mechanical device that allows a drummer to play the [[Bass Drum]] with their foot. `Uncategorized`
-- [[Beams_(Musical_Notation)]]. [[Beams (Musical Notation)]] are horizontal lines used in musical notation to connect the [[Stem (Musical Notation)]]s o `Unit 3 - Chapter 1`
+- [[Bass_Drum]]. The bass drum (also known as the kick drum) is the largest drum in a [[Drum_Kit]], typically played with a [[Bass_Drum_P `Uncategorized`
+- [[Bass_Drum_Pedal]]. The bass drum pedal is a mechanical device that allows a drummer to play the [[Bass_Drum]] with their foot. `Uncategorized`
+- [[Beams_(Musical_Notation)]]. [[Beams_(Musical_Notation)]] are horizontal lines used in musical notation to connect the [[Stem_(Musical_Notation)]]s o `Unit 3 - Chapter 1`
 - [[Bernard_Purdie]]. **Bernard "Pretty" Purdie** is one of the most recorded session drummers in history and is the architect of the **Purdie `TECH1_2`
 ### C
 - [[Charley_Wilcoxon_Solo_No_1]] — Charley Wilcoxon: Solo No. 1. 1 is the introductory piece from **Charley Wilcoxon’s** iconic book, *[[The All-American Drummer: 150 Rudimental Solos]] `READ2`
 - [[Charley_Wilcoxon_Solo_No_2]] — Charley Wilcoxon Solo No. 2. 2 is a foundational rudimental etude by [[Charley Wilcoxon]], focusing on the integration of [[Ruff]] and [[Roll]] rudim `READ2`
 - [[Charley_Wilcoxon_Solo_No_25]] — Charley Wilcoxon Solo No. 25. 25 is a technical etude that introduces the complex transition of placing a [[Drag]] after a [[Flams]] and before a [[Ro `READ2`
 - [[Charley_Wilcoxon_Solo_No_5]] — Charley_Wilcoxon_Solo_No_5. 5** from the Charley Wilcoxon collection is a 16-bar rudimental study in **2/4 time**. `READ2`
-- [[Chorus_Jazz_Blues_Term]] — Chorus (Jazz/Blues Term). In [[Jazz Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the term "chorus" has a specific meaning that dif `Unit 7 - Chapter 1`
+- [[Chorus_Jazz_Blues_Term]] — Chorus (Jazz/Blues Term). In [[Jazz_Terminology|jazz]] and [[Blues Terminology|blues]] contexts, the term "chorus" has a specific meaning that dif `Unit 7 - Chapter 1`
 - [[Chuck_Silverman]] — Chuck Silverman (1952 - 2014). Chuck Silverman was an internationally renowned percussionist, author, and educator who served as a mentor and "Percussi `TECH3_4`
 - [[Coda Sign]]. The "Coda Sign" is a musical notation symbol (a circle with a crosshair) that serves two primary functions:
 1. `Unit 5 - Chapter 1`
@@ -1219,8 +1208,8 @@ Instruments, authors, brands, notation symbols, and named concepts.
 - [[Coda_Music]] — Coda (Music). A "coda" is a standard musical term referring to a specific ending section of a piece. `Unit 7 - Chapter 1`
 - [[Coda_Musical_Term]] — Coda (Musical Term). A **Coda** is a musical term of Italian origin, meaning "tail." In [[Sheet Music]], it refers to a concluding passage th `Unit 4 - Chapter 3`
 - [[Country-Pop_Genre]]. [[Country-Pop]] is a hybrid musical genre that emerged prominently in the past decade, characterized by the fusion of tr `Unit 5`
-- [[Crash_Cymbal]]. A [[Crash Cymbal]] is a type of cymbal on a drum kit designed to produce a loud, explosive, and often sustained sound, p `Uncategorized`
-- [[Cue_Music]] — Cue (Music). In musical performance, especially in [[Open Form (Music)|open forms]] like the [[12-Bar Blues Open Form]], a "cue" is a `Unit 7 - Chapter 1`
+- [[Crash_Cymbal]]. A [[Crash_Cymbal]] is a type of cymbal on a drum kit designed to produce a loud, explosive, and often sustained sound, p `Uncategorized`
+- [[Cue_Music]] — Cue (Music). In musical performance, especially in [[Open Form (Music)|open forms]] like the [[12-Bar_Blues_Open_Form]], a "cue" is a `Unit 7 - Chapter 1`
 ### D
 - [[D.C._al_Fine]]. al Fine** is a common musical directive in [[Chart Reading]] that instructs the performer on how to navigate the [[Form] `Unit 3 - Chapter 2`
 - [[D.S._al_Coda]]. al Coda" is a musical notation instruction that stands for "Dal Segno al Coda," meaning "from the sign to the coda." Whe `Uncategorized`
@@ -1228,102 +1217,98 @@ Instruments, authors, brands, notation symbols, and named concepts.
 - [[Dal_Segno_D.S.]] — Dal Segno (D.S.). [[Dal Segno (D.S.)]] is a musical term meaning "from the sign." In [[Notation]], it instructs the musician to return to  `Unit 4 - Chapter 1`
 - [[Del_Segno_The_Sign]] — Del Segno (The Sign). **Del Segno**, often abbreviated as **D.S.**, is an Italian musical term meaning "from the sign." It is a directive used `Unit 4 - Chapter 3`
 - [[Dog_Composition]] — Dog (Composition). **Dog** is a high-energy fusion composition by **Conrad Schrenk**, originally recorded in 2000. `MI_CURR`
-- [[Donny Gruendler]]. [[Donny Gruendler]] is an author and co-creator of the "[[Drum Performance 1 (Book)]]" curriculum for [[Musicians Instit `Uncategorized`
-- [[Donny_Gruendler]]. Donny Gruendler is a highly accomplished drummer, educator, author, and producer, known for his diverse musical backgrou `Uncategorized`
-- [[Double_Beam]]. A [[Double Beam]] is a specific type of [[Beams (Musical Notation)]] consisting of two parallel horizontal lines used to `Unit 3 - Chapter 1`
+- [[Donny_Gruendler]]. Donny Gruendler is a highly accomplished drummer, educator, author, and producer. `MI_INTRO`
+- [[Double_Beam]]. A [[Double_Beam]] is a specific type of [[Beams_(Musical_Notation)]] consisting of two parallel horizontal lines used to `Unit 3 - Chapter 1`
 - [[Downbeat]]. A [[Downbeat]] refers to the primary, accented [[Beat]] within a [[Measure]] or a rhythmic phrase. `Unit 2 Chapter 1`
-- [[Drum Performance 1 (Book)]]. "[[Drum_Performance]]" is a book in the [[MI Curriculum Series]] for drums, authored by [[Donny Gruendler]] and [[Stewar `Uncategorized`
+- [[Drum Performance 1 (Book)]]. "[[Drum_Performance]]" is a book in the [[MI Curriculum Series]] for drums, authored by [[Donny_Gruendler]] and [[Stewar `Uncategorized`
 - [[Drum_Kit]]. A drum kit (also known as a drum set or trap set) is a collection of drums, cymbals, and other percussion instruments, t `Uncategorized`
 - [[Drum_Seat]]. The drum seat, or drum throne, is a critical component of a drummer's setup, often overlooked despite its profound impac `Unit 2 - Chapter 6`
-- [[Drum_Technique_1_(MI_Curriculum_Series)]]. "Drum Technique 1" is a foundational instructional book within the [[Musicians Institute]] (MI) Curriculum Series, focus `Uncategorized`
+- [[Drum_Technique_1_(MI_Curriculum_Series)]]. "Drum Technique 1" is a foundational instructional book within the [[Musicians_Institute]] (MI) Curriculum Series, focus `Uncategorized`
 ### E
-- [[Eighth Note]]. The [[Eighth Note]] is a fundamental [[Rhythmic Duration]] in musical [[Notation]], representing a subdivision of the [[ `Unit 2 Chapter 1`
-- [[Eighth_Note]]. An [[Eighth Note]] is a fundamental [[Rhythmic_Values]] in music. `Uncategorized`
-- [[Eighth_Note_Triplet]]. An [[Eighth Note Triplet]] is a rhythmic subdivision where three eighth notes are played in the time normally occupied b `Unit 6 - Chapter 1`
-- [[Eighth_Rest]]. An Eighth Rest is a [[Musical Rest Values]] representing a period of silence equal in duration to an [[Eighth Note]]. `Unit 5 - Chapter 1`
+- [[Eighth Note]]. The [[Eighth_Note]] is a fundamental [[Rhythmic Duration]] in musical [[Notation]], representing a subdivision of the [[ `Unit 2 Chapter 1`
+- [[Eighth_Note]]. An [[Eighth_Note]] is a fundamental [[Rhythmic_Values]] in music. `Uncategorized`
+- [[Eighth_Note_Triplet]]. An [[Eighth_Note_Triplet]] is a rhythmic subdivision where three eighth notes are played in the time normally occupied b `Unit 6 - Chapter 1`
+- [[Eighth_Rest]]. An Eighth Rest is a [[Musical_Rest_Values]] representing a period of silence equal in duration to an [[Eighth_Note]]. `Unit 5 - Chapter 1`
 ### F
 - [[First_Ending]]. A First Ending is a musical notation device used in conjunction with repeat signs. `Unit 5 - Chapter 3`
 - [[Five_Stroke_Roll]]. The Five Stroke Roll is one of the 40 International Drum Rudiments and is a prime example of the [[Double_Strokes_Altern `Unit 6 - Chapter 2`
-- [[Flags_(Musical_Notation)]]. [[Flags (Musical Notation)]] are curved lines attached to the end of a [[Stem (Musical Notation)]] that indicate the rhy `Unit 3 - Chapter 1`
+- [[Flags_(Musical_Notation)]]. [[Flags_(Musical_Notation)]] are curved lines attached to the end of a [[Stem_(Musical_Notation)]] that indicate the rhy `Unit 3 - Chapter 1`
 - [[Flammed_Mill]] — Flammed Mill (Windmill). The **Flammed Mill**, also known as the **Windmill**, is a rudiment that combines a [[Flams]] with a specific sticking p `TECH3_4`
 - [[Flams]]. A [[Flams]] is a drum rudiment and a common rhythmic occurrence where two notes played by different hands (or limbs) are `Uncategorized`
 ### H
-- [[Half_Note]]. A **Half Note** is a fundamental [[Rhythmic Values|note value]] in music notation. `Unit 1 Chapter 2`
-- [[Half_Rest]]. A **Half Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence. `Unit 1 Chapter 2`
-- [[Head_Music_Term]] — Head (Music Term). The term "head" is a common piece of [[Jazz Terminology|jazz]] and [[Blues Terminology|blues terminology]] that refers t `Unit 7 - Chapter 1`
+- [[Half_Note]]. A **Half Note** is a fundamental [[Rhythmic_Values|note value]] in music notation. `Unit 1 Chapter 2`
+- [[Half_Rest]]. A **Half Rest** is a fundamental [[Rhythmic_Values|rest value]] in music notation, indicating a period of silence. `Unit 1 Chapter 2`
+- [[Head_Music_Term]] — Head (Music Term). The term "head" is a common piece of [[Jazz_Terminology|jazz]] and [[Blues Terminology|blues terminology]] that refers t `Unit 7 - Chapter 1`
 - [[Hi-Hat]]. The hi-hat is a pair of cymbals mounted on a stand, operated by both a foot pedal and drumsticks. `Uncategorized`
 - [[Hi-Hat_Pedal]]. The hi-hat pedal is a foot-operated mechanism that controls the opening and closing of the [[Hi-Hat]] cymbals. `Uncategorized`
 ### I
-- [[Instrumental_Combo]]. An [[Instrumental Combo]] refers to a musical group primarily composed of instruments, with less emphasis on vocals, or  `Unit 8 Chapter 1`
+- [[Instrumental_Combo]]. An [[Instrumental_Combo]] refers to a musical group primarily composed of instruments, with less emphasis on vocals, or  `Unit 8 Chapter 1`
 ### J
 - [[Jason_McGerr]]. **Jason McGerr** is a contemporary drummer best known for his work with the band **Death Cab for Cutie**. `TECH1_2`
 - [[Jazz_Terminology]]. Understanding the "language of the bandstand" is essential for navigating jazz charts and live performances. `READ2`
-- [[Jeff_Bowders]]. Jeff Bowders is the author of "[[Drum Technique 1 (MI Curriculum Series)]]," a foundational instructional book published `Uncategorized`
+- [[Jeff_Bowders]]. Jeff Bowders is the author of "[[Drum_Technique_1_(MI_Curriculum_Series)]]," a foundational instructional book published `Uncategorized`
 - [[Jeff_Salem]]. **Jeff Salem** is a prominent percussionist and educator, contributing several key performance pieces to the Musicians I `MI_CURR`
 - [[Jim_Chapin]]. Jim Chapin (1919-2009) was an American jazz drummer, educator, and author, widely regarded as one of the most influentia `Unit 3 - Chapter 1`
 - [[Jimmy_Branly]]. Jimmy Branly is a master percussionist and author specializing in the application of traditional Afro-Cuban rhythms to t `MI_CURR`
-- [[Joe Bergamini]]. [[Musicians Institute Drum Performance 1]] 課程系列的編輯。 `Uncategorized`
-- [[Joe_Bergamini]]. Joe Bergamini is a notable figure in drum education and publishing, recognized for his roles as an editor, managing edit `Uncategorized`
+- [[Joe_Bergamini]]. Joe Bergamini is a prominent figure in drum education and publishing, widely recognized for his editorial and production `MI_INTRO`
 - [[Joe_Morello]]. Joe Morello (1928-2011) was an American jazz drummer and educator, best known for his work with the Dave Brubeck Quartet `Unit 3 - Chapter 1, Unit 3 - Chapter 3`
 - [[Joe_Morello_Master_Studies]]. "Master Studies" by Joe Morello is a highly regarded and influential drum instruction book, widely considered a cornerst `Unit 3 - Chapter 3`
-- [[John_Mayer_Trio]]. The [[John Mayer Trio]] is a highly acclaimed musical group known for its blend of [[Blues]], [[Rock]], and [[Funk]] inf `Unit 8 Chapter 1`
-- [[Jon_Clayden]]. Jon Clayden holds a significant administrative role within the [[Musicians Institute]]. `Uncategorized`
+- [[John_Mayer_Trio]]. The [[John_Mayer_Trio]] is a highly acclaimed musical group known for its blend of [[Blues]], [[Rock]], and [[Funk]] inf `Unit 8 Chapter 1`
+- [[Jon_Clayden]]. Jon Clayden holds a significant administrative role within the [[Musicians_Institute]]. `Uncategorized`
 ### K
 - [[Kevin_Stevens]]. **Kevin Stevens** is a Los Angeles-based drummer and educator known for his deep focus on [[Groove]] and historical drum `TECH3_4`
 - [[King_Kong_Groove]]. The **King Kong Groove** is a high-level coordination beat characterized by a distinct, syncopated rhythm on the [[Hi-Ha `TECH3_4`
 ### L
 - [[Letter B (Rehearsal Mark)]]. "Letter B" is a common [[Rehearsal Mark]] used in musical notation to designate a specific section of a song. `Unit 5 - Chapter 1`
-- [[Linkin_Park]]. `[[Linkin Park]]` was an American rock band formed in Agoura Hills, California, in 1996. `Unit 4 - Chapter 1`
+- [[Linkin_Park]]. `[[Linkin_Park]]` was an American rock band formed in Agoura Hills, California, in 1996. `Unit 4 - Chapter 1`
 ### M
-- [[Master_Studies]]. [[Master Studies]] refers to a highly regarded drum instruction book, likely "Master Studies" by Joe Morello. `Uncategorized`
-- [[Master_Studies_Book]] — Master Studies (Book). "Master Studies" is a seminal percussion textbook authored by legendary drummer and educator [[Joe Morello]]. `Drum Technique 50`
+- [[Master_Studies]]. [[Master_Studies]] refers to a highly regarded drum instruction book, likely "Master Studies" by Joe Morello. `Uncategorized`
+- [[Master_Studies_Book]] — Master Studies (Book). "Master Studies" is a seminal percussion textbook authored by legendary drummer and educator [[Joe_Morello]]. `Drum Technique 50`
 - [[Metronome]]. A metronome is a device that produces an audible click or beat at a regular, adjustable interval, measured in beats per  `Uncategorized`
-- [[MI_Drum_Reading_2_by_Donny_Gruendler_and_Stewart_Jean]]. This is the second installment in the [[Musicians Institute]]'s [[Drum Reading]] series, co-authored by renowned educato `Uncategorized`
-- [[MI_Drum_Reading_3_by_Donny_Gruendler_and_Stewart_Jean]]. The third volume in the [[Musicians Institute]]'s acclaimed [[Drum Reading]] series, penned by [[Donny Gruendler]] and [ `Uncategorized`
-- [[MI_Drum_Reading_4_by_Donny_Gruendler_and_Stewart_Jean]]. The fourth and most advanced installment in the [[Musicians Institute]]'s [[Drum Reading]] series, authored by [[Donny G `Uncategorized`
+- [[MI_Drum_Reading_2_by_Donny_Gruendler_and_Stewart_Jean]]. This is the second installment in the [[Musicians_Institute]]'s [[Drum_Reading]] series, co-authored by renowned educato `Uncategorized`
+- [[MI_Drum_Reading_3_by_Donny_Gruendler_and_Stewart_Jean]]. The third volume in the [[Musicians_Institute]]'s acclaimed [[Drum_Reading]] series, penned by [[Donny_Gruendler]] and [ `Uncategorized`
+- [[MI_Drum_Reading_4_by_Donny_Gruendler_and_Stewart_Jean]]. The fourth and most advanced installment in the [[Musicians_Institute]]'s [[Drum_Reading]] series, authored by [[Donny_G `Uncategorized`
 - [[Mike_Hoff]]. Mike Hoff is recognized for his contributions to the visual and production aspects of music education materials. `Uncategorized`
 - [[Modern_Reading_Text_in_4_4_For_All_Instruments_by_Louis_Bellson]] — Modern Reading Text in 4/4 For All Instruments by Louis Bellson. "Modern Reading Text in 4/4 For All Instruments" by the legendary drummer [[Louis Bellson]] is a highly respected [[Meth `Uncategorized`
 - [[Motown]]. **Motown** is a legendary R&B record label founded by **Berry Gordy** in 1959 in Detroit, Michigan (the "Motor Town"). `READ2`
-- [[Musicians Institute Drum Performance 1]]. 這是由 [[Musicians Institute]] 出版，[[Donny Gruendler]] 和 [[Stewart Jean]] 共同撰寫，並由 [[Joe Bergamini]] 編輯的「DRUM PERFORMANCE 1」課 `Uncategorized`
-- [[Musicians Institute]] — Musicians Institute (MI). The [[Musicians Institute]] (MI) is an educational institution and the publisher of the "MI Curriculum Series," which in `Uncategorized`
-- [[Musicians_Institute]] — Musicians Institute (MI). Musicians Institute (MI) is a renowned contemporary music college located in Hollywood, California. `Uncategorized`
+- [[Musicians Institute Drum Performance 1]]. 這是由 [[Musicians_Institute]] 出版，[[Donny_Gruendler]] 和 [[Stewart_Jean]] 共同撰寫，並由 [[Joe_Bergamini]] 編輯的「DRUM PERFORMANCE 1」課 `Uncategorized`
+- [[Musicians_Institute]] — Musicians Institute (MI). **Musicians Institute** (MI) is a renowned contemporary music college located in Hollywood, California. `MI_INTRO`
 ### N
-- [[Nine_Inch_Nails]]. `[[Nine Inch Nails]]` is an American industrial rock band formed in 1988 by Trent Reznor. `Unit 4 - Chapter 1`
-- [[Note Flag]]. A [[Note Flag]] is a curved or angled line attached to the end of a [[Note Stem]], extending from the [[Note Head]]. `Unit 2 Chapter 1`
-- [[Note Head]]. The [[Note Head]] is the primary oval-shaped part of a musical note in [[Notation]]. `Unit 2 Chapter 1`
-- [[Note Stem]]. The [[Note Stem]] is a vertical line extending from the [[Note Head]] of a musical note. `Unit 2 Chapter 1`
-- [[Note_Head]]. The [[Note Head]] is the fundamental oval-shaped part of a musical note. `Unit 3 - Chapter 1`
+- [[Nine_Inch_Nails]]. `[[Nine_Inch_Nails]]` is an American industrial rock band formed in 1988 by Trent Reznor. `Unit 4 - Chapter 1`
+- [[Note Flag]]. A [[Note Flag]] is a curved or angled line attached to the end of a [[Note Stem]], extending from the [[Note_Head]]. `Unit 2 Chapter 1`
+- [[Note Head]]. The [[Note_Head]] is the primary oval-shaped part of a musical note in [[Notation]]. `Unit 2 Chapter 1`
+- [[Note Stem]]. The [[Note Stem]] is a vertical line extending from the [[Note_Head]] of a musical note. `Unit 2 Chapter 1`
+- [[Note_Head]]. The [[Note_Head]] is the fundamental oval-shaped part of a musical note. `Unit 3 - Chapter 1`
 ### P
-- [[Plastic_Bass_Drum_Beater]]. A [[Plastic Bass Drum Beater]] is a type of bass drum beater characterized by its plastic or other hard-surfaced strikin `Unit 4 - Chapter 2`
-- [[Pre-Programmed_Drum_Loop]]. A [[Pre-Programmed Drum Loop]] is a pre-recorded, repeating rhythmic pattern, often created using electronic drum machin `Unit 5`
+- [[Plastic_Bass_Drum_Beater]]. A [[Plastic_Bass_Drum_Beater]] is a type of bass drum beater characterized by its plastic or other hard-surfaced strikin `Unit 4 - Chapter 2`
+- [[Pre-Programmed_Drum_Loop]]. A [[Pre-Programmed_Drum_Loop]] is a pre-recorded, repeating rhythmic pattern, often created using electronic drum machin `Unit 5`
 ### Q
-- [[Quarter_Note]]. A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic Values|note values]] in music notation. `Unit 1 Chapter 2`
-- [[Quarter_Rest]]. A **Quarter Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence. `Unit 1 Chapter 2`
+- [[Quarter_Note]]. A **Quarter Note** is one of the most fundamental and commonly used [[Rhythmic_Values|note values]] in music notation. `Unit 1 Chapter 2`
+- [[Quarter_Rest]]. A **Quarter Rest** is a fundamental [[Rhythmic_Values|rest value]] in music notation, indicating a period of silence. `Unit 1 Chapter 2`
 ### R
 - [[Rick_Gratton]]. Rick Gratton is credited for his role in the layout of educational music publications. `Uncategorized`
-- [[Ride Cymbal]]. The "Ride Cymbal" is a large, typically heavy cymbal on the [[Drum Kit]], primarily used for time-keeping and creating a `Unit 5 - Chapter 1`
-- [[Ride_Cymbal]]. The ride cymbal is a standard component of a [[Drum Kit]], typically larger and heavier than [[Crash Cymbal]]s, designed `Uncategorized`
+- [[Ride Cymbal]]. The "Ride Cymbal" is a large, typically heavy cymbal on the [[Drum_Kit]], primarily used for time-keeping and creating a `Unit 5 - Chapter 1`
+- [[Ride_Cymbal]]. The ride cymbal is a standard component of a [[Drum_Kit]], typically larger and heavier than [[Crash_Cymbal]]s, designed `Uncategorized`
 - [[Rob_Wallis]]. Rob Wallis is an executive producer for educational music publications. `Uncategorized`
-- [[Rock_Music_Styles]]. The evolution of `[[Rock Music Styles]]` has seen numerous fusions and innovations. `Unit 4 - Chapter 1`
-- [[Rudiment]]. A [[Rudiment]] in drumming refers to a fundamental [[Sticking Patterns]] or short rhythmic phrase that serves as a build
+- [[Rock_Music_Styles]]. The evolution of `[[Rock_Music_Styles]]` has seen numerous fusions and innovations. `Unit 4 - Chapter 1`
+- [[Rudiment]]. A [[Rudiment]] in drumming refers to a fundamental [[Sticking_Patterns]] or short rhythmic phrase that serves as a build
 - [[Ruff_(Rudiment)]]. A Ruff is a drum rudiment defined as a short [[Single-Stroke Roll]] that is generally played either before or after an [ `Unit 4 - Chapter 1`
 - [[Ryan_Brown]]. **Ryan Brown** is a professional drummer, percussionist, and educator based in Los Angeles. `READ1`
 ### S
 - [[Second_Ending]]. A Second Ending is a musical notation device used in conjunction with repeat signs. `Unit 5 - Chapter 3`
 - [[Single-Bar Repeats]] — Single-Bar Repeats (單小節重複記號). [[Single-Bar Repeats]] 是一個記號，表示你必須重複特定的小節。與標示拍子的 [[Time Slashes]] 不同，單小節重複記號標示的是整個小節（所有四拍）。通常，在樂句的開頭會有一個特定的小節被記譜，然後接著會多次 `Unit 2 - Chapter 1`
 - [[Sixteen-Bar Phrase]] — Sixteen-Bar Phrase (十六小節樂句). [[Sixteen-Bar Phrase]] 是一種常見的樂曲結構，廣泛應用於大多數搖滾和流行音樂中。顧名思義，這段樂句包含十六個小節。除了第一個小節外，每個小節都會標示 [[Time Slashes]] 或 [[Single-Bar Re `Unit 2 - Chapter 1`
-- [[Sixteenth_Note]]. A fundamental [[Rhythmic_Values]] in music, the [[Sixteenth Note]] is equal to one-sixteenth of a whole note or one-sixt `Unit 3 - Chapter 1`
-- [[Sixteenth_Rest]]. A [[Sixteenth Rest]] is a musical symbol indicating a period of silence equal to the duration of a [[Sixteenth Note]]. `Unit 3 - Chapter 1`
-- [[Snare_Drum]]. The snare drum is a central and highly expressive component of the [[Drum Kit]], known for its sharp, cutting sound prod `Uncategorized`
+- [[Sixteenth_Note]]. A fundamental [[Rhythmic_Values]] in music, the [[Sixteenth_Note]] is equal to one-sixteenth of a whole note or one-sixt `Unit 3 - Chapter 1`
+- [[Sixteenth_Rest]]. A [[Sixteenth_Rest]] is a musical symbol indicating a period of silence equal to the duration of a [[Sixteenth_Note]]. `Unit 3 - Chapter 1`
+- [[Snare_Drum]]. The snare drum is a central and highly expressive component of the [[Drum_Kit]], known for its sharp, cutting sound prod `Uncategorized`
 - [[Stax]]. **Stax Records** was a prominent R&B label founded in 1957 by Jim Stewart and Estelle Axton in Memphis, Tennessee. `READ2`
-- [[Stem_(Musical_Notation)]]. The [[Stem (Musical Notation)]] is the vertical line extending from the [[Note Head]] of a musical note. `Unit 3 - Chapter 1`
-- [[Steve_Jordan]]. [[Steve Jordan]] is a highly influential and respected American drummer, record producer, and composer. `Unit 8 Chapter 1`
-- [[Stewart Jean]]. [[Stewart Jean]] is an author and co-creator of the "[[Drum Performance 1 (Book)]]" curriculum for [[Musicians Institute `Uncategorized`
-- [[Stewart_Jean]]. Stewart Jean is a respected drummer and educator, known for his direct and impactful drumming style and his dedication t `Uncategorized`
+- [[Stem_(Musical_Notation)]]. The [[Stem_(Musical_Notation)]] is the vertical line extending from the [[Note_Head]] of a musical note. `Unit 3 - Chapter 1`
+- [[Steve_Jordan]]. [[Steve_Jordan]] is a highly influential and respected American drummer, record producer, and composer. `Unit 8 Chapter 1`
+- [[Stewart_Jean]]. Stewart Jean is a respected drummer and educator, recognized for his "direct and to-the-point" drumming style and his de `MI_INTRO`
 - [[Syncopation_by_Ted_Reed]]. "Syncopation" by [[Ted Reed]] is a foundational and universally acclaimed [[Method Book]] for drummers. `Uncategorized`
 ### T
 - [[Terry_Bozzio]]. **Terry Bozzio** is a highly influential American drummer known for his work with Frank Zappa, Missing Persons, and UK. `TECH3_4`
-- [[The_Killers]]. `[[The Killers]]` are an American rock band formed in Las Vegas in 2001. `Unit 4 - Chapter 1`
+- [[The_Killers]]. `[[The_Killers]]` are an American rock band formed in Las Vegas in 2001. `Unit 4 - Chapter 1`
 - [[Thomas_Lang]]. Thomas Lang is a world-renowned session drummer and educator known for his extreme technical proficiency and "Creative C `MI_CURR`
 - [[Todd_Sucherman]]. **Todd Sucherman** is a world-renowned drummer, best known for his long-standing tenure with the rock band **Styx**. `MI_CURR`
 - [[Tony_Williams]]. Tony Williams (1945–1997) was a revolutionary jazz drummer best known for his work with the **Miles Davis Second Great Q `TECH3_4`
@@ -1332,8 +1317,8 @@ Instruments, authors, brands, notation symbols, and named concepts.
 - [[Upbeat]]. An [[Upbeat]] refers to the rhythmic placement that occurs *between* the main [[Downbeat]]s of a [[Measure]]. `Unit 2 Chapter 1`
 ### W
 - [[WBH_MusicWorks_LLC]]. WBH MusicWorks LLC is a publishing entity responsible for producing educational materials, including those for the [[Mus `Uncategorized`
-- [[Whole_Note]]. A **Whole Note** is a fundamental [[Rhythmic Values|note value]] in music notation. `Unit 1 Chapter 2`
-- [[Whole_Rest]]. A **Whole Rest** is a fundamental [[Rhythmic Values|rest value]] in music notation, indicating a period of silence. `Unit 1 Chapter 2`
+- [[Whole_Note]]. A **Whole Note** is a fundamental [[Rhythmic_Values|note value]] in music notation. `Unit 1 Chapter 2`
+- [[Whole_Rest]]. A **Whole Rest** is a fundamental [[Rhythmic_Values|rest value]] in music notation, indicating a period of silence. `Unit 1 Chapter 2`
 
 ---
 

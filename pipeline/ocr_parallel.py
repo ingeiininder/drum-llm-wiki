@@ -28,8 +28,12 @@ def run_parallel_ocr(input_dir, output_dir, max_workers=4):
     print(f"啟動優化版 OCR 引擎...")
     print(f"正在檢查硬體加速...")
     
-    # 初始化辨識引擎，強制啟用 GPU
-    reader = easyocr.Reader(['en'], gpu=True) 
+    import torch
+    use_gpu = torch.cuda.is_available()
+    print(f"CUDA 可用性: {use_gpu}")
+    
+    # 初始化辨識引擎
+    reader = easyocr.Reader(['en'], gpu=use_gpu) 
     
     input_path = Path(input_dir)
     output_path = Path(output_dir)
